@@ -20,7 +20,7 @@ jobs:
           writeTo: README.md
         env:
           GITHUB_TOKEN: ${{ secrets.GH_PAT }}
-      - uses: stefanzweifel/git-auto-commit-action@v5.0.0
+      - uses: stefanzweifel/git-auto-commit-action@v5.0.1
         with:
           commit_message: "Update generated README"
           branch: main
