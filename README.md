@@ -23,7 +23,7 @@ I'm also a huge fan of open-source, and I try to contribute back to the communit
 
 #### 🚀 Latest releases I've contributed to
 
-- [ivuorinen/base-configs](https://github.com/ivuorinen/base-configs) ([@ivuorinen/base-configs@1.1.78](https://github.com/ivuorinen/base-configs/releases/tag/%40ivuorinen/base-configs%401.1.78), 1 day ago) - A collection of base configs for code quality and linting tools. Heavily based on `@demartini/base-configs`
+- [ivuorinen/base-configs](https://github.com/ivuorinen/base-configs) ([@ivuorinen/eslint-config@0.4.33](https://github.com/ivuorinen/base-configs/releases/tag/%40ivuorinen/eslint-config%400.4.33), 1 day ago) - A collection of base configs for code quality and linting tools. Heavily based on `@demartini/base-configs`
 - [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) ([24.4.26](https://github.com/ivuorinen/dotfiles/releases/tag/24.4.26), 1 week ago) - These are my dotfiles. There are many like &#39;em, but these are mine.
 - [ivuorinen/branch-usage-checker](https://github.com/ivuorinen/branch-usage-checker) ([0.1.0](https://github.com/ivuorinen/branch-usage-checker/releases/tag/0.1.0), 1 week ago) - Cross-check project public GitHub Branches and Packagist branch download statistics to determine are branches safe to delete
 - [ivuorinen/docker-xmrig](https://github.com/ivuorinen/docker-xmrig) ([6.21.2-2024-04-21](https://github.com/ivuorinen/docker-xmrig/releases/tag/6.21.2-2024-04-21), 2 weeks ago) - This is a simple miner that uses the xmrig miner to mine Monero.
