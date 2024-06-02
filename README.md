@@ -7,10 +7,10 @@ I'm also a huge fan of open-source, and I try to contribute back to the communit
 
 #### 👷 Check out what I'm currently working on
 
-- [ivuorinen/starred](https://github.com/ivuorinen/starred) - Automatically updated list of my starred repos. (1 day ago)
-- [ivuorinen/base-configs](https://github.com/ivuorinen/base-configs) - A collection of base configs for code quality and linting tools. Heavily based on `@demartini/base-configs` (1 day ago)
-- [ivuorinen/cheatsheet-tldr](https://github.com/ivuorinen/cheatsheet-tldr) - tldr-pages/tldr pages for cheat/cheat (1 day ago)
-- [ivuorinen/docker-elk](https://github.com/ivuorinen/docker-elk) -  (6 days ago)
+- [ivuorinen/starred](https://github.com/ivuorinen/starred) - Automatically updated list of my starred repos. (2 days ago)
+- [ivuorinen/base-configs](https://github.com/ivuorinen/base-configs) - A collection of base configs for code quality and linting tools. Heavily based on `@demartini/base-configs` (2 days ago)
+- [ivuorinen/cheatsheet-tldr](https://github.com/ivuorinen/cheatsheet-tldr) - tldr-pages/tldr pages for cheat/cheat (2 days ago)
+- [ivuorinen/docker-elk](https://github.com/ivuorinen/docker-elk) -  (1 week ago)
 - [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) - These are my dotfiles. There are many like &#39;em, but these are mine. (1 week ago)
 
 #### 👨‍💻 Repositories I created recently
@@ -23,7 +23,7 @@ I'm also a huge fan of open-source, and I try to contribute back to the communit
 
 #### 🚀 Latest releases I've contributed to
 
-- [ivuorinen/base-configs](https://github.com/ivuorinen/base-configs) ([@ivuorinen/eslint-config@0.4.39](https://github.com/ivuorinen/base-configs/releases/tag/%40ivuorinen/eslint-config%400.4.39), 1 day ago) - A collection of base configs for code quality and linting tools. Heavily based on `@demartini/base-configs`
+- [ivuorinen/base-configs](https://github.com/ivuorinen/base-configs) ([@ivuorinen/stylelint-config@0.2.26](https://github.com/ivuorinen/base-configs/releases/tag/%40ivuorinen/stylelint-config%400.2.26), 1 day ago) - A collection of base configs for code quality and linting tools. Heavily based on `@demartini/base-configs`
 - [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) ([24.5.22](https://github.com/ivuorinen/dotfiles/releases/tag/24.5.22), 1 week ago) - These are my dotfiles. There are many like &#39;em, but these are mine.
 - [ivuorinen/branch-usage-checker](https://github.com/ivuorinen/branch-usage-checker) ([0.1.0](https://github.com/ivuorinen/branch-usage-checker/releases/tag/0.1.0), 1 month ago) - Cross-check project public GitHub Branches and Packagist branch download statistics to determine are branches safe to delete
 - [ivuorinen/docker-xmrig](https://github.com/ivuorinen/docker-xmrig) ([6.21.2-2024-04-21](https://github.com/ivuorinen/docker-xmrig/releases/tag/6.21.2-2024-04-21), 1 month ago) - This is a simple miner that uses the xmrig miner to mine Monero.
