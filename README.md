@@ -7,10 +7,10 @@ I'm also a huge fan of open-source, and I try to contribute back to the communit
 
 #### 👷 Check out what I'm currently working on
 
-- [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) - These are my dotfiles. There are many like &#39;em, but these are mine. (today)
+- [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) - These are my dotfiles. There are many like &#39;em, but these are mine. (1 day ago)
 - [ivuorinen/starred](https://github.com/ivuorinen/starred) - Automatically updated list of my starred repos. (1 day ago)
-- [ivuorinen/base-configs](https://github.com/ivuorinen/base-configs) - A collection of base configs for code quality and linting tools. Heavily based on `@demartini/base-configs` (1 day ago)
 - [ivuorinen/cheatsheet-tldr](https://github.com/ivuorinen/cheatsheet-tldr) - tldr-pages/tldr pages for cheat/cheat (1 day ago)
+- [ivuorinen/base-configs](https://github.com/ivuorinen/base-configs) - A collection of base configs for code quality and linting tools. Heavily based on `@demartini/base-configs` (2 days ago)
 - [ivuorinen/curly](https://github.com/ivuorinen/curly) - Curly PHP Curl client, as if there wasn&#39;t already enought of them (1 week ago)
 
 #### 👨‍💻 Repositories I created recently
@@ -23,9 +23,9 @@ I'm also a huge fan of open-source, and I try to contribute back to the communit
 
 #### 🚀 Latest releases I've contributed to
 
-- [ivuorinen/base-configs](https://github.com/ivuorinen/base-configs) ([@ivuorinen/eslint-config@0.4.47](https://github.com/ivuorinen/base-configs/releases/tag/%40ivuorinen/eslint-config%400.4.47), 1 day ago) - A collection of base configs for code quality and linting tools. Heavily based on `@demartini/base-configs`
-- [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) ([24.7.28](https://github.com/ivuorinen/dotfiles/releases/tag/24.7.28), 2 days ago) - These are my dotfiles. There are many like &#39;em, but these are mine.
-- [ivuorinen/.github](https://github.com/ivuorinen/.github) ([2024.7.0](https://github.com/ivuorinen/.github/releases/tag/2024.7.0), 4 weeks ago) - My GitHub Shared Configurations.
+- [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) ([24.7.30](https://github.com/ivuorinen/dotfiles/releases/tag/24.7.30), 1 day ago) - These are my dotfiles. There are many like &#39;em, but these are mine.
+- [ivuorinen/base-configs](https://github.com/ivuorinen/base-configs) ([@ivuorinen/eslint-config@0.4.47](https://github.com/ivuorinen/base-configs/releases/tag/%40ivuorinen/eslint-config%400.4.47), 2 days ago) - A collection of base configs for code quality and linting tools. Heavily based on `@demartini/base-configs`
+- [ivuorinen/.github](https://github.com/ivuorinen/.github) ([2024.7.0](https://github.com/ivuorinen/.github/releases/tag/2024.7.0), 1 month ago) - My GitHub Shared Configurations.
 - [ivuorinen/sysvinit-service-generator](https://github.com/ivuorinen/sysvinit-service-generator) ([1.0.1](https://github.com/ivuorinen/sysvinit-service-generator/releases/tag/1.0.1), 1 month ago) - Vue 3 app for creating sysvinit service scripts
 - [ivuorinen/branch-usage-checker](https://github.com/ivuorinen/branch-usage-checker) ([0.1.0](https://github.com/ivuorinen/branch-usage-checker/releases/tag/0.1.0), 3 months ago) - Cross-check project public GitHub Branches and Packagist branch download statistics to determine are branches safe to delete
 
