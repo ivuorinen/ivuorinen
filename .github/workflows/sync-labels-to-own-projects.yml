@@ -1,0 +1,51 @@
+---
+name: Sync labels to other repositories
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - .github/labels.yml
+      - .github/workflows/sync-labels-to-own-projects.yml
+  workflow_dispatch:
+  schedule:
+    - cron: "0 0 * * *" # Every day at midnight
+
+permissions:
+  contents: write
+  statuses: write
+
+jobs:
+  sync-labels:
+    runs-on: ubuntu-latest
+    outputs:
+      repos: ${{ steps.repos.outputs.REPOS }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Get Repositories
+        id: repos
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          REPOS="$(
+            gh repo list ivuorinen \
+              --no-archived \
+              --source \
+              --limit 25 \
+              --json nameWithOwner -q '.[] | .nameWithOwner' \
+            | sed 's|\"||'
+          )"
+
+          EOF="$(dd if=/dev/urandom bs=15 count=1 status=none | base64)"
+          {
+            echo "REPOS<<$EOF"
+            echo "$REPOS"
+            echo "$EOF"
+          } >> "$GITHUB_ENV"
+      - uses: micnncim/action-label-syncer@v1
+        with:
+          prune: true
+          repository: ${{ steps.repos.outputs.REPOS }}
+          token: ${{ secrets.PERSONAL_TOKEN }}

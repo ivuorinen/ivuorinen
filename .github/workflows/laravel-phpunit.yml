@@ -1,0 +1,58 @@
+---
+name: Laravel Setup and Composer test
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+
+permissions:
+  contents: write
+  statuses: write
+
+jobs:
+  laravel-tests:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: shivammathur/setup-php@v2
+        with:
+          php-version: "8.4"
+
+      - uses: actions/checkout@v4
+
+      - name: "Check file existence"
+        id: check_files
+        uses: andstor/file-existence-action@v3
+        with:
+          files: "package.json, artisan"
+
+      - name: Copy .env
+        if: steps.check_files.outputs.files_exists == 'true'
+        run: php -r "file_exists('.env') || copy('.env.example', '.env');"
+
+      - name: Install Dependencies
+        if: steps.check_files.outputs.files_exists == 'true'
+        run: composer install -q --no-ansi --no-interaction --no-scripts --no-progress --prefer-dist
+
+      - name: Generate key
+        if: steps.check_files.outputs.files_exists == 'true'
+        run: php artisan key:generate
+
+      - name: Directory Permissions
+        if: steps.check_files.outputs.files_exists == 'true'
+        run: chmod -R 777 storage bootstrap/cache
+
+      - name: Create Database
+        if: steps.check_files.outputs.files_exists == 'true'
+        run: |
+          mkdir -p database
+          touch database/database.sqlite
+
+      - name: Execute composer test (Unit and Feature tests)
+        if: steps.check_files.outputs.files_exists == 'true'
+        env:
+          DB_CONNECTION: sqlite
+          DB_DATABASE: database/database.sqlite
+        run: composer test
