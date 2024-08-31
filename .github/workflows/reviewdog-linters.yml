@@ -3,15 +3,18 @@ name: Reviewdog Linters
 
 on: [push]
 
-permissions:
-  contents: read
-  packages: read
-  statuses: write
+permissions: read-all
 
 jobs:
   linters:
     name: Linters
     runs-on: ubuntu-latest
+
+    permissions:
+      contents: read
+      packages: read
+      statuses: write
+
     steps:
       - uses: actions/checkout@v4
 

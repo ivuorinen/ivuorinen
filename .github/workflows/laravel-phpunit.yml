@@ -7,13 +7,15 @@ on:
   pull_request:
     branches: [main]
 
-permissions:
-  contents: write
-  statuses: write
+permissions: read-all
 
 jobs:
   laravel-tests:
     runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+      statuses: write
 
     steps:
       - uses: shivammathur/setup-php@v2

@@ -8,15 +8,19 @@ on:
   schedule:
     - cron: "00 23 * * 0"
 
-permissions:
-  contents: write
-  statuses: write
-  pull-requests: write
+permissions: read-all
 
 jobs:
   CompressOnDemandOrSchedule:
     name: calibreapp/image-actions
+
     runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+      statuses: write
+      pull-requests: write
+
     steps:
       - name: Checkout Repo
         uses: actions/checkout@v4

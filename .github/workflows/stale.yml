@@ -7,15 +7,18 @@ on:
   workflow_call:
   workflow_dispatch:
 
-permissions:
-  contents: write # only for delete-branch option
-  issues: write
-  pull-requests: write
+permissions: read-all
 
 jobs:
   stale:
     name: 🧹 Clean up stale issues and PRs
     runs-on: ubuntu-latest
+
+    permissions:
+      contents: write # only for delete-branch option
+      issues: write
+      pull-requests: write
+
     steps:
       - name: 🚀 Run stale
         uses: actions/stale@v9.0.0
