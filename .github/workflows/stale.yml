@@ -30,9 +30,7 @@ jobs:
           exempt-issue-labels: 'no-stale,help-wanted'
           stale-issue-message: >
             There hasn't been any activity on this issue recently, so we clean up some of the older and inactive issues.
-
             Please make sure to update to the latest version and check if that solves the issue. Let us know if that works for you by leaving a comment 👍
-
             This issue has now been marked as stale and will be closed if no further activity occurs. Thanks!
 
           stale-pr-label: 'stale'
