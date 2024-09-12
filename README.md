@@ -39,5 +39,7 @@ I'm a full-stack developer with a passion for building great products and solvin
 - [sindresorhus/yocto-spinner](https://github.com/sindresorhus/yocto-spinner) - Tiny terminal spinner (1 week ago)
 
 <!-- textlint-disable -->
+
 ![Overview of my activity](https://raw.githubusercontent.com/ivuorinen/github-stats/master/generated/overview.svg) ![Languages I have been using](https://raw.githubusercontent.com/ivuorinen/github-stats/master/generated/languages.svg)
+
 <!-- textlint-enable -->
