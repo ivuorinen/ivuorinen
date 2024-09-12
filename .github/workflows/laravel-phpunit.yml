@@ -19,15 +19,15 @@ jobs:
     steps:
       - uses: shivammathur/setup-php@v2
         with:
-          php-version: "8.4"
+          php-version: '8.4'
 
       - uses: actions/checkout@v4
 
-      - name: "Check file existence"
+      - name: 'Check file existence'
         id: check_files
         uses: andstor/file-existence-action@v3
         with:
-          files: "package.json, artisan"
+          files: 'package.json, artisan'
 
       - name: Copy .env
         if: steps.check_files.outputs.files_exists == 'true'
