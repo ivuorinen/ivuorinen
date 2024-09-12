@@ -26,6 +26,8 @@ I'm also a huge fan of open-source, and I try to contribute back to the communit
 - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .StarredAt}})
 {{- end}}
 
+<!-- textlint-disable -->
 ![Overview of my activity](https://raw.githubusercontent.com/ivuorinen/github-stats/master/generated/overview.svg)
 ![Languages I have been using](https://raw.githubusercontent.com/ivuorinen/github-stats/master/generated/languages.svg)
+<!-- textlint-enable -->
 
