@@ -12,8 +12,6 @@ on:
       - "**.png"
       - "**.webp"
 
-permissions: read-all
-
 jobs:
   CompressInPR:
     # Only run on Pull Requests within the same repository, and not from forks.

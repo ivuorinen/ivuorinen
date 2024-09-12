@@ -8,8 +8,6 @@ on:
   workflow_call:
   workflow_dispatch:
 
-permissions: read-all
-
 jobs:
   stale:
     name: 🧹 Clean up stale issues and PRs

@@ -4,8 +4,6 @@ name: Reviewdog Linters
 
 on: [push]
 
-permissions: read-all
-
 jobs:
   linters:
     name: Linters

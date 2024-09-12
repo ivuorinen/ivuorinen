@@ -10,8 +10,6 @@ on:
       - ".github/labels.yml"
       - ".github/workflows/labels.yml"
 
-permissions: read-all
-
 jobs:
   labeler:
     runs-on: ubuntu-latest

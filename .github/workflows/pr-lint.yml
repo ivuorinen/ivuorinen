@@ -24,8 +24,6 @@ on:
   pull_request:
     branches: [master, main]
 
-permissions: read-all
-
 ###############
 # Set the Job #
 ###############
@@ -62,9 +60,10 @@ jobs:
       # Run Linter against code base #
       ################################
       - name: Lint Code Base
-        uses: github/super-linter@v7
+        uses: super-linter/super-linter/slim@v7
         env:
           VALIDATE_ALL_CODEBASE: false
+          LINTER_RULES_PATH: "${DEFAULT_WORKSPACE}"
           FIX_ANSIBLE: true
           FIX_ENV: true
           FIX_JSON: true
@@ -73,3 +72,4 @@ jobs:
           # Change to 'master' if your main branch differs
           DEFAULT_BRANCH: ${{ env.MAIN_BRANCH }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+

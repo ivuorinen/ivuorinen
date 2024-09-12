@@ -13,8 +13,6 @@ on:
   schedule:
     - cron: "0 0 * * *" # Every day at midnight
 
-permissions: read-all
-
 jobs:
   sync-labels:
     runs-on: ubuntu-latest
