@@ -31,6 +31,7 @@ jobs:
           stale-issue-message: >
             This issue has now been marked as stale and will be closed if no further activity occurs. Thanks!
 
+
           stale-pr-label: 'stale'
           exempt-pr-labels: 'no-stale'
           stale-pr-message: >
