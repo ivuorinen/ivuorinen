@@ -1,0 +1,5 @@
+--container-architecture=linux/amd64
+--secret GITHUB_TOKEN=$(gh auth token)
+--var GITHUB_SHA=$(git rev-parse --short main)
+--var DOCKER_HOST=$(docker context inspect --format '{{.Endpoints.docker.Host}}')
+--action-offline-mode
