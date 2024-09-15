@@ -8,11 +8,28 @@
   "license": "MIT",
   "scripts": {
     "lint": "eslint .",
+    "textlint": "textlint -f pretty-error README.md",
+    "textlint:ci": "textlint -f checkstyle README.md",
+    "textlint:fix": "textlint --fix README.md",
     "format": "prettier --write .",
     "lint:fix": "eslint . --fix"
   },
   "devDependencies": {
     "@ivuorinen/base-configs": "^2.0.2",
-    "eslint-plugin-prettier": "^5.2.1"
+    "eslint-plugin-prettier": "^5.2.1",
+    "textlint": "^14.2.0",
+    "textlint-filter-rule-comments": "^1.2.2",
+    "textlint-rule-no-todo": "^2.0.1"
+  },
+  "textlint": {
+    "plugins": {
+      "@textlint/markdown": true
+    },
+    "filters": {
+      "comments": true
+    },
+    "rules": {
+      "no-todo": true
+    }
   }
 }
