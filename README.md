@@ -1,16 +1,16 @@
-<!-- markdownlint-disable MD041 -->
 
 ### Hi there 👋
 
 My name is Ismo Vuorinen, and I work as a software developer in Finland.
 
-I'm a full-stack developer with a passion for building great products and solving problems. I'm also a huge fan of open-source, and I try to contribute back to the community as much as I can.
+I'm a full-stack developer with a passion for building great products and solving problems.
+I'm also a huge fan of open-source, and I try to contribute back to the community as much as I can.
 
 #### 👷 Check out what I'm currently working on
 
-- [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) - These are my dotfiles. There are many like &#39;em, but these are mine. (1 day ago)
-- [ivuorinen/starred](https://github.com/ivuorinen/starred) - Automatically updated list of my starred repos. (1 day ago)
-- [ivuorinen/cheatsheet-tldr](https://github.com/ivuorinen/cheatsheet-tldr) - tldr-pages/tldr pages for cheat/cheat (1 day ago)
+- [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) - These are my dotfiles. There are many like &#39;em, but these are mine. (today)
+- [ivuorinen/starred](https://github.com/ivuorinen/starred) - Automatically updated list of my starred repos. (today)
+- [ivuorinen/cheatsheet-tldr](https://github.com/ivuorinen/cheatsheet-tldr) - tldr-pages/tldr pages for cheat/cheat (today)
 - [ivuorinen/.github](https://github.com/ivuorinen/.github) - My GitHub Shared Configurations. (6 days ago)
 - [ivuorinen/branch-usage-checker](https://github.com/ivuorinen/branch-usage-checker) - Cross-check project public GitHub Branches and Packagist branch download statistics to determine are branches safe to delete (6 days ago)
 
@@ -38,8 +38,10 @@ I'm a full-stack developer with a passion for building great products and solvin
 - [getsentry/sentry](https://github.com/getsentry/sentry) - Developer-first error tracking and performance monitoring (6 days ago)
 - [bendews/apw](https://github.com/bendews/apw) - A CLI for Apple Passwords (also known as iCloud Keychain®) (2 weeks ago)
 
-<!-- textlint-disable -->
 
-![Overview of my activity](https://raw.githubusercontent.com/ivuorinen/github-stats/master/generated/overview.svg) ![Languages I have been using](https://raw.githubusercontent.com/ivuorinen/github-stats/master/generated/languages.svg)
 
-<!-- textlint-enable -->
+![Overview of my activity](https://raw.githubusercontent.com/ivuorinen/github-stats/master/generated/overview.svg)
+![Languages I have been using](https://raw.githubusercontent.com/ivuorinen/github-stats/master/generated/languages.svg)
+
+
+
