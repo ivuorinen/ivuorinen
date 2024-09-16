@@ -42,4 +42,4 @@ tab_width = 4
 tab_width = 4
 
 [{*.md,.github/workflows/*.yml}]
-max_line_length = 300
+max_line_length = 1000

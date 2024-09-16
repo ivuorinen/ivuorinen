@@ -6,10 +6,8 @@ on:
   workflow_dispatch:
   pull_request:
     paths:
-      - "composer.json"
-      - "composer.lock"
-
-permissions: read-all
+      - 'composer.json'
+      - 'composer.lock'
 
 jobs:
   ComposerInstall:
@@ -21,8 +19,8 @@ jobs:
 
     strategy:
       matrix:
-        operating-system: ["ubuntu-latest"]
-        php: ["8.0", "8.1", "8.2", "8.3", "8.4"]
+        operating-system: ['ubuntu-latest']
+        php: ['8.0', '8.1', '8.2', '8.3', '8.4']
 
     steps:
       - uses: actions/checkout@v4

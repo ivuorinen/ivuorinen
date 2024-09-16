@@ -5,10 +5,10 @@ name: readme-scribe
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 0 */1 * *"
+    - cron: '0 0 */1 * *'
   push:
     branches:
-      - "main"
+      - 'main'
 
 permissions:
   contents: write
@@ -29,7 +29,7 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GH_PAT }}
       - uses: stefanzweifel/git-auto-commit-action@v5.0.1
         with:
-          commit_message: "Update generated README"
+          commit_message: 'Update generated README'
           branch: main
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

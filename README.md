@@ -1,9 +1,10 @@
+<!-- markdownlint-disable MD041 -->
+
 ### Hi there 👋
 
 My name is Ismo Vuorinen, and I work as a software developer in Finland.
 
-I'm a full-stack developer with a passion for building great products and solving problems.
-I'm also a huge fan of open-source, and I try to contribute back to the community as much as I can.
+I'm a full-stack developer with a passion for building great products and solving problems. I'm also a huge fan of open-source, and I try to contribute back to the community as much as I can.
 
 #### 👷 Check out what I'm currently working on
 
@@ -37,6 +38,8 @@ I'm also a huge fan of open-source, and I try to contribute back to the communit
 - [getsentry/sentry](https://github.com/getsentry/sentry) - Developer-first error tracking and performance monitoring (6 days ago)
 - [bendews/apw](https://github.com/bendews/apw) - A CLI for Apple Passwords (also known as iCloud Keychain®) (2 weeks ago)
 
-![Overview of my activity](https://raw.githubusercontent.com/ivuorinen/github-stats/master/generated/overview.svg)
-![Languages I have been using](https://raw.githubusercontent.com/ivuorinen/github-stats/master/generated/languages.svg)
+<!-- textlint-disable -->
 
+![Overview of my activity](https://raw.githubusercontent.com/ivuorinen/github-stats/master/generated/overview.svg) ![Languages I have been using](https://raw.githubusercontent.com/ivuorinen/github-stats/master/generated/languages.svg)
+
+<!-- textlint-enable -->

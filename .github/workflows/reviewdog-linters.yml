@@ -2,9 +2,7 @@
 # yaml-language-server: $schema=https://json.schemastore.org/github-workflow.json
 name: Reviewdog Linters
 
-on: [push]
-
-permissions: read-all
+on: [pull_request]
 
 jobs:
   linters:

@@ -1,13 +1,11 @@
 ---
 # yaml-language-server: $schema=https://json.schemastore.org/github-workflow.json
-name: "Release"
+name: 'Release'
 
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 0 1 * *" # 1st of every month at midnight
-
-permissions: read-all
+    - cron: '0 0 1 * *' # 1st of every month at midnight
 
 jobs:
   release:
@@ -22,7 +20,7 @@ jobs:
       - name: Create Release
         shell: bash
         env:
-          GITHUB_TOKEN: "${{ secrets.GITHUB_TOKEN }}"
+          GITHUB_TOKEN: '${{ secrets.GITHUB_TOKEN }}'
         run: |
           # Retrieve previous release tag
           previous_tag="$(gh release list --limit 1 | awk '{ print $1 }')"

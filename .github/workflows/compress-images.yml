@@ -8,9 +8,7 @@ name: Compress Images on Demand
 on:
   workflow_dispatch:
   schedule:
-    - cron: "00 23 * * 0"
-
-permissions: read-all
+    - cron: '00 23 * * 0'
 
 jobs:
   CompressOnDemandOrSchedule:

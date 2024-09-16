@@ -11,9 +11,7 @@ on:
       - .github/workflows/sync-labels-to-own-projects.yml
   workflow_dispatch:
   schedule:
-    - cron: "0 0 * * *" # Every day at midnight
-
-permissions: read-all
+    - cron: '0 0 * * *' # Every day at midnight
 
 jobs:
   sync-labels:
