@@ -11,8 +11,8 @@ I'm also a huge fan of open-source, and I try to contribute back to the communit
 - [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) - These are my dotfiles. There are many like &#39;em, but these are mine. (1 day ago)
 - [ivuorinen/starred](https://github.com/ivuorinen/starred) - Automatically updated list of my starred repos. (1 day ago)
 - [ivuorinen/cheatsheet-tldr](https://github.com/ivuorinen/cheatsheet-tldr) - tldr-pages/tldr pages for cheat/cheat (1 day ago)
-- [ivuorinen/base-configs](https://github.com/ivuorinen/base-configs) - A collection of base configs for code quality and linting tools. Heavily based on `@demartini/base-configs` (2 days ago)
-- [ivuorinen/sysvinit-service-generator](https://github.com/ivuorinen/sysvinit-service-generator) - Vue 3 app for creating sysvinit service scripts (2 days ago)
+- [ivuorinen/base-configs](https://github.com/ivuorinen/base-configs) - A collection of base configs for code quality and linting tools. Heavily based on `@demartini/base-configs` (3 days ago)
+- [ivuorinen/sysvinit-service-generator](https://github.com/ivuorinen/sysvinit-service-generator) - Vue 3 app for creating sysvinit service scripts (3 days ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -24,19 +24,19 @@ I'm also a huge fan of open-source, and I try to contribute back to the communit
 
 #### 🚀 Latest releases I've contributed to
 
-- [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) ([24.9.18](https://github.com/ivuorinen/dotfiles/releases/tag/24.9.18), 1 day ago) - These are my dotfiles. There are many like &#39;em, but these are mine.
-- [ivuorinen/base-configs](https://github.com/ivuorinen/base-configs) ([@ivuorinen/base-configs@2.0.4](https://github.com/ivuorinen/base-configs/releases/tag/%40ivuorinen/base-configs%402.0.4), 2 days ago) - A collection of base configs for code quality and linting tools. Heavily based on `@demartini/base-configs`
+- [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) ([24.9.19](https://github.com/ivuorinen/dotfiles/releases/tag/24.9.19), 1 day ago) - These are my dotfiles. There are many like &#39;em, but these are mine.
+- [ivuorinen/base-configs](https://github.com/ivuorinen/base-configs) ([@ivuorinen/base-configs@2.0.4](https://github.com/ivuorinen/base-configs/releases/tag/%40ivuorinen/base-configs%402.0.4), 3 days ago) - A collection of base configs for code quality and linting tools. Heavily based on `@demartini/base-configs`
 - [ivuorinen/ivuorinen](https://github.com/ivuorinen/ivuorinen) ([2024.9.0](https://github.com/ivuorinen/ivuorinen/releases/tag/2024.9.0), 2 weeks ago) - My special github profile header
 - [ivuorinen/.github](https://github.com/ivuorinen/.github) ([2024.9.0](https://github.com/ivuorinen/.github/releases/tag/2024.9.0), 2 weeks ago) - My GitHub Shared Configurations.
 - [ivuorinen/business-data-fetcher](https://github.com/ivuorinen/business-data-fetcher) ([v1.1.1](https://github.com/ivuorinen/business-data-fetcher/releases/tag/v1.1.1), 4 weeks ago) - PHP composer package API client to Finnish Patent and Registration Office&#39;s (PRH) Business Information System (BIS).
 
 #### ⭐ Recent Stars
 
-- [storj/dbx](https://github.com/storj/dbx) - A neat codegen-based database wrapper written in Go  (1 day ago)
-- [brettdottech/info-orbs](https://github.com/brettdottech/info-orbs) - An open sourced desk widget using esp32 and affordable round tft displays! (1 day ago)
-- [semgrep/semgrep](https://github.com/semgrep/semgrep) - Lightweight static analysis for many languages. Find bug variants with patterns that look like source code. (1 day ago)
-- [adamcrews/asdf-tf-summarize](https://github.com/adamcrews/asdf-tf-summarize) - asdf plugin to install tf-summarize (1 day ago)
-- [jamiebrynes7/obsidian-todoist-plugin](https://github.com/jamiebrynes7/obsidian-todoist-plugin) - Materialize Todoist tasks in Obsidian notes (1 day ago)
+- [muesli/gitomatic](https://github.com/muesli/gitomatic) - A tool to monitor git repositories and automatically pull &amp; push changes (1 day ago)
+- [storj/dbx](https://github.com/storj/dbx) - A neat codegen-based database wrapper written in Go  (2 days ago)
+- [brettdottech/info-orbs](https://github.com/brettdottech/info-orbs) - An open sourced desk widget using esp32 and affordable round tft displays! (2 days ago)
+- [semgrep/semgrep](https://github.com/semgrep/semgrep) - Lightweight static analysis for many languages. Find bug variants with patterns that look like source code. (2 days ago)
+- [adamcrews/asdf-tf-summarize](https://github.com/adamcrews/asdf-tf-summarize) - asdf plugin to install tf-summarize (2 days ago)
 
 
 
