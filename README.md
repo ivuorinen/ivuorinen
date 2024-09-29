@@ -10,8 +10,8 @@ I'm also a huge fan of open-source, and I try to contribute back to the communit
 
 - [ivuorinen/starred](https://github.com/ivuorinen/starred) - Automatically updated list of my starred repos. (1 day ago)
 - [ivuorinen/cheatsheet-tldr](https://github.com/ivuorinen/cheatsheet-tldr) - tldr-pages/tldr pages for cheat/cheat (1 day ago)
-- [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) - These are my dotfiles. There are many like &#39;em, but these are mine. (2 days ago)
-- [ivuorinen/sysvinit-service-generator](https://github.com/ivuorinen/sysvinit-service-generator) - Vue 3 app for creating sysvinit service scripts (3 days ago)
+- [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) - These are my dotfiles. There are many like &#39;em, but these are mine. (3 days ago)
+- [ivuorinen/sysvinit-service-generator](https://github.com/ivuorinen/sysvinit-service-generator) - Vue 3 app for creating sysvinit service scripts (4 days ago)
 - [ivuorinen/base-configs](https://github.com/ivuorinen/base-configs) - A collection of base configs for code quality and linting tools. Heavily based on `@demartini/base-configs` (1 week ago)
 
 #### 👨‍💻 Repositories I created recently
@@ -24,19 +24,19 @@ I'm also a huge fan of open-source, and I try to contribute back to the communit
 
 #### 🚀 Latest releases I've contributed to
 
-- [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) ([24.9.26](https://github.com/ivuorinen/dotfiles/releases/tag/24.9.26), 2 days ago) - These are my dotfiles. There are many like &#39;em, but these are mine.
+- [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) ([24.9.26](https://github.com/ivuorinen/dotfiles/releases/tag/24.9.26), 3 days ago) - These are my dotfiles. There are many like &#39;em, but these are mine.
 - [ivuorinen/base-configs](https://github.com/ivuorinen/base-configs) ([@ivuorinen/base-configs@2.0.4](https://github.com/ivuorinen/base-configs/releases/tag/%40ivuorinen/base-configs%402.0.4), 1 week ago) - A collection of base configs for code quality and linting tools. Heavily based on `@demartini/base-configs`
-- [ivuorinen/ivuorinen](https://github.com/ivuorinen/ivuorinen) ([2024.9.0](https://github.com/ivuorinen/ivuorinen/releases/tag/2024.9.0), 3 weeks ago) - My special github profile header
-- [ivuorinen/.github](https://github.com/ivuorinen/.github) ([2024.9.0](https://github.com/ivuorinen/.github/releases/tag/2024.9.0), 3 weeks ago) - My GitHub Shared Configurations.
+- [ivuorinen/ivuorinen](https://github.com/ivuorinen/ivuorinen) ([2024.9.0](https://github.com/ivuorinen/ivuorinen/releases/tag/2024.9.0), 4 weeks ago) - My special github profile header
+- [ivuorinen/.github](https://github.com/ivuorinen/.github) ([2024.9.0](https://github.com/ivuorinen/.github/releases/tag/2024.9.0), 4 weeks ago) - My GitHub Shared Configurations.
 - [ivuorinen/business-data-fetcher](https://github.com/ivuorinen/business-data-fetcher) ([v1.1.1](https://github.com/ivuorinen/business-data-fetcher/releases/tag/v1.1.1), 1 month ago) - PHP composer package API client to Finnish Patent and Registration Office&#39;s (PRH) Business Information System (BIS).
 
 #### ⭐ Recent Stars
 
-- [polirritmico/telescope-lazy-plugins.nvim](https://github.com/polirritmico/telescope-lazy-plugins.nvim) - A Telescope picker to quickly access configurations of plugins managed by lazy.nvim. (2 days ago)
-- [MeanderingProgrammer/render-markdown.nvim](https://github.com/MeanderingProgrammer/render-markdown.nvim) - Plugin to improve viewing Markdown files in Neovim (2 days ago)
-- [Zeioth/garbage-day.nvim](https://github.com/Zeioth/garbage-day.nvim) - Garbage collector that stops inactive LSP clients to free RAM (2 days ago)
-- [uga-rosa/cmp-dictionary](https://github.com/uga-rosa/cmp-dictionary) - A dictionary completion source for nvim-cmp (2 days ago)
-- [ThePrimeagen/refactoring.nvim](https://github.com/ThePrimeagen/refactoring.nvim) - The Refactoring library based off the Refactoring book by Martin Fowler (2 days ago)
+- [polirritmico/telescope-lazy-plugins.nvim](https://github.com/polirritmico/telescope-lazy-plugins.nvim) - A Telescope picker to quickly access configurations of plugins managed by lazy.nvim. (3 days ago)
+- [MeanderingProgrammer/render-markdown.nvim](https://github.com/MeanderingProgrammer/render-markdown.nvim) - Plugin to improve viewing Markdown files in Neovim (3 days ago)
+- [Zeioth/garbage-day.nvim](https://github.com/Zeioth/garbage-day.nvim) - Garbage collector that stops inactive LSP clients to free RAM (3 days ago)
+- [uga-rosa/cmp-dictionary](https://github.com/uga-rosa/cmp-dictionary) - A dictionary completion source for nvim-cmp (3 days ago)
+- [ThePrimeagen/refactoring.nvim](https://github.com/ThePrimeagen/refactoring.nvim) - The Refactoring library based off the Refactoring book by Martin Fowler (3 days ago)
 
 
 
