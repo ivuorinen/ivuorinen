@@ -1,3 +1,4 @@
 {
-  "extends": "@ivuorinen/markdownlint-config"
+  "extends": "@ivuorinen/markdownlint-config",
+  "max_line_length": 120
 }

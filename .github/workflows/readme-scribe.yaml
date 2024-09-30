@@ -4,6 +4,7 @@ name: readme-scribe
 
 on:
   workflow_dispatch:
+  workflow_call:
   schedule:
     - cron: '0 0 */1 * *'
   push:

@@ -4,6 +4,7 @@ name: 'Release'
 
 on:
   workflow_dispatch:
+  workflow_call:
   schedule:
     - cron: '0 0 1 * *' # 1st of every month at midnight
 

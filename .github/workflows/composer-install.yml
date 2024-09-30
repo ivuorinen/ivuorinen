@@ -4,6 +4,7 @@ name: Run Composer Install
 
 on:
   workflow_dispatch:
+  workflow_call:
   pull_request:
     paths:
       - 'composer.json'
