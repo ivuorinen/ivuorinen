@@ -8,10 +8,10 @@ I'm also a huge fan of open-source, and I try to contribute back to the communit
 
 #### 👷 Check out what I'm currently working on
 
-- [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) - These are my dotfiles. There are many like &#39;em, but these are mine. (1 day ago)
+- [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) - These are my dotfiles. There are many like &#39;em, but these are mine. (today)
 - [ivuorinen/starred](https://github.com/ivuorinen/starred) - Automatically updated list of my starred repos. (1 day ago)
 - [ivuorinen/cheatsheet-tldr](https://github.com/ivuorinen/cheatsheet-tldr) - tldr-pages/tldr pages for cheat/cheat (1 day ago)
-- [ivuorinen/sysvinit-service-generator](https://github.com/ivuorinen/sysvinit-service-generator) - Vue 3 app for creating sysvinit service scripts (2 days ago)
+- [ivuorinen/sysvinit-service-generator](https://github.com/ivuorinen/sysvinit-service-generator) - Vue 3 app for creating sysvinit service scripts (3 days ago)
 - [ivuorinen/base-configs](https://github.com/ivuorinen/base-configs) - A collection of base configs for code quality and linting tools. Heavily based on `@demartini/base-configs` (2 weeks ago)
 
 #### 👨‍💻 Repositories I created recently
@@ -24,19 +24,19 @@ I'm also a huge fan of open-source, and I try to contribute back to the communit
 
 #### 🚀 Latest releases I've contributed to
 
-- [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) ([24.10.1](https://github.com/ivuorinen/dotfiles/releases/tag/24.10.1), 1 day ago) - These are my dotfiles. There are many like &#39;em, but these are mine.
-- [ivuorinen/ivuorinen](https://github.com/ivuorinen/ivuorinen) ([2024.10.0](https://github.com/ivuorinen/ivuorinen/releases/tag/2024.10.0), 1 day ago) - My special github profile header
-- [ivuorinen/.github](https://github.com/ivuorinen/.github) ([2024.10.0](https://github.com/ivuorinen/.github/releases/tag/2024.10.0), 1 day ago) - My GitHub Shared Configurations.
+- [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) ([24.10.2](https://github.com/ivuorinen/dotfiles/releases/tag/24.10.2), 1 day ago) - These are my dotfiles. There are many like &#39;em, but these are mine.
+- [ivuorinen/ivuorinen](https://github.com/ivuorinen/ivuorinen) ([2024.10.0](https://github.com/ivuorinen/ivuorinen/releases/tag/2024.10.0), 2 days ago) - My special github profile header
+- [ivuorinen/.github](https://github.com/ivuorinen/.github) ([2024.10.0](https://github.com/ivuorinen/.github/releases/tag/2024.10.0), 2 days ago) - My GitHub Shared Configurations.
 - [ivuorinen/base-configs](https://github.com/ivuorinen/base-configs) ([@ivuorinen/base-configs@2.0.4](https://github.com/ivuorinen/base-configs/releases/tag/%40ivuorinen/base-configs%402.0.4), 2 weeks ago) - A collection of base configs for code quality and linting tools. Heavily based on `@demartini/base-configs`
 - [ivuorinen/business-data-fetcher](https://github.com/ivuorinen/business-data-fetcher) ([v1.1.1](https://github.com/ivuorinen/business-data-fetcher/releases/tag/v1.1.1), 1 month ago) - PHP composer package API client to Finnish Patent and Registration Office&#39;s (PRH) Business Information System (BIS).
 
 #### ⭐ Recent Stars
 
-- [nvim-treesitter/nvim-treesitter-refactor](https://github.com/nvim-treesitter/nvim-treesitter-refactor) - Refactor module for nvim-treesitter (1 day ago)
-- [JoosepAlviste/nvim-ts-context-commentstring](https://github.com/JoosepAlviste/nvim-ts-context-commentstring) - Neovim treesitter plugin for setting the commentstring based on the cursor location in a file. (1 day ago)
-- [pycontribs/mk](https://github.com/pycontribs/mk) - mk ease contributing to any open source repository by exposing most common actions you can run. Inspired by make, tox and other cool tools! (1 day ago)
-- [polirritmico/telescope-lazy-plugins.nvim](https://github.com/polirritmico/telescope-lazy-plugins.nvim) - A Telescope picker to quickly access configurations of plugins managed by lazy.nvim. (6 days ago)
-- [MeanderingProgrammer/render-markdown.nvim](https://github.com/MeanderingProgrammer/render-markdown.nvim) - Plugin to improve viewing Markdown files in Neovim (6 days ago)
+- [petertriho/nvim-scrollbar](https://github.com/petertriho/nvim-scrollbar) - Extensible Neovim Scrollbar (1 day ago)
+- [Wansmer/treesj](https://github.com/Wansmer/treesj) - Neovim plugin for splitting/joining blocks of code (1 day ago)
+- [hrsh7th/cmp-cmdline](https://github.com/hrsh7th/cmp-cmdline) - nvim-cmp source for vim&#39;s cmdline (1 day ago)
+- [chrisgrieser/cmp-nerdfont](https://github.com/chrisgrieser/cmp-nerdfont) - nvim-cmp source for nerdfont icons (1 day ago)
+- [hrsh7th/cmp-emoji](https://github.com/hrsh7th/cmp-emoji) - nvim-cmp source for emoji (1 day ago)
 
 
 
