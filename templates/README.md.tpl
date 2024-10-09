@@ -28,8 +28,13 @@ I'm also a huge fan of open-source, and I try to contribute back to the communit
 
 <!-- textlint-disable -->
 
-![Overview of my activity](https://raw.githubusercontent.com/ivuorinen/github-stats/master/generated/overview.svg)
-![Languages I have been using](https://raw.githubusercontent.com/ivuorinen/github-stats/master/generated/languages.svg)
+<picture>
+  <source srcset="https://raw.githubusercontent.com/ivuorinen/github-stats/master/generated/overview.svg#gh-dark-mode-only" media="(prefers-color-scheme: dark)" />
+  <img src="https://raw.githubusercontent.com/ivuorinen/github-stats/master/generated/overview.svg#gh-light-mode-only" alt="Overview of my activity" />
+</picture>
+<picture>
+  <source srcset="https://raw.githubusercontent.com/ivuorinen/github-stats/master/generated/languages.svg#gh-dark-mode-only" media="(prefers-color-scheme: dark)" />
+  <img src="https://raw.githubusercontent.com/ivuorinen/github-stats/master/generated/languages.svg#gh-light-mode-only" alt="Languages I have been using" />
+</picture>
 
 <!-- textlint-enable -->
-
