@@ -10,9 +10,9 @@ I'm also a huge fan of open-source, and I try to contribute back to the communit
 
 - [ivuorinen/starred](https://github.com/ivuorinen/starred) - Automatically updated list of my starred repos. (1 day ago)
 - [ivuorinen/cheatsheet-tldr](https://github.com/ivuorinen/cheatsheet-tldr) - tldr-pages/tldr pages for cheat/cheat (1 day ago)
-- [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) - These are my dotfiles. There are many like &#39;em, but these are mine. (1 day ago)
-- [superhelio/commands](https://github.com/superhelio/commands) - This is a collection of Laravel Artisan commands created to help everyone in their development work. (5 days ago)
-- [ivuorinen/renovate-config](https://github.com/ivuorinen/renovate-config) -  (5 days ago)
+- [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) - These are my dotfiles. There are many like &#39;em, but these are mine. (2 days ago)
+- [superhelio/commands](https://github.com/superhelio/commands) - This is a collection of Laravel Artisan commands created to help everyone in their development work. (6 days ago)
+- [ivuorinen/renovate-config](https://github.com/ivuorinen/renovate-config) -  (6 days ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -24,7 +24,7 @@ I'm also a huge fan of open-source, and I try to contribute back to the communit
 
 #### 🚀 Latest releases I've contributed to
 
-- [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) ([24.11.12](https://github.com/ivuorinen/dotfiles/releases/tag/24.11.12), 1 day ago) - These are my dotfiles. There are many like &#39;em, but these are mine.
+- [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) ([24.11.12](https://github.com/ivuorinen/dotfiles/releases/tag/24.11.12), 2 days ago) - These are my dotfiles. There are many like &#39;em, but these are mine.
 - [ivuorinen/docker-xmrig](https://github.com/ivuorinen/docker-xmrig) ([6.22.2-2024-11-03](https://github.com/ivuorinen/docker-xmrig/releases/tag/6.22.2-2024-11-03), 1 week ago) - This is a simple miner that uses the xmrig miner to mine Monero.
 - [ivuorinen/ivuorinen](https://github.com/ivuorinen/ivuorinen) ([2024.11.0](https://github.com/ivuorinen/ivuorinen/releases/tag/2024.11.0), 1 week ago) - My special github profile header
 - [ivuorinen/.github](https://github.com/ivuorinen/.github) ([2024.11.0](https://github.com/ivuorinen/.github/releases/tag/2024.11.0), 1 week ago) - My GitHub Shared Configurations.
@@ -32,11 +32,11 @@ I'm also a huge fan of open-source, and I try to contribute back to the communit
 
 #### ⭐ Recent Stars
 
-- [bitflight-devops/github-action-readme-generator](https://github.com/bitflight-devops/github-action-readme-generator) - 📓 Generates a `README.md` from the GitHub Action&#39;s `action.yml` (2 days ago)
-- [oxsecurity/megalinter](https://github.com/oxsecurity/megalinter) - 🦙 MegaLinter analyzes 50 languages, 22 formats, 21 tooling formats, excessive copy-pastes, spelling mistakes and security issues in your repository sources with a GitHub Action, other CI tools or locally. (3 days ago)
-- [nix-community/nixvim](https://github.com/nix-community/nixvim) - Configure Neovim with Nix! [maintainers=@GaetanLepage, @traxys, @mattsturgeon, @khaneliman] (6 days ago)
-- [neilotoole/sq](https://github.com/neilotoole/sq) - sq data wrangler (6 days ago)
-- [boilingdata/boiling-insights](https://github.com/boilingdata/boiling-insights) - Boiling Insights - From raw S3 data to charts in seconds (6 days ago)
+- [bitflight-devops/github-action-readme-generator](https://github.com/bitflight-devops/github-action-readme-generator) - 📓 Generates a `README.md` from the GitHub Action&#39;s `action.yml` (3 days ago)
+- [oxsecurity/megalinter](https://github.com/oxsecurity/megalinter) - 🦙 MegaLinter analyzes 50 languages, 22 formats, 21 tooling formats, excessive copy-pastes, spelling mistakes and security issues in your repository sources with a GitHub Action, other CI tools or locally. (4 days ago)
+- [nix-community/nixvim](https://github.com/nix-community/nixvim) - Configure Neovim with Nix! [maintainers=@GaetanLepage, @traxys, @mattsturgeon, @khaneliman] (1 week ago)
+- [neilotoole/sq](https://github.com/neilotoole/sq) - sq data wrangler (1 week ago)
+- [boilingdata/boiling-insights](https://github.com/boilingdata/boiling-insights) - Boiling Insights - From raw S3 data to charts in seconds (1 week ago)
 
 
 
