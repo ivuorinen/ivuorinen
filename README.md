@@ -8,10 +8,10 @@ I'm also a huge fan of open-source, and I try to contribute back to the communit
 
 #### 👷 Check out what I'm currently working on
 
-- [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) - These are my dotfiles. There are many like &#39;em, but these are mine. (1 day ago)
+- [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) - These are my dotfiles. There are many like &#39;em, but these are mine. (today)
 - [ivuorinen/cheatsheet-tldr](https://github.com/ivuorinen/cheatsheet-tldr) - tldr-pages/tldr pages for cheat/cheat (1 day ago)
-- [ivuorinen/starred](https://github.com/ivuorinen/starred) - Automatically updated list of my starred repos. (2 days ago)
-- [ivuorinen/sysvinit-service-generator](https://github.com/ivuorinen/sysvinit-service-generator) - Vue 3 app for creating sysvinit service scripts (4 days ago)
+- [ivuorinen/starred](https://github.com/ivuorinen/starred) - Automatically updated list of my starred repos. (1 day ago)
+- [ivuorinen/sysvinit-service-generator](https://github.com/ivuorinen/sysvinit-service-generator) - Vue 3 app for creating sysvinit service scripts (5 days ago)
 - [ivuorinen/base-configs](https://github.com/ivuorinen/base-configs) - A collection of base configs for code quality and linting tools. Heavily based on `@demartini/base-configs` (1 week ago)
 
 #### 👨‍💻 Repositories I created recently
@@ -24,7 +24,7 @@ I'm also a huge fan of open-source, and I try to contribute back to the communit
 
 #### 🚀 Latest releases I've contributed to
 
-- [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) ([24.12.22](https://github.com/ivuorinen/dotfiles/releases/tag/24.12.22), 1 day ago) - These are my dotfiles. There are many like &#39;em, but these are mine.
+- [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) ([24.12.23](https://github.com/ivuorinen/dotfiles/releases/tag/24.12.23), 1 day ago) - These are my dotfiles. There are many like &#39;em, but these are mine.
 - [ivuorinen/base-configs](https://github.com/ivuorinen/base-configs) ([@ivuorinen/browserslist-config@0.4.3](https://github.com/ivuorinen/base-configs/releases/tag/%40ivuorinen/browserslist-config%400.4.3), 1 week ago) - A collection of base configs for code quality and linting tools. Heavily based on `@demartini/base-configs`
 - [ivuorinen/ivuorinen](https://github.com/ivuorinen/ivuorinen) ([2024.12.0](https://github.com/ivuorinen/ivuorinen/releases/tag/2024.12.0), 3 weeks ago) - My special github profile header
 - [ivuorinen/.github](https://github.com/ivuorinen/.github) ([2024.12.0](https://github.com/ivuorinen/.github/releases/tag/2024.12.0), 3 weeks ago) - My GitHub Shared Configurations.
@@ -32,11 +32,11 @@ I'm also a huge fan of open-source, and I try to contribute back to the communit
 
 #### ⭐ Recent Stars
 
-- [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) - Truly independent web browser (1 day ago)
-- [avgupta456/github-trends](https://github.com/avgupta456/github-trends) - 🚀 Level up your GitHub profile readme with customizable cards including LOC statistics! (3 days ago)
-- [DonKoning/megaLinter](https://github.com/DonKoning/megaLinter) - Achieve Code Consistency: Mega-Linter Integration in Azure DevOps (3 days ago)
-- [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) - Documentation that simply works (3 days ago)
-- [willianjusten/awesome-svg](https://github.com/willianjusten/awesome-svg) - A curated list of SVG.  (3 days ago)
+- [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) - Truly independent web browser (2 days ago)
+- [avgupta456/github-trends](https://github.com/avgupta456/github-trends) - 🚀 Level up your GitHub profile readme with customizable cards including LOC statistics! (4 days ago)
+- [DonKoning/megaLinter](https://github.com/DonKoning/megaLinter) - Achieve Code Consistency: Mega-Linter Integration in Azure DevOps (4 days ago)
+- [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) - Documentation that simply works (4 days ago)
+- [willianjusten/awesome-svg](https://github.com/willianjusten/awesome-svg) - A curated list of SVG.  (4 days ago)
 
 
 
