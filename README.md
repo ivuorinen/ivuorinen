@@ -8,9 +8,9 @@ I'm also a huge fan of open-source, and I try to contribute back to the communit
 
 #### 👷 Check out what I'm currently working on
 
-- [ivuorinen/cheatsheet-tldr](https://github.com/ivuorinen/cheatsheet-tldr) - tldr-pages/tldr pages for cheat/cheat (1 day ago)
+- [ivuorinen/cheatsheet-tldr](https://github.com/ivuorinen/cheatsheet-tldr) - tldr-pages/tldr pages for cheat/cheat (today)
+- [ivuorinen/starred](https://github.com/ivuorinen/starred) - Automatically updated list of my starred repos. (today)
 - [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) - These are my dotfiles. There are many like &#39;em, but these are mine. (1 day ago)
-- [ivuorinen/starred](https://github.com/ivuorinen/starred) - Automatically updated list of my starred repos. (2 days ago)
 - [ivuorinen/uptime](https://github.com/ivuorinen/uptime) - Public uptime checker for some of my sites (2 weeks ago)
 - [ivuorinen/sysvinit-service-generator](https://github.com/ivuorinen/sysvinit-service-generator) - Vue 3 app for creating sysvinit service scripts (2 weeks ago)
 
