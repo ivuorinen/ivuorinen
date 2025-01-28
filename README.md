@@ -9,10 +9,10 @@ I'm also a huge fan of open-source, and I try to contribute back to the communit
 #### 👷 Check out what I'm currently working on
 
 - [ivuorinen/cheatsheet-tldr](https://github.com/ivuorinen/cheatsheet-tldr) - tldr-pages/tldr pages for cheat/cheat (1 day ago)
-- [ivuorinen/starred](https://github.com/ivuorinen/starred) - Automatically updated list of my starred repos. (4 days ago)
-- [ivuorinen/actions](https://github.com/ivuorinen/actions) - ivuorinen&#39;s shared actions (5 days ago)
-- [ivuorinen/base-configs](https://github.com/ivuorinen/base-configs) - A collection of base configs for code quality and linting tools. Heavily based on `@demartini/base-configs` (5 days ago)
-- [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) - These are my dotfiles. There are many like &#39;em, but these are mine. (5 days ago)
+- [ivuorinen/starred](https://github.com/ivuorinen/starred) - Automatically updated list of my starred repos. (5 days ago)
+- [ivuorinen/actions](https://github.com/ivuorinen/actions) - ivuorinen&#39;s shared actions (6 days ago)
+- [ivuorinen/base-configs](https://github.com/ivuorinen/base-configs) - A collection of base configs for code quality and linting tools. Heavily based on `@demartini/base-configs` (6 days ago)
+- [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) - These are my dotfiles. There are many like &#39;em, but these are mine. (6 days ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -24,7 +24,7 @@ I'm also a huge fan of open-source, and I try to contribute back to the communit
 
 #### 🚀 Latest releases I've contributed to
 
-- [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) ([25.1.24](https://github.com/ivuorinen/dotfiles/releases/tag/25.1.24), 3 days ago) - These are my dotfiles. There are many like &#39;em, but these are mine.
+- [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) ([25.1.24](https://github.com/ivuorinen/dotfiles/releases/tag/25.1.24), 4 days ago) - These are my dotfiles. There are many like &#39;em, but these are mine.
 - [ivuorinen/base-configs](https://github.com/ivuorinen/base-configs) ([@ivuorinen/base-configs@2.0.21](https://github.com/ivuorinen/base-configs/releases/tag/%40ivuorinen/base-configs%402.0.21), 1 week ago) - A collection of base configs for code quality and linting tools. Heavily based on `@demartini/base-configs`
 - [ivuorinen/ivuorinen](https://github.com/ivuorinen/ivuorinen) ([2025.1.0](https://github.com/ivuorinen/ivuorinen/releases/tag/2025.1.0), 3 weeks ago) - My special github profile header
 - [ivuorinen/.github](https://github.com/ivuorinen/.github) ([2025.1.0](https://github.com/ivuorinen/.github/releases/tag/2025.1.0), 3 weeks ago) - My GitHub Shared Configurations.
@@ -32,11 +32,11 @@ I'm also a huge fan of open-source, and I try to contribute back to the communit
 
 #### ⭐ Recent Stars
 
-- [DopplerHQ/awesome-bots](https://github.com/DopplerHQ/awesome-bots) - The most awesome list about bots ⭐️🤖 (5 days ago)
-- [sk3pp3r/cheat-sheet-pdf](https://github.com/sk3pp3r/cheat-sheet-pdf) - 📜 A Cheat-Sheet Collection from the WWW (5 days ago)
-- [rmagatti/auto-session](https://github.com/rmagatti/auto-session) - A small automated session manager for Neovim (5 days ago)
-- [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) - Self-Hosting Guide. Learn all about  locally hosting (on premises &amp; private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automation, Home Assistant, and Networking. (5 days ago)
-- [geerlingguy/mini-rack](https://github.com/geerlingguy/mini-rack) - Miniature rack builds, for portable or compact Homelabs. (5 days ago)
+- [crowdsecurity/crowdsec](https://github.com/crowdsecurity/crowdsec) - CrowdSec - the open-source and participative security solution offering crowdsourced protection against malicious IPs and access to the most advanced real-world CTI. (1 day ago)
+- [DopplerHQ/awesome-bots](https://github.com/DopplerHQ/awesome-bots) - The most awesome list about bots ⭐️🤖 (6 days ago)
+- [sk3pp3r/cheat-sheet-pdf](https://github.com/sk3pp3r/cheat-sheet-pdf) - 📜 A Cheat-Sheet Collection from the WWW (6 days ago)
+- [rmagatti/auto-session](https://github.com/rmagatti/auto-session) - A small automated session manager for Neovim (6 days ago)
+- [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) - Self-Hosting Guide. Learn all about  locally hosting (on premises &amp; private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automation, Home Assistant, and Networking. (6 days ago)
 
 
 
