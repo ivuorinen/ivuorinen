@@ -9,10 +9,10 @@ I'm also a huge fan of open-source, and I try to contribute back to the communit
 #### 👷 Check out what I'm currently working on
 
 - [ivuorinen/cheatsheet-tldr](https://github.com/ivuorinen/cheatsheet-tldr) - tldr-pages/tldr pages for cheat/cheat (1 day ago)
-- [ivuorinen/starred](https://github.com/ivuorinen/starred) - Automatically updated list of my starred repos. (5 days ago)
-- [ivuorinen/actions](https://github.com/ivuorinen/actions) - ivuorinen&#39;s shared actions (6 days ago)
-- [ivuorinen/base-configs](https://github.com/ivuorinen/base-configs) - A collection of base configs for code quality and linting tools. Heavily based on `@demartini/base-configs` (6 days ago)
-- [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) - These are my dotfiles. There are many like &#39;em, but these are mine. (6 days ago)
+- [ivuorinen/starred](https://github.com/ivuorinen/starred) - Automatically updated list of my starred repos. (1 day ago)
+- [ivuorinen/.github](https://github.com/ivuorinen/.github) - My GitHub Shared Configurations. (1 day ago)
+- [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) - These are my dotfiles. There are many like &#39;em, but these are mine. (1 day ago)
+- [ivuorinen/actions](https://github.com/ivuorinen/actions) - ivuorinen&#39;s shared actions (1 week ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -24,19 +24,19 @@ I'm also a huge fan of open-source, and I try to contribute back to the communit
 
 #### 🚀 Latest releases I've contributed to
 
-- [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) ([25.1.24](https://github.com/ivuorinen/dotfiles/releases/tag/25.1.24), 4 days ago) - These are my dotfiles. There are many like &#39;em, but these are mine.
-- [ivuorinen/base-configs](https://github.com/ivuorinen/base-configs) ([@ivuorinen/base-configs@2.0.21](https://github.com/ivuorinen/base-configs/releases/tag/%40ivuorinen/base-configs%402.0.21), 1 week ago) - A collection of base configs for code quality and linting tools. Heavily based on `@demartini/base-configs`
-- [ivuorinen/ivuorinen](https://github.com/ivuorinen/ivuorinen) ([2025.1.0](https://github.com/ivuorinen/ivuorinen/releases/tag/2025.1.0), 3 weeks ago) - My special github profile header
-- [ivuorinen/.github](https://github.com/ivuorinen/.github) ([2025.1.0](https://github.com/ivuorinen/.github/releases/tag/2025.1.0), 3 weeks ago) - My GitHub Shared Configurations.
+- [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) ([25.1.28](https://github.com/ivuorinen/dotfiles/releases/tag/25.1.28), 1 day ago) - These are my dotfiles. There are many like &#39;em, but these are mine.
+- [ivuorinen/base-configs](https://github.com/ivuorinen/base-configs) ([@ivuorinen/markdownlint-config@0.3.11](https://github.com/ivuorinen/base-configs/releases/tag/%40ivuorinen/markdownlint-config%400.3.11), 1 day ago) - A collection of base configs for code quality and linting tools. Heavily based on `@demartini/base-configs`
+- [ivuorinen/ivuorinen](https://github.com/ivuorinen/ivuorinen) ([2025.1.0](https://github.com/ivuorinen/ivuorinen/releases/tag/2025.1.0), 4 weeks ago) - My special github profile header
+- [ivuorinen/.github](https://github.com/ivuorinen/.github) ([2025.1.0](https://github.com/ivuorinen/.github/releases/tag/2025.1.0), 4 weeks ago) - My GitHub Shared Configurations.
 - [ivuorinen/branch-usage-checker](https://github.com/ivuorinen/branch-usage-checker) ([0.1.1](https://github.com/ivuorinen/branch-usage-checker/releases/tag/0.1.1), 2 months ago) - Cross-check project public GitHub Branches and Packagist branch download statistics to determine are branches safe to delete
 
 #### ⭐ Recent Stars
 
-- [crowdsecurity/crowdsec](https://github.com/crowdsecurity/crowdsec) - CrowdSec - the open-source and participative security solution offering crowdsourced protection against malicious IPs and access to the most advanced real-world CTI. (1 day ago)
-- [DopplerHQ/awesome-bots](https://github.com/DopplerHQ/awesome-bots) - The most awesome list about bots ⭐️🤖 (6 days ago)
-- [sk3pp3r/cheat-sheet-pdf](https://github.com/sk3pp3r/cheat-sheet-pdf) - 📜 A Cheat-Sheet Collection from the WWW (6 days ago)
-- [rmagatti/auto-session](https://github.com/rmagatti/auto-session) - A small automated session manager for Neovim (6 days ago)
-- [mikeroyal/Self-Hosting-Guide](https://github.com/mikeroyal/Self-Hosting-Guide) - Self-Hosting Guide. Learn all about  locally hosting (on premises &amp; private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automation, Home Assistant, and Networking. (6 days ago)
+- [itn3000/Cs2Mermaid](https://github.com/itn3000/Cs2Mermaid) - CSharp source to mermaid diagram (1 day ago)
+- [jgreywolf/convert2mermaid](https://github.com/jgreywolf/convert2mermaid) - CLI to convert diagrams in other formats to mermaidJs syntax (1 day ago)
+- [github/github-ospo](https://github.com/github/github-ospo) - Helping open source program offices get started (1 day ago)
+- [guidone/node-red-contrib-chatbot](https://github.com/guidone/node-red-contrib-chatbot) - Visually build a full featured chat bot for Telegram, Facebook Messenger, Whatsapp and Slack with Node-RED. Almost no coding skills required. (1 day ago)
+- [intuit/auto](https://github.com/intuit/auto) - Generate releases based on semantic version labels on pull requests. (1 day ago)
 
 
 
