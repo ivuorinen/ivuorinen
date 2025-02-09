@@ -23,7 +23,7 @@ jobs:
     outputs:
       repos: ${{ steps.repos.outputs.REPOS }}
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683 # v4
 
       - name: Get Repositories
         id: repos
@@ -45,7 +45,7 @@ jobs:
             echo "$REPOS"
             echo "$EOF"
           } >> "$GITHUB_ENV"
-      - uses: micnncim/action-label-syncer@v1
+      - uses: micnncim/action-label-syncer@3abd5ab72fda571e69fffd97bd4e0033dd5f495c # v1
         with:
           prune: true
           repository: ${{ steps.repos.outputs.REPOS }}

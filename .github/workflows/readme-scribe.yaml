@@ -21,14 +21,14 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
-        uses: actions/checkout@v4
+        uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683 # v4
       - uses: muesli/readme-scribe@5a187a2a36ef894335f17a7d01c32b0e28c6d948
         with:
           template: templates/README.md.tpl
           writeTo: README.md
         env:
           GITHUB_TOKEN: ${{ secrets.GH_PAT }}
-      - uses: stefanzweifel/git-auto-commit-action@v5.0.1
+      - uses: stefanzweifel/git-auto-commit-action@8621497c8c39c72f3e2a999a26b4ca1b5058a842 # v5.0.1
         with:
           commit_message: 'Update generated README'
           branch: main

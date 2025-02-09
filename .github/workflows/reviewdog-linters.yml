@@ -15,10 +15,10 @@ jobs:
       statuses: write
 
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683 # v4
 
       - name: GitHub Actions
-        uses: reviewdog/action-actionlint@v1
+        uses: reviewdog/action-actionlint@abd537417cf4991e1ba8e21a67b1119f4f53b8e0 # v1
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           reporter: github-pr-review
@@ -30,13 +30,13 @@ jobs:
           reporter: github-pr-review
 
       - name: markdownlint
-        uses: reviewdog/action-markdownlint@v0
+        uses: reviewdog/action-markdownlint@f901468edf9a3634dd39b35ba26cad0aad1a0bfd # v0
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           reporter: github-pr-review
 
       - name: shfmt
-        uses: reviewdog/action-shfmt@v1
+        uses: reviewdog/action-shfmt@f59386f08bd9a24ac1a746e69f026ddc2ed06710 # v1
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           shfmt_flags: |
@@ -52,7 +52,7 @@ jobs:
             --func-next-line
 
       - name: yamllint
-        uses: reviewdog/action-yamllint@v1
+        uses: reviewdog/action-yamllint@1dca3ad811867be18fbe293a9818d715a6c2cd46 # v1
         with:
           github_token: ${{ secrets.github_token }}
           reporter: github-pr-review
