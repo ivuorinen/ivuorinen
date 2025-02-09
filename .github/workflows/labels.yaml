@@ -9,7 +9,7 @@ on:
     paths:
       - '.github/labels.yml'
       - '.github/workflows/labels.yml'
-    workflow_call:
+  workflow_call:
 
 jobs:
   labeler:
