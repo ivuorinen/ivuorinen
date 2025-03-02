@@ -8,11 +8,11 @@ I'm also a huge fan of open-source, and I try to contribute back to the communit
 
 #### 👷 Check out what I'm currently working on
 
-- [ivuorinen/starred](https://github.com/ivuorinen/starred) - Automatically updated list of my starred repos. (1 day ago)
-- [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) - These are my dotfiles. There are many like &#39;em, but these are mine. (2 days ago)
-- [ivuorinen/actions](https://github.com/ivuorinen/actions) - ivuorinen&#39;s shared actions (2 days ago)
-- [ivuorinen/cheatsheet-tldr](https://github.com/ivuorinen/cheatsheet-tldr) - tldr-pages/tldr pages for cheat/cheat (3 days ago)
-- [ivuorinen/nvm-auto-use.fish](https://github.com/ivuorinen/nvm-auto-use.fish) - Work in progress implementation for nvm-auto-use for fish shell (6 days ago)
+- [ivuorinen/actions](https://github.com/ivuorinen/actions) - ivuorinen&#39;s shared actions (today)
+- [ivuorinen/base-configs](https://github.com/ivuorinen/base-configs) - A collection of base configs for code quality and linting tools. Heavily based on `@demartini/base-configs` (1 day ago)
+- [ivuorinen/starred](https://github.com/ivuorinen/starred) - Automatically updated list of my starred repos. (2 days ago)
+- [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) - These are my dotfiles. There are many like &#39;em, but these are mine. (3 days ago)
+- [ivuorinen/cheatsheet-tldr](https://github.com/ivuorinen/cheatsheet-tldr) - tldr-pages/tldr pages for cheat/cheat (4 days ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -24,19 +24,19 @@ I'm also a huge fan of open-source, and I try to contribute back to the communit
 
 #### 🚀 Latest releases I've contributed to
 
-- [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) ([25.2.27.2101](https://github.com/ivuorinen/dotfiles/releases/tag/25.2.27.2101), 2 days ago) - These are my dotfiles. There are many like &#39;em, but these are mine.
-- [ivuorinen/base-configs](https://github.com/ivuorinen/base-configs) ([@ivuorinen/stylelint-config@0.3.15](https://github.com/ivuorinen/base-configs/releases/tag/%40ivuorinen/stylelint-config%400.3.15), 6 days ago) - A collection of base configs for code quality and linting tools. Heavily based on `@demartini/base-configs`
-- [ivuorinen/ivuorinen](https://github.com/ivuorinen/ivuorinen) ([2025.2.0](https://github.com/ivuorinen/ivuorinen/releases/tag/2025.2.0), 4 weeks ago) - My special github profile header
-- [ivuorinen/.github](https://github.com/ivuorinen/.github) ([2025.2.0](https://github.com/ivuorinen/.github/releases/tag/2025.2.0), 4 weeks ago) - My GitHub Shared Configurations.
-- [ivuorinen/branch-usage-checker](https://github.com/ivuorinen/branch-usage-checker) ([0.1.1](https://github.com/ivuorinen/branch-usage-checker/releases/tag/0.1.1), 3 months ago) - Cross-check project public GitHub Branches and Packagist branch download statistics to determine are branches safe to delete
+- [ivuorinen/actions](https://github.com/ivuorinen/actions) ([25.3.1](https://github.com/ivuorinen/actions/releases/tag/25.3.1), 1 day ago) - ivuorinen&#39;s shared actions
+- [ivuorinen/base-configs](https://github.com/ivuorinen/base-configs) ([@ivuorinen/browserslist-config@0.4.11](https://github.com/ivuorinen/base-configs/releases/tag/%40ivuorinen/browserslist-config%400.4.11), 1 day ago) - A collection of base configs for code quality and linting tools. Heavily based on `@demartini/base-configs`
+- [ivuorinen/ivuorinen](https://github.com/ivuorinen/ivuorinen) ([2025.3.0](https://github.com/ivuorinen/ivuorinen/releases/tag/2025.3.0), 1 day ago) - My special github profile header
+- [ivuorinen/.github](https://github.com/ivuorinen/.github) ([2025.3.0](https://github.com/ivuorinen/.github/releases/tag/2025.3.0), 1 day ago) - My GitHub Shared Configurations.
+- [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) ([25.2.27.2101](https://github.com/ivuorinen/dotfiles/releases/tag/25.2.27.2101), 3 days ago) - These are my dotfiles. There are many like &#39;em, but these are mine.
 
 #### ⭐ Recent Stars
 
-- [GitTools/GitVersion](https://github.com/GitTools/GitVersion) - From git log to SemVer in no time (2 days ago)
-- [phpenv/phpenv](https://github.com/phpenv/phpenv) - Simple PHP version management (2 days ago)
-- [browser-use/browser-use](https://github.com/browser-use/browser-use) - Make websites accessible for AI agents (3 days ago)
-- [yankeexe/git-worktree-switcher](https://github.com/yankeexe/git-worktree-switcher) - Switch between git worktrees with speed. :zap: (5 days ago)
-- [Goldziher/kreuzberg](https://github.com/Goldziher/kreuzberg) - A text extraction library supporting PDFs, images, office documents and more (1 week ago)
+- [electronicarts/CnC_Red_Alert](https://github.com/electronicarts/CnC_Red_Alert) - Command and Conquer: Red Alert (1 day ago)
+- [GitTools/GitVersion](https://github.com/GitTools/GitVersion) - From git log to SemVer in no time (3 days ago)
+- [phpenv/phpenv](https://github.com/phpenv/phpenv) - Simple PHP version management (3 days ago)
+- [browser-use/browser-use](https://github.com/browser-use/browser-use) - Make websites accessible for AI agents (4 days ago)
+- [yankeexe/git-worktree-switcher](https://github.com/yankeexe/git-worktree-switcher) - Switch between git worktrees with speed. :zap: (6 days ago)
 
 
 
