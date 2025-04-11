@@ -8,11 +8,11 @@ I'm also a huge fan of open-source, and I try to contribute back to the communit
 
 #### 👷 Check out what I'm currently working on
 
+- [ivuorinen/cheatsheet-tldr](https://github.com/ivuorinen/cheatsheet-tldr) - tldr-pages/tldr pages for cheat/cheat (1 day ago)
 - [ivuorinen/starred](https://github.com/ivuorinen/starred) - Automatically updated list of my starred repos. (1 day ago)
-- [ivuorinen/sysvinit-service-generator](https://github.com/ivuorinen/sysvinit-service-generator) - Vue 3 app for creating sysvinit service scripts (1 day ago)
-- [ivuorinen/cheatsheet-tldr](https://github.com/ivuorinen/cheatsheet-tldr) - tldr-pages/tldr pages for cheat/cheat (2 days ago)
-- [ivuorinen/actions](https://github.com/ivuorinen/actions) - ivuorinen&#39;s shared actions (2 days ago)
-- [ivuorinen/docker-php-with-imagick](https://github.com/ivuorinen/docker-php-with-imagick) - PHP 8.1 with imagick for specific purposes (4 days ago)
+- [ivuorinen/sysvinit-service-generator](https://github.com/ivuorinen/sysvinit-service-generator) - Vue 3 app for creating sysvinit service scripts (2 days ago)
+- [ivuorinen/actions](https://github.com/ivuorinen/actions) - ivuorinen&#39;s shared actions (3 days ago)
+- [ivuorinen/docker-php-with-imagick](https://github.com/ivuorinen/docker-php-with-imagick) - PHP 8.1 with imagick for specific purposes (5 days ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -24,16 +24,16 @@ I'm also a huge fan of open-source, and I try to contribute back to the communit
 
 #### 🚀 Latest releases I've contributed to
 
-- [ivuorinen/actions](https://github.com/ivuorinen/actions) ([25.4.8](https://github.com/ivuorinen/actions/releases/tag/25.4.8), 2 days ago) - ivuorinen&#39;s shared actions
-- [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) ([25.4.4](https://github.com/ivuorinen/dotfiles/releases/tag/25.4.4), 6 days ago) - These are my dotfiles. There are many like &#39;em, but these are mine.
+- [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) ([25.4.10](https://github.com/ivuorinen/dotfiles/releases/tag/25.4.10), 1 day ago) - These are my dotfiles. There are many like &#39;em, but these are mine.
+- [ivuorinen/actions](https://github.com/ivuorinen/actions) ([25.4.8](https://github.com/ivuorinen/actions/releases/tag/25.4.8), 3 days ago) - ivuorinen&#39;s shared actions
 - [ivuorinen/base-configs](https://github.com/ivuorinen/base-configs) ([@ivuorinen/browserslist-config@0.4.13](https://github.com/ivuorinen/base-configs/releases/tag/%40ivuorinen/browserslist-config%400.4.13), 1 week ago) - A collection of base configs for code quality and linting tools. Heavily based on `@demartini/base-configs`
 - [ivuorinen/ivuorinen](https://github.com/ivuorinen/ivuorinen) ([2025.4.0](https://github.com/ivuorinen/ivuorinen/releases/tag/2025.4.0), 1 week ago) - My special github profile header
 - [ivuorinen/.github](https://github.com/ivuorinen/.github) ([2025.4.0](https://github.com/ivuorinen/.github/releases/tag/2025.4.0), 1 week ago) - My GitHub Shared Configurations.
 
 #### ⭐ Recent Stars
 
-- [nvimdev/guard.nvim](https://github.com/nvimdev/guard.nvim) - Lightweight, fast and async formatting and linting plugin for Neovim (2 days ago)
-- [zitadel/zitadel](https://github.com/zitadel/zitadel) - ZITADEL - Identity infrastructure, simplified for you. (6 days ago)
+- [nvimdev/guard.nvim](https://github.com/nvimdev/guard.nvim) - Lightweight, fast and async formatting and linting plugin for Neovim (3 days ago)
+- [zitadel/zitadel](https://github.com/zitadel/zitadel) - ZITADEL - Identity infrastructure, simplified for you. (1 week ago)
 - [phparkitect/arkitect](https://github.com/phparkitect/arkitect) - Put your architectural rules under test! (1 week ago)
 - [microsoft/DevSkim](https://github.com/microsoft/DevSkim) - DevSkim is a set of IDE plugins, language analyzers, and rules that provide security &#34;linting&#34; capabilities. (1 week ago)
 - [microsoft/AttackSurfaceAnalyzer](https://github.com/microsoft/AttackSurfaceAnalyzer) - Attack Surface Analyzer can help you analyze your operating system&#39;s security configuration for changes during software installation. (1 week ago)
