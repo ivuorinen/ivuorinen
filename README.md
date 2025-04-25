@@ -8,8 +8,8 @@ I'm also a huge fan of open-source, and I try to contribute back to the communit
 
 #### 👷 Check out what I'm currently working on
 
-- [ivuorinen/cheatsheet-tldr](https://github.com/ivuorinen/cheatsheet-tldr) - tldr-pages/tldr pages for cheat/cheat (1 day ago)
-- [ivuorinen/starred](https://github.com/ivuorinen/starred) - Automatically updated list of my starred repos. (1 day ago)
+- [ivuorinen/cheatsheet-tldr](https://github.com/ivuorinen/cheatsheet-tldr) - tldr-pages/tldr pages for cheat/cheat (today)
+- [ivuorinen/starred](https://github.com/ivuorinen/starred) - Automatically updated list of my starred repos. (today)
 - [mason-org/mason-registry](https://github.com/mason-org/mason-registry) - Core registry for mason.nvim. (2 days ago)
 - [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) - These are my dotfiles. There are many like &#39;em, but these are mine. (3 days ago)
 - [ivuorinen/docker-php-with-imagick-multi](https://github.com/ivuorinen/docker-php-with-imagick-multi) - PHP 7.4-8.3 with imagick for arm64 and amd64 (1 week ago)
@@ -24,7 +24,7 @@ I'm also a huge fan of open-source, and I try to contribute back to the communit
 
 #### 🚀 Latest releases I've contributed to
 
-- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-04-24-weird-corner](https://github.com/mason-org/mason-registry/releases/tag/2025-04-24-weird-corner), 1 day ago) - Core registry for mason.nvim.
+- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-04-25-great-mink](https://github.com/mason-org/mason-registry/releases/tag/2025-04-25-great-mink), today) - Core registry for mason.nvim.
 - [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) ([25.4.24](https://github.com/ivuorinen/dotfiles/releases/tag/25.4.24), 1 day ago) - These are my dotfiles. There are many like &#39;em, but these are mine.
 - [ivuorinen/actions](https://github.com/ivuorinen/actions) ([25.4.21](https://github.com/ivuorinen/actions/releases/tag/25.4.21), 4 days ago) - ivuorinen&#39;s shared actions
 - [ivuorinen/base-configs](https://github.com/ivuorinen/base-configs) ([@ivuorinen/stylelint-config@0.3.17](https://github.com/ivuorinen/base-configs/releases/tag/%40ivuorinen/stylelint-config%400.3.17), 4 days ago) - A collection of base configs for code quality and linting tools. Heavily based on `@demartini/base-configs`
