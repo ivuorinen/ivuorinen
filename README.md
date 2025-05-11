@@ -10,7 +10,7 @@ I'm also a huge fan of open-source, and I try to contribute back to the communit
 
 - [ivuorinen/cheatsheet-tldr](https://github.com/ivuorinen/cheatsheet-tldr) - tldr-pages/tldr pages for cheat/cheat (1 day ago)
 - [ivuorinen/starred](https://github.com/ivuorinen/starred) - Automatically updated list of my starred repos. (1 day ago)
-- [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) - These are my dotfiles. There are many like &#39;em, but these are mine. (2 days ago)
+- [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) - These are my dotfiles. There are many like &#39;em, but these are mine. (3 days ago)
 - [ville6000/toggl-cli](https://github.com/ville6000/toggl-cli) - A simple CLI interface for toggl.com (1 week ago)
 - [ivuorinen/sysvinit-service-generator](https://github.com/ivuorinen/sysvinit-service-generator) - Vue 3 app for creating sysvinit service scripts (1 week ago)
 
@@ -24,19 +24,19 @@ I'm also a huge fan of open-source, and I try to contribute back to the communit
 
 #### 🚀 Latest releases I've contributed to
 
-- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-05-09-modest-loss](https://github.com/mason-org/mason-registry/releases/tag/2025-05-09-modest-loss), 1 day ago) - Core registry for mason.nvim.
-- [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) ([25.5.8](https://github.com/ivuorinen/dotfiles/releases/tag/25.5.8), 2 days ago) - These are my dotfiles. There are many like &#39;em, but these are mine.
-- [ivuorinen/actions](https://github.com/ivuorinen/actions) ([25.5.5](https://github.com/ivuorinen/actions/releases/tag/25.5.5), 5 days ago) - ivuorinen&#39;s shared actions
-- [ville6000/toggl-cli](https://github.com/ville6000/toggl-cli) ([v0.7.0](https://github.com/ville6000/toggl-cli/releases/tag/v0.7.0), 5 days ago) - A simple CLI interface for toggl.com
+- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-05-10-new-sprout](https://github.com/mason-org/mason-registry/releases/tag/2025-05-10-new-sprout), 1 day ago) - Core registry for mason.nvim.
+- [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) ([25.5.8](https://github.com/ivuorinen/dotfiles/releases/tag/25.5.8), 3 days ago) - These are my dotfiles. There are many like &#39;em, but these are mine.
+- [ivuorinen/actions](https://github.com/ivuorinen/actions) ([25.5.5](https://github.com/ivuorinen/actions/releases/tag/25.5.5), 6 days ago) - ivuorinen&#39;s shared actions
+- [ville6000/toggl-cli](https://github.com/ville6000/toggl-cli) ([v0.7.0](https://github.com/ville6000/toggl-cli/releases/tag/v0.7.0), 6 days ago) - A simple CLI interface for toggl.com
 - [ivuorinen/base-configs](https://github.com/ivuorinen/base-configs) ([@ivuorinen/browserslist-config@0.4.15](https://github.com/ivuorinen/base-configs/releases/tag/%40ivuorinen/browserslist-config%400.4.15), 1 week ago) - A collection of base configs for code quality and linting tools. Heavily based on `@demartini/base-configs`
 
 #### ⭐ Recent Stars
 
-- [bokwoon95/wgo](https://github.com/bokwoon95/wgo) - Live reload for Go apps. Watch arbitrary files and respond with arbitrary commands. Supports running multiple invocations in parallel. (2 days ago)
-- [elsa-workflows/elsa-core](https://github.com/elsa-workflows/elsa-core) - A .NET workflows library (3 days ago)
-- [spectreconsole/spectre.console](https://github.com/spectreconsole/spectre.console) - A .NET library that makes it easier to create beautiful console applications. (3 days ago)
-- [quozd/awesome-dotnet](https://github.com/quozd/awesome-dotnet) - A collection of awesome .NET libraries, tools, frameworks and software (3 days ago)
-- [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (5 days ago)
+- [maizzle/framework](https://github.com/maizzle/framework) - Quickly build HTML emails with Tailwind CSS. (1 day ago)
+- [bokwoon95/wgo](https://github.com/bokwoon95/wgo) - Live reload for Go apps. Watch arbitrary files and respond with arbitrary commands. Supports running multiple invocations in parallel. (3 days ago)
+- [elsa-workflows/elsa-core](https://github.com/elsa-workflows/elsa-core) - A .NET workflows library (4 days ago)
+- [spectreconsole/spectre.console](https://github.com/spectreconsole/spectre.console) - A .NET library that makes it easier to create beautiful console applications. (4 days ago)
+- [quozd/awesome-dotnet](https://github.com/quozd/awesome-dotnet) - A collection of awesome .NET libraries, tools, frameworks and software (4 days ago)
 
 
 
