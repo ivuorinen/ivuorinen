@@ -8,9 +8,9 @@ I'm also a huge fan of open-source, and I try to contribute back to the communit
 
 #### 👷 Check out what I'm currently working on
 
-- [ivuorinen/cheatsheet-tldr](https://github.com/ivuorinen/cheatsheet-tldr) - tldr-pages/tldr pages for cheat/cheat (2 days ago)
-- [ivuorinen/starred](https://github.com/ivuorinen/starred) - Automatically updated list of my starred repos. (2 days ago)
-- [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) - These are my dotfiles. There are many like &#39;em, but these are mine. (4 days ago)
+- [ivuorinen/cheatsheet-tldr](https://github.com/ivuorinen/cheatsheet-tldr) - tldr-pages/tldr pages for cheat/cheat (1 day ago)
+- [ivuorinen/starred](https://github.com/ivuorinen/starred) - Automatically updated list of my starred repos. (1 day ago)
+- [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) - These are my dotfiles. There are many like &#39;em, but these are mine. (5 days ago)
 - [ivuorinen/docker-php-with-imagick-multi](https://github.com/ivuorinen/docker-php-with-imagick-multi) - PHP 7.4-8.3 with imagick for arm64 and amd64 (1 week ago)
 - [ivuorinen/github-base-template](https://github.com/ivuorinen/github-base-template) - This is my base GitHub repository template with actions, and other stuff pre configured. (1 week ago)
 
@@ -24,17 +24,17 @@ I'm also a huge fan of open-source, and I try to contribute back to the communit
 
 #### 🚀 Latest releases I've contributed to
 
-- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-05-20-scant-party](https://github.com/mason-org/mason-registry/releases/tag/2025-05-20-scant-party), today) - Core registry for mason.nvim.
-- [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) ([25.5.19](https://github.com/ivuorinen/dotfiles/releases/tag/25.5.19), 1 day ago) - These are my dotfiles. There are many like &#39;em, but these are mine.
-- [ivuorinen/actions](https://github.com/ivuorinen/actions) ([25.5.17](https://github.com/ivuorinen/actions/releases/tag/25.5.17), 3 days ago) - ivuorinen&#39;s shared actions
-- [ivuorinen/base-configs](https://github.com/ivuorinen/base-configs) ([@ivuorinen/browserslist-config@0.4.16](https://github.com/ivuorinen/base-configs/releases/tag/%40ivuorinen/browserslist-config%400.4.16), 5 days ago) - A collection of base configs for code quality and linting tools. Heavily based on `@demartini/base-configs`
+- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-05-20-nosy-trowel](https://github.com/mason-org/mason-registry/releases/tag/2025-05-20-nosy-trowel), 1 day ago) - Core registry for mason.nvim.
+- [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) ([25.5.19](https://github.com/ivuorinen/dotfiles/releases/tag/25.5.19), 2 days ago) - These are my dotfiles. There are many like &#39;em, but these are mine.
+- [ivuorinen/actions](https://github.com/ivuorinen/actions) ([25.5.17](https://github.com/ivuorinen/actions/releases/tag/25.5.17), 4 days ago) - ivuorinen&#39;s shared actions
+- [ivuorinen/base-configs](https://github.com/ivuorinen/base-configs) ([@ivuorinen/browserslist-config@0.4.16](https://github.com/ivuorinen/base-configs/releases/tag/%40ivuorinen/browserslist-config%400.4.16), 6 days ago) - A collection of base configs for code quality and linting tools. Heavily based on `@demartini/base-configs`
 - [ville6000/toggl-cli](https://github.com/ville6000/toggl-cli) ([v0.7.0](https://github.com/ville6000/toggl-cli/releases/tag/v0.7.0), 2 weeks ago) - A simple CLI interface for toggl.com
 
 #### ⭐ Recent Stars
 
-- [nager/Nager.Country](https://github.com/nager/Nager.Country) - Worldwide Country Informations (ISO-3166-1 Alpha2, ISO-3166-1 Alpha3, ISO 639-1) (1 day ago)
-- [Heydon/REVENGE.CSS](https://github.com/Heydon/REVENGE.CSS) - A CSS bookmarklet that puts pink error boxes (with messages in comic sans) everywhere you write bad HTML. (4 days ago)
-- [marv1nnnnn/llm-min.txt](https://github.com/marv1nnnnn/llm-min.txt) - Min.js Style Compression of Tech Docs for LLM Context (4 days ago)
+- [nager/Nager.Country](https://github.com/nager/Nager.Country) - Worldwide Country Informations (ISO-3166-1 Alpha2, ISO-3166-1 Alpha3, ISO 639-1) (2 days ago)
+- [Heydon/REVENGE.CSS](https://github.com/Heydon/REVENGE.CSS) - A CSS bookmarklet that puts pink error boxes (with messages in comic sans) everywhere you write bad HTML. (5 days ago)
+- [marv1nnnnn/llm-min.txt](https://github.com/marv1nnnnn/llm-min.txt) - Min.js Style Compression of Tech Docs for LLM Context (5 days ago)
 - [maizzle/framework](https://github.com/maizzle/framework) - Quickly build HTML emails with Tailwind CSS. (1 week ago)
 - [bokwoon95/wgo](https://github.com/bokwoon95/wgo) - Live reload for Go apps. Watch arbitrary files and respond with arbitrary commands. Supports running multiple invocations in parallel. (1 week ago)
 
