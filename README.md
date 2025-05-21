@@ -8,7 +8,7 @@ I'm also a huge fan of open-source, and I try to contribute back to the communit
 
 #### 👷 Check out what I'm currently working on
 
-- [ivuorinen/cheatsheet-tldr](https://github.com/ivuorinen/cheatsheet-tldr) - tldr-pages/tldr pages for cheat/cheat (1 day ago)
+- [ivuorinen/cheatsheet-tldr](https://github.com/ivuorinen/cheatsheet-tldr) - tldr-pages/tldr pages for cheat/cheat (today)
 - [ivuorinen/starred](https://github.com/ivuorinen/starred) - Automatically updated list of my starred repos. (1 day ago)
 - [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) - These are my dotfiles. There are many like &#39;em, but these are mine. (5 days ago)
 - [ivuorinen/docker-php-with-imagick-multi](https://github.com/ivuorinen/docker-php-with-imagick-multi) - PHP 7.4-8.3 with imagick for arm64 and amd64 (1 week ago)
@@ -24,10 +24,10 @@ I'm also a huge fan of open-source, and I try to contribute back to the communit
 
 #### 🚀 Latest releases I've contributed to
 
-- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-05-20-nosy-trowel](https://github.com/mason-org/mason-registry/releases/tag/2025-05-20-nosy-trowel), 1 day ago) - Core registry for mason.nvim.
+- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-05-21-one-week](https://github.com/mason-org/mason-registry/releases/tag/2025-05-21-one-week), today) - Core registry for mason.nvim.
+- [ivuorinen/base-configs](https://github.com/ivuorinen/base-configs) ([@ivuorinen/markdownlint-config@0.3.14](https://github.com/ivuorinen/base-configs/releases/tag/%40ivuorinen/markdownlint-config%400.3.14), today) - A collection of base configs for code quality and linting tools. Heavily based on `@demartini/base-configs`
 - [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) ([25.5.19](https://github.com/ivuorinen/dotfiles/releases/tag/25.5.19), 2 days ago) - These are my dotfiles. There are many like &#39;em, but these are mine.
 - [ivuorinen/actions](https://github.com/ivuorinen/actions) ([25.5.17](https://github.com/ivuorinen/actions/releases/tag/25.5.17), 4 days ago) - ivuorinen&#39;s shared actions
-- [ivuorinen/base-configs](https://github.com/ivuorinen/base-configs) ([@ivuorinen/browserslist-config@0.4.16](https://github.com/ivuorinen/base-configs/releases/tag/%40ivuorinen/browserslist-config%400.4.16), 6 days ago) - A collection of base configs for code quality and linting tools. Heavily based on `@demartini/base-configs`
 - [ville6000/toggl-cli](https://github.com/ville6000/toggl-cli) ([v0.7.0](https://github.com/ville6000/toggl-cli/releases/tag/v0.7.0), 2 weeks ago) - A simple CLI interface for toggl.com
 
 #### ⭐ Recent Stars
