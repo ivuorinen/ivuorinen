@@ -24,19 +24,19 @@ I'm also a huge fan of open-source, and I try to contribute back to the communit
 
 #### 🚀 Latest releases I've contributed to
 
-- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-05-22-hearty-tapir](https://github.com/mason-org/mason-registry/releases/tag/2025-05-22-hearty-tapir), 1 day ago) - Core registry for mason.nvim.
-- [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) ([25.5.22](https://github.com/ivuorinen/dotfiles/releases/tag/25.5.22), 1 day ago) - These are my dotfiles. There are many like &#39;em, but these are mine.
-- [ivuorinen/base-configs](https://github.com/ivuorinen/base-configs) ([@ivuorinen/markdownlint-config@0.3.14](https://github.com/ivuorinen/base-configs/releases/tag/%40ivuorinen/markdownlint-config%400.3.14), 2 days ago) - A collection of base configs for code quality and linting tools. Heavily based on `@demartini/base-configs`
-- [ivuorinen/actions](https://github.com/ivuorinen/actions) ([25.5.17](https://github.com/ivuorinen/actions/releases/tag/25.5.17), 6 days ago) - ivuorinen&#39;s shared actions
+- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-05-23-empty-hope](https://github.com/mason-org/mason-registry/releases/tag/2025-05-23-empty-hope), 1 day ago) - Core registry for mason.nvim.
+- [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) ([25.5.22](https://github.com/ivuorinen/dotfiles/releases/tag/25.5.22), 2 days ago) - These are my dotfiles. There are many like &#39;em, but these are mine.
+- [ivuorinen/base-configs](https://github.com/ivuorinen/base-configs) ([@ivuorinen/markdownlint-config@0.3.14](https://github.com/ivuorinen/base-configs/releases/tag/%40ivuorinen/markdownlint-config%400.3.14), 3 days ago) - A collection of base configs for code quality and linting tools. Heavily based on `@demartini/base-configs`
+- [ivuorinen/actions](https://github.com/ivuorinen/actions) ([25.5.17](https://github.com/ivuorinen/actions/releases/tag/25.5.17), 1 week ago) - ivuorinen&#39;s shared actions
 - [ville6000/toggl-cli](https://github.com/ville6000/toggl-cli) ([v0.7.0](https://github.com/ville6000/toggl-cli/releases/tag/v0.7.0), 2 weeks ago) - A simple CLI interface for toggl.com
 
 #### ⭐ Recent Stars
 
-- [log-forge/logforge](https://github.com/log-forge/logforge) - Real-time logs, Interactive terminals, Crash alerts/notifications, File system access. All in one UI, for Docker. (1 day ago)
-- [timelinize/timelinize](https://github.com/timelinize/timelinize) - Store your data from all your accounts and devices in a single cohesive timeline on your own computer (1 day ago)
-- [Jaennaet/pISSStream](https://github.com/Jaennaet/pISSStream) - App that shows how full the International Space Station&#39;s urine tank is in real time, available for macOS (menu bar), iOS, watchOS and visionOS (1 day ago)
-- [nextcloud/all-in-one](https://github.com/nextcloud/all-in-one) - 📦 The official Nextcloud installation method. Provides easy deployment and maintenance with most features included in this one Nextcloud instance. (2 days ago)
-- [nager/Nager.Country](https://github.com/nager/Nager.Country) - Worldwide Country Informations (ISO-3166-1 Alpha2, ISO-3166-1 Alpha3, ISO 639-1) (4 days ago)
+- [log-forge/logforge](https://github.com/log-forge/logforge) - Real-time logs, Interactive terminals, Crash alerts/notifications, File system access. All in one UI, for Docker. (2 days ago)
+- [timelinize/timelinize](https://github.com/timelinize/timelinize) - Store your data from all your accounts and devices in a single cohesive timeline on your own computer (2 days ago)
+- [Jaennaet/pISSStream](https://github.com/Jaennaet/pISSStream) - App that shows how full the International Space Station&#39;s urine tank is in real time, available for macOS (menu bar), iOS, watchOS and visionOS (2 days ago)
+- [nextcloud/all-in-one](https://github.com/nextcloud/all-in-one) - 📦 The official Nextcloud installation method. Provides easy deployment and maintenance with most features included in this one Nextcloud instance. (3 days ago)
+- [nager/Nager.Country](https://github.com/nager/Nager.Country) - Worldwide Country Informations (ISO-3166-1 Alpha2, ISO-3166-1 Alpha3, ISO 639-1) (5 days ago)
 
 
 
