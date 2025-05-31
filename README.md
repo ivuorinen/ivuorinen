@@ -10,7 +10,7 @@ I'm also a huge fan of open-source, and I try to contribute back to the communit
 
 - [ivuorinen/cheatsheet-tldr](https://github.com/ivuorinen/cheatsheet-tldr) - tldr-pages/tldr pages for cheat/cheat (1 day ago)
 - [ivuorinen/starred](https://github.com/ivuorinen/starred) - Automatically updated list of my starred repos. (1 day ago)
-- [ivuorinen/actions](https://github.com/ivuorinen/actions) - ivuorinen&#39;s shared actions (4 days ago)
+- [ivuorinen/actions](https://github.com/ivuorinen/actions) - ivuorinen&#39;s shared actions (5 days ago)
 - [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) - These are my dotfiles. There are many like &#39;em, but these are mine. (2 weeks ago)
 - [ivuorinen/docker-php-with-imagick-multi](https://github.com/ivuorinen/docker-php-with-imagick-multi) - PHP 7.4-8.3 with imagick for arm64 and amd64 (2 weeks ago)
 
@@ -24,19 +24,19 @@ I'm also a huge fan of open-source, and I try to contribute back to the communit
 
 #### 🚀 Latest releases I've contributed to
 
-- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-05-29-tacit-okapi](https://github.com/mason-org/mason-registry/releases/tag/2025-05-29-tacit-okapi), 1 day ago) - Core registry for mason.nvim.
-- [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) ([25.5.29](https://github.com/ivuorinen/dotfiles/releases/tag/25.5.29), 1 day ago) - These are my dotfiles. There are many like &#39;em, but these are mine.
-- [ville6000/toggl-cli](https://github.com/ville6000/toggl-cli) ([v0.8.0](https://github.com/ville6000/toggl-cli/releases/tag/v0.8.0), 1 day ago) - A simple CLI interface for toggl.com
-- [ivuorinen/actions](https://github.com/ivuorinen/actions) ([25.5.26](https://github.com/ivuorinen/actions/releases/tag/25.5.26), 4 days ago) - ivuorinen&#39;s shared actions
+- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-05-30-unfair-delete](https://github.com/mason-org/mason-registry/releases/tag/2025-05-30-unfair-delete), 1 day ago) - Core registry for mason.nvim.
+- [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) ([25.5.29](https://github.com/ivuorinen/dotfiles/releases/tag/25.5.29), 2 days ago) - These are my dotfiles. There are many like &#39;em, but these are mine.
+- [ville6000/toggl-cli](https://github.com/ville6000/toggl-cli) ([v0.8.0](https://github.com/ville6000/toggl-cli/releases/tag/v0.8.0), 2 days ago) - A simple CLI interface for toggl.com
+- [ivuorinen/actions](https://github.com/ivuorinen/actions) ([25.5.26](https://github.com/ivuorinen/actions/releases/tag/25.5.26), 5 days ago) - ivuorinen&#39;s shared actions
 - [ivuorinen/base-configs](https://github.com/ivuorinen/base-configs) ([@ivuorinen/markdownlint-config@0.3.14](https://github.com/ivuorinen/base-configs/releases/tag/%40ivuorinen/markdownlint-config%400.3.14), 1 week ago) - A collection of base configs for code quality and linting tools. Heavily based on `@demartini/base-configs`
 
 #### ⭐ Recent Stars
 
-- [RicoSuter/NSwag](https://github.com/RicoSuter/NSwag) - The Swagger/OpenAPI toolchain for .NET, ASP.NET Core and TypeScript.  (3 days ago)
-- [mainframecomputer/fullmoon-ios](https://github.com/mainframecomputer/fullmoon-ios) - chat with private and local large language models (3 days ago)
-- [olimorris/codecompanion.nvim](https://github.com/olimorris/codecompanion.nvim) - ✨ AI-powered coding, seamlessly in Neovim (5 days ago)
-- [penpot/penpot](https://github.com/penpot/penpot) - Penpot: The open-source design tool for design and code collaboration (5 days ago)
-- [log-forge/logforge](https://github.com/log-forge/logforge) - Real-time logs, Interactive terminals, Crash alerts/notifications, File system access. All in one UI, for Docker. (1 week ago)
+- [mvllow/dots](https://github.com/mvllow/dots) - Minimalist developer setup (1 day ago)
+- [Yiling-J/piper](https://github.com/Yiling-J/piper) - 🛠 Viper wrapper with config inheritance and key generation (1 day ago)
+- [fullstackhero/dotnet-starter-kit](https://github.com/fullstackhero/dotnet-starter-kit) - Production Grade Cloud-Ready .NET 9 Starter Kit (Web API &#43; Blazor Client) with Multitenancy Support, and Clean/Modular Architecture that saves roughly 200&#43; Development Hours! All Batteries Included. (1 day ago)
+- [domaindrivendev/Swashbuckle.AspNetCore](https://github.com/domaindrivendev/Swashbuckle.AspNetCore) - Swagger tools for documenting API&#39;s built on ASP.NET Core (1 day ago)
+- [jbogard/MediatR](https://github.com/jbogard/MediatR) - Simple, unambitious mediator implementation in .NET (1 day ago)
 
 
 
