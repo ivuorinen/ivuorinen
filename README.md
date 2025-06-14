@@ -8,10 +8,10 @@ I'm also a huge fan of open-source, and I try to contribute back to the communit
 
 #### 👷 Check out what I'm currently working on
 
-- [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) - These are my dotfiles. There are many like &#39;em, but these are mine. (1 day ago)
+- [ivuorinen/cheatsheet-tldr](https://github.com/ivuorinen/cheatsheet-tldr) - tldr-pages/tldr pages for cheat/cheat (1 day ago)
 - [ivuorinen/starred](https://github.com/ivuorinen/starred) - Automatically updated list of my starred repos. (1 day ago)
-- [ivuorinen/cheatsheet-tldr](https://github.com/ivuorinen/cheatsheet-tldr) - tldr-pages/tldr pages for cheat/cheat (2 days ago)
-- [ivuorinen/docker-php-with-imagick-multi](https://github.com/ivuorinen/docker-php-with-imagick-multi) - PHP 7.4-8.3 with imagick for arm64 and amd64 (3 days ago)
+- [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) - These are my dotfiles. There are many like &#39;em, but these are mine. (2 days ago)
+- [ivuorinen/docker-php-with-imagick-multi](https://github.com/ivuorinen/docker-php-with-imagick-multi) - PHP 7.4-8.3 with imagick for arm64 and amd64 (4 days ago)
 - [ivuorinen/actions](https://github.com/ivuorinen/actions) - ivuorinen&#39;s shared actions (1 week ago)
 
 #### 👨‍💻 Repositories I created recently
@@ -24,19 +24,19 @@ I'm also a huge fan of open-source, and I try to contribute back to the communit
 
 #### 🚀 Latest releases I've contributed to
 
-- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-06-12-sudden-cannon](https://github.com/mason-org/mason-registry/releases/tag/2025-06-12-sudden-cannon), 1 day ago) - Core registry for mason.nvim.
-- [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) ([25.6.12](https://github.com/ivuorinen/dotfiles/releases/tag/25.6.12), 1 day ago) - These are my dotfiles. There are many like &#39;em, but these are mine.
-- [ivuorinen/base-configs](https://github.com/ivuorinen/base-configs) ([@ivuorinen/markdownlint-config@0.3.15](https://github.com/ivuorinen/base-configs/releases/tag/%40ivuorinen/markdownlint-config%400.3.15), 1 day ago) - A collection of base configs for code quality and linting tools. Heavily based on `@demartini/base-configs`
-- [ivuorinen/actions](https://github.com/ivuorinen/actions) ([25.6.9](https://github.com/ivuorinen/actions/releases/tag/25.6.9), 4 days ago) - ivuorinen&#39;s shared actions
+- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-06-13-sad-spork](https://github.com/mason-org/mason-registry/releases/tag/2025-06-13-sad-spork), 1 day ago) - Core registry for mason.nvim.
+- [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) ([25.6.12](https://github.com/ivuorinen/dotfiles/releases/tag/25.6.12), 2 days ago) - These are my dotfiles. There are many like &#39;em, but these are mine.
+- [ivuorinen/base-configs](https://github.com/ivuorinen/base-configs) ([@ivuorinen/markdownlint-config@0.3.15](https://github.com/ivuorinen/base-configs/releases/tag/%40ivuorinen/markdownlint-config%400.3.15), 2 days ago) - A collection of base configs for code quality and linting tools. Heavily based on `@demartini/base-configs`
+- [ivuorinen/actions](https://github.com/ivuorinen/actions) ([25.6.9](https://github.com/ivuorinen/actions/releases/tag/25.6.9), 5 days ago) - ivuorinen&#39;s shared actions
 - [ivuorinen/ivuorinen](https://github.com/ivuorinen/ivuorinen) ([2025.6.0](https://github.com/ivuorinen/ivuorinen/releases/tag/2025.6.0), 1 week ago) - My special github profile header
 
 #### ⭐ Recent Stars
 
-- [sindresorhus/awesome-lint](https://github.com/sindresorhus/awesome-lint) - Linter for Awesome lists (2 days ago)
-- [apple/container](https://github.com/apple/container) - A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It&#39;s written in Swift, and optimized for Apple silicon.  (3 days ago)
-- [dmmulroy/.dotfiles](https://github.com/dmmulroy/.dotfiles) -  (3 days ago)
-- [nvzone/minty](https://github.com/nvzone/minty) - Most Beautifully crafted color tools for Neovim  (1 week ago)
-- [nvzone/showkeys](https://github.com/nvzone/showkeys) - Minimal Eye-candy keys screencaster for Neovim  200 ~ LOC (1 week ago)
+- [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use. (1 day ago)
+- [cloph-dsp/Pollinations-AI-in-OpenWebUI](https://github.com/cloph-dsp/Pollinations-AI-in-OpenWebUI) - How to Add Pollinations AI Models to OpenWebUI (1 day ago)
+- [lightpanda-io/browser](https://github.com/lightpanda-io/browser) - Lightpanda: the headless browser designed for AI and automation (1 day ago)
+- [sindresorhus/awesome-lint](https://github.com/sindresorhus/awesome-lint) - Linter for Awesome lists (3 days ago)
+- [apple/container](https://github.com/apple/container) - A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It&#39;s written in Swift, and optimized for Apple silicon.  (4 days ago)
 
 
 
