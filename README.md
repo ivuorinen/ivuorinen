@@ -10,9 +10,9 @@ I'm also a huge fan of open-source, and I try to contribute back to the communit
 
 - [ivuorinen/cheatsheet-tldr](https://github.com/ivuorinen/cheatsheet-tldr) - tldr-pages/tldr pages for cheat/cheat (1 day ago)
 - [ivuorinen/starred](https://github.com/ivuorinen/starred) - Automatically updated list of my starred repos. (1 day ago)
-- [ivuorinen/sysvinit-service-generator](https://github.com/ivuorinen/sysvinit-service-generator) - Vue 3 app for creating sysvinit service scripts (1 day ago)
-- [ivuorinen/f2b](https://github.com/ivuorinen/f2b) - fail2ban shorthand wrapper for the usual actions one would take, written in bash (3 days ago)
-- [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) - These are my dotfiles. There are many like &#39;em, but these are mine. (4 days ago)
+- [ivuorinen/sysvinit-service-generator](https://github.com/ivuorinen/sysvinit-service-generator) - Vue 3 app for creating sysvinit service scripts (2 days ago)
+- [ivuorinen/f2b](https://github.com/ivuorinen/f2b) - fail2ban shorthand wrapper for the usual actions one would take, written in bash (4 days ago)
+- [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) - These are my dotfiles. There are many like &#39;em, but these are mine. (5 days ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -24,19 +24,19 @@ I'm also a huge fan of open-source, and I try to contribute back to the communit
 
 #### 🚀 Latest releases I've contributed to
 
-- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-07-03-rear-finch](https://github.com/mason-org/mason-registry/releases/tag/2025-07-03-rear-finch), 1 day ago) - Core registry for mason.nvim.
-- [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) ([25.7.3](https://github.com/ivuorinen/dotfiles/releases/tag/25.7.3), 1 day ago) - These are my dotfiles. There are many like &#39;em, but these are mine.
-- [ivuorinen/ivuorinen](https://github.com/ivuorinen/ivuorinen) ([2025.7.0](https://github.com/ivuorinen/ivuorinen/releases/tag/2025.7.0), 3 days ago) - My special github profile header
-- [ivuorinen/.github](https://github.com/ivuorinen/.github) ([2025.7.0](https://github.com/ivuorinen/.github/releases/tag/2025.7.0), 3 days ago) - My GitHub Shared Configurations.
-- [ivuorinen/actions](https://github.com/ivuorinen/actions) ([25.6.30](https://github.com/ivuorinen/actions/releases/tag/25.6.30), 4 days ago) - ivuorinen&#39;s shared actions
+- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-07-04-zany-codlet](https://github.com/mason-org/mason-registry/releases/tag/2025-07-04-zany-codlet), 1 day ago) - Core registry for mason.nvim.
+- [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) ([25.7.3](https://github.com/ivuorinen/dotfiles/releases/tag/25.7.3), 2 days ago) - These are my dotfiles. There are many like &#39;em, but these are mine.
+- [ivuorinen/ivuorinen](https://github.com/ivuorinen/ivuorinen) ([2025.7.0](https://github.com/ivuorinen/ivuorinen/releases/tag/2025.7.0), 4 days ago) - My special github profile header
+- [ivuorinen/.github](https://github.com/ivuorinen/.github) ([2025.7.0](https://github.com/ivuorinen/.github/releases/tag/2025.7.0), 4 days ago) - My GitHub Shared Configurations.
+- [ivuorinen/actions](https://github.com/ivuorinen/actions) ([25.6.30](https://github.com/ivuorinen/actions/releases/tag/25.6.30), 5 days ago) - ivuorinen&#39;s shared actions
 
 #### ⭐ Recent Stars
 
-- [Inrixia/luna-plugins](https://github.com/Inrixia/luna-plugins) - Plugins for the Tidal Desktop App. Quality &amp; FLAC Info, LastFM, Downloads &amp; More!  (3 days ago)
-- [Inrixia/TidaLuna](https://github.com/Inrixia/TidaLuna) - A client mod for the Tidal music client &amp; successor to Neptune (3 days ago)
-- [jasontaylordev/CleanArchitecture](https://github.com/jasontaylordev/CleanArchitecture) - Clean Architecture Solution Template for ASP.NET Core (4 days ago)
-- [TNG/ArchUnitNET](https://github.com/TNG/ArchUnitNET) - A C# architecture test library to specify and assert architecture rules in C# for automated testing. (4 days ago)
-- [jetify-com/devbox](https://github.com/jetify-com/devbox) - Instant, easy, and predictable development environments (1 week ago)
+- [Kristories/awesome-guidelines](https://github.com/Kristories/awesome-guidelines) - A curated list of high quality coding style conventions and standards. (1 day ago)
+- [apsdehal/awesome-ctf](https://github.com/apsdehal/awesome-ctf) - A curated list of CTF frameworks, libraries, resources and softwares (1 day ago)
+- [neutraltone/awesome-stock-resources](https://github.com/neutraltone/awesome-stock-resources) - :city_sunrise: A collection of links for free stock photography, video and Illustration websites (1 day ago)
+- [aniftyco/awesome-tailwindcss](https://github.com/aniftyco/awesome-tailwindcss) - 😎 Awesome things related to Tailwind CSS (1 day ago)
+- [mhinz/vim-galore](https://github.com/mhinz/vim-galore) - :mortar_board: All things Vim! (1 day ago)
 
 
 
