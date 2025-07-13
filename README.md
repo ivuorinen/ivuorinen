@@ -9,8 +9,8 @@ I'm also a huge fan of open-source, and I try to contribute back to the communit
 #### 👷 Check out what I'm currently working on
 
 - [ivuorinen/cheatsheet-tldr](https://github.com/ivuorinen/cheatsheet-tldr) - tldr-pages/tldr pages for cheat/cheat (1 day ago)
-- [ivuorinen/starred](https://github.com/ivuorinen/starred) - Automatically updated list of my starred repos. (1 day ago)
-- [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) - These are my dotfiles. There are many like &#39;em, but these are mine. (2 days ago)
+- [ivuorinen/starred](https://github.com/ivuorinen/starred) - Automatically updated list of my starred repos. (2 days ago)
+- [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) - These are my dotfiles. There are many like &#39;em, but these are mine. (3 days ago)
 - [ivuorinen/sysvinit-service-generator](https://github.com/ivuorinen/sysvinit-service-generator) - Vue 3 app for creating sysvinit service scripts (1 week ago)
 - [ivuorinen/f2b](https://github.com/ivuorinen/f2b) - fail2ban shorthand wrapper for the usual actions one would take, written in bash (1 week ago)
 
@@ -24,19 +24,19 @@ I'm also a huge fan of open-source, and I try to contribute back to the communit
 
 #### 🚀 Latest releases I've contributed to
 
-- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-07-11-eight-car](https://github.com/mason-org/mason-registry/releases/tag/2025-07-11-eight-car), 1 day ago) - Core registry for mason.nvim.
-- [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) ([25.7.10](https://github.com/ivuorinen/dotfiles/releases/tag/25.7.10), 2 days ago) - These are my dotfiles. There are many like &#39;em, but these are mine.
-- [ville6000/toggl-cli](https://github.com/ville6000/toggl-cli) ([v0.12.0](https://github.com/ville6000/toggl-cli/releases/tag/v0.12.0), 2 days ago) - A simple CLI interface for toggl.com
-- [ivuorinen/actions](https://github.com/ivuorinen/actions) ([25.7.7](https://github.com/ivuorinen/actions/releases/tag/25.7.7), 5 days ago) - ivuorinen&#39;s shared actions
+- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-07-12-cheeky-secret](https://github.com/mason-org/mason-registry/releases/tag/2025-07-12-cheeky-secret), 1 day ago) - Core registry for mason.nvim.
+- [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) ([25.7.10](https://github.com/ivuorinen/dotfiles/releases/tag/25.7.10), 3 days ago) - These are my dotfiles. There are many like &#39;em, but these are mine.
+- [ville6000/toggl-cli](https://github.com/ville6000/toggl-cli) ([v0.12.0](https://github.com/ville6000/toggl-cli/releases/tag/v0.12.0), 3 days ago) - A simple CLI interface for toggl.com
+- [ivuorinen/actions](https://github.com/ivuorinen/actions) ([25.7.7](https://github.com/ivuorinen/actions/releases/tag/25.7.7), 6 days ago) - ivuorinen&#39;s shared actions
 - [ivuorinen/ivuorinen](https://github.com/ivuorinen/ivuorinen) ([2025.7.0](https://github.com/ivuorinen/ivuorinen/releases/tag/2025.7.0), 1 week ago) - My special github profile header
 
 #### ⭐ Recent Stars
 
-- [novuhq/novu](https://github.com/novuhq/novu) - The open-source notification Inbox infrastructure. E-mail, SMS, Push and Slack Integrations. (3 days ago)
-- [Shougo/ddu.vim](https://github.com/Shougo/ddu.vim) - Dark deno-powered UI framework for Vim/Neovim (3 days ago)
-- [Quramy/vison](https://github.com/Quramy/vison) - A Vim plugin for writing JSON with JSON Schema (3 days ago)
-- [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing API&#39;s (lightweight alternative to Postman/Insomnia) (3 days ago)
-- [projectdiscovery/nuclei-templates](https://github.com/projectdiscovery/nuclei-templates) - Community curated list of templates for the nuclei engine to find security vulnerabilities. (3 days ago)
+- [novuhq/novu](https://github.com/novuhq/novu) - The open-source notification Inbox infrastructure. E-mail, SMS, Push and Slack Integrations. (4 days ago)
+- [Shougo/ddu.vim](https://github.com/Shougo/ddu.vim) - Dark deno-powered UI framework for Vim/Neovim (4 days ago)
+- [Quramy/vison](https://github.com/Quramy/vison) - A Vim plugin for writing JSON with JSON Schema (4 days ago)
+- [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing API&#39;s (lightweight alternative to Postman/Insomnia) (4 days ago)
+- [projectdiscovery/nuclei-templates](https://github.com/projectdiscovery/nuclei-templates) - Community curated list of templates for the nuclei engine to find security vulnerabilities. (4 days ago)
 
 
 
