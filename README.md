@@ -10,9 +10,9 @@ I'm also a huge fan of open-source, and I try to contribute back to the communit
 
 - [ivuorinen/cheatsheet-tldr](https://github.com/ivuorinen/cheatsheet-tldr) - tldr-pages/tldr pages for cheat/cheat (1 day ago)
 - [ivuorinen/starred](https://github.com/ivuorinen/starred) - Automatically updated list of my starred repos. (1 day ago)
-- [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) - These are my dotfiles. There are many like &#39;em, but these are mine. (1 day ago)
-- [ivuorinen/gh-action-readme](https://github.com/ivuorinen/gh-action-readme) - Transform your GitHub Actions into professional documentation with multiple themes, output formats, and enterprise-grade features. (1 day ago)
-- [ivuorinen/go-test-sarif](https://github.com/ivuorinen/go-test-sarif) - Convert `go test -json` output to SARIF (2 days ago)
+- [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) - These are my dotfiles. There are many like &#39;em, but these are mine. (2 days ago)
+- [ivuorinen/gh-action-readme](https://github.com/ivuorinen/gh-action-readme) - Transform your GitHub Actions into professional documentation with multiple themes, output formats, and enterprise-grade features. (2 days ago)
+- [ivuorinen/go-test-sarif](https://github.com/ivuorinen/go-test-sarif) - Convert `go test -json` output to SARIF (3 days ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -24,19 +24,19 @@ I'm also a huge fan of open-source, and I try to contribute back to the communit
 
 #### 🚀 Latest releases I've contributed to
 
-- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-07-30-floppy-glass](https://github.com/mason-org/mason-registry/releases/tag/2025-07-30-floppy-glass), 1 day ago) - Core registry for mason.nvim.
-- [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) ([25.7.30](https://github.com/ivuorinen/dotfiles/releases/tag/25.7.30), 1 day ago) - These are my dotfiles. There are many like &#39;em, but these are mine.
-- [ivuorinen/actions](https://github.com/ivuorinen/actions) ([25.7.28](https://github.com/ivuorinen/actions/releases/tag/25.7.28), 3 days ago) - ivuorinen&#39;s shared actions
-- [ivuorinen/go-test-sarif](https://github.com/ivuorinen/go-test-sarif) ([v1.0.0](https://github.com/ivuorinen/go-test-sarif/releases/tag/v1.0.0), 3 days ago) - Convert `go test -json` output to SARIF
-- [ivuorinen/monolog-gdpr-filter](https://github.com/ivuorinen/monolog-gdpr-filter) ([v1.0.0](https://github.com/ivuorinen/monolog-gdpr-filter/releases/tag/v1.0.0), 3 days ago) - Monolog processor for GDPR masking with regex and dot-notation path
+- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-07-31-hushed-phoenix](https://github.com/mason-org/mason-registry/releases/tag/2025-07-31-hushed-phoenix), 1 day ago) - Core registry for mason.nvim.
+- [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) ([25.7.30](https://github.com/ivuorinen/dotfiles/releases/tag/25.7.30), 2 days ago) - These are my dotfiles. There are many like &#39;em, but these are mine.
+- [ivuorinen/actions](https://github.com/ivuorinen/actions) ([25.7.28](https://github.com/ivuorinen/actions/releases/tag/25.7.28), 4 days ago) - ivuorinen&#39;s shared actions
+- [ivuorinen/go-test-sarif](https://github.com/ivuorinen/go-test-sarif) ([v1.0.0](https://github.com/ivuorinen/go-test-sarif/releases/tag/v1.0.0), 4 days ago) - Convert `go test -json` output to SARIF
+- [ivuorinen/monolog-gdpr-filter](https://github.com/ivuorinen/monolog-gdpr-filter) ([v1.0.0](https://github.com/ivuorinen/monolog-gdpr-filter/releases/tag/v1.0.0), 4 days ago) - Monolog processor for GDPR masking with regex and dot-notation path
 
 #### ⭐ Recent Stars
 
-- [Morantron/tmux-fingers](https://github.com/Morantron/tmux-fingers) - copy pasting in terminal with vimium/vimperator like hints. (1 day ago)
-- [neovim/nvim-lspconfig](https://github.com/neovim/nvim-lspconfig) - Quickstart configs for Nvim LSP (1 day ago)
-- [fusioninventory/FusionInventory](https://github.com/fusioninventory/FusionInventory) - Open and follow issues about the project (agent, plugin for GSIT, website and documentation)  (1 day ago)
-- [kimai/kimai](https://github.com/kimai/kimai) - Kimai is a web-based multi-user time-tracking application. Works great for everyone: freelancers, companies, organizations - everyone can track their times, generate reports, create invoices and do so much more. SaaS version available at https://www.kimai.cloud (1 day ago)
-- [github/github-mcp-server](https://github.com/github/github-mcp-server) - GitHub&#39;s official MCP Server (1 day ago)
+- [bcicen/ctop](https://github.com/bcicen/ctop) - Top-like interface for container metrics (1 day ago)
+- [Morantron/tmux-fingers](https://github.com/Morantron/tmux-fingers) - copy pasting in terminal with vimium/vimperator like hints. (2 days ago)
+- [neovim/nvim-lspconfig](https://github.com/neovim/nvim-lspconfig) - Quickstart configs for Nvim LSP (2 days ago)
+- [fusioninventory/FusionInventory](https://github.com/fusioninventory/FusionInventory) - Open and follow issues about the project (agent, plugin for GSIT, website and documentation)  (2 days ago)
+- [kimai/kimai](https://github.com/kimai/kimai) - Kimai is a web-based multi-user time-tracking application. Works great for everyone: freelancers, companies, organizations - everyone can track their times, generate reports, create invoices and do so much more. SaaS version available at https://www.kimai.cloud (2 days ago)
 
 
 
