@@ -8,11 +8,11 @@ I'm also a huge fan of open-source, and I try to contribute back to the communit
 
 #### 👷 Check out what I'm currently working on
 
-- [ivuorinen/cheatsheet-tldr](https://github.com/ivuorinen/cheatsheet-tldr) - tldr-pages/tldr pages for cheat/cheat (today)
-- [ivuorinen/starred](https://github.com/ivuorinen/starred) - Automatically updated list of my starred repos. (today)
-- [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) - These are my dotfiles. There are many like &#39;em, but these are mine. (3 days ago)
-- [ivuorinen/gh-action-readme](https://github.com/ivuorinen/gh-action-readme) - Transform your GitHub Actions into professional documentation with multiple themes, output formats, and enterprise-grade features. (3 days ago)
-- [ivuorinen/go-test-sarif](https://github.com/ivuorinen/go-test-sarif) - Convert `go test -json` output to SARIF (4 days ago)
+- [ivuorinen/cheatsheet-tldr](https://github.com/ivuorinen/cheatsheet-tldr) - tldr-pages/tldr pages for cheat/cheat (1 day ago)
+- [ivuorinen/starred](https://github.com/ivuorinen/starred) - Automatically updated list of my starred repos. (1 day ago)
+- [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) - These are my dotfiles. There are many like &#39;em, but these are mine. (4 days ago)
+- [ivuorinen/gh-action-readme](https://github.com/ivuorinen/gh-action-readme) - Transform your GitHub Actions into professional documentation with multiple themes, output formats, and enterprise-grade features. (4 days ago)
+- [ivuorinen/go-test-sarif](https://github.com/ivuorinen/go-test-sarif) - Convert `go test -json` output to SARIF (5 days ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -24,19 +24,19 @@ I'm also a huge fan of open-source, and I try to contribute back to the communit
 
 #### 🚀 Latest releases I've contributed to
 
-- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-08-02-close-syrup](https://github.com/mason-org/mason-registry/releases/tag/2025-08-02-close-syrup), today) - Core registry for mason.nvim.
-- [ivuorinen/ivuorinen](https://github.com/ivuorinen/ivuorinen) ([2025.8.0](https://github.com/ivuorinen/ivuorinen/releases/tag/2025.8.0), 1 day ago) - My special github profile header
-- [ivuorinen/.github](https://github.com/ivuorinen/.github) ([2025.8.0](https://github.com/ivuorinen/.github/releases/tag/2025.8.0), 1 day ago) - My GitHub Shared Configurations.
-- [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) ([25.7.30](https://github.com/ivuorinen/dotfiles/releases/tag/25.7.30), 3 days ago) - These are my dotfiles. There are many like &#39;em, but these are mine.
-- [ivuorinen/actions](https://github.com/ivuorinen/actions) ([25.7.28](https://github.com/ivuorinen/actions/releases/tag/25.7.28), 5 days ago) - ivuorinen&#39;s shared actions
+- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-08-02-frail-pond](https://github.com/mason-org/mason-registry/releases/tag/2025-08-02-frail-pond), 1 day ago) - Core registry for mason.nvim.
+- [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) ([25.8.2](https://github.com/ivuorinen/dotfiles/releases/tag/25.8.2), 1 day ago) - These are my dotfiles. There are many like &#39;em, but these are mine.
+- [ivuorinen/ivuorinen](https://github.com/ivuorinen/ivuorinen) ([2025.8.0](https://github.com/ivuorinen/ivuorinen/releases/tag/2025.8.0), 2 days ago) - My special github profile header
+- [ivuorinen/.github](https://github.com/ivuorinen/.github) ([2025.8.0](https://github.com/ivuorinen/.github/releases/tag/2025.8.0), 2 days ago) - My GitHub Shared Configurations.
+- [ivuorinen/actions](https://github.com/ivuorinen/actions) ([25.7.28](https://github.com/ivuorinen/actions/releases/tag/25.7.28), 6 days ago) - ivuorinen&#39;s shared actions
 
 #### ⭐ Recent Stars
 
-- [basecamp/omarchy](https://github.com/basecamp/omarchy) - Opinionated Arch/Hyprland Setup (1 day ago)
-- [bcicen/ctop](https://github.com/bcicen/ctop) - Top-like interface for container metrics (2 days ago)
-- [Morantron/tmux-fingers](https://github.com/Morantron/tmux-fingers) - copy pasting in terminal with vimium/vimperator like hints. (3 days ago)
-- [neovim/nvim-lspconfig](https://github.com/neovim/nvim-lspconfig) - Quickstart configs for Nvim LSP (3 days ago)
-- [fusioninventory/FusionInventory](https://github.com/fusioninventory/FusionInventory) - Open and follow issues about the project (agent, plugin for GSIT, website and documentation)  (3 days ago)
+- [basecamp/omarchy](https://github.com/basecamp/omarchy) - Opinionated Arch/Hyprland Setup (2 days ago)
+- [bcicen/ctop](https://github.com/bcicen/ctop) - Top-like interface for container metrics (3 days ago)
+- [Morantron/tmux-fingers](https://github.com/Morantron/tmux-fingers) - copy pasting in terminal with vimium/vimperator like hints. (4 days ago)
+- [neovim/nvim-lspconfig](https://github.com/neovim/nvim-lspconfig) - Quickstart configs for Nvim LSP (4 days ago)
+- [fusioninventory/FusionInventory](https://github.com/fusioninventory/FusionInventory) - Open and follow issues about the project (agent, plugin for GSIT, website and documentation)  (4 days ago)
 
 
 
