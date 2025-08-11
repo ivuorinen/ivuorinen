@@ -8,11 +8,11 @@ I'm also a huge fan of open-source, and I try to contribute back to the communit
 
 #### 👷 Check out what I'm currently working on
 
-- [ivuorinen/config-checker](https://github.com/ivuorinen/config-checker) - Checks the commonly used configuration locations for configuration files (today)
 - [ivuorinen/cheatsheet-tldr](https://github.com/ivuorinen/cheatsheet-tldr) - tldr-pages/tldr pages for cheat/cheat (1 day ago)
 - [ivuorinen/starred](https://github.com/ivuorinen/starred) - Automatically updated list of my starred repos. (1 day ago)
-- [ivuorinen/gh-action-readme](https://github.com/ivuorinen/gh-action-readme) - Transform your GitHub Actions into professional documentation with multiple themes, output formats, and enterprise-grade features. (3 days ago)
-- [ivuorinen/f2b](https://github.com/ivuorinen/f2b) - fail2ban shorthand wrapper for the usual actions one would take, written in bash (3 days ago)
+- [ivuorinen/config-checker](https://github.com/ivuorinen/config-checker) - Checks the commonly used configuration locations for configuration files (1 day ago)
+- [ivuorinen/gh-action-readme](https://github.com/ivuorinen/gh-action-readme) - Transform your GitHub Actions into professional documentation with multiple themes, output formats, and enterprise-grade features. (4 days ago)
+- [ivuorinen/f2b](https://github.com/ivuorinen/f2b) - A modern, secure, and extensible Go CLI tool for managing Fail2Ban jails and bans (4 days ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -24,19 +24,19 @@ I'm also a huge fan of open-source, and I try to contribute back to the communit
 
 #### 🚀 Latest releases I've contributed to
 
-- [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) ([25.8.9](https://github.com/ivuorinen/dotfiles/releases/tag/25.8.9), 1 day ago) - These are my dotfiles. There are many like &#39;em, but these are mine.
-- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-08-09-holy-cherry](https://github.com/mason-org/mason-registry/releases/tag/2025-08-09-holy-cherry), 1 day ago) - Core registry for mason.nvim.
-- [ivuorinen/actions](https://github.com/ivuorinen/actions) ([25.8.4](https://github.com/ivuorinen/actions/releases/tag/25.8.4), 6 days ago) - ivuorinen&#39;s shared actions
+- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-08-10-half-mist](https://github.com/mason-org/mason-registry/releases/tag/2025-08-10-half-mist), 1 day ago) - Core registry for mason.nvim.
+- [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) ([25.8.9](https://github.com/ivuorinen/dotfiles/releases/tag/25.8.9), 2 days ago) - These are my dotfiles. There are many like &#39;em, but these are mine.
+- [ivuorinen/actions](https://github.com/ivuorinen/actions) ([25.8.4](https://github.com/ivuorinen/actions/releases/tag/25.8.4), 1 week ago) - ivuorinen&#39;s shared actions
 - [ivuorinen/ivuorinen](https://github.com/ivuorinen/ivuorinen) ([2025.8.0](https://github.com/ivuorinen/ivuorinen/releases/tag/2025.8.0), 1 week ago) - My special github profile header
 - [ivuorinen/.github](https://github.com/ivuorinen/.github) ([2025.8.0](https://github.com/ivuorinen/.github/releases/tag/2025.8.0), 1 week ago) - My GitHub Shared Configurations.
 
 #### ⭐ Recent Stars
 
-- [justeattakeaway/httpclient-interception](https://github.com/justeattakeaway/httpclient-interception) - A .NET library for intercepting server-side HTTP requests (1 day ago)
-- [bytedance/Dolphin](https://github.com/bytedance/Dolphin) - The official repo for “Dolphin: Document Image Parsing via Heterogeneous Anchor Prompting”, ACL, 2025. (2 days ago)
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with OpenAI gpt-oss, DeepSeek-R1, Gemma 3 and other models. (2 days ago)
-- [openai/gpt-oss](https://github.com/openai/gpt-oss) - gpt-oss-120b and gpt-oss-20b are two open-weight language models by OpenAI (3 days ago)
-- [Mail-0/Zero](https://github.com/Mail-0/Zero) - Experience email the way you want with Mail0 – the first open source email app that puts your privacy and safety first. Join the discord: https://mail0.link/discord (1 week ago)
+- [arl/gitmux](https://github.com/arl/gitmux) - :computer: Git in your tmux status bar (1 day ago)
+- [libredirect/browser_extension](https://github.com/libredirect/browser_extension) - A browser extension that redirects popular sites to alternative privacy friendly frontends (1 day ago)
+- [justeattakeaway/httpclient-interception](https://github.com/justeattakeaway/httpclient-interception) - A .NET library for intercepting server-side HTTP requests (2 days ago)
+- [bytedance/Dolphin](https://github.com/bytedance/Dolphin) - The official repo for “Dolphin: Document Image Parsing via Heterogeneous Anchor Prompting”, ACL, 2025. (3 days ago)
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with OpenAI gpt-oss, DeepSeek-R1, Gemma 3 and other models. (3 days ago)
 
 
 
