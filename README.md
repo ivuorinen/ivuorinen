@@ -10,9 +10,9 @@ I'm also a huge fan of open-source, and I try to contribute back to the communit
 
 - [ivuorinen/cheatsheet-tldr](https://github.com/ivuorinen/cheatsheet-tldr) - tldr-pages/tldr pages for cheat/cheat (1 day ago)
 - [ivuorinen/starred](https://github.com/ivuorinen/starred) - Automatically updated list of my starred repos. (1 day ago)
-- [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) - These are my dotfiles. There are many like &#39;em, but these are mine. (3 days ago)
-- [ivuorinen/generic-landing-page](https://github.com/ivuorinen/generic-landing-page) -  (4 days ago)
-- [ivuorinen/actions](https://github.com/ivuorinen/actions) - ivuorinen&#39;s shared actions (6 days ago)
+- [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) - These are my dotfiles. There are many like &#39;em, but these are mine. (1 day ago)
+- [ivuorinen/generic-landing-page](https://github.com/ivuorinen/generic-landing-page) -  (5 days ago)
+- [ivuorinen/actions](https://github.com/ivuorinen/actions) - ivuorinen&#39;s shared actions (1 week ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -24,19 +24,19 @@ I'm also a huge fan of open-source, and I try to contribute back to the communit
 
 #### 🚀 Latest releases I've contributed to
 
-- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-08-30-irish-peru](https://github.com/mason-org/mason-registry/releases/tag/2025-08-30-irish-peru), 1 day ago) - Core registry for mason.nvim.
-- [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) ([25.8.28](https://github.com/ivuorinen/dotfiles/releases/tag/25.8.28), 3 days ago) - These are my dotfiles. There are many like &#39;em, but these are mine.
-- [ivuorinen/actions](https://github.com/ivuorinen/actions) ([25.8.25](https://github.com/ivuorinen/actions/releases/tag/25.8.25), 6 days ago) - ivuorinen&#39;s shared actions
+- [ivuorinen/actions](https://github.com/ivuorinen/actions) ([25.8.31](https://github.com/ivuorinen/actions/releases/tag/25.8.31), 1 day ago) - ivuorinen&#39;s shared actions
+- [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) ([25.8.31](https://github.com/ivuorinen/dotfiles/releases/tag/25.8.31), 1 day ago) - These are my dotfiles. There are many like &#39;em, but these are mine.
+- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-08-31-livid-butter](https://github.com/mason-org/mason-registry/releases/tag/2025-08-31-livid-butter), 1 day ago) - Core registry for mason.nvim.
 - [ivuorinen/ivuorinen](https://github.com/ivuorinen/ivuorinen) ([2025.8.0](https://github.com/ivuorinen/ivuorinen/releases/tag/2025.8.0), 1 month ago) - My special github profile header
 - [ivuorinen/.github](https://github.com/ivuorinen/.github) ([2025.8.0](https://github.com/ivuorinen/.github/releases/tag/2025.8.0), 1 month ago) - My GitHub Shared Configurations.
 
 #### ⭐ Recent Stars
 
-- [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates) - CLI tool for configuring and monitoring Claude Code (2 days ago)
-- [rothgar/awesome-tuis](https://github.com/rothgar/awesome-tuis) - List of projects that provide terminal user interfaces (3 days ago)
-- [carlrannaberg/claudekit](https://github.com/carlrannaberg/claudekit) - A toolkit of custom commands, hooks, and utilities for Claude Code (3 days ago)
-- [zedless-editor/zedless](https://github.com/zedless-editor/zedless) - (WIP) Zed fork focused on privacy and being local-first (1 week ago)
-- [docmost/docmost](https://github.com/docmost/docmost) - Docmost is an open-source collaborative wiki and documentation software. It is an open-source alternative to Confluence and Notion. (1 week ago)
+- [githubnext/awesome-continuous-ai](https://github.com/githubnext/awesome-continuous-ai) - An awesome list of Continuous AI Actions and Frameworks (1 day ago)
+- [jetkvm/kvm](https://github.com/jetkvm/kvm) - JetKVM - Control any computer remotely (1 day ago)
+- [justin/dotfiles](https://github.com/justin/dotfiles) -  (1 day ago)
+- [githubnext/monaspace](https://github.com/githubnext/monaspace) - An innovative superfamily of fonts for code (1 day ago)
+- [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates) - CLI tool for configuring and monitoring Claude Code (3 days ago)
 
 
 
