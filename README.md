@@ -8,11 +8,11 @@ I'm also a huge fan of open-source, and I try to contribute back to the communit
 
 #### 👷 Check out what I'm currently working on
 
+- [ivuorinen/cheatsheet-tldr](https://github.com/ivuorinen/cheatsheet-tldr) - tldr-pages/tldr pages for cheat/cheat (today)
+- [ivuorinen/starred](https://github.com/ivuorinen/starred) - Automatically updated list of my starred repos. (today)
+- [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) - These are my dotfiles. There are many like &#39;em, but these are mine. (today)
 - [ivuorinen/generic-landing-page](https://github.com/ivuorinen/generic-landing-page) -  (1 day ago)
-- [ivuorinen/cheatsheet-tldr](https://github.com/ivuorinen/cheatsheet-tldr) - tldr-pages/tldr pages for cheat/cheat (1 day ago)
-- [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) - These are my dotfiles. There are many like &#39;em, but these are mine. (1 day ago)
-- [ivuorinen/starred](https://github.com/ivuorinen/starred) - Automatically updated list of my starred repos. (2 days ago)
-- [ivuorinen/renovate-config](https://github.com/ivuorinen/renovate-config) -  (1 week ago)
+- [ivuorinen/actions](https://github.com/ivuorinen/actions) - ivuorinen&#39;s shared actions (1 week ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -24,11 +24,11 @@ I'm also a huge fan of open-source, and I try to contribute back to the communit
 
 #### 🚀 Latest releases I've contributed to
 
-- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-09-03-caring-ankle](https://github.com/mason-org/mason-registry/releases/tag/2025-09-03-caring-ankle), 1 day ago) - Core registry for mason.nvim.
-- [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) ([25.9.3](https://github.com/ivuorinen/dotfiles/releases/tag/25.9.3), 1 day ago) - These are my dotfiles. There are many like &#39;em, but these are mine.
+- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-09-04-sharp-peony](https://github.com/mason-org/mason-registry/releases/tag/2025-09-04-sharp-peony), today) - Core registry for mason.nvim.
+- [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) ([25.9.4](https://github.com/ivuorinen/dotfiles/releases/tag/25.9.4), today) - These are my dotfiles. There are many like &#39;em, but these are mine.
+- [ville6000/toggl-cli](https://github.com/ville6000/toggl-cli) ([v0.14.0](https://github.com/ville6000/toggl-cli/releases/tag/v0.14.0), today) - A simple CLI interface for toggl.com
 - [ivuorinen/ivuorinen](https://github.com/ivuorinen/ivuorinen) ([2025.9.0](https://github.com/ivuorinen/ivuorinen/releases/tag/2025.9.0), 3 days ago) - My special github profile header
 - [ivuorinen/.github](https://github.com/ivuorinen/.github) ([2025.9.0](https://github.com/ivuorinen/.github/releases/tag/2025.9.0), 3 days ago) - My GitHub Shared Configurations.
-- [ivuorinen/actions](https://github.com/ivuorinen/actions) ([25.8.31](https://github.com/ivuorinen/actions/releases/tag/25.8.31), 4 days ago) - ivuorinen&#39;s shared actions
 
 #### ⭐ Recent Stars
 
