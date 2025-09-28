@@ -10,8 +10,8 @@ I'm also a huge fan of open-source, and I try to contribute back to the communit
 
 - [ivuorinen/cheatsheet-tldr](https://github.com/ivuorinen/cheatsheet-tldr) - tldr-pages/tldr pages for cheat/cheat (1 day ago)
 - [ivuorinen/starred](https://github.com/ivuorinen/starred) - Automatically updated list of my starred repos. (1 day ago)
-- [ivuorinen/homebrew-tap](https://github.com/ivuorinen/homebrew-tap) - brew tap ivuorinen/tap (2 days ago)
-- [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) - These are my dotfiles. There are many like &#39;em, but these are mine. (2 days ago)
+- [ivuorinen/homebrew-tap](https://github.com/ivuorinen/homebrew-tap) - brew tap ivuorinen/tap (3 days ago)
+- [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) - These are my dotfiles. There are many like &#39;em, but these are mine. (3 days ago)
 - [ivuorinen/gh-action-readme](https://github.com/ivuorinen/gh-action-readme) - Transform your GitHub Actions into professional documentation with multiple themes, output formats, and enterprise-grade features. (1 week ago)
 
 #### 👨‍💻 Repositories I created recently
@@ -24,18 +24,18 @@ I'm also a huge fan of open-source, and I try to contribute back to the communit
 
 #### 🚀 Latest releases I've contributed to
 
-- [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) ([25.9.26](https://github.com/ivuorinen/dotfiles/releases/tag/25.9.26), 1 day ago) - These are my dotfiles. There are many like &#39;em, but these are mine.
-- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-09-26-fellow-wren](https://github.com/mason-org/mason-registry/releases/tag/2025-09-26-fellow-wren), 1 day ago) - Core registry for mason.nvim.
-- [ivuorinen/actions](https://github.com/ivuorinen/actions) ([25.9.21](https://github.com/ivuorinen/actions/releases/tag/25.9.21), 6 days ago) - ivuorinen&#39;s shared actions
+- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-09-27-arid-taimen](https://github.com/mason-org/mason-registry/releases/tag/2025-09-27-arid-taimen), 1 day ago) - Core registry for mason.nvim.
+- [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) ([25.9.26](https://github.com/ivuorinen/dotfiles/releases/tag/25.9.26), 2 days ago) - These are my dotfiles. There are many like &#39;em, but these are mine.
+- [ivuorinen/actions](https://github.com/ivuorinen/actions) ([25.9.21](https://github.com/ivuorinen/actions/releases/tag/25.9.21), 1 week ago) - ivuorinen&#39;s shared actions
 - [ivuorinen/nvim-shellspec](https://github.com/ivuorinen/nvim-shellspec) ([2.0.1](https://github.com/ivuorinen/nvim-shellspec/releases/tag/2.0.1), 2 weeks ago) - vim and neovim shellspec language support and basic formatter
 - [ville6000/toggl-cli](https://github.com/ville6000/toggl-cli) ([v0.14.0](https://github.com/ville6000/toggl-cli/releases/tag/v0.14.0), 3 weeks ago) - A simple CLI interface for toggl.com
 
 #### ⭐ Recent Stars
 
-- [joshmedeski/sesh](https://github.com/joshmedeski/sesh) - Smart session manager for the terminal (1 day ago)
-- [github/copilot-cli](https://github.com/github/copilot-cli) - GitHub Copilot CLI brings the power of Copilot coding agent directly to your terminal.  (2 days ago)
-- [astral-sh/uv-pre-commit](https://github.com/astral-sh/uv-pre-commit) -  (2 days ago)
-- [TanStack/table](https://github.com/TanStack/table) - 🤖 Headless UI for building powerful tables &amp; datagrids for TS/JS -  React-Table, Vue-Table, Solid-Table, Svelte-Table (6 days ago)
+- [joshmedeski/sesh](https://github.com/joshmedeski/sesh) - Smart session manager for the terminal (2 days ago)
+- [github/copilot-cli](https://github.com/github/copilot-cli) - GitHub Copilot CLI brings the power of Copilot coding agent directly to your terminal.  (3 days ago)
+- [astral-sh/uv-pre-commit](https://github.com/astral-sh/uv-pre-commit) -  (3 days ago)
+- [TanStack/table](https://github.com/TanStack/table) - 🤖 Headless UI for building powerful tables &amp; datagrids for TS/JS -  React-Table, Vue-Table, Solid-Table, Svelte-Table (1 week ago)
 - [htmlstreamofficial/preline](https://github.com/htmlstreamofficial/preline) - Preline UI is an open-source set of prebuilt UI components based on the utility-first Tailwind CSS framework. (1 week ago)
 
 
