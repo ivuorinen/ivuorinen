@@ -8,11 +8,11 @@ I'm also a huge fan of open-source, and I try to contribute back to the communit
 
 #### 👷 Check out what I'm currently working on
 
-- [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) - These are my dotfiles. There are many like &#39;em, but these are mine. (1 day ago)
 - [ivuorinen/cheatsheet-tldr](https://github.com/ivuorinen/cheatsheet-tldr) - tldr-pages/tldr pages for cheat/cheat (1 day ago)
 - [ivuorinen/starred](https://github.com/ivuorinen/starred) - Automatically updated list of my starred repos. (1 day ago)
-- [ivuorinen/gh-codeql-report](https://github.com/ivuorinen/gh-codeql-report) - Collect repository CodeQL findings as a LLM-friendly report for easier fixing. (1 day ago)
-- [ivuorinen/homebrew-tap](https://github.com/ivuorinen/homebrew-tap) - brew tap ivuorinen/tap (6 days ago)
+- [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) - These are my dotfiles. There are many like &#39;em, but these are mine. (2 days ago)
+- [ivuorinen/gh-codeql-report](https://github.com/ivuorinen/gh-codeql-report) - Collect repository CodeQL findings as a LLM-friendly report for easier fixing. (2 days ago)
+- [ivuorinen/homebrew-tap](https://github.com/ivuorinen/homebrew-tap) - brew tap ivuorinen/tap (1 week ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -24,19 +24,19 @@ I'm also a huge fan of open-source, and I try to contribute back to the communit
 
 #### 🚀 Latest releases I've contributed to
 
-- [ivuorinen/actions](https://github.com/ivuorinen/actions) ([25.9.30](https://github.com/ivuorinen/actions/releases/tag/25.9.30), 1 day ago) - ivuorinen&#39;s shared actions
-- [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) ([25.9.30](https://github.com/ivuorinen/dotfiles/releases/tag/25.9.30), 1 day ago) - These are my dotfiles. There are many like &#39;em, but these are mine.
-- [ivuorinen/gh-codeql-report](https://github.com/ivuorinen/gh-codeql-report) ([v1.0.1](https://github.com/ivuorinen/gh-codeql-report/releases/tag/v1.0.1), 1 day ago) - Collect repository CodeQL findings as a LLM-friendly report for easier fixing.
-- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-09-30-polish-robin](https://github.com/mason-org/mason-registry/releases/tag/2025-09-30-polish-robin), 1 day ago) - Core registry for mason.nvim.
-- [ivuorinen/nvim-shellspec](https://github.com/ivuorinen/nvim-shellspec) ([2.0.1](https://github.com/ivuorinen/nvim-shellspec/releases/tag/2.0.1), 3 weeks ago) - vim and neovim shellspec language support and basic formatter
+- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-10-01-trashy-trade](https://github.com/mason-org/mason-registry/releases/tag/2025-10-01-trashy-trade), 1 day ago) - Core registry for mason.nvim.
+- [ivuorinen/actions](https://github.com/ivuorinen/actions) ([25.10.1](https://github.com/ivuorinen/actions/releases/tag/25.10.1), 1 day ago) - ivuorinen&#39;s shared actions
+- [ivuorinen/ivuorinen](https://github.com/ivuorinen/ivuorinen) ([2025.10.0](https://github.com/ivuorinen/ivuorinen/releases/tag/2025.10.0), 1 day ago) - My special github profile header
+- [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) ([25.9.30](https://github.com/ivuorinen/dotfiles/releases/tag/25.9.30), 2 days ago) - These are my dotfiles. There are many like &#39;em, but these are mine.
+- [ivuorinen/gh-codeql-report](https://github.com/ivuorinen/gh-codeql-report) ([v1.0.1](https://github.com/ivuorinen/gh-codeql-report/releases/tag/v1.0.1), 2 days ago) - Collect repository CodeQL findings as a LLM-friendly report for easier fixing.
 
 #### ⭐ Recent Stars
 
-- [Wilfred/difftastic](https://github.com/Wilfred/difftastic) - a structural diff that understands syntax 🟥🟩 (1 day ago)
-- [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands. (2 days ago)
-- [operacle/checkcle](https://github.com/operacle/checkcle) - CheckCle is a self-hosted, open-source monitoring platform for seamless, real-time full-stack systems, applications, and infrastructure. It provides real-time uptime monitoring, distributed checks, incident tracking, and alerts. All deployable anywhere. (2 days ago)
-- [MirrowApp/mirrow](https://github.com/MirrowApp/mirrow) - SVGs. One file. Zero fuss.  (2 days ago)
-- [openai/codex](https://github.com/openai/codex) - Lightweight coding agent that runs in your terminal (2 days ago)
+- [Wilfred/difftastic](https://github.com/Wilfred/difftastic) - a structural diff that understands syntax 🟥🟩 (2 days ago)
+- [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands. (3 days ago)
+- [operacle/checkcle](https://github.com/operacle/checkcle) - CheckCle is a self-hosted, open-source monitoring platform for seamless, real-time full-stack systems, applications, and infrastructure. It provides real-time uptime monitoring, distributed checks, incident tracking, and alerts. All deployable anywhere. (3 days ago)
+- [MirrowApp/mirrow](https://github.com/MirrowApp/mirrow) - SVGs. One file. Zero fuss.  (3 days ago)
+- [openai/codex](https://github.com/openai/codex) - Lightweight coding agent that runs in your terminal (3 days ago)
 
 
 
