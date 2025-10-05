@@ -8,11 +8,11 @@ I'm also a huge fan of open-source, and I try to contribute back to the communit
 
 #### 👷 Check out what I'm currently working on
 
-- [ivuorinen/gh-action-readme](https://github.com/ivuorinen/gh-action-readme) - Transform your GitHub Actions into professional documentation with multiple themes, output formats, and enterprise-grade features. (today)
 - [ivuorinen/cheatsheet-tldr](https://github.com/ivuorinen/cheatsheet-tldr) - tldr-pages/tldr pages for cheat/cheat (1 day ago)
+- [ivuorinen/starred](https://github.com/ivuorinen/starred) - Automatically updated list of my starred repos. (1 day ago)
 - [ivuorinen/shellspec-zed](https://github.com/ivuorinen/shellspec-zed) - Language support for ShellSpec BDD testing framework (1 day ago)
 - [ivuorinen/nvim-shellspec](https://github.com/ivuorinen/nvim-shellspec) - vim and neovim shellspec language support and basic formatter (1 day ago)
-- [ivuorinen/starred](https://github.com/ivuorinen/starred) - Automatically updated list of my starred repos. (1 day ago)
+- [ivuorinen/gh-action-readme](https://github.com/ivuorinen/gh-action-readme) - Transform your GitHub Actions into professional documentation with multiple themes, output formats, and enterprise-grade features. (1 day ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -24,19 +24,19 @@ I'm also a huge fan of open-source, and I try to contribute back to the communit
 
 #### 🚀 Latest releases I've contributed to
 
-- [ivuorinen/gh-action-readme](https://github.com/ivuorinen/gh-action-readme) ([v0.1.0](https://github.com/ivuorinen/gh-action-readme/releases/tag/v0.1.0), 1 day ago) - Transform your GitHub Actions into professional documentation with multiple themes, output formats, and enterprise-grade features.
-- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-10-03-cool-male](https://github.com/mason-org/mason-registry/releases/tag/2025-10-03-cool-male), 1 day ago) - Core registry for mason.nvim.
-- [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) ([25.10.3](https://github.com/ivuorinen/dotfiles/releases/tag/25.10.3), 1 day ago) - These are my dotfiles. There are many like &#39;em, but these are mine.
-- [ivuorinen/actions](https://github.com/ivuorinen/actions) ([25.10.1](https://github.com/ivuorinen/actions/releases/tag/25.10.1), 3 days ago) - ivuorinen&#39;s shared actions
-- [ivuorinen/ivuorinen](https://github.com/ivuorinen/ivuorinen) ([2025.10.0](https://github.com/ivuorinen/ivuorinen/releases/tag/2025.10.0), 3 days ago) - My special github profile header
+- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-10-04-casual-frost](https://github.com/mason-org/mason-registry/releases/tag/2025-10-04-casual-frost), 1 day ago) - Core registry for mason.nvim.
+- [ivuorinen/gh-action-readme](https://github.com/ivuorinen/gh-action-readme) ([v0.1.0](https://github.com/ivuorinen/gh-action-readme/releases/tag/v0.1.0), 2 days ago) - Transform your GitHub Actions into professional documentation with multiple themes, output formats, and enterprise-grade features.
+- [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) ([25.10.3](https://github.com/ivuorinen/dotfiles/releases/tag/25.10.3), 2 days ago) - These are my dotfiles. There are many like &#39;em, but these are mine.
+- [ivuorinen/actions](https://github.com/ivuorinen/actions) ([25.10.1](https://github.com/ivuorinen/actions/releases/tag/25.10.1), 4 days ago) - ivuorinen&#39;s shared actions
+- [ivuorinen/ivuorinen](https://github.com/ivuorinen/ivuorinen) ([2025.10.0](https://github.com/ivuorinen/ivuorinen/releases/tag/2025.10.0), 4 days ago) - My special github profile header
 
 #### ⭐ Recent Stars
 
-- [Wilfred/difftastic](https://github.com/Wilfred/difftastic) - a structural diff that understands syntax 🟥🟩 (4 days ago)
-- [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands. (5 days ago)
-- [operacle/checkcle](https://github.com/operacle/checkcle) - CheckCle is a self-hosted, open-source monitoring platform for seamless, real-time full-stack systems, applications, and infrastructure. It provides real-time uptime monitoring, distributed checks, incident tracking, and alerts. All deployable anywhere. (5 days ago)
-- [MirrowApp/mirrow](https://github.com/MirrowApp/mirrow) - SVGs. One file. Zero fuss.  (5 days ago)
-- [openai/codex](https://github.com/openai/codex) - Lightweight coding agent that runs in your terminal (5 days ago)
+- [Wilfred/difftastic](https://github.com/Wilfred/difftastic) - a structural diff that understands syntax 🟥🟩 (5 days ago)
+- [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands. (6 days ago)
+- [operacle/checkcle](https://github.com/operacle/checkcle) - CheckCle is a self-hosted, open-source monitoring platform for seamless, real-time full-stack systems, applications, and infrastructure. It provides real-time uptime monitoring, distributed checks, incident tracking, and alerts. All deployable anywhere. (6 days ago)
+- [MirrowApp/mirrow](https://github.com/MirrowApp/mirrow) - SVGs. One file. Zero fuss.  (6 days ago)
+- [openai/codex](https://github.com/openai/codex) - Lightweight coding agent that runs in your terminal (6 days ago)
 
 
 
