@@ -10,9 +10,9 @@ I'm also a huge fan of open-source, and I try to contribute back to the communit
 
 - [ivuorinen/cheatsheet-tldr](https://github.com/ivuorinen/cheatsheet-tldr) - tldr-pages/tldr pages for cheat/cheat (1 day ago)
 - [ivuorinen/starred](https://github.com/ivuorinen/starred) - Automatically updated list of my starred repos. (1 day ago)
-- [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) - These are my dotfiles. There are many like &#39;em, but these are mine. (3 days ago)
-- [ivuorinen/nvim-shellspec](https://github.com/ivuorinen/nvim-shellspec) - vim and neovim shellspec language support and basic formatter (5 days ago)
-- [ivuorinen/shellspec-zed](https://github.com/ivuorinen/shellspec-zed) - Language support for ShellSpec BDD testing framework (5 days ago)
+- [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) - These are my dotfiles. There are many like &#39;em, but these are mine. (4 days ago)
+- [ivuorinen/nvim-shellspec](https://github.com/ivuorinen/nvim-shellspec) - vim and neovim shellspec language support and basic formatter (6 days ago)
+- [ivuorinen/shellspec-zed](https://github.com/ivuorinen/shellspec-zed) - Language support for ShellSpec BDD testing framework (6 days ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -24,17 +24,17 @@ I'm also a huge fan of open-source, and I try to contribute back to the communit
 
 #### 🚀 Latest releases I've contributed to
 
-- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-10-08-wet-fight](https://github.com/mason-org/mason-registry/releases/tag/2025-10-08-wet-fight), 1 day ago) - Core registry for mason.nvim.
-- [ivuorinen/actions](https://github.com/ivuorinen/actions) ([25.10.7](https://github.com/ivuorinen/actions/releases/tag/25.10.7), 2 days ago) - ivuorinen&#39;s shared actions
-- [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) ([25.10.6](https://github.com/ivuorinen/dotfiles/releases/tag/25.10.6), 3 days ago) - These are my dotfiles. There are many like &#39;em, but these are mine.
-- [ivuorinen/gh-action-readme](https://github.com/ivuorinen/gh-action-readme) ([v0.1.0](https://github.com/ivuorinen/gh-action-readme/releases/tag/v0.1.0), 6 days ago) - Transform your GitHub Actions into professional documentation with multiple themes, output formats, and enterprise-grade features.
+- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-10-09-vital-den](https://github.com/mason-org/mason-registry/releases/tag/2025-10-09-vital-den), 1 day ago) - Core registry for mason.nvim.
+- [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) ([25.10.9](https://github.com/ivuorinen/dotfiles/releases/tag/25.10.9), 1 day ago) - These are my dotfiles. There are many like &#39;em, but these are mine.
+- [ivuorinen/actions](https://github.com/ivuorinen/actions) ([25.10.7](https://github.com/ivuorinen/actions/releases/tag/25.10.7), 3 days ago) - ivuorinen&#39;s shared actions
+- [ivuorinen/gh-action-readme](https://github.com/ivuorinen/gh-action-readme) ([v0.1.0](https://github.com/ivuorinen/gh-action-readme/releases/tag/v0.1.0), 1 week ago) - Transform your GitHub Actions into professional documentation with multiple themes, output formats, and enterprise-grade features.
 - [ivuorinen/ivuorinen](https://github.com/ivuorinen/ivuorinen) ([2025.10.0](https://github.com/ivuorinen/ivuorinen/releases/tag/2025.10.0), 1 week ago) - My special github profile header
 
 #### ⭐ Recent Stars
 
-- [localtest-dot-me/localtest-dot-me.github.com](https://github.com/localtest-dot-me/localtest-dot-me.github.com) -  (1 day ago)
-- [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore (4 days ago)
-- [uutils/coreutils](https://github.com/uutils/coreutils) - Cross-platform Rust rewrite of the GNU coreutils (4 days ago)
+- [localtest-dot-me/localtest-dot-me.github.com](https://github.com/localtest-dot-me/localtest-dot-me.github.com) -  (2 days ago)
+- [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore (5 days ago)
+- [uutils/coreutils](https://github.com/uutils/coreutils) - Cross-platform Rust rewrite of the GNU coreutils (5 days ago)
 - [Wilfred/difftastic](https://github.com/Wilfred/difftastic) - a structural diff that understands syntax 🟥🟩 (1 week ago)
 - [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands. (1 week ago)
 
