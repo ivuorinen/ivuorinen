@@ -8,11 +8,11 @@ I'm also a huge fan of open-source, and I try to contribute back to the communit
 
 #### 👷 Check out what I'm currently working on
 
-- [ivuorinen/cheatsheet-tldr](https://github.com/ivuorinen/cheatsheet-tldr) - tldr-pages/tldr pages for cheat/cheat (today)
-- [ivuorinen/phpenv.fish](https://github.com/ivuorinen/phpenv.fish) - A fast, feature-rich PHP version manager for Fish Shell using brew that acts like goenv or nvm. (1 day ago)
-- [ivuorinen/starred](https://github.com/ivuorinen/starred) - Automatically updated list of my starred repos. (1 day ago)
-- [ivuorinen/uptime](https://github.com/ivuorinen/uptime) - Public uptime checker for some of my sites (1 day ago)
-- [ivuorinen/shellspec-zed](https://github.com/ivuorinen/shellspec-zed) - Language support for ShellSpec BDD testing framework (2 days ago)
+- [ivuorinen/cheatsheet-tldr](https://github.com/ivuorinen/cheatsheet-tldr) - tldr-pages/tldr pages for cheat/cheat (1 day ago)
+- [ivuorinen/phpenv.fish](https://github.com/ivuorinen/phpenv.fish) - A fast, feature-rich PHP version manager for Fish Shell using brew that acts like goenv or nvm. (2 days ago)
+- [ivuorinen/starred](https://github.com/ivuorinen/starred) - Automatically updated list of my starred repos. (2 days ago)
+- [ivuorinen/uptime](https://github.com/ivuorinen/uptime) - Public uptime checker for some of my sites (2 days ago)
+- [ivuorinen/shellspec-zed](https://github.com/ivuorinen/shellspec-zed) - Language support for ShellSpec BDD testing framework (3 days ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -24,16 +24,16 @@ I'm also a huge fan of open-source, and I try to contribute back to the communit
 
 #### 🚀 Latest releases I've contributed to
 
-- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-10-12-crabby-camp](https://github.com/mason-org/mason-registry/releases/tag/2025-10-12-crabby-camp), today) - Core registry for mason.nvim.
-- [ivuorinen/config-checker](https://github.com/ivuorinen/config-checker) ([v1.0.0](https://github.com/ivuorinen/config-checker/releases/tag/v1.0.0), 2 days ago) - Checks the commonly used configuration locations for configuration files
-- [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) ([25.10.10](https://github.com/ivuorinen/dotfiles/releases/tag/25.10.10), 2 days ago) - These are my dotfiles. There are many like &#39;em, but these are mine.
-- [ivuorinen/actions](https://github.com/ivuorinen/actions) ([25.10.7](https://github.com/ivuorinen/actions/releases/tag/25.10.7), 5 days ago) - ivuorinen&#39;s shared actions
+- [ivuorinen/actions](https://github.com/ivuorinen/actions) ([25.10.12](https://github.com/ivuorinen/actions/releases/tag/25.10.12), 1 day ago) - ivuorinen&#39;s shared actions
+- [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) ([25.10.12](https://github.com/ivuorinen/dotfiles/releases/tag/25.10.12), 1 day ago) - These are my dotfiles. There are many like &#39;em, but these are mine.
+- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-10-12-crabby-camp](https://github.com/mason-org/mason-registry/releases/tag/2025-10-12-crabby-camp), 1 day ago) - Core registry for mason.nvim.
+- [ivuorinen/config-checker](https://github.com/ivuorinen/config-checker) ([v1.0.0](https://github.com/ivuorinen/config-checker/releases/tag/v1.0.0), 3 days ago) - Checks the commonly used configuration locations for configuration files
 - [ivuorinen/gh-action-readme](https://github.com/ivuorinen/gh-action-readme) ([v0.1.0](https://github.com/ivuorinen/gh-action-readme/releases/tag/v0.1.0), 1 week ago) - Transform your GitHub Actions into professional documentation with multiple themes, output formats, and enterprise-grade features.
 
 #### ⭐ Recent Stars
 
-- [github/local-action](https://github.com/github/local-action) - A simple utility for running and debugging a GitHub Action locally (today)
-- [localtest-dot-me/localtest-dot-me.github.com](https://github.com/localtest-dot-me/localtest-dot-me.github.com) -  (4 days ago)
+- [github/local-action](https://github.com/github/local-action) - A simple utility for running and debugging a GitHub Action locally (1 day ago)
+- [localtest-dot-me/localtest-dot-me.github.com](https://github.com/localtest-dot-me/localtest-dot-me.github.com) -  (5 days ago)
 - [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore (1 week ago)
 - [uutils/coreutils](https://github.com/uutils/coreutils) - Cross-platform Rust rewrite of the GNU coreutils (1 week ago)
 - [Wilfred/difftastic](https://github.com/Wilfred/difftastic) - a structural diff that understands syntax 🟥🟩 (1 week ago)
