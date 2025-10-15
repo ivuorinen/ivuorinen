@@ -8,10 +8,10 @@ I'm also a huge fan of open-source, and I try to contribute back to the communit
 
 #### 👷 Check out what I'm currently working on
 
-- [ivuorinen/cheatsheet-tldr](https://github.com/ivuorinen/cheatsheet-tldr) - tldr-pages/tldr pages for cheat/cheat (1 day ago)
-- [ivuorinen/actions](https://github.com/ivuorinen/actions) - ivuorinen&#39;s shared actions (1 day ago)
+- [ivuorinen/cheatsheet-tldr](https://github.com/ivuorinen/cheatsheet-tldr) - tldr-pages/tldr pages for cheat/cheat (today)
+- [ivuorinen/starred](https://github.com/ivuorinen/starred) - Automatically updated list of my starred repos. (today)
+- [ivuorinen/actions](https://github.com/ivuorinen/actions) - ivuorinen&#39;s shared actions (today)
 - [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) - These are my dotfiles. There are many like &#39;em, but these are mine. (2 days ago)
-- [ivuorinen/starred](https://github.com/ivuorinen/starred) - Automatically updated list of my starred repos. (2 days ago)
 - [ivuorinen/uptime](https://github.com/ivuorinen/uptime) - Public uptime checker for some of my sites (4 days ago)
 
 #### 👨‍💻 Repositories I created recently
@@ -24,7 +24,7 @@ I'm also a huge fan of open-source, and I try to contribute back to the communit
 
 #### 🚀 Latest releases I've contributed to
 
-- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-10-14-gloomy-veil](https://github.com/mason-org/mason-registry/releases/tag/2025-10-14-gloomy-veil), 1 day ago) - Core registry for mason.nvim.
+- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-10-15-nasty-ghana](https://github.com/mason-org/mason-registry/releases/tag/2025-10-15-nasty-ghana), today) - Core registry for mason.nvim.
 - [ivuorinen/actions](https://github.com/ivuorinen/actions) ([25.10.14](https://github.com/ivuorinen/actions/releases/tag/25.10.14), 1 day ago) - ivuorinen&#39;s shared actions
 - [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) ([25.10.13](https://github.com/ivuorinen/dotfiles/releases/tag/25.10.13), 2 days ago) - These are my dotfiles. There are many like &#39;em, but these are mine.
 - [ivuorinen/config-checker](https://github.com/ivuorinen/config-checker) ([v1.0.0](https://github.com/ivuorinen/config-checker/releases/tag/v1.0.0), 5 days ago) - Checks the commonly used configuration locations for configuration files
