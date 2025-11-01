@@ -9,10 +9,10 @@ I'm also a huge fan of open-source, and I try to contribute back to the communit
 #### 👷 Check out what I'm currently working on
 
 - [ivuorinen/cheatsheet-tldr](https://github.com/ivuorinen/cheatsheet-tldr) - tldr-pages/tldr pages for cheat/cheat (1 day ago)
-- [ivuorinen/starred](https://github.com/ivuorinen/starred) - Automatically updated list of my starred repos. (2 days ago)
-- [ivuorinen/actions](https://github.com/ivuorinen/actions) - ivuorinen&#39;s shared actions (3 days ago)
+- [ivuorinen/starred](https://github.com/ivuorinen/starred) - Automatically updated list of my starred repos. (1 day ago)
+- [ivuorinen/actions](https://github.com/ivuorinen/actions) - ivuorinen&#39;s shared actions (1 day ago)
+- [ivuorinen/monolog-gdpr-filter](https://github.com/ivuorinen/monolog-gdpr-filter) - Monolog processor for GDPR masking with regex and dot-notation path (1 day ago)
 - [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) - These are my dotfiles. There are many like &#39;em, but these are mine. (1 week ago)
-- [ivuorinen/nvim-shellspec](https://github.com/ivuorinen/nvim-shellspec) - vim and neovim shellspec language support and basic formatter (1 week ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -24,16 +24,16 @@ I'm also a huge fan of open-source, and I try to contribute back to the communit
 
 #### 🚀 Latest releases I've contributed to
 
-- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-10-31-back-terrain](https://github.com/mason-org/mason-registry/releases/tag/2025-10-31-back-terrain), today) - Core registry for mason.nvim.
-- [ivuorinen/actions](https://github.com/ivuorinen/actions) ([25.10.28](https://github.com/ivuorinen/actions/releases/tag/25.10.28), 3 days ago) - ivuorinen&#39;s shared actions
+- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-10-31-robust-pepper](https://github.com/mason-org/mason-registry/releases/tag/2025-10-31-robust-pepper), 1 day ago) - Core registry for mason.nvim.
+- [ivuorinen/actions](https://github.com/ivuorinen/actions) ([25.10.31](https://github.com/ivuorinen/actions/releases/tag/25.10.31), 1 day ago) - ivuorinen&#39;s shared actions
 - [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) ([25.10.13](https://github.com/ivuorinen/dotfiles/releases/tag/25.10.13), 2 weeks ago) - These are my dotfiles. There are many like &#39;em, but these are mine.
 - [ivuorinen/config-checker](https://github.com/ivuorinen/config-checker) ([v1.0.0](https://github.com/ivuorinen/config-checker/releases/tag/v1.0.0), 3 weeks ago) - Checks the commonly used configuration locations for configuration files
 - [ivuorinen/gh-action-readme](https://github.com/ivuorinen/gh-action-readme) ([v0.1.0](https://github.com/ivuorinen/gh-action-readme/releases/tag/v0.1.0), 4 weeks ago) - Transform your GitHub Actions into professional documentation with multiple themes, output formats, and enterprise-grade features.
 
 #### ⭐ Recent Stars
 
-- [supermemoryai/supermemory](https://github.com/supermemoryai/supermemory) - Memory engine and app that is extremely fast, scalable. The Memory API for the AI era. (3 days ago)
-- [alessandrojcm/commitlint-pre-commit-hook](https://github.com/alessandrojcm/commitlint-pre-commit-hook) - A pre-commit hook for commitlint (5 days ago)
+- [supermemoryai/supermemory](https://github.com/supermemoryai/supermemory) - Memory engine and app that is extremely fast, scalable. The Memory API for the AI era. (4 days ago)
+- [alessandrojcm/commitlint-pre-commit-hook](https://github.com/alessandrojcm/commitlint-pre-commit-hook) - A pre-commit hook for commitlint (6 days ago)
 - [benbristow/dokploy-compose-templates](https://github.com/benbristow/dokploy-compose-templates) - Collection of docker-compose configs for self-hosted tools, compatible with Dokploy (1 week ago)
 - [rnwood/smtp4dev](https://github.com/rnwood/smtp4dev) - smtp4dev - the fake smtp email server for development and testing (1 week ago)
 - [anthropics/skills](https://github.com/anthropics/skills) - Public repository for Skills (1 week ago)
