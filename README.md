@@ -9,10 +9,10 @@ I'm also a huge fan of open-source, and I try to contribute back to the communit
 #### 👷 Check out what I'm currently working on
 
 - [ivuorinen/cheatsheet-tldr](https://github.com/ivuorinen/cheatsheet-tldr) - tldr-pages/tldr pages for cheat/cheat (1 day ago)
-- [ivuorinen/starred](https://github.com/ivuorinen/starred) - Automatically updated list of my starred repos. (1 day ago)
-- [ivuorinen/base-configs](https://github.com/ivuorinen/base-configs) - A collection of base configs for code quality and linting tools. Heavily based on `@demartini/base-configs` (1 day ago)
-- [ivuorinen/actions](https://github.com/ivuorinen/actions) - ivuorinen&#39;s shared actions (3 days ago)
-- [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) - These are my dotfiles. There are many like &#39;em, but these are mine. (4 days ago)
+- [ivuorinen/starred](https://github.com/ivuorinen/starred) - Automatically updated list of my starred repos. (2 days ago)
+- [ivuorinen/base-configs](https://github.com/ivuorinen/base-configs) - A collection of base configs for code quality and linting tools. Heavily based on `@demartini/base-configs` (2 days ago)
+- [ivuorinen/actions](https://github.com/ivuorinen/actions) - ivuorinen&#39;s shared actions (4 days ago)
+- [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) - These are my dotfiles. There are many like &#39;em, but these are mine. (5 days ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -24,19 +24,19 @@ I'm also a huge fan of open-source, and I try to contribute back to the communit
 
 #### 🚀 Latest releases I've contributed to
 
-- [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) ([25.11.16](https://github.com/ivuorinen/dotfiles/releases/tag/25.11.16), 1 day ago) - These are my dotfiles. There are many like &#39;em, but these are mine.
-- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-11-16-nosy-radish](https://github.com/mason-org/mason-registry/releases/tag/2025-11-16-nosy-radish), 1 day ago) - Core registry for mason.nvim.
-- [ivuorinen/actions](https://github.com/ivuorinen/actions) ([25.11.14](https://github.com/ivuorinen/actions/releases/tag/25.11.14), 3 days ago) - ivuorinen&#39;s shared actions
+- [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) ([25.11.17](https://github.com/ivuorinen/dotfiles/releases/tag/25.11.17), 1 day ago) - These are my dotfiles. There are many like &#39;em, but these are mine.
+- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-11-17-third-shame](https://github.com/mason-org/mason-registry/releases/tag/2025-11-17-third-shame), 1 day ago) - Core registry for mason.nvim.
+- [ivuorinen/actions](https://github.com/ivuorinen/actions) ([25.11.14](https://github.com/ivuorinen/actions/releases/tag/25.11.14), 4 days ago) - ivuorinen&#39;s shared actions
 - [ivuorinen/ivuorinen](https://github.com/ivuorinen/ivuorinen) ([2025.11.0](https://github.com/ivuorinen/ivuorinen/releases/tag/2025.11.0), 2 weeks ago) - My special github profile header
 - [ivuorinen/config-checker](https://github.com/ivuorinen/config-checker) ([v1.0.0](https://github.com/ivuorinen/config-checker/releases/tag/v1.0.0), 1 month ago) - Checks the commonly used configuration locations for configuration files
 
 #### ⭐ Recent Stars
 
-- [j178/prek](https://github.com/j178/prek) - ⚡ Better `pre-commit`, re-engineered in Rust (2 days ago)
+- [j178/prek](https://github.com/j178/prek) - ⚡ Better `pre-commit`, re-engineered in Rust (3 days ago)
 - [Hammerspoon/hammerspoon](https://github.com/Hammerspoon/hammerspoon) - Staggeringly powerful macOS desktop automation with Lua (1 week ago)
 - [shotgun-sh/shotgun](https://github.com/shotgun-sh/shotgun) - Spec Driven Development 🤠 Write codebase-aware specs for AI coding agents so they don&#39;t derail. (1 week ago)
-- [chris48s/v8r](https://github.com/chris48s/v8r) - ✔️ A command-line JSON, YAML and TOML validator that&#39;s on your wavelength (1 week ago)
-- [santhosh-tekuri/boon](https://github.com/santhosh-tekuri/boon) - JSONSchema (draft 2020-12, draft 2019-09, draft-7, draft-6, draft-4) Validation in Rust (1 week ago)
+- [chris48s/v8r](https://github.com/chris48s/v8r) - ✔️ A command-line JSON, YAML and TOML validator that&#39;s on your wavelength (2 weeks ago)
+- [santhosh-tekuri/boon](https://github.com/santhosh-tekuri/boon) - JSONSchema (draft 2020-12, draft 2019-09, draft-7, draft-6, draft-4) Validation in Rust (2 weeks ago)
 
 
 
