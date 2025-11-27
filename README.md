@@ -8,11 +8,11 @@ I'm also a huge fan of open-source, and I try to contribute back to the communit
 
 #### 👷 Check out what I'm currently working on
 
-- [ivuorinen/tree-sitter-shellspec](https://github.com/ivuorinen/tree-sitter-shellspec) - Tree-Sitter Definitions for ShellSpec BDD testing framework (1 day ago)
+- [ivuorinen/nvim-shellspec](https://github.com/ivuorinen/nvim-shellspec) - vim and neovim shellspec language support and basic formatter (1 day ago)
 - [ivuorinen/cheatsheet-tldr](https://github.com/ivuorinen/cheatsheet-tldr) - tldr-pages/tldr pages for cheat/cheat (1 day ago)
-- [ivuorinen/actions](https://github.com/ivuorinen/actions) - ivuorinen&#39;s shared actions (1 day ago)
-- [ivuorinen/github-base-template](https://github.com/ivuorinen/github-base-template) - This is my base GitHub repository template with actions, and other stuff pre configured. (1 day ago)
-- [ivuorinen/sysvinit-service-generator](https://github.com/ivuorinen/sysvinit-service-generator) - Vue 3 app for creating sysvinit service scripts (1 day ago)
+- [ivuorinen/starred](https://github.com/ivuorinen/starred) - Automatically updated list of my starred repos. (1 day ago)
+- [ivuorinen/phpenv.fish](https://github.com/ivuorinen/phpenv.fish) - A fast, feature-rich PHP version manager for Fish Shell using brew that acts like goenv or nvm. (1 day ago)
+- [ivuorinen/shellspec-zed](https://github.com/ivuorinen/shellspec-zed) - Language support for ShellSpec BDD testing framework (1 day ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -24,17 +24,17 @@ I'm also a huge fan of open-source, and I try to contribute back to the communit
 
 #### 🚀 Latest releases I've contributed to
 
-- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-11-26-lumpy-copper](https://github.com/mason-org/mason-registry/releases/tag/2025-11-26-lumpy-copper), today) - Core registry for mason.nvim.
-- [ivuorinen/actions](https://github.com/ivuorinen/actions) ([v25.11.25](https://github.com/ivuorinen/actions/releases/tag/v25.11.25), 1 day ago) - ivuorinen&#39;s shared actions
-- [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) ([25.11.24](https://github.com/ivuorinen/dotfiles/releases/tag/25.11.24), 2 days ago) - These are my dotfiles. There are many like &#39;em, but these are mine.
+- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-11-27-charming-slip](https://github.com/mason-org/mason-registry/releases/tag/2025-11-27-charming-slip), today) - Core registry for mason.nvim.
+- [ivuorinen/actions](https://github.com/ivuorinen/actions) ([v25.11.26](https://github.com/ivuorinen/actions/releases/tag/v25.11.26), 1 day ago) - ivuorinen&#39;s shared actions
+- [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) ([25.11.24](https://github.com/ivuorinen/dotfiles/releases/tag/25.11.24), 3 days ago) - These are my dotfiles. There are many like &#39;em, but these are mine.
 - [ivuorinen/hiha-arvio](https://github.com/ivuorinen/hiha-arvio) ([v0.0.3](https://github.com/ivuorinen/hiha-arvio/releases/tag/v0.0.3), 1 week ago)
 - [ivuorinen/ivuorinen](https://github.com/ivuorinen/ivuorinen) ([2025.11.0](https://github.com/ivuorinen/ivuorinen/releases/tag/2025.11.0), 3 weeks ago) - My special github profile header
 
 #### ⭐ Recent Stars
 
-- [mawinkler/astroweather](https://github.com/mawinkler/astroweather) - Asynchronous Astro Weather Forecast for Home Assistant (3 days ago)
-- [error311/FileRise](https://github.com/error311/FileRise) - 🗂️ FileRise – lightweight, self-hosted file manager with granular ACLs, shared uploads, WebDAV &amp; SSO. Fully Docker / Unraid compatible. (3 days ago)
-- [EveryInc/every-marketplace](https://github.com/EveryInc/every-marketplace) - Official Every-Env plugin marketplace for Claude Code extensions (3 days ago)
+- [mawinkler/astroweather](https://github.com/mawinkler/astroweather) - Asynchronous Astro Weather Forecast for Home Assistant (4 days ago)
+- [error311/FileRise](https://github.com/error311/FileRise) - 🗂️ FileRise – lightweight, self-hosted file manager with granular ACLs, shared uploads, WebDAV &amp; SSO. Fully Docker / Unraid compatible. (4 days ago)
+- [EveryInc/compounding-engineering-plugin](https://github.com/EveryInc/compounding-engineering-plugin) - Official Claude Code compounding engineering plugin (4 days ago)
 - [j178/prek](https://github.com/j178/prek) - ⚡ Better `pre-commit`, re-engineered in Rust (1 week ago)
 - [Hammerspoon/hammerspoon](https://github.com/Hammerspoon/hammerspoon) - Staggeringly powerful macOS desktop automation with Lua (2 weeks ago)
 
