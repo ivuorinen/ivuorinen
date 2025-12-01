@@ -9,10 +9,10 @@ I'm also a huge fan of open-source, and I try to contribute back to the communit
 #### 👷 Check out what I'm currently working on
 
 - [ivuorinen/cheatsheet-tldr](https://github.com/ivuorinen/cheatsheet-tldr) - tldr-pages/tldr pages for cheat/cheat (1 day ago)
-- [ivuorinen/starred](https://github.com/ivuorinen/starred) - Automatically updated list of my starred repos. (1 day ago)
-- [ivuorinen/base-configs-browserslist](https://github.com/ivuorinen/base-configs-browserslist) - ivuorinen&#39;s shareable configuration for Browserslist. (2 days ago)
-- [ivuorinen/actions](https://github.com/ivuorinen/actions) - ivuorinen&#39;s shared actions (2 days ago)
-- [ivuorinen/phpenv.fish](https://github.com/ivuorinen/phpenv.fish) - A fast, feature-rich PHP version manager for Fish Shell using brew that acts like goenv or nvm. (2 days ago)
+- [ivuorinen/actions](https://github.com/ivuorinen/actions) - ivuorinen&#39;s shared actions (1 day ago)
+- [ivuorinen/starred](https://github.com/ivuorinen/starred) - Automatically updated list of my starred repos. (2 days ago)
+- [ivuorinen/base-configs-browserslist](https://github.com/ivuorinen/base-configs-browserslist) - ivuorinen&#39;s shareable configuration for Browserslist. (3 days ago)
+- [ivuorinen/phpenv.fish](https://github.com/ivuorinen/phpenv.fish) - A fast, feature-rich PHP version manager for Fish Shell using brew that acts like goenv or nvm. (3 days ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -24,11 +24,11 @@ I'm also a huge fan of open-source, and I try to contribute back to the communit
 
 #### 🚀 Latest releases I've contributed to
 
-- [ivuorinen/actions](https://github.com/ivuorinen/actions) ([v2025.11.29](https://github.com/ivuorinen/actions/releases/tag/v2025.11.29), 1 day ago) - ivuorinen&#39;s shared actions
-- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-11-29-sane-rhino](https://github.com/mason-org/mason-registry/releases/tag/2025-11-29-sane-rhino), 1 day ago) - Core registry for mason.nvim.
-- [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) ([25.11.27](https://github.com/ivuorinen/dotfiles/releases/tag/25.11.27), 3 days ago) - These are my dotfiles. There are many like &#39;em, but these are mine.
+- [ivuorinen/actions](https://github.com/ivuorinen/actions) ([v2025.11.30](https://github.com/ivuorinen/actions/releases/tag/v2025.11.30), 1 day ago) - ivuorinen&#39;s shared actions
+- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-11-30-hungry-coach](https://github.com/mason-org/mason-registry/releases/tag/2025-11-30-hungry-coach), 1 day ago) - Core registry for mason.nvim.
+- [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) ([25.11.27](https://github.com/ivuorinen/dotfiles/releases/tag/25.11.27), 4 days ago) - These are my dotfiles. There are many like &#39;em, but these are mine.
 - [ivuorinen/hiha-arvio](https://github.com/ivuorinen/hiha-arvio) ([v0.0.3](https://github.com/ivuorinen/hiha-arvio/releases/tag/v0.0.3), 1 week ago)
-- [ivuorinen/ivuorinen](https://github.com/ivuorinen/ivuorinen) ([2025.11.0](https://github.com/ivuorinen/ivuorinen/releases/tag/2025.11.0), 4 weeks ago) - My special github profile header
+- [ivuorinen/ivuorinen](https://github.com/ivuorinen/ivuorinen) ([2025.11.0](https://github.com/ivuorinen/ivuorinen/releases/tag/2025.11.0), 1 month ago) - My special github profile header
 
 #### ⭐ Recent Stars
 
