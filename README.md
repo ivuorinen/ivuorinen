@@ -24,7 +24,7 @@ I'm also a huge fan of open-source, and I try to contribute back to the communit
 
 #### 🚀 Latest releases I've contributed to
 
-- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-12-01-global-pest](https://github.com/mason-org/mason-registry/releases/tag/2025-12-01-global-pest), 1 day ago) - Core registry for mason.nvim.
+- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-12-02-faint-shad](https://github.com/mason-org/mason-registry/releases/tag/2025-12-02-faint-shad), today) - Core registry for mason.nvim.
 - [ivuorinen/actions](https://github.com/ivuorinen/actions) ([v2025.12.01](https://github.com/ivuorinen/actions/releases/tag/v2025.12.01), 1 day ago) - ivuorinen&#39;s shared actions
 - [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) ([25.12.1](https://github.com/ivuorinen/dotfiles/releases/tag/25.12.1), 1 day ago) - These are my dotfiles. There are many like &#39;em, but these are mine.
 - [ivuorinen/ivuorinen](https://github.com/ivuorinen/ivuorinen) ([2025.12.0](https://github.com/ivuorinen/ivuorinen/releases/tag/2025.12.0), 1 day ago) - My special github profile header
