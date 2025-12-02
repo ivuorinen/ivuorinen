@@ -8,11 +8,11 @@ I'm also a huge fan of open-source, and I try to contribute back to the communit
 
 #### 👷 Check out what I'm currently working on
 
+- [ivuorinen/config-checker](https://github.com/ivuorinen/config-checker) - Checks the commonly used configuration locations for configuration files (today)
 - [ivuorinen/cheatsheet-tldr](https://github.com/ivuorinen/cheatsheet-tldr) - tldr-pages/tldr pages for cheat/cheat (today)
 - [ivuorinen/starred](https://github.com/ivuorinen/starred) - Automatically updated list of my starred repos. (today)
-- [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) - These are my dotfiles. There are many like &#39;em, but these are mine. (1 day ago)
-- [ivuorinen/monolog-gdpr-filter](https://github.com/ivuorinen/monolog-gdpr-filter) - Monolog processor for GDPR masking with regex and dot-notation path (1 day ago)
 - [ivuorinen/base-configs-semantic-release](https://github.com/ivuorinen/base-configs-semantic-release) - ivuorinen&#39;s shareable configuration for semantic-release. (1 day ago)
+- [ivuorinen/base-configs-browserslist](https://github.com/ivuorinen/base-configs-browserslist) - ivuorinen&#39;s shareable configuration for Browserslist. (1 day ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -24,11 +24,11 @@ I'm also a huge fan of open-source, and I try to contribute back to the communit
 
 #### 🚀 Latest releases I've contributed to
 
-- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-12-02-faint-shad](https://github.com/mason-org/mason-registry/releases/tag/2025-12-02-faint-shad), today) - Core registry for mason.nvim.
+- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-12-02-snoopy-filly](https://github.com/mason-org/mason-registry/releases/tag/2025-12-02-snoopy-filly), today) - Core registry for mason.nvim.
+- [ivuorinen/config-checker](https://github.com/ivuorinen/config-checker) ([v2.1.1](https://github.com/ivuorinen/config-checker/releases/tag/v2.1.1), today) - Checks the commonly used configuration locations for configuration files
 - [ivuorinen/actions](https://github.com/ivuorinen/actions) ([v2025.12.01](https://github.com/ivuorinen/actions/releases/tag/v2025.12.01), 1 day ago) - ivuorinen&#39;s shared actions
 - [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) ([25.12.1](https://github.com/ivuorinen/dotfiles/releases/tag/25.12.1), 1 day ago) - These are my dotfiles. There are many like &#39;em, but these are mine.
 - [ivuorinen/ivuorinen](https://github.com/ivuorinen/ivuorinen) ([2025.12.0](https://github.com/ivuorinen/ivuorinen/releases/tag/2025.12.0), 1 day ago) - My special github profile header
-- [ivuorinen/hiha-arvio](https://github.com/ivuorinen/hiha-arvio) ([v0.0.3](https://github.com/ivuorinen/hiha-arvio/releases/tag/v0.0.3), 1 week ago)
 
 #### ⭐ Recent Stars
 
