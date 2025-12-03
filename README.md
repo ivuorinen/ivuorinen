@@ -8,9 +8,9 @@ I'm also a huge fan of open-source, and I try to contribute back to the communit
 
 #### 👷 Check out what I'm currently working on
 
+- [ivuorinen/cheatsheet-tldr](https://github.com/ivuorinen/cheatsheet-tldr) - tldr-pages/tldr pages for cheat/cheat (today)
+- [ivuorinen/starred](https://github.com/ivuorinen/starred) - Automatically updated list of my starred repos. (today)
 - [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) - These are my dotfiles. There are many like &#39;em, but these are mine. (1 day ago)
-- [ivuorinen/cheatsheet-tldr](https://github.com/ivuorinen/cheatsheet-tldr) - tldr-pages/tldr pages for cheat/cheat (1 day ago)
-- [ivuorinen/starred](https://github.com/ivuorinen/starred) - Automatically updated list of my starred repos. (1 day ago)
 - [ivuorinen/config-checker](https://github.com/ivuorinen/config-checker) - Checks the commonly used configuration locations for configuration files (1 day ago)
 - [ivuorinen/base-configs-semantic-release](https://github.com/ivuorinen/base-configs-semantic-release) - ivuorinen&#39;s shareable configuration for semantic-release. (2 days ago)
 
@@ -24,7 +24,7 @@ I'm also a huge fan of open-source, and I try to contribute back to the communit
 
 #### 🚀 Latest releases I've contributed to
 
-- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-12-02-pricey-pitch](https://github.com/mason-org/mason-registry/releases/tag/2025-12-02-pricey-pitch), 1 day ago) - Core registry for mason.nvim.
+- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-12-03-bubbly-jungle](https://github.com/mason-org/mason-registry/releases/tag/2025-12-03-bubbly-jungle), today) - Core registry for mason.nvim.
 - [ivuorinen/actions](https://github.com/ivuorinen/actions) ([v2025.12.02](https://github.com/ivuorinen/actions/releases/tag/v2025.12.02), 1 day ago) - ivuorinen&#39;s shared actions
 - [ivuorinen/config-checker](https://github.com/ivuorinen/config-checker) ([v2.1.1](https://github.com/ivuorinen/config-checker/releases/tag/v2.1.1), 1 day ago) - Checks the commonly used configuration locations for configuration files
 - [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) ([25.12.1](https://github.com/ivuorinen/dotfiles/releases/tag/25.12.1), 2 days ago) - These are my dotfiles. There are many like &#39;em, but these are mine.
