@@ -8,11 +8,11 @@ I'm also a huge fan of open-source, and I try to contribute back to the communit
 
 #### 👷 Check out what I'm currently working on
 
-- [ivuorinen/config-checker](https://github.com/ivuorinen/config-checker) - Checks the commonly used configuration locations for configuration files (today)
-- [ivuorinen/cheatsheet-tldr](https://github.com/ivuorinen/cheatsheet-tldr) - tldr-pages/tldr pages for cheat/cheat (today)
-- [ivuorinen/starred](https://github.com/ivuorinen/starred) - Automatically updated list of my starred repos. (today)
-- [ivuorinen/base-configs-semantic-release](https://github.com/ivuorinen/base-configs-semantic-release) - ivuorinen&#39;s shareable configuration for semantic-release. (1 day ago)
-- [ivuorinen/base-configs-browserslist](https://github.com/ivuorinen/base-configs-browserslist) - ivuorinen&#39;s shareable configuration for Browserslist. (1 day ago)
+- [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) - These are my dotfiles. There are many like &#39;em, but these are mine. (1 day ago)
+- [ivuorinen/cheatsheet-tldr](https://github.com/ivuorinen/cheatsheet-tldr) - tldr-pages/tldr pages for cheat/cheat (1 day ago)
+- [ivuorinen/starred](https://github.com/ivuorinen/starred) - Automatically updated list of my starred repos. (1 day ago)
+- [ivuorinen/config-checker](https://github.com/ivuorinen/config-checker) - Checks the commonly used configuration locations for configuration files (1 day ago)
+- [ivuorinen/base-configs-semantic-release](https://github.com/ivuorinen/base-configs-semantic-release) - ivuorinen&#39;s shareable configuration for semantic-release. (2 days ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -24,17 +24,17 @@ I'm also a huge fan of open-source, and I try to contribute back to the communit
 
 #### 🚀 Latest releases I've contributed to
 
-- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-12-02-snoopy-filly](https://github.com/mason-org/mason-registry/releases/tag/2025-12-02-snoopy-filly), today) - Core registry for mason.nvim.
-- [ivuorinen/config-checker](https://github.com/ivuorinen/config-checker) ([v2.1.1](https://github.com/ivuorinen/config-checker/releases/tag/v2.1.1), today) - Checks the commonly used configuration locations for configuration files
-- [ivuorinen/actions](https://github.com/ivuorinen/actions) ([v2025.12.01](https://github.com/ivuorinen/actions/releases/tag/v2025.12.01), 1 day ago) - ivuorinen&#39;s shared actions
-- [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) ([25.12.1](https://github.com/ivuorinen/dotfiles/releases/tag/25.12.1), 1 day ago) - These are my dotfiles. There are many like &#39;em, but these are mine.
-- [ivuorinen/ivuorinen](https://github.com/ivuorinen/ivuorinen) ([2025.12.0](https://github.com/ivuorinen/ivuorinen/releases/tag/2025.12.0), 1 day ago) - My special github profile header
+- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-12-02-pricey-pitch](https://github.com/mason-org/mason-registry/releases/tag/2025-12-02-pricey-pitch), 1 day ago) - Core registry for mason.nvim.
+- [ivuorinen/actions](https://github.com/ivuorinen/actions) ([v2025.12.02](https://github.com/ivuorinen/actions/releases/tag/v2025.12.02), 1 day ago) - ivuorinen&#39;s shared actions
+- [ivuorinen/config-checker](https://github.com/ivuorinen/config-checker) ([v2.1.1](https://github.com/ivuorinen/config-checker/releases/tag/v2.1.1), 1 day ago) - Checks the commonly used configuration locations for configuration files
+- [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) ([25.12.1](https://github.com/ivuorinen/dotfiles/releases/tag/25.12.1), 2 days ago) - These are my dotfiles. There are many like &#39;em, but these are mine.
+- [ivuorinen/ivuorinen](https://github.com/ivuorinen/ivuorinen) ([2025.12.0](https://github.com/ivuorinen/ivuorinen/releases/tag/2025.12.0), 2 days ago) - My special github profile header
 
 #### ⭐ Recent Stars
 
 - [mawinkler/astroweather](https://github.com/mawinkler/astroweather) - Asynchronous Astro Weather Forecast for Home Assistant (1 week ago)
 - [error311/FileRise](https://github.com/error311/FileRise) - 🗂️ FileRise – lightweight, self-hosted file manager with granular ACLs, shared uploads, WebDAV &amp; SSO. Fully Docker / Unraid compatible. (1 week ago)
-- [EveryInc/compounding-engineering-plugin](https://github.com/EveryInc/compounding-engineering-plugin) - Official Claude Code compounding engineering plugin (1 week ago)
+- [EveryInc/compound-engineering-plugin](https://github.com/EveryInc/compound-engineering-plugin) - Official Claude Code compound engineering plugin (1 week ago)
 - [j178/prek](https://github.com/j178/prek) - ⚡ Better `pre-commit`, re-engineered in Rust (2 weeks ago)
 - [Hammerspoon/hammerspoon](https://github.com/Hammerspoon/hammerspoon) - Staggeringly powerful macOS desktop automation with Lua (3 weeks ago)
 
