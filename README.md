@@ -8,11 +8,11 @@ I'm also a huge fan of open-source, and I try to contribute back to the communit
 
 #### 👷 Check out what I'm currently working on
 
-- [ivuorinen/cheatsheet-tldr](https://github.com/ivuorinen/cheatsheet-tldr) - tldr-pages/tldr pages for cheat/cheat (today)
-- [ivuorinen/starred](https://github.com/ivuorinen/starred) - Automatically updated list of my starred repos. (today)
-- [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) - These are my dotfiles. There are many like &#39;em, but these are mine. (1 day ago)
-- [ivuorinen/config-checker](https://github.com/ivuorinen/config-checker) - Checks the commonly used configuration locations for configuration files (1 day ago)
-- [ivuorinen/base-configs-semantic-release](https://github.com/ivuorinen/base-configs-semantic-release) - ivuorinen&#39;s shareable configuration for semantic-release. (2 days ago)
+- [ivuorinen/branch-usage-checker](https://github.com/ivuorinen/branch-usage-checker) - Cross-check project public GitHub Branches and Packagist branch download statistics to determine are branches safe to delete (today)
+- [ivuorinen/base-configs-eslint](https://github.com/ivuorinen/base-configs-eslint) - ivuorinen&#39;s shareable configuration for ESLint. (today)
+- [ivuorinen/base-configs-markdownlint](https://github.com/ivuorinen/base-configs-markdownlint) - ivuorinen&#39;s shareable configuration for markdownlint. (today)
+- [ivuorinen/base-configs-commitlint](https://github.com/ivuorinen/base-configs-commitlint) - ivuorinen&#39;s shareable configuration for commitlint. (today)
+- [ivuorinen/sysvinit-service-generator](https://github.com/ivuorinen/sysvinit-service-generator) - Vue 3 app for creating sysvinit service scripts (1 day ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -24,19 +24,19 @@ I'm also a huge fan of open-source, and I try to contribute back to the communit
 
 #### 🚀 Latest releases I've contributed to
 
-- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-12-03-bubbly-jungle](https://github.com/mason-org/mason-registry/releases/tag/2025-12-03-bubbly-jungle), today) - Core registry for mason.nvim.
-- [ivuorinen/actions](https://github.com/ivuorinen/actions) ([v2025.12.02](https://github.com/ivuorinen/actions/releases/tag/v2025.12.02), 1 day ago) - ivuorinen&#39;s shared actions
-- [ivuorinen/config-checker](https://github.com/ivuorinen/config-checker) ([v2.1.1](https://github.com/ivuorinen/config-checker/releases/tag/v2.1.1), 1 day ago) - Checks the commonly used configuration locations for configuration files
-- [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) ([25.12.1](https://github.com/ivuorinen/dotfiles/releases/tag/25.12.1), 2 days ago) - These are my dotfiles. There are many like &#39;em, but these are mine.
-- [ivuorinen/ivuorinen](https://github.com/ivuorinen/ivuorinen) ([2025.12.0](https://github.com/ivuorinen/ivuorinen/releases/tag/2025.12.0), 2 days ago) - My special github profile header
+- [ivuorinen/actions](https://github.com/ivuorinen/actions) ([v2025.12.03](https://github.com/ivuorinen/actions/releases/tag/v2025.12.03), 1 day ago) - ivuorinen&#39;s shared actions
+- [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) ([25.12.3](https://github.com/ivuorinen/dotfiles/releases/tag/25.12.3), 1 day ago) - These are my dotfiles. There are many like &#39;em, but these are mine.
+- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-12-03-putrid-loss](https://github.com/mason-org/mason-registry/releases/tag/2025-12-03-putrid-loss), 1 day ago) - Core registry for mason.nvim.
+- [ivuorinen/config-checker](https://github.com/ivuorinen/config-checker) ([v2.1.1](https://github.com/ivuorinen/config-checker/releases/tag/v2.1.1), 2 days ago) - Checks the commonly used configuration locations for configuration files
+- [ivuorinen/ivuorinen](https://github.com/ivuorinen/ivuorinen) ([2025.12.0](https://github.com/ivuorinen/ivuorinen/releases/tag/2025.12.0), 3 days ago) - My special github profile header
 
 #### ⭐ Recent Stars
 
+- [usestrix/strix](https://github.com/usestrix/strix) - Open-source AI agents for penetration testing (1 day ago)
 - [mawinkler/astroweather](https://github.com/mawinkler/astroweather) - Asynchronous Astro Weather Forecast for Home Assistant (1 week ago)
 - [error311/FileRise](https://github.com/error311/FileRise) - 🗂️ FileRise – lightweight, self-hosted file manager with granular ACLs, shared uploads, WebDAV &amp; SSO. Fully Docker / Unraid compatible. (1 week ago)
 - [EveryInc/compound-engineering-plugin](https://github.com/EveryInc/compound-engineering-plugin) - Official Claude Code compound engineering plugin (1 week ago)
 - [j178/prek](https://github.com/j178/prek) - ⚡ Better `pre-commit`, re-engineered in Rust (2 weeks ago)
-- [Hammerspoon/hammerspoon](https://github.com/Hammerspoon/hammerspoon) - Staggeringly powerful macOS desktop automation with Lua (3 weeks ago)
 
 
 
