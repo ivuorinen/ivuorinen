@@ -8,11 +8,11 @@ I'm also a huge fan of open-source, and I try to contribute back to the communit
 
 #### 👷 Check out what I'm currently working on
 
-- [ivuorinen/generic-landing-page](https://github.com/ivuorinen/generic-landing-page) -  (today)
-- [ivuorinen/base-configs-markdownlint](https://github.com/ivuorinen/base-configs-markdownlint) - ivuorinen&#39;s shareable configuration for markdownlint. (1 day ago)
 - [ivuorinen/cheatsheet-tldr](https://github.com/ivuorinen/cheatsheet-tldr) - tldr-pages/tldr pages for cheat/cheat (1 day ago)
-- [ivuorinen/base-configs-browserslist](https://github.com/ivuorinen/base-configs-browserslist) - ivuorinen&#39;s shareable configuration for Browserslist. (1 day ago)
-- [ivuorinen/base-configs](https://github.com/ivuorinen/base-configs) - meta package for my linting configurations (1 day ago)
+- [ivuorinen/starred](https://github.com/ivuorinen/starred) - Automatically updated list of my starred repos. (1 day ago)
+- [ivuorinen/actions](https://github.com/ivuorinen/actions) - ivuorinen&#39;s shared actions (1 day ago)
+- [ivuorinen/gibidify](https://github.com/ivuorinen/gibidify) - gibidify is a CLI application written in Go that scans a source directory recursively and aggregates code files into a single text file for LLMs. (1 day ago)
+- [ivuorinen/generic-landing-page](https://github.com/ivuorinen/generic-landing-page) -  (1 day ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -24,15 +24,15 @@ I'm also a huge fan of open-source, and I try to contribute back to the communit
 
 #### 🚀 Latest releases I've contributed to
 
-- [ivuorinen/generic-landing-page](https://github.com/ivuorinen/generic-landing-page) ([v1.2.0](https://github.com/ivuorinen/generic-landing-page/releases/tag/v1.2.0), 1 day ago)
-- [ivuorinen/base-configs](https://github.com/ivuorinen/base-configs) ([v1.0.0](https://github.com/ivuorinen/base-configs/releases/tag/v1.0.0), 1 day ago) - meta package for my linting configurations
-- [ivuorinen/base-configs-commitlint](https://github.com/ivuorinen/base-configs-commitlint) ([v1.0.0](https://github.com/ivuorinen/base-configs-commitlint/releases/tag/v1.0.0), 1 day ago) - ivuorinen&#39;s shareable configuration for commitlint.
-- [ivuorinen/actions](https://github.com/ivuorinen/actions) ([v2025.12.06](https://github.com/ivuorinen/actions/releases/tag/v2025.12.06), 1 day ago) - ivuorinen&#39;s shared actions
-- [ivuorinen/base-configs-stylelint](https://github.com/ivuorinen/base-configs-stylelint) ([v1.0.0](https://github.com/ivuorinen/base-configs-stylelint/releases/tag/v1.0.0), 1 day ago) - ivuorinen&#39;s shareable configuration for stylelint.
+- [ivuorinen/actions](https://github.com/ivuorinen/actions) ([v2025.12.07](https://github.com/ivuorinen/actions/releases/tag/v2025.12.07), 1 day ago) - ivuorinen&#39;s shared actions
+- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-12-07-faulty-porter](https://github.com/mason-org/mason-registry/releases/tag/2025-12-07-faulty-porter), 1 day ago) - Core registry for mason.nvim.
+- [ivuorinen/generic-landing-page](https://github.com/ivuorinen/generic-landing-page) ([v1.2.0](https://github.com/ivuorinen/generic-landing-page/releases/tag/v1.2.0), 2 days ago)
+- [ivuorinen/base-configs](https://github.com/ivuorinen/base-configs) ([v1.0.0](https://github.com/ivuorinen/base-configs/releases/tag/v1.0.0), 2 days ago) - meta package for my linting configurations
+- [ivuorinen/base-configs-commitlint](https://github.com/ivuorinen/base-configs-commitlint) ([v1.0.0](https://github.com/ivuorinen/base-configs-commitlint/releases/tag/v1.0.0), 2 days ago) - ivuorinen&#39;s shareable configuration for commitlint.
 
 #### ⭐ Recent Stars
 
-- [usestrix/strix](https://github.com/usestrix/strix) - Open-source AI agents for penetration testing (4 days ago)
+- [usestrix/strix](https://github.com/usestrix/strix) - Open-source AI agents for penetration testing (5 days ago)
 - [mawinkler/astroweather](https://github.com/mawinkler/astroweather) - Asynchronous Astro Weather Forecast for Home Assistant (2 weeks ago)
 - [error311/FileRise](https://github.com/error311/FileRise) - 🗂️ FileRise – lightweight, self-hosted file manager with granular ACLs, shared uploads, WebDAV &amp; SSO. Fully Docker / Unraid compatible. (2 weeks ago)
 - [EveryInc/compound-engineering-plugin](https://github.com/EveryInc/compound-engineering-plugin) - Official Claude Code compound engineering plugin (2 weeks ago)
