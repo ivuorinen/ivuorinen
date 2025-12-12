@@ -8,9 +8,9 @@ I'm also a huge fan of open-source, and I try to contribute back to the communit
 
 #### 👷 Check out what I'm currently working on
 
+- [ivuorinen/cheatsheet-tldr](https://github.com/ivuorinen/cheatsheet-tldr) - tldr-pages/tldr pages for cheat/cheat (today)
+- [ivuorinen/starred](https://github.com/ivuorinen/starred) - Automatically updated list of my starred repos. (today)
 - [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) - These are my dotfiles. There are many like &#39;em, but these are mine. (1 day ago)
-- [ivuorinen/cheatsheet-tldr](https://github.com/ivuorinen/cheatsheet-tldr) - tldr-pages/tldr pages for cheat/cheat (1 day ago)
-- [ivuorinen/starred](https://github.com/ivuorinen/starred) - Automatically updated list of my starred repos. (1 day ago)
 - [ivuorinen/gibidify](https://github.com/ivuorinen/gibidify) - gibidify is a CLI application written in Go that scans a source directory recursively and aggregates code files into a single text file for LLMs. (2 days ago)
 - [ivuorinen/actions](https://github.com/ivuorinen/actions) - ivuorinen&#39;s shared actions (5 days ago)
 
@@ -24,7 +24,7 @@ I'm also a huge fan of open-source, and I try to contribute back to the communit
 
 #### 🚀 Latest releases I've contributed to
 
-- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-12-11-itchy-cry](https://github.com/mason-org/mason-registry/releases/tag/2025-12-11-itchy-cry), 1 day ago) - Core registry for mason.nvim.
+- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-12-12-agreed-petrol](https://github.com/mason-org/mason-registry/releases/tag/2025-12-12-agreed-petrol), today) - Core registry for mason.nvim.
 - [ivuorinen/actions](https://github.com/ivuorinen/actions) ([v2025.12.11](https://github.com/ivuorinen/actions/releases/tag/v2025.12.11), 1 day ago) - ivuorinen&#39;s shared actions
 - [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) ([25.12.11](https://github.com/ivuorinen/dotfiles/releases/tag/25.12.11), 1 day ago) - These are my dotfiles. There are many like &#39;em, but these are mine.
 - [ivuorinen/generic-landing-page](https://github.com/ivuorinen/generic-landing-page) ([v1.2.0](https://github.com/ivuorinen/generic-landing-page/releases/tag/v1.2.0), 6 days ago)
@@ -32,11 +32,11 @@ I'm also a huge fan of open-source, and I try to contribute back to the communit
 
 #### ⭐ Recent Stars
 
+- [astral-sh/ty](https://github.com/astral-sh/ty) - An extremely fast Python type checker and language server, written in Rust. (today)
+- [DetachHead/basedpyright](https://github.com/DetachHead/basedpyright) - pyright fork with various type checking improvements, improved vscode support and pylance features built into the language server (today)
 - [usestrix/strix](https://github.com/usestrix/strix) - Open-source AI agents for penetration testing (1 week ago)
 - [mawinkler/astroweather](https://github.com/mawinkler/astroweather) - Asynchronous Astro Weather Forecast for Home Assistant (2 weeks ago)
 - [error311/FileRise](https://github.com/error311/FileRise) - 🗂️ FileRise – lightweight, self-hosted file manager with granular ACLs, shared uploads, WebDAV &amp; SSO. Fully Docker / Unraid compatible. (2 weeks ago)
-- [EveryInc/compound-engineering-plugin](https://github.com/EveryInc/compound-engineering-plugin) - Official Claude Code compound engineering plugin (2 weeks ago)
-- [j178/prek](https://github.com/j178/prek) - ⚡ Better `pre-commit`, re-engineered in Rust (3 weeks ago)
 
 
 
