@@ -8,11 +8,11 @@ I'm also a huge fan of open-source, and I try to contribute back to the communit
 
 #### 👷 Check out what I'm currently working on
 
-- [ivuorinen/base-configs-stylelint](https://github.com/ivuorinen/base-configs-stylelint) - ivuorinen&#39;s shareable configuration for stylelint. (1 day ago)
+- [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) - These are my dotfiles. There are many like &#39;em, but these are mine. (1 day ago)
 - [ivuorinen/cheatsheet-tldr](https://github.com/ivuorinen/cheatsheet-tldr) - tldr-pages/tldr pages for cheat/cheat (1 day ago)
 - [ivuorinen/starred](https://github.com/ivuorinen/starred) - Automatically updated list of my starred repos. (1 day ago)
-- [ivuorinen/emoji](https://github.com/ivuorinen/emoji) - Emojis for Slack and other platforms (1 day ago)
-- [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) - These are my dotfiles. There are many like &#39;em, but these are mine. (2 days ago)
+- [ivuorinen/base-configs-stylelint](https://github.com/ivuorinen/base-configs-stylelint) - ivuorinen&#39;s shareable configuration for stylelint. (2 days ago)
+- [ivuorinen/emoji](https://github.com/ivuorinen/emoji) - Emojis for Slack and other platforms (2 days ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -24,19 +24,19 @@ I'm also a huge fan of open-source, and I try to contribute back to the communit
 
 #### 🚀 Latest releases I've contributed to
 
-- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-12-16-gentle-course](https://github.com/mason-org/mason-registry/releases/tag/2025-12-16-gentle-course), 1 day ago) - Core registry for mason.nvim.
-- [ivuorinen/actions](https://github.com/ivuorinen/actions) ([v2025.12.16](https://github.com/ivuorinen/actions/releases/tag/v2025.12.16), 1 day ago) - ivuorinen&#39;s shared actions
-- [ivuorinen/base-configs-markdownlint](https://github.com/ivuorinen/base-configs-markdownlint) ([v1.0.1](https://github.com/ivuorinen/base-configs-markdownlint/releases/tag/v1.0.1), 2 days ago) - ivuorinen&#39;s shareable configuration for markdownlint.
-- [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) ([25.12.15](https://github.com/ivuorinen/dotfiles/releases/tag/25.12.15), 2 days ago) - These are my dotfiles. There are many like &#39;em, but these are mine.
+- [ivuorinen/actions](https://github.com/ivuorinen/actions) ([v2025.12.17](https://github.com/ivuorinen/actions/releases/tag/v2025.12.17), 1 day ago) - ivuorinen&#39;s shared actions
+- [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) ([25.12.17](https://github.com/ivuorinen/dotfiles/releases/tag/25.12.17), 1 day ago) - These are my dotfiles. There are many like &#39;em, but these are mine.
+- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-12-17-sordid-flour](https://github.com/mason-org/mason-registry/releases/tag/2025-12-17-sordid-flour), 1 day ago) - Core registry for mason.nvim.
+- [ivuorinen/base-configs-markdownlint](https://github.com/ivuorinen/base-configs-markdownlint) ([v1.0.1](https://github.com/ivuorinen/base-configs-markdownlint/releases/tag/v1.0.1), 3 days ago) - ivuorinen&#39;s shareable configuration for markdownlint.
 - [ivuorinen/generic-landing-page](https://github.com/ivuorinen/generic-landing-page) ([v1.2.0](https://github.com/ivuorinen/generic-landing-page/releases/tag/v1.2.0), 1 week ago)
 
 #### ⭐ Recent Stars
 
-- [crocodilestick/Calibre-Web-Automated](https://github.com/crocodilestick/Calibre-Web-Automated) - Calibre-Web but Automated and with Many New Features! Fully automate and simplify your eBook set up! (1 day ago)
-- [denho/faved](https://github.com/denho/faved) - Free open-source bookmark manager with customisable nested tags. Super fast and lightweight. All data is stored locally. (1 day ago)
-- [beclab/Olares](https://github.com/beclab/Olares) - Olares: An Open-Source Personal Cloud to Reclaim Your Data (1 day ago)
-- [Termix-SSH/Termix](https://github.com/Termix-SSH/Termix) - Termix is a web-based server management platform with SSH terminal, tunneling, and file editing capabilities. (1 day ago)
-- [kurrier-org/kurrier](https://github.com/kurrier-org/kurrier) - Kurrier is a modern, self-hosted unified email, calendar, and contacts platform. (1 day ago)
+- [crocodilestick/Calibre-Web-Automated](https://github.com/crocodilestick/Calibre-Web-Automated) - Calibre-Web but Automated and with Many New Features! Fully automate and simplify your eBook set up! (2 days ago)
+- [denho/faved](https://github.com/denho/faved) - Free open-source bookmark manager with customisable nested tags. Super fast and lightweight. All data is stored locally. (2 days ago)
+- [beclab/Olares](https://github.com/beclab/Olares) - Olares: An Open-Source Personal Cloud to Reclaim Your Data (2 days ago)
+- [Termix-SSH/Termix](https://github.com/Termix-SSH/Termix) - Termix is a web-based server management platform with SSH terminal, tunneling, and file editing capabilities. (2 days ago)
+- [kurrier-org/kurrier](https://github.com/kurrier-org/kurrier) - Kurrier is a modern, self-hosted workspace for email, calendar, contacts and storage. (2 days ago)
 
 
 
