@@ -8,11 +8,11 @@ I'm also a huge fan of open-source, and I try to contribute back to the communit
 
 #### 👷 Check out what I'm currently working on
 
+- [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) - These are my dotfiles. There are many like &#39;em, but these are mine. (1 day ago)
 - [ivuorinen/cheatsheet-tldr](https://github.com/ivuorinen/cheatsheet-tldr) - tldr-pages/tldr pages for cheat/cheat (1 day ago)
 - [ivuorinen/starred](https://github.com/ivuorinen/starred) - Automatically updated list of my starred repos. (1 day ago)
-- [ivuorinen/f2b](https://github.com/ivuorinen/f2b) - A modern, secure, and extensible Go CLI tool for managing Fail2Ban jails and bans (2 days ago)
-- [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) - These are my dotfiles. There are many like &#39;em, but these are mine. (5 days ago)
-- [ivuorinen/base-configs-stylelint](https://github.com/ivuorinen/base-configs-stylelint) - ivuorinen&#39;s shareable configuration for stylelint. (6 days ago)
+- [ivuorinen/branch-usage-checker](https://github.com/ivuorinen/branch-usage-checker) - Cross-check project public GitHub Branches and Packagist branch download statistics to determine are branches safe to delete (1 day ago)
+- [ivuorinen/monolog-gdpr-filter](https://github.com/ivuorinen/monolog-gdpr-filter) - Monolog processor for GDPR masking with regex and dot-notation path (1 day ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -24,19 +24,19 @@ I'm also a huge fan of open-source, and I try to contribute back to the communit
 
 #### 🚀 Latest releases I've contributed to
 
-- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-12-21-swift-bobcat](https://github.com/mason-org/mason-registry/releases/tag/2025-12-21-swift-bobcat), 1 day ago) - Core registry for mason.nvim.
-- [ivuorinen/actions](https://github.com/ivuorinen/actions) ([v2025.12.21](https://github.com/ivuorinen/actions/releases/tag/v2025.12.21), 1 day ago) - ivuorinen&#39;s shared actions
-- [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) ([25.12.17](https://github.com/ivuorinen/dotfiles/releases/tag/25.12.17), 5 days ago) - These are my dotfiles. There are many like &#39;em, but these are mine.
+- [ivuorinen/actions](https://github.com/ivuorinen/actions) ([v2025.12.22](https://github.com/ivuorinen/actions/releases/tag/v2025.12.22), 1 day ago) - ivuorinen&#39;s shared actions
+- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-12-22-golden-mary](https://github.com/mason-org/mason-registry/releases/tag/2025-12-22-golden-mary), 1 day ago) - Core registry for mason.nvim.
+- [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) ([25.12.22](https://github.com/ivuorinen/dotfiles/releases/tag/25.12.22), 1 day ago) - These are my dotfiles. There are many like &#39;em, but these are mine.
 - [ivuorinen/base-configs-markdownlint](https://github.com/ivuorinen/base-configs-markdownlint) ([v1.0.1](https://github.com/ivuorinen/base-configs-markdownlint/releases/tag/v1.0.1), 1 week ago) - ivuorinen&#39;s shareable configuration for markdownlint.
 - [ivuorinen/generic-landing-page](https://github.com/ivuorinen/generic-landing-page) ([v1.2.0](https://github.com/ivuorinen/generic-landing-page/releases/tag/v1.2.0), 2 weeks ago)
 
 #### ⭐ Recent Stars
 
-- [unpoller/unpoller](https://github.com/unpoller/unpoller) - Application: Collect ALL UniFi Controller, Site, Device &amp; Client Data - Export to InfluxDB or Prometheus (2 days ago)
-- [dmtrKovalenko/fff.nvim](https://github.com/dmtrKovalenko/fff.nvim) - Finally a Fabioulous &amp; Fast Fuzzy File Finder for neovim  (3 days ago)
-- [schollz/croc](https://github.com/schollz/croc) - Easily and securely send things from one computer to another :crocodile: :package: (3 days ago)
-- [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) - A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude&#39;s agent-sdk), and injects relevant context back into future sessions. (3 days ago)
-- [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - Query Engine for AI - The only MCP Server you&#39;ll ever need (3 days ago)
+- [unpoller/unpoller](https://github.com/unpoller/unpoller) - Application: Collect ALL UniFi Controller, Site, Device &amp; Client Data - Export to InfluxDB or Prometheus (3 days ago)
+- [dmtrKovalenko/fff.nvim](https://github.com/dmtrKovalenko/fff.nvim) - Finally a Fabioulous &amp; Fast Fuzzy File Finder for neovim  (4 days ago)
+- [schollz/croc](https://github.com/schollz/croc) - Easily and securely send things from one computer to another :crocodile: :package: (4 days ago)
+- [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) - A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude&#39;s agent-sdk), and injects relevant context back into future sessions. (4 days ago)
+- [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - Query Engine for AI - The only MCP Server you&#39;ll ever need (4 days ago)
 
 
 
