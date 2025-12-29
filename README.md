@@ -9,10 +9,10 @@ I'm also a huge fan of open-source, and I try to contribute back to the communit
 #### 👷 Check out what I'm currently working on
 
 - [ivuorinen/cheatsheet-tldr](https://github.com/ivuorinen/cheatsheet-tldr) - tldr-pages/tldr pages for cheat/cheat (1 day ago)
-- [ivuorinen/actions](https://github.com/ivuorinen/actions) - ivuorinen&#39;s shared actions (4 days ago)
-- [ivuorinen/starred](https://github.com/ivuorinen/starred) - Automatically updated list of my starred repos. (5 days ago)
-- [ivuorinen/go-test-sarif](https://github.com/ivuorinen/go-test-sarif) - Convert `go test -json` output to SARIF (5 days ago)
-- [ivuorinen/docker-php-with-imagick-multi](https://github.com/ivuorinen/docker-php-with-imagick-multi) - PHP 7.4-8.4 with imagick for arm64 and amd64 (5 days ago)
+- [ivuorinen/starred](https://github.com/ivuorinen/starred) - Automatically updated list of my starred repos. (1 day ago)
+- [ivuorinen/actions](https://github.com/ivuorinen/actions) - ivuorinen&#39;s shared actions (5 days ago)
+- [ivuorinen/go-test-sarif](https://github.com/ivuorinen/go-test-sarif) - Convert `go test -json` output to SARIF (6 days ago)
+- [ivuorinen/docker-php-with-imagick-multi](https://github.com/ivuorinen/docker-php-with-imagick-multi) - PHP 7.4-8.4 with imagick for arm64 and amd64 (6 days ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -24,15 +24,15 @@ I'm also a huge fan of open-source, and I try to contribute back to the communit
 
 #### 🚀 Latest releases I've contributed to
 
-- [ivuorinen/actions](https://github.com/ivuorinen/actions) ([v2025.12.27](https://github.com/ivuorinen/actions/releases/tag/v2025.12.27), 1 day ago) - ivuorinen&#39;s shared actions
-- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-12-27-small-finger](https://github.com/mason-org/mason-registry/releases/tag/2025-12-27-small-finger), 1 day ago) - Core registry for mason.nvim.
-- [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) ([25.12.22](https://github.com/ivuorinen/dotfiles/releases/tag/25.12.22), 6 days ago) - These are my dotfiles. There are many like &#39;em, but these are mine.
-- [ivuorinen/base-configs-markdownlint](https://github.com/ivuorinen/base-configs-markdownlint) ([v1.0.1](https://github.com/ivuorinen/base-configs-markdownlint/releases/tag/v1.0.1), 1 week ago) - ivuorinen&#39;s shareable configuration for markdownlint.
+- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2025-12-28-frayed-steam](https://github.com/mason-org/mason-registry/releases/tag/2025-12-28-frayed-steam), 1 day ago) - Core registry for mason.nvim.
+- [ivuorinen/actions](https://github.com/ivuorinen/actions) ([v2025.12.28](https://github.com/ivuorinen/actions/releases/tag/v2025.12.28), 1 day ago) - ivuorinen&#39;s shared actions
+- [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) ([25.12.22](https://github.com/ivuorinen/dotfiles/releases/tag/25.12.22), 1 week ago) - These are my dotfiles. There are many like &#39;em, but these are mine.
+- [ivuorinen/base-configs-markdownlint](https://github.com/ivuorinen/base-configs-markdownlint) ([v1.0.1](https://github.com/ivuorinen/base-configs-markdownlint/releases/tag/v1.0.1), 2 weeks ago) - ivuorinen&#39;s shareable configuration for markdownlint.
 - [ivuorinen/generic-landing-page](https://github.com/ivuorinen/generic-landing-page) ([v1.2.0](https://github.com/ivuorinen/generic-landing-page/releases/tag/v1.2.0), 3 weeks ago)
 
 #### ⭐ Recent Stars
 
-- [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running? (1 day ago)
+- [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running? (2 days ago)
 - [unpoller/unpoller](https://github.com/unpoller/unpoller) - Application: Collect ALL UniFi Controller, Site, Device &amp; Client Data - Export to InfluxDB or Prometheus (1 week ago)
 - [dmtrKovalenko/fff.nvim](https://github.com/dmtrKovalenko/fff.nvim) - Finally a Fabioulous &amp; Fast Fuzzy File Finder for neovim  (1 week ago)
 - [schollz/croc](https://github.com/schollz/croc) - Easily and securely send things from one computer to another :crocodile: :package: (1 week ago)
