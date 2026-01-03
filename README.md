@@ -8,10 +8,10 @@ I'm also a huge fan of open-source, and I try to contribute back to the communit
 
 #### 👷 Check out what I'm currently working on
 
-- [ivuorinen/cheatsheet-tldr](https://github.com/ivuorinen/cheatsheet-tldr) - tldr-pages/tldr pages for cheat/cheat (today)
 - [ivuorinen/gh-action-readme](https://github.com/ivuorinen/gh-action-readme) - Transform your GitHub Actions into professional documentation with multiple themes, output formats, and enterprise-grade features. (today)
-- [ivuorinen/starred](https://github.com/ivuorinen/starred) - Automatically updated list of my starred repos. (2 days ago)
-- [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) - These are my dotfiles. There are many like &#39;em, but these are mine. (4 days ago)
+- [ivuorinen/cheatsheet-tldr](https://github.com/ivuorinen/cheatsheet-tldr) - tldr-pages/tldr pages for cheat/cheat (1 day ago)
+- [ivuorinen/starred](https://github.com/ivuorinen/starred) - Automatically updated list of my starred repos. (3 days ago)
+- [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) - These are my dotfiles. There are many like &#39;em, but these are mine. (5 days ago)
 - [ivuorinen/actions](https://github.com/ivuorinen/actions) - ivuorinen&#39;s shared actions (1 week ago)
 
 #### 👨‍💻 Repositories I created recently
@@ -24,16 +24,16 @@ I'm also a huge fan of open-source, and I try to contribute back to the communit
 
 #### 🚀 Latest releases I've contributed to
 
-- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2026-01-02-entire-fall](https://github.com/mason-org/mason-registry/releases/tag/2026-01-02-entire-fall), today) - Core registry for mason.nvim.
-- [ivuorinen/gh-action-readme](https://github.com/ivuorinen/gh-action-readme) ([v0.3.1](https://github.com/ivuorinen/gh-action-readme/releases/tag/v0.3.1), today) - Transform your GitHub Actions into professional documentation with multiple themes, output formats, and enterprise-grade features.
-- [ivuorinen/actions](https://github.com/ivuorinen/actions) ([v2026.01.01](https://github.com/ivuorinen/actions/releases/tag/v2026.01.01), 1 day ago) - ivuorinen&#39;s shared actions
-- [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) ([26.1.1](https://github.com/ivuorinen/dotfiles/releases/tag/26.1.1), 1 day ago) - These are my dotfiles. There are many like &#39;em, but these are mine.
-- [ivuorinen/ivuorinen](https://github.com/ivuorinen/ivuorinen) ([2026.1.0](https://github.com/ivuorinen/ivuorinen/releases/tag/2026.1.0), 1 day ago) - My special github profile header
+- [ivuorinen/gh-action-readme](https://github.com/ivuorinen/gh-action-readme) ([v1.0.0](https://github.com/ivuorinen/gh-action-readme/releases/tag/v1.0.0), 1 day ago) - Transform your GitHub Actions into professional documentation with multiple themes, output formats, and enterprise-grade features.
+- [ivuorinen/actions](https://github.com/ivuorinen/actions) ([v2026.01.02](https://github.com/ivuorinen/actions/releases/tag/v2026.01.02), 1 day ago) - ivuorinen&#39;s shared actions
+- [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) ([26.1.2](https://github.com/ivuorinen/dotfiles/releases/tag/26.1.2), 1 day ago) - These are my dotfiles. There are many like &#39;em, but these are mine.
+- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2026-01-02-fun-tyvek](https://github.com/mason-org/mason-registry/releases/tag/2026-01-02-fun-tyvek), 1 day ago) - Core registry for mason.nvim.
+- [ivuorinen/ivuorinen](https://github.com/ivuorinen/ivuorinen) ([2026.1.0](https://github.com/ivuorinen/ivuorinen/releases/tag/2026.1.0), 2 days ago) - My special github profile header
 
 #### ⭐ Recent Stars
 
-- [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running? (6 days ago)
-- [unpoller/unpoller](https://github.com/unpoller/unpoller) - Application: Collect ALL UniFi Controller, Site, Device &amp; Client Data - Export to InfluxDB or Prometheus (1 week ago)
+- [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running? (1 week ago)
+- [unpoller/unpoller](https://github.com/unpoller/unpoller) - Application: Collect ALL UniFi Controller, Site, Device &amp; Client Data - Export to InfluxDB or Prometheus (2 weeks ago)
 - [dmtrKovalenko/fff.nvim](https://github.com/dmtrKovalenko/fff.nvim) - Finally a Fabioulous &amp; Fast Fuzzy File Finder for neovim  (2 weeks ago)
 - [schollz/croc](https://github.com/schollz/croc) - Easily and securely send things from one computer to another :crocodile: :package: (2 weeks ago)
 - [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) - A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude&#39;s agent-sdk), and injects relevant context back into future sessions. (2 weeks ago)
