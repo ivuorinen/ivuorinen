@@ -10,7 +10,7 @@ I'm also a huge fan of open-source, and I try to contribute back to the communit
 
 - [ivuorinen/cheatsheet-tldr](https://github.com/ivuorinen/cheatsheet-tldr) - tldr-pages/tldr pages for cheat/cheat (1 day ago)
 - [ivuorinen/starred](https://github.com/ivuorinen/starred) - Automatically updated list of my starred repos. (1 day ago)
-- [ivuorinen/gh-action-readme](https://github.com/ivuorinen/gh-action-readme) - Transform your GitHub Actions into professional documentation with multiple themes, output formats, and enterprise-grade features. (2 days ago)
+- [ivuorinen/gh-action-readme](https://github.com/ivuorinen/gh-action-readme) - Transform your GitHub Actions into professional documentation with multiple themes, output formats, and enterprise-grade features. (1 day ago)
 - [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) - These are my dotfiles. There are many like &#39;em, but these are mine. (1 week ago)
 - [ivuorinen/actions](https://github.com/ivuorinen/actions) - ivuorinen&#39;s shared actions (1 week ago)
 
@@ -24,19 +24,19 @@ I'm also a huge fan of open-source, and I try to contribute back to the communit
 
 #### 🚀 Latest releases I've contributed to
 
-- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2026-01-17-cyan-pleco](https://github.com/mason-org/mason-registry/releases/tag/2026-01-17-cyan-pleco), 1 day ago) - Core registry for mason.nvim.
-- [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) ([26.1.15](https://github.com/ivuorinen/dotfiles/releases/tag/26.1.15), 3 days ago) - These are my dotfiles. There are many like &#39;em, but these are mine.
-- [ivuorinen/actions](https://github.com/ivuorinen/actions) ([v2026.01.13](https://github.com/ivuorinen/actions/releases/tag/v2026.01.13), 5 days ago) - ivuorinen&#39;s shared actions
+- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2026-01-18-first-hacker](https://github.com/mason-org/mason-registry/releases/tag/2026-01-18-first-hacker), 1 day ago) - Core registry for mason.nvim.
+- [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) ([26.1.15](https://github.com/ivuorinen/dotfiles/releases/tag/26.1.15), 4 days ago) - These are my dotfiles. There are many like &#39;em, but these are mine.
+- [ivuorinen/actions](https://github.com/ivuorinen/actions) ([v2026.01.13](https://github.com/ivuorinen/actions/releases/tag/v2026.01.13), 6 days ago) - ivuorinen&#39;s shared actions
 - [ivuorinen/gh-action-readme](https://github.com/ivuorinen/gh-action-readme) ([v1.0.0](https://github.com/ivuorinen/gh-action-readme/releases/tag/v1.0.0), 2 weeks ago) - Transform your GitHub Actions into professional documentation with multiple themes, output formats, and enterprise-grade features.
 - [ivuorinen/ivuorinen](https://github.com/ivuorinen/ivuorinen) ([2026.1.0](https://github.com/ivuorinen/ivuorinen/releases/tag/2026.1.0), 2 weeks ago) - My special github profile header
 
 #### ⭐ Recent Stars
 
-- [VirtusLab/git-machete](https://github.com/VirtusLab/git-machete) - Probably the sharpest git repository organizer &amp; rebase/merge workflow automation tool you&#39;ve ever seen (1 day ago)
-- [drewwyatt/git-tidy](https://github.com/drewwyatt/git-tidy) - Tidy up stale git branches. (1 day ago)
-- [princjef/gomarkdoc](https://github.com/princjef/gomarkdoc) - Generate markdown documentation for Go (golang) code (2 days ago)
-- [Dilaz/feroxmute](https://github.com/Dilaz/feroxmute) - Cli security tool, WIP (3 days ago)
-- [vicinaehq/vicinae](https://github.com/vicinaehq/vicinae) - A focused launcher for your desktop — native, fast, extensible (5 days ago)
+- [VirtusLab/git-machete](https://github.com/VirtusLab/git-machete) - Probably the sharpest git repository organizer &amp; rebase/merge workflow automation tool you&#39;ve ever seen (2 days ago)
+- [drewwyatt/git-tidy](https://github.com/drewwyatt/git-tidy) - Tidy up stale git branches. (2 days ago)
+- [princjef/gomarkdoc](https://github.com/princjef/gomarkdoc) - Generate markdown documentation for Go (golang) code (3 days ago)
+- [Dilaz/feroxmute](https://github.com/Dilaz/feroxmute) - Cli security tool, WIP (4 days ago)
+- [vicinaehq/vicinae](https://github.com/vicinaehq/vicinae) - A focused launcher for your desktop — native, fast, extensible (6 days ago)
 
 
 
