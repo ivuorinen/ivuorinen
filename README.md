@@ -8,9 +8,9 @@ I'm also a huge fan of open-source, and I try to contribute back to the communit
 
 #### 👷 Check out what I'm currently working on
 
+- [ivuorinen/cheatsheet-tldr](https://github.com/ivuorinen/cheatsheet-tldr) - tldr-pages/tldr pages for cheat/cheat (today)
+- [ivuorinen/starred](https://github.com/ivuorinen/starred) - Automatically updated list of my starred repos. (today)
 - [ivuorinen/go-test-sarif](https://github.com/ivuorinen/go-test-sarif) - Convert `go test -json` output to SARIF (1 day ago)
-- [ivuorinen/cheatsheet-tldr](https://github.com/ivuorinen/cheatsheet-tldr) - tldr-pages/tldr pages for cheat/cheat (1 day ago)
-- [ivuorinen/starred](https://github.com/ivuorinen/starred) - Automatically updated list of my starred repos. (1 day ago)
 - [ivuorinen/actions](https://github.com/ivuorinen/actions) - ivuorinen&#39;s shared actions (2 days ago)
 - [ivuorinen/gh-action-readme](https://github.com/ivuorinen/gh-action-readme) - Transform your GitHub Actions into professional documentation with multiple themes, output formats, and enterprise-grade features. (4 days ago)
 
@@ -24,7 +24,7 @@ I'm also a huge fan of open-source, and I try to contribute back to the communit
 
 #### 🚀 Latest releases I've contributed to
 
-- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2026-01-21-zippy-chub](https://github.com/mason-org/mason-registry/releases/tag/2026-01-21-zippy-chub), 1 day ago) - Core registry for mason.nvim.
+- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2026-01-22-fine-rust](https://github.com/mason-org/mason-registry/releases/tag/2026-01-22-fine-rust), today) - Core registry for mason.nvim.
 - [ivuorinen/actions](https://github.com/ivuorinen/actions) ([v2026.01.21](https://github.com/ivuorinen/actions/releases/tag/v2026.01.21), 1 day ago) - ivuorinen&#39;s shared actions
 - [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) ([26.1.15](https://github.com/ivuorinen/dotfiles/releases/tag/26.1.15), 1 week ago) - These are my dotfiles. There are many like &#39;em, but these are mine.
 - [ivuorinen/gh-action-readme](https://github.com/ivuorinen/gh-action-readme) ([v1.0.0](https://github.com/ivuorinen/gh-action-readme/releases/tag/v1.0.0), 2 weeks ago) - Transform your GitHub Actions into professional documentation with multiple themes, output formats, and enterprise-grade features.
