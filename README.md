@@ -10,9 +10,9 @@ I'm also a huge fan of open-source, and I try to contribute back to the communit
 
 - [ivuorinen/cheatsheet-tldr](https://github.com/ivuorinen/cheatsheet-tldr) - tldr-pages/tldr pages for cheat/cheat (1 day ago)
 - [ivuorinen/starred](https://github.com/ivuorinen/starred) - Automatically updated list of my starred repos. (1 day ago)
-- [ivuorinen/go-test-sarif](https://github.com/ivuorinen/go-test-sarif) - Convert `go test -json` output to SARIF (2 days ago)
-- [ivuorinen/actions](https://github.com/ivuorinen/actions) - ivuorinen&#39;s shared actions (3 days ago)
-- [ivuorinen/gh-action-readme](https://github.com/ivuorinen/gh-action-readme) - Transform your GitHub Actions into professional documentation with multiple themes, output formats, and enterprise-grade features. (5 days ago)
+- [ivuorinen/go-test-sarif](https://github.com/ivuorinen/go-test-sarif) - Convert `go test -json` output to SARIF (3 days ago)
+- [ivuorinen/actions](https://github.com/ivuorinen/actions) - ivuorinen&#39;s shared actions (4 days ago)
+- [ivuorinen/gh-action-readme](https://github.com/ivuorinen/gh-action-readme) - Transform your GitHub Actions into professional documentation with multiple themes, output formats, and enterprise-grade features. (6 days ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -24,19 +24,19 @@ I'm also a huge fan of open-source, and I try to contribute back to the communit
 
 #### 🚀 Latest releases I've contributed to
 
-- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2026-01-22-hon-delete](https://github.com/mason-org/mason-registry/releases/tag/2026-01-22-hon-delete), 1 day ago) - Core registry for mason.nvim.
-- [ivuorinen/actions](https://github.com/ivuorinen/actions) ([v2026.01.21](https://github.com/ivuorinen/actions/releases/tag/v2026.01.21), 2 days ago) - ivuorinen&#39;s shared actions
-- [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) ([26.1.15](https://github.com/ivuorinen/dotfiles/releases/tag/26.1.15), 1 week ago) - These are my dotfiles. There are many like &#39;em, but these are mine.
+- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2026-01-23-ringed-bugle](https://github.com/mason-org/mason-registry/releases/tag/2026-01-23-ringed-bugle), 1 day ago) - Core registry for mason.nvim.
+- [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) ([26.1.23](https://github.com/ivuorinen/dotfiles/releases/tag/26.1.23), 1 day ago) - These are my dotfiles. There are many like &#39;em, but these are mine.
+- [ivuorinen/actions](https://github.com/ivuorinen/actions) ([v2026.01.21](https://github.com/ivuorinen/actions/releases/tag/v2026.01.21), 3 days ago) - ivuorinen&#39;s shared actions
 - [ivuorinen/gh-action-readme](https://github.com/ivuorinen/gh-action-readme) ([v1.0.0](https://github.com/ivuorinen/gh-action-readme/releases/tag/v1.0.0), 3 weeks ago) - Transform your GitHub Actions into professional documentation with multiple themes, output formats, and enterprise-grade features.
 - [ivuorinen/ivuorinen](https://github.com/ivuorinen/ivuorinen) ([2026.1.0](https://github.com/ivuorinen/ivuorinen/releases/tag/2026.1.0), 3 weeks ago) - My special github profile header
 
 #### ⭐ Recent Stars
 
-- [vashpan/xcode-dev-cleaner](https://github.com/vashpan/xcode-dev-cleaner) - If you want to reclaim tens of gigabytes of your storage used for various Xcode caches - this tool is for you! (1 day ago)
-- [VirtusLab/git-machete](https://github.com/VirtusLab/git-machete) - Probably the sharpest git repository organizer &amp; rebase/merge workflow automation tool you&#39;ve ever seen (6 days ago)
-- [drewwyatt/git-tidy](https://github.com/drewwyatt/git-tidy) - Tidy up stale git branches. (6 days ago)
+- [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) - Complete Claude Code configuration collection - agents, skills, hooks, commands, rules, MCPs. Battle-tested configs from an Anthropic hackathon winner. (1 day ago)
+- [vashpan/xcode-dev-cleaner](https://github.com/vashpan/xcode-dev-cleaner) - If you want to reclaim tens of gigabytes of your storage used for various Xcode caches - this tool is for you! (2 days ago)
+- [VirtusLab/git-machete](https://github.com/VirtusLab/git-machete) - Probably the sharpest git repository organizer &amp; rebase/merge workflow automation tool you&#39;ve ever seen (1 week ago)
+- [drewwyatt/git-tidy](https://github.com/drewwyatt/git-tidy) - Tidy up stale git branches. (1 week ago)
 - [princjef/gomarkdoc](https://github.com/princjef/gomarkdoc) - Generate markdown documentation for Go (golang) code (1 week ago)
-- [Dilaz/feroxmute](https://github.com/Dilaz/feroxmute) - Cli security tool, WIP (1 week ago)
 
 
 
