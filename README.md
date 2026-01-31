@@ -9,10 +9,10 @@ I'm also a huge fan of open-source, and I try to contribute back to the communit
 #### 👷 Check out what I'm currently working on
 
 - [ivuorinen/cheatsheet-tldr](https://github.com/ivuorinen/cheatsheet-tldr) - tldr-pages/tldr pages for cheat/cheat (1 day ago)
+- [ivuorinen/base-configs](https://github.com/ivuorinen/base-configs) - meta package for my linting configurations (1 day ago)
 - [ivuorinen/starred](https://github.com/ivuorinen/starred) - Automatically updated list of my starred repos. (1 day ago)
-- [ivuorinen/base-configs-browserslist](https://github.com/ivuorinen/base-configs-browserslist) - ivuorinen&#39;s shareable configuration for Browserslist. (1 day ago)
-- [ivuorinen/base-configs-semantic-release](https://github.com/ivuorinen/base-configs-semantic-release) - ivuorinen&#39;s shareable configuration for semantic-release. (3 days ago)
-- [ivuorinen/base-configs-stylelint](https://github.com/ivuorinen/base-configs-stylelint) - ivuorinen&#39;s shareable configuration for stylelint. (3 days ago)
+- [ivuorinen/base-configs-browserslist](https://github.com/ivuorinen/base-configs-browserslist) - ivuorinen&#39;s shareable configuration for Browserslist. (2 days ago)
+- [ivuorinen/base-configs-stylelint](https://github.com/ivuorinen/base-configs-stylelint) - ivuorinen&#39;s shareable configuration for stylelint. (4 days ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -24,19 +24,19 @@ I'm also a huge fan of open-source, and I try to contribute back to the communit
 
 #### 🚀 Latest releases I've contributed to
 
-- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2026-01-29-top-crab](https://github.com/mason-org/mason-registry/releases/tag/2026-01-29-top-crab), 1 day ago) - Core registry for mason.nvim.
-- [ivuorinen/base-configs-browserslist](https://github.com/ivuorinen/base-configs-browserslist) ([v1.0.1](https://github.com/ivuorinen/base-configs-browserslist/releases/tag/v1.0.1), 1 day ago) - ivuorinen&#39;s shareable configuration for Browserslist.
-- [ivuorinen/base-configs-semantic-release](https://github.com/ivuorinen/base-configs-semantic-release) ([v1.1.0](https://github.com/ivuorinen/base-configs-semantic-release/releases/tag/v1.1.0), 3 days ago) - ivuorinen&#39;s shareable configuration for semantic-release.
-- [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) ([26.1.25](https://github.com/ivuorinen/dotfiles/releases/tag/26.1.25), 5 days ago) - These are my dotfiles. There are many like &#39;em, but these are mine.
-- [ivuorinen/actions](https://github.com/ivuorinen/actions) ([v2026.01.21](https://github.com/ivuorinen/actions/releases/tag/v2026.01.21), 1 week ago) - ivuorinen&#39;s shared actions
+- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2026-01-30-torn-yarn](https://github.com/mason-org/mason-registry/releases/tag/2026-01-30-torn-yarn), 1 day ago) - Core registry for mason.nvim.
+- [ivuorinen/base-configs](https://github.com/ivuorinen/base-configs) ([v1.0.1](https://github.com/ivuorinen/base-configs/releases/tag/v1.0.1), 1 day ago) - meta package for my linting configurations
+- [ivuorinen/base-configs-browserslist](https://github.com/ivuorinen/base-configs-browserslist) ([v1.0.1](https://github.com/ivuorinen/base-configs-browserslist/releases/tag/v1.0.1), 2 days ago) - ivuorinen&#39;s shareable configuration for Browserslist.
+- [ivuorinen/base-configs-semantic-release](https://github.com/ivuorinen/base-configs-semantic-release) ([v1.1.0](https://github.com/ivuorinen/base-configs-semantic-release/releases/tag/v1.1.0), 4 days ago) - ivuorinen&#39;s shareable configuration for semantic-release.
+- [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) ([26.1.25](https://github.com/ivuorinen/dotfiles/releases/tag/26.1.25), 6 days ago) - These are my dotfiles. There are many like &#39;em, but these are mine.
 
 #### ⭐ Recent Stars
 
-- [bchavez/Bogus](https://github.com/bchavez/Bogus) - :card_index: A simple fake data generator for C#, F#, and VB.NET. Based on and ported from the famed faker.js. (1 day ago)
-- [timothystewart6/paperless-stack](https://github.com/timothystewart6/paperless-stack) - Docker Compose stack for running Paperless-ngx with optional local AI capabilities. (2 days ago)
-- [oguzc/playwright-wizard-mcp](https://github.com/oguzc/playwright-wizard-mcp) - MCP server providing Playwright test generation wizard with intelligent prompts and best practices (2 days ago)
-- [StevenStavrakis/obsidian-mcp](https://github.com/StevenStavrakis/obsidian-mcp) - A simple MCP server for Obsidian (2 days ago)
-- [smithery-ai/mcp-obsidian](https://github.com/smithery-ai/mcp-obsidian) - A connector for Claude Desktop to read and search an Obsidian vault. (2 days ago)
+- [bchavez/Bogus](https://github.com/bchavez/Bogus) - :card_index: A simple fake data generator for C#, F#, and VB.NET. Based on and ported from the famed faker.js. (2 days ago)
+- [timothystewart6/paperless-stack](https://github.com/timothystewart6/paperless-stack) - Docker Compose stack for running Paperless-ngx with optional local AI capabilities. (3 days ago)
+- [oguzc/playwright-wizard-mcp](https://github.com/oguzc/playwright-wizard-mcp) - MCP server providing Playwright test generation wizard with intelligent prompts and best practices (3 days ago)
+- [StevenStavrakis/obsidian-mcp](https://github.com/StevenStavrakis/obsidian-mcp) - A simple MCP server for Obsidian (3 days ago)
+- [smithery-ai/mcp-obsidian](https://github.com/smithery-ai/mcp-obsidian) - A connector for Claude Desktop to read and search an Obsidian vault. (3 days ago)
 
 
 
