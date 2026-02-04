@@ -10,9 +10,9 @@ I'm also a huge fan of open-source, and I try to contribute back to the communit
 
 - [ivuorinen/starred](https://github.com/ivuorinen/starred) - Automatically updated list of my starred repos. (1 day ago)
 - [ivuorinen/cheatsheet-tldr](https://github.com/ivuorinen/cheatsheet-tldr) - tldr-pages/tldr pages for cheat/cheat (1 day ago)
-- [ivuorinen/gibidify](https://github.com/ivuorinen/gibidify) - gibidify is a CLI application written in Go that scans a source directory recursively and aggregates code files into a single text file for LLMs. (2 days ago)
-- [ivuorinen/monolog-gdpr-filter](https://github.com/ivuorinen/monolog-gdpr-filter) - Monolog processor for GDPR masking with regex and dot-notation path (2 days ago)
-- [ivuorinen/base-configs](https://github.com/ivuorinen/base-configs) - meta package for my linting configurations (4 days ago)
+- [ivuorinen/gibidify](https://github.com/ivuorinen/gibidify) - gibidify is a CLI application written in Go that scans a source directory recursively and aggregates code files into a single text file for LLMs. (3 days ago)
+- [ivuorinen/monolog-gdpr-filter](https://github.com/ivuorinen/monolog-gdpr-filter) - Monolog processor for GDPR masking with regex and dot-notation path (3 days ago)
+- [ivuorinen/base-configs](https://github.com/ivuorinen/base-configs) - meta package for my linting configurations (5 days ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -24,19 +24,19 @@ I'm also a huge fan of open-source, and I try to contribute back to the communit
 
 #### 🚀 Latest releases I've contributed to
 
-- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2026-02-02-seemly-amount](https://github.com/mason-org/mason-registry/releases/tag/2026-02-02-seemly-amount), 1 day ago) - Core registry for mason.nvim.
-- [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) ([26.2.1](https://github.com/ivuorinen/dotfiles/releases/tag/26.2.1), 2 days ago) - These are my dotfiles. There are many like &#39;em, but these are mine.
-- [ivuorinen/ivuorinen](https://github.com/ivuorinen/ivuorinen) ([2026.2.0](https://github.com/ivuorinen/ivuorinen/releases/tag/2026.2.0), 2 days ago) - My special github profile header
-- [ivuorinen/base-configs](https://github.com/ivuorinen/base-configs) ([v1.0.1](https://github.com/ivuorinen/base-configs/releases/tag/v1.0.1), 4 days ago) - meta package for my linting configurations
-- [ivuorinen/base-configs-browserslist](https://github.com/ivuorinen/base-configs-browserslist) ([v1.0.1](https://github.com/ivuorinen/base-configs-browserslist/releases/tag/v1.0.1), 5 days ago) - ivuorinen&#39;s shareable configuration for Browserslist.
+- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2026-02-03-stingy-sight](https://github.com/mason-org/mason-registry/releases/tag/2026-02-03-stingy-sight), 1 day ago) - Core registry for mason.nvim.
+- [ivuorinen/actions](https://github.com/ivuorinen/actions) ([v2026.02.03](https://github.com/ivuorinen/actions/releases/tag/v2026.02.03), 1 day ago) - ivuorinen&#39;s shared actions
+- [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) ([26.2.1](https://github.com/ivuorinen/dotfiles/releases/tag/26.2.1), 3 days ago) - These are my dotfiles. There are many like &#39;em, but these are mine.
+- [ivuorinen/ivuorinen](https://github.com/ivuorinen/ivuorinen) ([2026.2.0](https://github.com/ivuorinen/ivuorinen/releases/tag/2026.2.0), 3 days ago) - My special github profile header
+- [ivuorinen/base-configs](https://github.com/ivuorinen/base-configs) ([v1.0.1](https://github.com/ivuorinen/base-configs/releases/tag/v1.0.1), 5 days ago) - meta package for my linting configurations
 
 #### ⭐ Recent Stars
 
-- [CaviraOSS/OpenMemory](https://github.com/CaviraOSS/OpenMemory) - Local persistent memory store for LLM applications including claude desktop, github copilot, codex, antigravity, etc. (2 days ago)
-- [FamousWolf/week-planner-card](https://github.com/FamousWolf/week-planner-card) - Custom Home Assistant card displaying a responsive overview or multiple days with events from one of multiple calendars (3 days ago)
-- [bchavez/Bogus](https://github.com/bchavez/Bogus) - :card_index: A simple fake data generator for C#, F#, and VB.NET. Based on and ported from the famed faker.js. (5 days ago)
-- [timothystewart6/paperless-stack](https://github.com/timothystewart6/paperless-stack) - Docker Compose stack for running Paperless-ngx with optional local AI capabilities. (6 days ago)
-- [oguzc/playwright-wizard-mcp](https://github.com/oguzc/playwright-wizard-mcp) - MCP server providing Playwright test generation wizard with intelligent prompts and best practices (6 days ago)
+- [CaviraOSS/OpenMemory](https://github.com/CaviraOSS/OpenMemory) - Local persistent memory store for LLM applications including claude desktop, github copilot, codex, antigravity, etc. (3 days ago)
+- [FamousWolf/week-planner-card](https://github.com/FamousWolf/week-planner-card) - Custom Home Assistant card displaying a responsive overview or multiple days with events from one of multiple calendars (4 days ago)
+- [bchavez/Bogus](https://github.com/bchavez/Bogus) - :card_index: A simple fake data generator for C#, F#, and VB.NET. Based on and ported from the famed faker.js. (6 days ago)
+- [timothystewart6/paperless-stack](https://github.com/timothystewart6/paperless-stack) - Docker Compose stack for running Paperless-ngx with optional local AI capabilities. (1 week ago)
+- [oguzc/playwright-wizard-mcp](https://github.com/oguzc/playwright-wizard-mcp) - MCP server providing Playwright test generation wizard with intelligent prompts and best practices (1 week ago)
 
 
 
