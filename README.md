@@ -9,9 +9,9 @@ I'm also a huge fan of open-source, and I try to contribute back to the communit
 #### 👷 Check out what I'm currently working on
 
 - [ivuorinen/cheatsheet-tldr](https://github.com/ivuorinen/cheatsheet-tldr) - tldr-pages/tldr pages for cheat/cheat (1 day ago)
-- [ivuorinen/starred](https://github.com/ivuorinen/starred) - Automatically updated list of my starred repos. (1 day ago)
-- [ivuorinen/base-configs-eslint](https://github.com/ivuorinen/base-configs-eslint) - ivuorinen&#39;s shareable configuration for ESLint. (2 days ago)
-- [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) - These are my dotfiles. There are many like &#39;em, but these are mine. (4 days ago)
+- [ivuorinen/starred](https://github.com/ivuorinen/starred) - Automatically updated list of my starred repos. (2 days ago)
+- [ivuorinen/base-configs-eslint](https://github.com/ivuorinen/base-configs-eslint) - ivuorinen&#39;s shareable configuration for ESLint. (3 days ago)
+- [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) - These are my dotfiles. There are many like &#39;em, but these are mine. (5 days ago)
 - [ivuorinen/gibidify](https://github.com/ivuorinen/gibidify) - gibidify is a CLI application written in Go that scans a source directory recursively and aggregates code files into a single text file for LLMs. (1 week ago)
 
 #### 👨‍💻 Repositories I created recently
@@ -24,19 +24,19 @@ I'm also a huge fan of open-source, and I try to contribute back to the communit
 
 #### 🚀 Latest releases I've contributed to
 
-- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2026-02-11-spiffy-editor](https://github.com/mason-org/mason-registry/releases/tag/2026-02-11-spiffy-editor), 1 day ago) - Core registry for mason.nvim.
-- [ivuorinen/actions](https://github.com/ivuorinen/actions) ([v2026.02.10](https://github.com/ivuorinen/actions/releases/tag/v2026.02.10), 2 days ago) - ivuorinen&#39;s shared actions
-- [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) ([26.2.9](https://github.com/ivuorinen/dotfiles/releases/tag/26.2.9), 3 days ago) - These are my dotfiles. There are many like &#39;em, but these are mine.
+- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2026-02-12-many-cannon](https://github.com/mason-org/mason-registry/releases/tag/2026-02-12-many-cannon), 1 day ago) - Core registry for mason.nvim.
+- [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) ([26.2.12](https://github.com/ivuorinen/dotfiles/releases/tag/26.2.12), 1 day ago) - These are my dotfiles. There are many like &#39;em, but these are mine.
+- [ivuorinen/actions](https://github.com/ivuorinen/actions) ([v2026.02.10](https://github.com/ivuorinen/actions/releases/tag/v2026.02.10), 3 days ago) - ivuorinen&#39;s shared actions
 - [ivuorinen/ivuorinen](https://github.com/ivuorinen/ivuorinen) ([2026.2.0](https://github.com/ivuorinen/ivuorinen/releases/tag/2026.2.0), 1 week ago) - My special github profile header
-- [ivuorinen/base-configs](https://github.com/ivuorinen/base-configs) ([v1.0.1](https://github.com/ivuorinen/base-configs/releases/tag/v1.0.1), 1 week ago) - meta package for my linting configurations
+- [ivuorinen/base-configs](https://github.com/ivuorinen/base-configs) ([v1.0.1](https://github.com/ivuorinen/base-configs/releases/tag/v1.0.1), 2 weeks ago) - meta package for my linting configurations
 
 #### ⭐ Recent Stars
 
-- [aaddrick/claude-pipeline](https://github.com/aaddrick/claude-pipeline) - Portable Claude Code multi-agent pipeline - skills, agents, hooks, orchestration scripts, and quality gates (2 days ago)
-- [originalankur/maptoposter](https://github.com/originalankur/maptoposter) - Transform your favorite cities into beautiful, minimalist designs. MapToPoster lets you create and export visually striking map posters with code. (5 days ago)
-- [Ulauncher/Ulauncher](https://github.com/Ulauncher/Ulauncher) - Feature rich application Launcher for Linux (6 days ago)
-- [vercel-labs/skills](https://github.com/vercel-labs/skills) - The open agent skills tool - npx skills (6 days ago)
-- [CaviraOSS/OpenMemory](https://github.com/CaviraOSS/OpenMemory) - Local persistent memory store for LLM applications including claude desktop, github copilot, codex, antigravity, etc. (1 week ago)
+- [darkstego/Mudeer](https://github.com/darkstego/Mudeer) - KDE Plasma Screen Splitting Shortcuts ideal for Ultrawide and Super-Ultrawide Monitors (1 day ago)
+- [catppuccin/kde](https://github.com/catppuccin/kde) - 🌻 Soothing pastel theme for KDE (1 day ago)
+- [Bismuth-Forge/bismuth](https://github.com/Bismuth-Forge/bismuth) - KDE Plasma add-on, that tiles your windows automatically and lets you manage them via keyboard, similarly to i3, Sway or dwm. (1 day ago)
+- [korapp/plasma-homeassistant](https://github.com/korapp/plasma-homeassistant) - Add Home Assistant to your plasma desktop (1 day ago)
+- [qewer33/ClearClock](https://github.com/qewer33/ClearClock) - A simple and clean date/time plasmoid for your KDE desktop (1 day ago)
 
 
 
