@@ -8,11 +8,11 @@ I'm also a huge fan of open-source, and I try to contribute back to the communit
 
 #### 👷 Check out what I'm currently working on
 
-- [ivuorinen/gibidify](https://github.com/ivuorinen/gibidify) - gibidify is a CLI application written in Go that scans a source directory recursively and aggregates code files into a single text file for LLMs. (1 day ago)
+- [ivuorinen/starred](https://github.com/ivuorinen/starred) - Automatically updated list of my starred repos. (1 day ago)
 - [ivuorinen/homebrew-tap](https://github.com/ivuorinen/homebrew-tap) - brew tap ivuorinen/tap (1 day ago)
 - [ivuorinen/cheatsheet-tldr](https://github.com/ivuorinen/cheatsheet-tldr) - tldr-pages/tldr pages for cheat/cheat (1 day ago)
-- [ivuorinen/starred](https://github.com/ivuorinen/starred) - Automatically updated list of my starred repos. (2 days ago)
-- [ivuorinen/ghaw-auditor](https://github.com/ivuorinen/ghaw-auditor) - GitHub Actions &amp; Workflows Auditor - analyze and audit GitHub Actions ecosystem (2 days ago)
+- [ivuorinen/gibidify](https://github.com/ivuorinen/gibidify) - gibidify is a CLI application written in Go that scans a source directory recursively and aggregates code files into a single text file for LLMs. (2 days ago)
+- [ivuorinen/ghaw-auditor](https://github.com/ivuorinen/ghaw-auditor) - GitHub Actions &amp; Workflows Auditor - analyze and audit GitHub Actions ecosystem (3 days ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -24,18 +24,18 @@ I'm also a huge fan of open-source, and I try to contribute back to the communit
 
 #### 🚀 Latest releases I've contributed to
 
-- [ivuorinen/actions](https://github.com/ivuorinen/actions) ([v2026.02.18](https://github.com/ivuorinen/actions/releases/tag/v2026.02.18), 1 day ago) - ivuorinen&#39;s shared actions
-- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2026-02-18-zesty-witch](https://github.com/mason-org/mason-registry/releases/tag/2026-02-18-zesty-witch), 1 day ago) - Core registry for mason.nvim.
-- [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) ([26.2.17](https://github.com/ivuorinen/dotfiles/releases/tag/26.2.17), 2 days ago) - These are my dotfiles. There are many like &#39;em, but these are mine.
+- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2026-02-19-yummy-ram](https://github.com/mason-org/mason-registry/releases/tag/2026-02-19-yummy-ram), 1 day ago) - Core registry for mason.nvim.
+- [ivuorinen/actions](https://github.com/ivuorinen/actions) ([v2026.02.18](https://github.com/ivuorinen/actions/releases/tag/v2026.02.18), 2 days ago) - ivuorinen&#39;s shared actions
+- [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) ([26.2.17](https://github.com/ivuorinen/dotfiles/releases/tag/26.2.17), 3 days ago) - These are my dotfiles. There are many like &#39;em, but these are mine.
 - [ivuorinen/ivuorinen](https://github.com/ivuorinen/ivuorinen) ([2026.2.0](https://github.com/ivuorinen/ivuorinen/releases/tag/2026.2.0), 2 weeks ago) - My special github profile header
-- [ivuorinen/base-configs](https://github.com/ivuorinen/base-configs) ([v1.0.1](https://github.com/ivuorinen/base-configs/releases/tag/v1.0.1), 2 weeks ago) - meta package for my linting configurations
+- [ivuorinen/base-configs](https://github.com/ivuorinen/base-configs) ([v1.0.1](https://github.com/ivuorinen/base-configs/releases/tag/v1.0.1), 3 weeks ago) - meta package for my linting configurations
 
 #### ⭐ Recent Stars
 
-- [corazawaf/coraza](https://github.com/corazawaf/coraza) - OWASP Coraza WAF is a golang modsecurity compatible web application firewall library (1 day ago)
-- [owasp-modsecurity/ModSecurity](https://github.com/owasp-modsecurity/ModSecurity) - ModSecurity is an open source, cross platform web application firewall (WAF) engine for Apache, IIS and Nginx. It has a robust event-based programming language which provides protection from a range of attacks against web applications and allows for HTTP traffic monitoring, logging and real-time analysis. (1 day ago)
-- [max-sixty/worktrunk](https://github.com/max-sixty/worktrunk) - Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows (1 day ago)
-- [Nokse22/high-tide](https://github.com/Nokse22/high-tide) - Libadwaita TIDAL client for Linux (5 days ago)
+- [corazawaf/coraza](https://github.com/corazawaf/coraza) - OWASP Coraza WAF is a golang modsecurity compatible web application firewall library (2 days ago)
+- [owasp-modsecurity/ModSecurity](https://github.com/owasp-modsecurity/ModSecurity) - ModSecurity is an open source, cross platform web application firewall (WAF) engine for Apache, IIS and Nginx. It has a robust event-based programming language which provides protection from a range of attacks against web applications and allows for HTTP traffic monitoring, logging and real-time analysis. (2 days ago)
+- [max-sixty/worktrunk](https://github.com/max-sixty/worktrunk) - Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows (2 days ago)
+- [Nokse22/high-tide](https://github.com/Nokse22/high-tide) - Libadwaita TIDAL client for Linux (6 days ago)
 - [darkstego/Mudeer](https://github.com/darkstego/Mudeer) - KDE Plasma Screen Splitting Shortcuts ideal for Ultrawide and Super-Ultrawide Monitors (1 week ago)
 
 
