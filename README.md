@@ -8,11 +8,11 @@ I'm also a huge fan of open-source, and I try to contribute back to the communit
 
 #### 👷 Check out what I'm currently working on
 
-- [ivuorinen/cheatsheet-tldr](https://github.com/ivuorinen/cheatsheet-tldr) - tldr-pages/tldr pages for cheat/cheat (1 day ago)
-- [ivuorinen/starred](https://github.com/ivuorinen/starred) - Automatically updated list of my starred repos. (2 days ago)
+- [ivuorinen/branch-usage-checker](https://github.com/ivuorinen/branch-usage-checker) - Cross-check project public GitHub Branches and Packagist branch download statistics to determine are branches safe to delete (today)
+- [ivuorinen/starred](https://github.com/ivuorinen/starred) - Automatically updated list of my starred repos. (today)
+- [ivuorinen/cheatsheet-tldr](https://github.com/ivuorinen/cheatsheet-tldr) - tldr-pages/tldr pages for cheat/cheat (today)
 - [ivuorinen/homebrew-tap](https://github.com/ivuorinen/homebrew-tap) - brew tap ivuorinen/tap (4 days ago)
 - [ivuorinen/gibidify](https://github.com/ivuorinen/gibidify) - gibidify is a CLI application written in Go that scans a source directory recursively and aggregates code files into a single text file for LLMs. (5 days ago)
-- [ivuorinen/ghaw-auditor](https://github.com/ivuorinen/ghaw-auditor) - GitHub Actions &amp; Workflows Auditor - analyze and audit GitHub Actions ecosystem (6 days ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -24,7 +24,7 @@ I'm also a huge fan of open-source, and I try to contribute back to the communit
 
 #### 🚀 Latest releases I've contributed to
 
-- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2026-02-22-tame-zephyr](https://github.com/mason-org/mason-registry/releases/tag/2026-02-22-tame-zephyr), 1 day ago) - Core registry for mason.nvim.
+- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2026-02-23-adept-canoe](https://github.com/mason-org/mason-registry/releases/tag/2026-02-23-adept-canoe), today) - Core registry for mason.nvim.
 - [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) ([26.2.21](https://github.com/ivuorinen/dotfiles/releases/tag/26.2.21), 2 days ago) - These are my dotfiles. There are many like &#39;em, but these are mine.
 - [ivuorinen/actions](https://github.com/ivuorinen/actions) ([v2026.02.18](https://github.com/ivuorinen/actions/releases/tag/v2026.02.18), 5 days ago) - ivuorinen&#39;s shared actions
 - [ivuorinen/ivuorinen](https://github.com/ivuorinen/ivuorinen) ([2026.2.0](https://github.com/ivuorinen/ivuorinen/releases/tag/2026.2.0), 3 weeks ago) - My special github profile header
