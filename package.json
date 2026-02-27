@@ -15,7 +15,7 @@
     "lint:fix": "eslint . --fix"
   },
   "devDependencies": {
-    "@ivuorinen/base-configs": "^2.0.2",
+    "@ivuorinen/base-configs": "^1",
     "eslint-plugin-prettier": "^5.2.1",
     "textlint": "^15.0.0",
     "textlint-filter-rule-comments": "^1.2.2",
