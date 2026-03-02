@@ -18,6 +18,6 @@ jobs:
       - name: Checkout
         uses: actions/checkout@1af3b93b6815bc44a9784bd300feb67ff0d1eeb3 # v6
       - name: Run Labeler
-        uses: crazy-max/ghaction-github-labeler@31674a3852a9074f2086abcf1c53839d466a47e7 # v5
+        uses: crazy-max/ghaction-github-labeler@548a7c3603594ec17c819e1239f281a3b801ab4d # v6
         with:
           dry-run: ${{ github.event_name == 'pull_request' }}
