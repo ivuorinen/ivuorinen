@@ -6,7 +6,8 @@ on:
   workflow_call:
   pull_request:
     # Run Image Actions when JPG, JPEG, PNG or WebP files are added or changed.
-    # See https://help.github.com/en/actions/automating-your-workflow-with-github-actions/workflow-syntax-for-github-actions#onpushpull_requestpaths for reference.
+    # See https://help.github.com/en/actions/automating-your-workflow-with-github-actions/
+    # workflow-syntax-for-github-actions#onpushpull_requestpaths for reference.
     paths:
       - '**.jpg'
       - '**.jpeg'
@@ -27,7 +28,7 @@ jobs:
 
     steps:
       - name: Checkout Repo
-        uses: actions/checkout@1af3b93b6815bc44a9784bd300feb67ff0d1eeb3 # v6
+        uses: actions/checkout@de0fac2e4500dabe0009e67214ff5f5447ce83dd # v6.0.2
 
       - name: Compress Images
         uses: calibreapp/image-actions@f32575787d333b0579f0b7d506ff03be63a669d1 # 1.4.1

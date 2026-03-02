@@ -16,6 +16,8 @@
   },
   "devDependencies": {
     "@ivuorinen/base-configs": "^1",
+    "@ivuorinen/commitlint-config": "^1.0.0",
+    "@ivuorinen/prettier-config": "^1.0.1",
     "eslint-plugin-prettier": "^5.2.1",
     "textlint": "^15.0.0",
     "textlint-filter-rule-comments": "^1.2.2",
