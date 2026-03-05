@@ -24,11 +24,11 @@ I'm also a huge fan of open-source, and I try to contribute back to the communit
 
 #### 🚀 Latest releases I've contributed to
 
+- [ivuorinen/base-configs-commitlint](https://github.com/ivuorinen/base-configs-commitlint) ([v1.0.4](https://github.com/ivuorinen/base-configs-commitlint/releases/tag/v1.0.4), today) - ivuorinen&#39;s shareable configuration for commitlint.
+- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2026-03-05-boring-throat](https://github.com/mason-org/mason-registry/releases/tag/2026-03-05-boring-throat), today) - Core registry for mason.nvim.
+- [ivuorinen/base-configs-stylelint](https://github.com/ivuorinen/base-configs-stylelint) ([v1.0.8](https://github.com/ivuorinen/base-configs-stylelint/releases/tag/v1.0.8), today) - ivuorinen&#39;s shareable configuration for stylelint.
 - [ivuorinen/base-configs-semantic-release](https://github.com/ivuorinen/base-configs-semantic-release) ([v1.1.8](https://github.com/ivuorinen/base-configs-semantic-release/releases/tag/v1.1.8), today) - ivuorinen&#39;s shareable configuration for semantic-release.
-- [ivuorinen/base-configs-stylelint](https://github.com/ivuorinen/base-configs-stylelint) ([v1.0.7](https://github.com/ivuorinen/base-configs-stylelint/releases/tag/v1.0.7), today) - ivuorinen&#39;s shareable configuration for stylelint.
 - [ivuorinen/base-configs-eslint](https://github.com/ivuorinen/base-configs-eslint) ([v1.0.3](https://github.com/ivuorinen/base-configs-eslint/releases/tag/v1.0.3), today) - ivuorinen&#39;s shareable configuration for ESLint.
-- [ivuorinen/base-configs-browserslist](https://github.com/ivuorinen/base-configs-browserslist) ([v1.0.10](https://github.com/ivuorinen/base-configs-browserslist/releases/tag/v1.0.10), today) - ivuorinen&#39;s shareable configuration for Browserslist.
-- [ivuorinen/base-configs-markdownlint](https://github.com/ivuorinen/base-configs-markdownlint) ([v1.0.11](https://github.com/ivuorinen/base-configs-markdownlint/releases/tag/v1.0.11), today) - ivuorinen&#39;s shareable configuration for markdownlint.
 
 #### ⭐ Recent Stars
 
