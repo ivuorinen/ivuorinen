@@ -24,19 +24,19 @@ I'm also a huge fan of open-source, and I try to contribute back to the communit
 
 #### 🚀 Latest releases I've contributed to
 
+- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2026-03-05-long-koala](https://github.com/mason-org/mason-registry/releases/tag/2026-03-05-long-koala), today) - Core registry for mason.nvim.
+- [ivuorinen/base-configs](https://github.com/ivuorinen/base-configs) ([v1.0.8](https://github.com/ivuorinen/base-configs/releases/tag/v1.0.8), today) - meta package for my linting configurations
 - [ivuorinen/base-configs-commitlint](https://github.com/ivuorinen/base-configs-commitlint) ([v1.0.4](https://github.com/ivuorinen/base-configs-commitlint/releases/tag/v1.0.4), today) - ivuorinen&#39;s shareable configuration for commitlint.
-- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2026-03-05-boring-throat](https://github.com/mason-org/mason-registry/releases/tag/2026-03-05-boring-throat), today) - Core registry for mason.nvim.
 - [ivuorinen/base-configs-stylelint](https://github.com/ivuorinen/base-configs-stylelint) ([v1.0.8](https://github.com/ivuorinen/base-configs-stylelint/releases/tag/v1.0.8), today) - ivuorinen&#39;s shareable configuration for stylelint.
 - [ivuorinen/base-configs-semantic-release](https://github.com/ivuorinen/base-configs-semantic-release) ([v1.1.8](https://github.com/ivuorinen/base-configs-semantic-release/releases/tag/v1.1.8), today) - ivuorinen&#39;s shareable configuration for semantic-release.
-- [ivuorinen/base-configs-eslint](https://github.com/ivuorinen/base-configs-eslint) ([v1.0.3](https://github.com/ivuorinen/base-configs-eslint/releases/tag/v1.0.3), today) - ivuorinen&#39;s shareable configuration for ESLint.
 
 #### ⭐ Recent Stars
 
+- [go-gorm/gorm](https://github.com/go-gorm/gorm) - The fantastic ORM library for Golang, aims to be developer friendly (today)
+- [alexpasmantier/television](https://github.com/alexpasmantier/television) - A very fast, portable and hackable fuzzy finder. (today)
+- [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework &amp; software development methodology that works. (today)
 - [tobi/try](https://github.com/tobi/try) - fresh directories for every vibe (1 day ago)
 - [Timmoth/RackPeek](https://github.com/Timmoth/RackPeek) - CLI tool to discover, manage, and document your IT infrastructure and home lab. (3 days ago)
-- [caarlos0/timer](https://github.com/caarlos0/timer) - A `sleep` with progress (3 days ago)
-- [badlogic/pi-mono](https://github.com/badlogic/pi-mono) - AI agent toolkit: coding agent CLI, unified LLM API, TUI &amp; web UI libraries, Slack bot, vLLM pods (1 week ago)
-- [coder/claudecode.nvim](https://github.com/coder/claudecode.nvim) - 🧩 Claude Code Neovim IDE Extension (1 week ago)
 
 
 
