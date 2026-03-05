@@ -1,92 +1,24 @@
 ---
 # yaml-language-server: $schema=https://json.schemastore.org/github-workflow.json
-#################################
-#################################
-## Super Linter GitHub Actions ##
-#################################
-#################################
-name: Lint Code Base
+name: PR Lint
 
-#
-# Documentation:
-# https://docs.github.com/en/actions/learn-github-actions/workflow-syntax-for-github-actions
-#
-
-env:
-  MAIN_BRANCH: main
-
-#############################
-# Start the job on all push #
-#############################
 on:
   pull_request:
     branches: [master, main]
   workflow_call:
 
-###############
-# Set the Job #
-###############
 jobs:
-  build:
-    # Name the Job
-    name: Lint Code Base
-    # Set the agent to run on
+  lint:
+    name: PR Lint
     runs-on: ubuntu-latest
 
-    ############################################
-    # Grant status permission for MULTI_STATUS #
-    ############################################
     permissions:
-      contents: read
-      packages: read
+      contents: write
+      pull-requests: write
       statuses: write
 
-    ##################
-    # Load all steps #
-    ##################
     steps:
-      ##########################
-      # Checkout the code base #
-      ##########################
-      - name: Checkout Code
-        uses: actions/checkout@de0fac2e4500dabe0009e67214ff5f5447ce83dd # v6.0.2
+      - name: PR Lint
+        uses: ivuorinen/actions/pr-lint@6e8f2aae9d0846d901d9eba15b8e94a2900573dc # v2026.03.02
         with:
-          # Full git history is needed to get a proper
-          # list of changed files within `super-linter`
-          fetch-depth: 0
-
-      - name: Setup Node.js Environment
-        uses: actions/setup-node@6044e13b5dc448c55e2357c09f80417699197238 # v6.2.0
-        with:
-          node-version-file: '.nvmrc'
-
-      - name: Cache Node Modules
-        uses: actions/cache@cdf6c1fa76f9f475f3d7449005a359c84ca0f306 # v5.0.3
-        id: cache
-        with:
-          path: node_modules
-          key: node-modules-${{ hashFiles('**/package-lock.json') }}
-
-      - name: Install npm packages
-        run: npm install
-
-      ################################
-      # Run Linter against code base #
-      ################################
-      - name: Lint Code Base
-        uses: super-linter/super-linter/slim@61abc07d755095a68f4987d1c2c3d1d64408f1f9 # v8.5.0
-        env:
-          VALIDATE_ALL_CODEBASE: false
-          LINTER_RULES_PATH: '${DEFAULT_WORKSPACE}'
-          VALIDATE_JSON: false # doesn't handle new config format
-          VALIDATE_NATURAL_LANGUAGE: false # doesn't seem to respect configs
-          FIX_ANSIBLE: true
-          FIX_ENV: true
-          FIX_JSON_PRETTIER: true
-          FIX_JSONC_PRETTIER: true
-          FIX_MARKDOWN: true
-          FIX_SHELL_SHFMT: true
-          FIX_TYPESCRIPT_PRETTIER: true
-          # Change to 'master' if your main branch differs
-          DEFAULT_BRANCH: ${{ env.MAIN_BRANCH }}
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.GITHUB_TOKEN }}

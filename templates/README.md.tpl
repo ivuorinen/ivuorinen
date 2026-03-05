@@ -1,4 +1,4 @@
-<!-- markdownlint-disable MD041 -->
+<!-- markdownlint-disable MD041 MD012 -->
 ### Hi there 👋
 
 My name is Ismo Vuorinen, and I work as a software developer in Finland.
