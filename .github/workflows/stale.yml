@@ -31,10 +31,9 @@ jobs:
           stale-issue-message: >
             This issue has now been marked as stale and will be closed if no further activity occurs. Thanks!
 
+
           stale-pr-label: 'stale'
           exempt-pr-labels: 'no-stale'
           stale-pr-message: >
-            There hasn't been any activity on this pull request recently.
-            This pull request has been automatically marked as stale
-            because of that and will be closed if no further activity
-            occurs within 7 days. Thank you for your contributions.
+            There hasn't been any activity on this pull request recently. This pull request has been automatically marked as stale because of that and will be closed if no further activity occurs within 7 days. Thank you for your contributions.
+

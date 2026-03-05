@@ -1,10 +1,10 @@
+<!-- markdownlint-disable MD041 MD012 -->
 
 ### Hi there 👋
 
 My name is Ismo Vuorinen, and I work as a software developer in Finland.
 
-I'm a full-stack developer with a passion for building great products and solving problems.
-I'm also a huge fan of open-source, and I try to contribute back to the community as much as I can.
+I'm a full-stack developer with a passion for building great products and solving problems. I'm also a huge fan of open-source, and I try to contribute back to the community as much as I can.
 
 #### 👷 Check out what I'm currently working on
 
@@ -38,8 +38,6 @@ I'm also a huge fan of open-source, and I try to contribute back to the communit
 - [badlogic/pi-mono](https://github.com/badlogic/pi-mono) - AI agent toolkit: coding agent CLI, unified LLM API, TUI &amp; web UI libraries, Slack bot, vLLM pods (1 week ago)
 - [coder/claudecode.nvim](https://github.com/coder/claudecode.nvim) - 🧩 Claude Code Neovim IDE Extension (1 week ago)
 
-
-
 <picture>
   <source srcset="https://raw.githubusercontent.com/ivuorinen/github-stats/master/generated/overview.svg#gh-dark-mode-only" media="(prefers-color-scheme: dark)" />
   <img src="https://raw.githubusercontent.com/ivuorinen/github-stats/master/generated/overview.svg#gh-light-mode-only" alt="Overview of my activity" />
@@ -48,5 +46,3 @@ I'm also a huge fan of open-source, and I try to contribute back to the communit
   <source srcset="https://raw.githubusercontent.com/ivuorinen/github-stats/master/generated/languages.svg#gh-dark-mode-only" media="(prefers-color-scheme: dark)" />
   <img src="https://raw.githubusercontent.com/ivuorinen/github-stats/master/generated/languages.svg#gh-light-mode-only" alt="Languages I have been using" />
 </picture>
-
-
