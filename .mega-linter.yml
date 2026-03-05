@@ -33,4 +33,3 @@ TYPESCRIPT_ES_CONFIG_FILE: eslint.config.mjs
 
 FILTER_REGEX_EXCLUDE: >
   (node_modules|\.automation/test|docs/json-schemas|\.worktrees)
-
