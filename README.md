@@ -8,9 +8,9 @@ I'm also a huge fan of open-source, and I try to contribute back to the communit
 
 #### 👷 Check out what I'm currently working on
 
+- [ivuorinen/cheatsheet-tldr](https://github.com/ivuorinen/cheatsheet-tldr) - tldr-pages/tldr pages for cheat/cheat (today)
 - [ivuorinen/base-configs](https://github.com/ivuorinen/base-configs) - meta package for my linting configurations (1 day ago)
 - [ivuorinen/starred](https://github.com/ivuorinen/starred) - Automatically updated list of my starred repos. (1 day ago)
-- [ivuorinen/cheatsheet-tldr](https://github.com/ivuorinen/cheatsheet-tldr) - tldr-pages/tldr pages for cheat/cheat (1 day ago)
 - [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) - These are my dotfiles. There are many like &#39;em, but these are mine. (3 days ago)
 - [ivuorinen/actions](https://github.com/ivuorinen/actions) - ivuorinen&#39;s shared actions (3 days ago)
 
@@ -24,11 +24,11 @@ I'm also a huge fan of open-source, and I try to contribute back to the communit
 
 #### 🚀 Latest releases I've contributed to
 
-- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2026-03-04-ornery-chive](https://github.com/mason-org/mason-registry/releases/tag/2026-03-04-ornery-chive), 1 day ago) - Core registry for mason.nvim.
-- [ivuorinen/base-configs](https://github.com/ivuorinen/base-configs) ([v1.0.7](https://github.com/ivuorinen/base-configs/releases/tag/v1.0.7), 1 day ago) - meta package for my linting configurations
-- [ivuorinen/base-configs-commitlint](https://github.com/ivuorinen/base-configs-commitlint) ([v1.0.3](https://github.com/ivuorinen/base-configs-commitlint/releases/tag/v1.0.3), 1 day ago) - ivuorinen&#39;s shareable configuration for commitlint.
-- [ivuorinen/base-configs-eslint](https://github.com/ivuorinen/base-configs-eslint) ([v1.0.1](https://github.com/ivuorinen/base-configs-eslint/releases/tag/v1.0.1), 1 day ago) - ivuorinen&#39;s shareable configuration for ESLint.
-- [ivuorinen/base-configs-stylelint](https://github.com/ivuorinen/base-configs-stylelint) ([v1.0.6](https://github.com/ivuorinen/base-configs-stylelint/releases/tag/v1.0.6), 1 day ago) - ivuorinen&#39;s shareable configuration for stylelint.
+- [ivuorinen/base-configs-semantic-release](https://github.com/ivuorinen/base-configs-semantic-release) ([v1.1.8](https://github.com/ivuorinen/base-configs-semantic-release/releases/tag/v1.1.8), today) - ivuorinen&#39;s shareable configuration for semantic-release.
+- [ivuorinen/base-configs-stylelint](https://github.com/ivuorinen/base-configs-stylelint) ([v1.0.7](https://github.com/ivuorinen/base-configs-stylelint/releases/tag/v1.0.7), today) - ivuorinen&#39;s shareable configuration for stylelint.
+- [ivuorinen/base-configs-eslint](https://github.com/ivuorinen/base-configs-eslint) ([v1.0.3](https://github.com/ivuorinen/base-configs-eslint/releases/tag/v1.0.3), today) - ivuorinen&#39;s shareable configuration for ESLint.
+- [ivuorinen/base-configs-browserslist](https://github.com/ivuorinen/base-configs-browserslist) ([v1.0.10](https://github.com/ivuorinen/base-configs-browserslist/releases/tag/v1.0.10), today) - ivuorinen&#39;s shareable configuration for Browserslist.
+- [ivuorinen/base-configs-markdownlint](https://github.com/ivuorinen/base-configs-markdownlint) ([v1.0.11](https://github.com/ivuorinen/base-configs-markdownlint/releases/tag/v1.0.11), today) - ivuorinen&#39;s shareable configuration for markdownlint.
 
 #### ⭐ Recent Stars
 
