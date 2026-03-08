@@ -8,11 +8,11 @@ I'm also a huge fan of open-source, and I try to contribute back to the communit
 
 #### 👷 Check out what I'm currently working on
 
-- [ivuorinen/base-configs-semantic-release](https://github.com/ivuorinen/base-configs-semantic-release) - ivuorinen&#39;s shareable configuration for semantic-release. (1 day ago)
-- [ivuorinen/starred](https://github.com/ivuorinen/starred) - Automatically updated list of my starred repos. (1 day ago)
-- [ivuorinen/github-stats](https://github.com/ivuorinen/github-stats) - Automatically generated GitHub Stats Visualization (1 day ago)
-- [ivuorinen/business-data-fetcher](https://github.com/ivuorinen/business-data-fetcher) - PHP composer package API client to Finnish Patent and Registration Office&#39;s (PRH) Business Information System (BIS). (1 day ago)
-- [ivuorinen/renovate-config](https://github.com/ivuorinen/renovate-config) -  (1 day ago)
+- [ivuorinen/cheatsheet-tldr](https://github.com/ivuorinen/cheatsheet-tldr) - tldr-pages/tldr pages for cheat/cheat (today)
+- [ivuorinen/starred](https://github.com/ivuorinen/starred) - Automatically updated list of my starred repos. (today)
+- [ivuorinen/monolog-gdpr-filter](https://github.com/ivuorinen/monolog-gdpr-filter) - Monolog processor for GDPR masking with regex and dot-notation path (today)
+- [ivuorinen/actions](https://github.com/ivuorinen/actions) - ivuorinen&#39;s shared actions (today)
+- [ivuorinen/phpenv.fish](https://github.com/ivuorinen/phpenv.fish) - A fast, feature-rich PHP version manager for Fish Shell using brew that acts like goenv or nvm. (1 day ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -24,9 +24,9 @@ I'm also a huge fan of open-source, and I try to contribute back to the communit
 
 #### 🚀 Latest releases I've contributed to
 
-- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2026-03-07-all-mall](https://github.com/mason-org/mason-registry/releases/tag/2026-03-07-all-mall), 1 day ago) - Core registry for mason.nvim.
-- [ivuorinen/actions](https://github.com/ivuorinen/actions) ([v2026.03.07](https://github.com/ivuorinen/actions/releases/tag/v2026.03.07), 1 day ago) - ivuorinen&#39;s shared actions
-- [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) ([26.3.7](https://github.com/ivuorinen/dotfiles/releases/tag/26.3.7), 1 day ago) - These are my dotfiles. There are many like &#39;em, but these are mine.
+- [ivuorinen/actions](https://github.com/ivuorinen/actions) ([v2026.03.08](https://github.com/ivuorinen/actions/releases/tag/v2026.03.08), today) - ivuorinen&#39;s shared actions
+- [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) ([26.3.8](https://github.com/ivuorinen/dotfiles/releases/tag/26.3.8), today) - These are my dotfiles. There are many like &#39;em, but these are mine.
+- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2026-03-08-fair-kalium](https://github.com/mason-org/mason-registry/releases/tag/2026-03-08-fair-kalium), today) - Core registry for mason.nvim.
 - [ivuorinen/base-configs-browserslist](https://github.com/ivuorinen/base-configs-browserslist) ([v1.0.13](https://github.com/ivuorinen/base-configs-browserslist/releases/tag/v1.0.13), 1 day ago) - ivuorinen&#39;s shareable configuration for Browserslist.
 - [ivuorinen/base-configs-stylelint](https://github.com/ivuorinen/base-configs-stylelint) ([v1.0.11](https://github.com/ivuorinen/base-configs-stylelint/releases/tag/v1.0.11), 1 day ago) - ivuorinen&#39;s shareable configuration for stylelint.
 
