@@ -8,9 +8,9 @@ I'm also a huge fan of open-source, and I try to contribute back to the communit
 
 #### 👷 Check out what I'm currently working on
 
-- [ivuorinen/starred](https://github.com/ivuorinen/starred) - Automatically updated list of my starred repos. (1 day ago)
+- [ivuorinen/starred](https://github.com/ivuorinen/starred) - Automatically updated list of my starred repos. (today)
+- [ivuorinen/cheatsheet-tldr](https://github.com/ivuorinen/cheatsheet-tldr) - tldr-pages/tldr pages for cheat/cheat (today)
 - [ivuorinen/gh-action-readme](https://github.com/ivuorinen/gh-action-readme) - Transform your GitHub Actions into professional documentation with multiple themes, output formats, and enterprise-grade features. (1 day ago)
-- [ivuorinen/cheatsheet-tldr](https://github.com/ivuorinen/cheatsheet-tldr) - tldr-pages/tldr pages for cheat/cheat (1 day ago)
 - [ivuorinen/coderabbit](https://github.com/ivuorinen/coderabbit) - CodeRabbit.ai configuration I reference in my projects (2 days ago)
 - [ivuorinen/emoji](https://github.com/ivuorinen/emoji) - Emojis for Slack and other platforms (2 days ago)
 
@@ -24,7 +24,7 @@ I'm also a huge fan of open-source, and I try to contribute back to the communit
 
 #### 🚀 Latest releases I've contributed to
 
-- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2026-03-10-speedy-pizza](https://github.com/mason-org/mason-registry/releases/tag/2026-03-10-speedy-pizza), 1 day ago) - Core registry for mason.nvim.
+- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2026-03-11-swiss-beer](https://github.com/mason-org/mason-registry/releases/tag/2026-03-11-swiss-beer), today) - Core registry for mason.nvim.
 - [ivuorinen/actions](https://github.com/ivuorinen/actions) ([v2026.03.10](https://github.com/ivuorinen/actions/releases/tag/v2026.03.10), 1 day ago) - ivuorinen&#39;s shared actions
 - [ivuorinen/base-configs-eslint](https://github.com/ivuorinen/base-configs-eslint) ([v1.0.7](https://github.com/ivuorinen/base-configs-eslint/releases/tag/v1.0.7), 2 days ago) - ivuorinen&#39;s shareable configuration for ESLint.
 - [ivuorinen/base-configs-browserslist](https://github.com/ivuorinen/base-configs-browserslist) ([v1.0.14](https://github.com/ivuorinen/base-configs-browserslist/releases/tag/v1.0.14), 2 days ago) - ivuorinen&#39;s shareable configuration for Browserslist.
