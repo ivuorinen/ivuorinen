@@ -8,8 +8,8 @@ I'm also a huge fan of open-source, and I try to contribute back to the communit
 
 #### 👷 Check out what I'm currently working on
 
-- [ivuorinen/starred](https://github.com/ivuorinen/starred) - Automatically updated list of my starred repos. (1 day ago)
-- [ivuorinen/cheatsheet-tldr](https://github.com/ivuorinen/cheatsheet-tldr) - tldr-pages/tldr pages for cheat/cheat (1 day ago)
+- [ivuorinen/starred](https://github.com/ivuorinen/starred) - Automatically updated list of my starred repos. (today)
+- [ivuorinen/cheatsheet-tldr](https://github.com/ivuorinen/cheatsheet-tldr) - tldr-pages/tldr pages for cheat/cheat (today)
 - [ivuorinen/gh-action-readme](https://github.com/ivuorinen/gh-action-readme) - Transform your GitHub Actions into professional documentation with multiple themes, output formats, and enterprise-grade features. (2 days ago)
 - [ivuorinen/coderabbit](https://github.com/ivuorinen/coderabbit) - CodeRabbit.ai configuration I reference in my projects (3 days ago)
 - [ivuorinen/emoji](https://github.com/ivuorinen/emoji) - Emojis for Slack and other platforms (3 days ago)
@@ -24,19 +24,19 @@ I'm also a huge fan of open-source, and I try to contribute back to the communit
 
 #### 🚀 Latest releases I've contributed to
 
-- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2026-03-11-human-pimple](https://github.com/mason-org/mason-registry/releases/tag/2026-03-11-human-pimple), 1 day ago) - Core registry for mason.nvim.
-- [ivuorinen/actions](https://github.com/ivuorinen/actions) ([v2026.03.11](https://github.com/ivuorinen/actions/releases/tag/v2026.03.11), 1 day ago) - ivuorinen&#39;s shared actions
-- [ivuorinen/base-configs-eslint](https://github.com/ivuorinen/base-configs-eslint) ([v1.0.7](https://github.com/ivuorinen/base-configs-eslint/releases/tag/v1.0.7), 3 days ago) - ivuorinen&#39;s shareable configuration for ESLint.
-- [ivuorinen/base-configs-browserslist](https://github.com/ivuorinen/base-configs-browserslist) ([v1.0.14](https://github.com/ivuorinen/base-configs-browserslist/releases/tag/v1.0.14), 3 days ago) - ivuorinen&#39;s shareable configuration for Browserslist.
-- [ivuorinen/base-configs-prettier](https://github.com/ivuorinen/base-configs-prettier) ([v1.0.6](https://github.com/ivuorinen/base-configs-prettier/releases/tag/v1.0.6), 3 days ago) - ivuorinen&#39;s shareable configuration for Prettier.
+- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2026-03-12-roman-plough](https://github.com/mason-org/mason-registry/releases/tag/2026-03-12-roman-plough), today) - Core registry for mason.nvim.
+- [ivuorinen/base-configs](https://github.com/ivuorinen/base-configs) ([v1.0.11](https://github.com/ivuorinen/base-configs/releases/tag/v1.0.11), today) - meta package for my linting configurations
+- [ivuorinen/base-configs-commitlint](https://github.com/ivuorinen/base-configs-commitlint) ([v1.0.8](https://github.com/ivuorinen/base-configs-commitlint/releases/tag/v1.0.8), today) - ivuorinen&#39;s shareable configuration for commitlint.
+- [ivuorinen/base-configs-stylelint](https://github.com/ivuorinen/base-configs-stylelint) ([v1.0.12](https://github.com/ivuorinen/base-configs-stylelint/releases/tag/v1.0.12), today) - ivuorinen&#39;s shareable configuration for stylelint.
+- [ivuorinen/base-configs-markdownlint](https://github.com/ivuorinen/base-configs-markdownlint) ([v1.0.15](https://github.com/ivuorinen/base-configs-markdownlint/releases/tag/v1.0.15), today) - ivuorinen&#39;s shareable configuration for markdownlint.
 
 #### ⭐ Recent Stars
 
-- [ebrahim-s-ebrahim/litmus](https://github.com/ebrahim-s-ebrahim/litmus) - Identifies high-risk .NET source files and ranks them by where to start testing today (cross-references git churn, code coverage, cyclomatic complexity, and dependency entanglement). (2 days ago)
-- [peteromallet/desloppify](https://github.com/peteromallet/desloppify) - Agent harness to make your slop code well-engineered and beautiful. (2 days ago)
-- [get-gah/gah](https://github.com/get-gah/gah) - gah is an GitHub Releases app installer, that does not require sudo (2 days ago)
-- [OrchardCMS/Orchard](https://github.com/OrchardCMS/Orchard) - Orchard is a free, open source, community-focused Content Management System built on the ASP.NET MVC platform. Check out the next generation of this software built on ASP.NET Core: https://github.com/OrchardCMS/OrchardCore (5 days ago)
-- [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner (5 days ago)
+- [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O. (today)
+- [jorgerojas26/lazysql](https://github.com/jorgerojas26/lazysql) - A cross-platform TUI database management tool written in Go. (today)
+- [dependabot/cli](https://github.com/dependabot/cli) - A tool for testing and debugging Dependabot update jobs. (today)
+- [dlvhdr/diffnav](https://github.com/dlvhdr/diffnav) - A git diff pager based on delta but with a file tree, à la GitHub. (today)
+- [lightpohl/podcast-dl](https://github.com/lightpohl/podcast-dl) - A humble CLI for downloading and archiving podcasts. (today)
 
 
 
