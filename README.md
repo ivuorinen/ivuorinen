@@ -8,11 +8,11 @@ I'm also a huge fan of open-source, and I try to contribute back to the communit
 
 #### 👷 Check out what I'm currently working on
 
-- [ivuorinen/starred](https://github.com/ivuorinen/starred) - Automatically updated list of my starred repos. (today)
-- [ivuorinen/cheatsheet-tldr](https://github.com/ivuorinen/cheatsheet-tldr) - tldr-pages/tldr pages for cheat/cheat (today)
-- [ivuorinen/gh-action-readme](https://github.com/ivuorinen/gh-action-readme) - Transform your GitHub Actions into professional documentation with multiple themes, output formats, and enterprise-grade features. (1 day ago)
-- [ivuorinen/coderabbit](https://github.com/ivuorinen/coderabbit) - CodeRabbit.ai configuration I reference in my projects (2 days ago)
-- [ivuorinen/emoji](https://github.com/ivuorinen/emoji) - Emojis for Slack and other platforms (2 days ago)
+- [ivuorinen/starred](https://github.com/ivuorinen/starred) - Automatically updated list of my starred repos. (1 day ago)
+- [ivuorinen/cheatsheet-tldr](https://github.com/ivuorinen/cheatsheet-tldr) - tldr-pages/tldr pages for cheat/cheat (1 day ago)
+- [ivuorinen/gh-action-readme](https://github.com/ivuorinen/gh-action-readme) - Transform your GitHub Actions into professional documentation with multiple themes, output formats, and enterprise-grade features. (2 days ago)
+- [ivuorinen/coderabbit](https://github.com/ivuorinen/coderabbit) - CodeRabbit.ai configuration I reference in my projects (3 days ago)
+- [ivuorinen/emoji](https://github.com/ivuorinen/emoji) - Emojis for Slack and other platforms (3 days ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -24,19 +24,19 @@ I'm also a huge fan of open-source, and I try to contribute back to the communit
 
 #### 🚀 Latest releases I've contributed to
 
-- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2026-03-11-swiss-beer](https://github.com/mason-org/mason-registry/releases/tag/2026-03-11-swiss-beer), today) - Core registry for mason.nvim.
-- [ivuorinen/actions](https://github.com/ivuorinen/actions) ([v2026.03.10](https://github.com/ivuorinen/actions/releases/tag/v2026.03.10), 1 day ago) - ivuorinen&#39;s shared actions
-- [ivuorinen/base-configs-eslint](https://github.com/ivuorinen/base-configs-eslint) ([v1.0.7](https://github.com/ivuorinen/base-configs-eslint/releases/tag/v1.0.7), 2 days ago) - ivuorinen&#39;s shareable configuration for ESLint.
-- [ivuorinen/base-configs-browserslist](https://github.com/ivuorinen/base-configs-browserslist) ([v1.0.14](https://github.com/ivuorinen/base-configs-browserslist/releases/tag/v1.0.14), 2 days ago) - ivuorinen&#39;s shareable configuration for Browserslist.
-- [ivuorinen/base-configs-prettier](https://github.com/ivuorinen/base-configs-prettier) ([v1.0.6](https://github.com/ivuorinen/base-configs-prettier/releases/tag/v1.0.6), 2 days ago) - ivuorinen&#39;s shareable configuration for Prettier.
+- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2026-03-11-human-pimple](https://github.com/mason-org/mason-registry/releases/tag/2026-03-11-human-pimple), 1 day ago) - Core registry for mason.nvim.
+- [ivuorinen/actions](https://github.com/ivuorinen/actions) ([v2026.03.11](https://github.com/ivuorinen/actions/releases/tag/v2026.03.11), 1 day ago) - ivuorinen&#39;s shared actions
+- [ivuorinen/base-configs-eslint](https://github.com/ivuorinen/base-configs-eslint) ([v1.0.7](https://github.com/ivuorinen/base-configs-eslint/releases/tag/v1.0.7), 3 days ago) - ivuorinen&#39;s shareable configuration for ESLint.
+- [ivuorinen/base-configs-browserslist](https://github.com/ivuorinen/base-configs-browserslist) ([v1.0.14](https://github.com/ivuorinen/base-configs-browserslist/releases/tag/v1.0.14), 3 days ago) - ivuorinen&#39;s shareable configuration for Browserslist.
+- [ivuorinen/base-configs-prettier](https://github.com/ivuorinen/base-configs-prettier) ([v1.0.6](https://github.com/ivuorinen/base-configs-prettier/releases/tag/v1.0.6), 3 days ago) - ivuorinen&#39;s shareable configuration for Prettier.
 
 #### ⭐ Recent Stars
 
-- [ebrahim-s-ebrahim/litmus](https://github.com/ebrahim-s-ebrahim/litmus) - Identifies high-risk .NET source files and ranks them by where to start testing today (cross-references git churn, code coverage, cyclomatic complexity, and dependency entanglement). (1 day ago)
-- [peteromallet/desloppify](https://github.com/peteromallet/desloppify) - Agent harness to make your slop code well-engineered and beautiful. (1 day ago)
-- [get-gah/gah](https://github.com/get-gah/gah) - gah is an GitHub Releases app installer, that does not require sudo (1 day ago)
-- [OrchardCMS/Orchard](https://github.com/OrchardCMS/Orchard) - Orchard is a free, open source, community-focused Content Management System built on the ASP.NET MVC platform. Check out the next generation of this software built on ASP.NET Core: https://github.com/OrchardCMS/OrchardCore (4 days ago)
-- [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner (4 days ago)
+- [ebrahim-s-ebrahim/litmus](https://github.com/ebrahim-s-ebrahim/litmus) - Identifies high-risk .NET source files and ranks them by where to start testing today (cross-references git churn, code coverage, cyclomatic complexity, and dependency entanglement). (2 days ago)
+- [peteromallet/desloppify](https://github.com/peteromallet/desloppify) - Agent harness to make your slop code well-engineered and beautiful. (2 days ago)
+- [get-gah/gah](https://github.com/get-gah/gah) - gah is an GitHub Releases app installer, that does not require sudo (2 days ago)
+- [OrchardCMS/Orchard](https://github.com/OrchardCMS/Orchard) - Orchard is a free, open source, community-focused Content Management System built on the ASP.NET MVC platform. Check out the next generation of this software built on ASP.NET Core: https://github.com/OrchardCMS/OrchardCore (5 days ago)
+- [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner (5 days ago)
 
 
 
