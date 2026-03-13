@@ -8,11 +8,11 @@ I'm also a huge fan of open-source, and I try to contribute back to the communit
 
 #### 👷 Check out what I'm currently working on
 
-- [ivuorinen/starred](https://github.com/ivuorinen/starred) - Automatically updated list of my starred repos. (today)
-- [ivuorinen/cheatsheet-tldr](https://github.com/ivuorinen/cheatsheet-tldr) - tldr-pages/tldr pages for cheat/cheat (today)
-- [ivuorinen/gh-action-readme](https://github.com/ivuorinen/gh-action-readme) - Transform your GitHub Actions into professional documentation with multiple themes, output formats, and enterprise-grade features. (2 days ago)
-- [ivuorinen/coderabbit](https://github.com/ivuorinen/coderabbit) - CodeRabbit.ai configuration I reference in my projects (3 days ago)
-- [ivuorinen/emoji](https://github.com/ivuorinen/emoji) - Emojis for Slack and other platforms (3 days ago)
+- [ivuorinen/starred](https://github.com/ivuorinen/starred) - Automatically updated list of my starred repos. (1 day ago)
+- [ivuorinen/cheatsheet-tldr](https://github.com/ivuorinen/cheatsheet-tldr) - tldr-pages/tldr pages for cheat/cheat (1 day ago)
+- [ivuorinen/gh-action-readme](https://github.com/ivuorinen/gh-action-readme) - Transform your GitHub Actions into professional documentation with multiple themes, output formats, and enterprise-grade features. (3 days ago)
+- [ivuorinen/coderabbit](https://github.com/ivuorinen/coderabbit) - CodeRabbit.ai configuration I reference in my projects (4 days ago)
+- [ivuorinen/emoji](https://github.com/ivuorinen/emoji) - Emojis for Slack and other platforms (4 days ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -24,19 +24,19 @@ I'm also a huge fan of open-source, and I try to contribute back to the communit
 
 #### 🚀 Latest releases I've contributed to
 
-- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2026-03-12-roman-plough](https://github.com/mason-org/mason-registry/releases/tag/2026-03-12-roman-plough), today) - Core registry for mason.nvim.
-- [ivuorinen/base-configs](https://github.com/ivuorinen/base-configs) ([v1.0.11](https://github.com/ivuorinen/base-configs/releases/tag/v1.0.11), today) - meta package for my linting configurations
-- [ivuorinen/base-configs-commitlint](https://github.com/ivuorinen/base-configs-commitlint) ([v1.0.8](https://github.com/ivuorinen/base-configs-commitlint/releases/tag/v1.0.8), today) - ivuorinen&#39;s shareable configuration for commitlint.
-- [ivuorinen/base-configs-stylelint](https://github.com/ivuorinen/base-configs-stylelint) ([v1.0.12](https://github.com/ivuorinen/base-configs-stylelint/releases/tag/v1.0.12), today) - ivuorinen&#39;s shareable configuration for stylelint.
-- [ivuorinen/base-configs-markdownlint](https://github.com/ivuorinen/base-configs-markdownlint) ([v1.0.15](https://github.com/ivuorinen/base-configs-markdownlint/releases/tag/v1.0.15), today) - ivuorinen&#39;s shareable configuration for markdownlint.
+- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2026-03-12-winged-dugout](https://github.com/mason-org/mason-registry/releases/tag/2026-03-12-winged-dugout), 1 day ago) - Core registry for mason.nvim.
+- [ivuorinen/base-configs](https://github.com/ivuorinen/base-configs) ([v1.0.11](https://github.com/ivuorinen/base-configs/releases/tag/v1.0.11), 1 day ago) - meta package for my linting configurations
+- [ivuorinen/base-configs-commitlint](https://github.com/ivuorinen/base-configs-commitlint) ([v1.0.8](https://github.com/ivuorinen/base-configs-commitlint/releases/tag/v1.0.8), 1 day ago) - ivuorinen&#39;s shareable configuration for commitlint.
+- [ivuorinen/base-configs-stylelint](https://github.com/ivuorinen/base-configs-stylelint) ([v1.0.12](https://github.com/ivuorinen/base-configs-stylelint/releases/tag/v1.0.12), 1 day ago) - ivuorinen&#39;s shareable configuration for stylelint.
+- [ivuorinen/base-configs-markdownlint](https://github.com/ivuorinen/base-configs-markdownlint) ([v1.0.15](https://github.com/ivuorinen/base-configs-markdownlint/releases/tag/v1.0.15), 1 day ago) - ivuorinen&#39;s shareable configuration for markdownlint.
 
 #### ⭐ Recent Stars
 
-- [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O. (today)
-- [jorgerojas26/lazysql](https://github.com/jorgerojas26/lazysql) - A cross-platform TUI database management tool written in Go. (today)
-- [dependabot/cli](https://github.com/dependabot/cli) - A tool for testing and debugging Dependabot update jobs. (today)
-- [dlvhdr/diffnav](https://github.com/dlvhdr/diffnav) - A git diff pager based on delta but with a file tree, à la GitHub. (today)
-- [lightpohl/podcast-dl](https://github.com/lightpohl/podcast-dl) - A humble CLI for downloading and archiving podcasts. (today)
+- [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O. (1 day ago)
+- [jorgerojas26/lazysql](https://github.com/jorgerojas26/lazysql) - A cross-platform TUI database management tool written in Go. (1 day ago)
+- [dependabot/cli](https://github.com/dependabot/cli) - A tool for testing and debugging Dependabot update jobs. (1 day ago)
+- [dlvhdr/diffnav](https://github.com/dlvhdr/diffnav) - A git diff pager based on delta but with a file tree, à la GitHub. (1 day ago)
+- [lightpohl/podcast-dl](https://github.com/lightpohl/podcast-dl) - A humble CLI for downloading and archiving podcasts. (1 day ago)
 
 
 
