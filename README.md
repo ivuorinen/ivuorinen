@@ -8,8 +8,8 @@ I'm also a huge fan of open-source, and I try to contribute back to the communit
 
 #### 👷 Check out what I'm currently working on
 
-- [ivuorinen/starred](https://github.com/ivuorinen/starred) - Automatically updated list of my starred repos. (1 day ago)
-- [ivuorinen/cheatsheet-tldr](https://github.com/ivuorinen/cheatsheet-tldr) - tldr-pages/tldr pages for cheat/cheat (1 day ago)
+- [ivuorinen/starred](https://github.com/ivuorinen/starred) - Automatically updated list of my starred repos. (today)
+- [ivuorinen/cheatsheet-tldr](https://github.com/ivuorinen/cheatsheet-tldr) - tldr-pages/tldr pages for cheat/cheat (today)
 - [ivuorinen/gh-action-readme](https://github.com/ivuorinen/gh-action-readme) - Transform your GitHub Actions into professional documentation with multiple themes, output formats, and enterprise-grade features. (3 days ago)
 - [ivuorinen/coderabbit](https://github.com/ivuorinen/coderabbit) - CodeRabbit.ai configuration I reference in my projects (4 days ago)
 - [ivuorinen/emoji](https://github.com/ivuorinen/emoji) - Emojis for Slack and other platforms (4 days ago)
@@ -24,7 +24,7 @@ I'm also a huge fan of open-source, and I try to contribute back to the communit
 
 #### 🚀 Latest releases I've contributed to
 
-- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2026-03-12-winged-dugout](https://github.com/mason-org/mason-registry/releases/tag/2026-03-12-winged-dugout), 1 day ago) - Core registry for mason.nvim.
+- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2026-03-13-tough-shrub](https://github.com/mason-org/mason-registry/releases/tag/2026-03-13-tough-shrub), today) - Core registry for mason.nvim.
 - [ivuorinen/base-configs](https://github.com/ivuorinen/base-configs) ([v1.0.11](https://github.com/ivuorinen/base-configs/releases/tag/v1.0.11), 1 day ago) - meta package for my linting configurations
 - [ivuorinen/base-configs-commitlint](https://github.com/ivuorinen/base-configs-commitlint) ([v1.0.8](https://github.com/ivuorinen/base-configs-commitlint/releases/tag/v1.0.8), 1 day ago) - ivuorinen&#39;s shareable configuration for commitlint.
 - [ivuorinen/base-configs-stylelint](https://github.com/ivuorinen/base-configs-stylelint) ([v1.0.12](https://github.com/ivuorinen/base-configs-stylelint/releases/tag/v1.0.12), 1 day ago) - ivuorinen&#39;s shareable configuration for stylelint.
