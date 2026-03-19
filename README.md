@@ -8,11 +8,11 @@ I'm also a huge fan of open-source, and I try to contribute back to the communit
 
 #### 👷 Check out what I'm currently working on
 
+- [ivuorinen/starred](https://github.com/ivuorinen/starred) - Automatically updated list of my starred repos. (1 day ago)
+- [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) - These are my dotfiles. There are many like &#39;em, but these are mine. (1 day ago)
 - [ivuorinen/cheatsheet-tldr](https://github.com/ivuorinen/cheatsheet-tldr) - tldr-pages/tldr pages for cheat/cheat (1 day ago)
-- [ivuorinen/starred](https://github.com/ivuorinen/starred) - Automatically updated list of my starred repos. (2 days ago)
-- [ivuorinen/aeonview](https://github.com/ivuorinen/aeonview) - aeonview is a tool for automagical timelapse-video generation. it works as a glue between different linux programs to produce videos of elapsing time. works best with webcam-images from the net. (2 days ago)
-- [ivuorinen/gh-history](https://github.com/ivuorinen/gh-history) - GitHub CLI history command (3 days ago)
-- [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) - These are my dotfiles. There are many like &#39;em, but these are mine. (3 days ago)
+- [ivuorinen/aeonview](https://github.com/ivuorinen/aeonview) - aeonview is a tool for automagical timelapse-video generation. it works as a glue between different linux programs to produce videos of elapsing time. works best with webcam-images from the net. (3 days ago)
+- [ivuorinen/gh-history](https://github.com/ivuorinen/gh-history) - GitHub CLI history command (4 days ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -24,19 +24,19 @@ I'm also a huge fan of open-source, and I try to contribute back to the communit
 
 #### 🚀 Latest releases I've contributed to
 
-- [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) ([26.3.17](https://github.com/ivuorinen/dotfiles/releases/tag/26.3.17), 1 day ago) - These are my dotfiles. There are many like &#39;em, but these are mine.
-- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2026-03-17-aqua-fog](https://github.com/mason-org/mason-registry/releases/tag/2026-03-17-aqua-fog), 1 day ago) - Core registry for mason.nvim.
-- [ivuorinen/gh-history](https://github.com/ivuorinen/gh-history) ([2026.03.0](https://github.com/ivuorinen/gh-history/releases/tag/2026.03.0), 3 days ago) - GitHub CLI history command
-- [ivuorinen/base-configs-browserslist](https://github.com/ivuorinen/base-configs-browserslist) ([v1.0.17](https://github.com/ivuorinen/base-configs-browserslist/releases/tag/v1.0.17), 3 days ago) - ivuorinen&#39;s shareable configuration for Browserslist.
-- [ivuorinen/actions](https://github.com/ivuorinen/actions) ([v2026.03.14](https://github.com/ivuorinen/actions/releases/tag/v2026.03.14), 4 days ago) - ivuorinen&#39;s shared actions
+- [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) ([26.3.18](https://github.com/ivuorinen/dotfiles/releases/tag/26.3.18), 1 day ago) - These are my dotfiles. There are many like &#39;em, but these are mine.
+- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2026-03-18-busy-lycra](https://github.com/mason-org/mason-registry/releases/tag/2026-03-18-busy-lycra), 1 day ago) - Core registry for mason.nvim.
+- [ivuorinen/gh-history](https://github.com/ivuorinen/gh-history) ([2026.03.0](https://github.com/ivuorinen/gh-history/releases/tag/2026.03.0), 4 days ago) - GitHub CLI history command
+- [ivuorinen/base-configs-browserslist](https://github.com/ivuorinen/base-configs-browserslist) ([v1.0.17](https://github.com/ivuorinen/base-configs-browserslist/releases/tag/v1.0.17), 4 days ago) - ivuorinen&#39;s shareable configuration for Browserslist.
+- [ivuorinen/actions](https://github.com/ivuorinen/actions) ([v2026.03.14](https://github.com/ivuorinen/actions/releases/tag/v2026.03.14), 5 days ago) - ivuorinen&#39;s shared actions
 
 #### ⭐ Recent Stars
 
-- [mksglu/context-mode](https://github.com/mksglu/context-mode) - Privacy-first. MCP is the protocol for tool access. We&#39;re the virtualization layer for context. (1 day ago)
-- [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O. (6 days ago)
-- [jorgerojas26/lazysql](https://github.com/jorgerojas26/lazysql) - A cross-platform TUI database management tool written in Go. (6 days ago)
-- [dependabot/cli](https://github.com/dependabot/cli) - A tool for testing and debugging Dependabot update jobs. (6 days ago)
-- [dlvhdr/diffnav](https://github.com/dlvhdr/diffnav) - A git diff pager based on delta but with a file tree, à la GitHub. (6 days ago)
+- [mpalmer/action-validator](https://github.com/mpalmer/action-validator) - Tool to validate GitHub Action and Workflow YAML files (1 day ago)
+- [mksglu/context-mode](https://github.com/mksglu/context-mode) - Privacy-first. MCP is the protocol for tool access. We&#39;re the virtualization layer for context. (2 days ago)
+- [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O. (1 week ago)
+- [jorgerojas26/lazysql](https://github.com/jorgerojas26/lazysql) - A cross-platform TUI database management tool written in Go. (1 week ago)
+- [dependabot/cli](https://github.com/dependabot/cli) - A tool for testing and debugging Dependabot update jobs. (1 week ago)
 
 
 
