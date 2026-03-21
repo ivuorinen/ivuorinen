@@ -8,11 +8,11 @@ I'm also a huge fan of open-source, and I try to contribute back to the communit
 
 #### 👷 Check out what I'm currently working on
 
-- [ivuorinen/starred](https://github.com/ivuorinen/starred) - Automatically updated list of my starred repos. (1 day ago)
-- [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) - These are my dotfiles. There are many like &#39;em, but these are mine. (1 day ago)
+- [ivuorinen/starred](https://github.com/ivuorinen/starred) - Automatically updated list of my starred repos. (today)
+- [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) - These are my dotfiles. There are many like &#39;em, but these are mine. (today)
+- [ivuorinen/cheatsheet-tldr](https://github.com/ivuorinen/cheatsheet-tldr) - tldr-pages/tldr pages for cheat/cheat (today)
 - [ivuorinen/actions](https://github.com/ivuorinen/actions) - ivuorinen&#39;s shared actions (1 day ago)
 - [ivuorinen/hiha-arvio](https://github.com/ivuorinen/hiha-arvio) - A playful Finnish take on agile estimation through shake gestures. (1 day ago)
-- [ivuorinen/cheatsheet-tldr](https://github.com/ivuorinen/cheatsheet-tldr) - tldr-pages/tldr pages for cheat/cheat (1 day ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -24,9 +24,9 @@ I'm also a huge fan of open-source, and I try to contribute back to the communit
 
 #### 🚀 Latest releases I've contributed to
 
-- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2026-03-20-calm-alibi](https://github.com/mason-org/mason-registry/releases/tag/2026-03-20-calm-alibi), 1 day ago) - Core registry for mason.nvim.
+- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2026-03-21-bored-walu](https://github.com/mason-org/mason-registry/releases/tag/2026-03-21-bored-walu), today) - Core registry for mason.nvim.
+- [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) ([26.3.21](https://github.com/ivuorinen/dotfiles/releases/tag/26.3.21), today) - These are my dotfiles. There are many like &#39;em, but these are mine.
 - [ivuorinen/actions](https://github.com/ivuorinen/actions) ([v2026.03.20](https://github.com/ivuorinen/actions/releases/tag/v2026.03.20), 1 day ago) - ivuorinen&#39;s shared actions
-- [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) ([26.3.20](https://github.com/ivuorinen/dotfiles/releases/tag/26.3.20), 1 day ago) - These are my dotfiles. There are many like &#39;em, but these are mine.
 - [ivuorinen/hiha-arvio](https://github.com/ivuorinen/hiha-arvio) ([v0.0.4](https://github.com/ivuorinen/hiha-arvio/releases/tag/v0.0.4), 1 day ago) - A playful Finnish take on agile estimation through shake gestures.
 - [ivuorinen/base-configs-eslint](https://github.com/ivuorinen/base-configs-eslint) ([v1.0.12](https://github.com/ivuorinen/base-configs-eslint/releases/tag/v1.0.12), 1 day ago) - ivuorinen&#39;s shareable configuration for ESLint.
 
