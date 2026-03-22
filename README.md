@@ -8,11 +8,11 @@ I'm also a huge fan of open-source, and I try to contribute back to the communit
 
 #### 👷 Check out what I'm currently working on
 
-- [ivuorinen/starred](https://github.com/ivuorinen/starred) - Automatically updated list of my starred repos. (today)
-- [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) - These are my dotfiles. There are many like &#39;em, but these are mine. (today)
-- [ivuorinen/cheatsheet-tldr](https://github.com/ivuorinen/cheatsheet-tldr) - tldr-pages/tldr pages for cheat/cheat (today)
-- [ivuorinen/actions](https://github.com/ivuorinen/actions) - ivuorinen&#39;s shared actions (1 day ago)
-- [ivuorinen/hiha-arvio](https://github.com/ivuorinen/hiha-arvio) - A playful Finnish take on agile estimation through shake gestures. (1 day ago)
+- [ivuorinen/starred](https://github.com/ivuorinen/starred) - Automatically updated list of my starred repos. (1 day ago)
+- [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) - These are my dotfiles. There are many like &#39;em, but these are mine. (1 day ago)
+- [ivuorinen/cheatsheet-tldr](https://github.com/ivuorinen/cheatsheet-tldr) - tldr-pages/tldr pages for cheat/cheat (1 day ago)
+- [ivuorinen/actions](https://github.com/ivuorinen/actions) - ivuorinen&#39;s shared actions (2 days ago)
+- [ivuorinen/hiha-arvio](https://github.com/ivuorinen/hiha-arvio) - A playful Finnish take on agile estimation through shake gestures. (2 days ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -24,19 +24,19 @@ I'm also a huge fan of open-source, and I try to contribute back to the communit
 
 #### 🚀 Latest releases I've contributed to
 
-- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2026-03-21-bored-walu](https://github.com/mason-org/mason-registry/releases/tag/2026-03-21-bored-walu), today) - Core registry for mason.nvim.
-- [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) ([26.3.21](https://github.com/ivuorinen/dotfiles/releases/tag/26.3.21), today) - These are my dotfiles. There are many like &#39;em, but these are mine.
-- [ivuorinen/actions](https://github.com/ivuorinen/actions) ([v2026.03.20](https://github.com/ivuorinen/actions/releases/tag/v2026.03.20), 1 day ago) - ivuorinen&#39;s shared actions
-- [ivuorinen/hiha-arvio](https://github.com/ivuorinen/hiha-arvio) ([v0.0.4](https://github.com/ivuorinen/hiha-arvio/releases/tag/v0.0.4), 1 day ago) - A playful Finnish take on agile estimation through shake gestures.
-- [ivuorinen/base-configs-eslint](https://github.com/ivuorinen/base-configs-eslint) ([v1.0.12](https://github.com/ivuorinen/base-configs-eslint/releases/tag/v1.0.12), 1 day ago) - ivuorinen&#39;s shareable configuration for ESLint.
+- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2026-03-21-bored-walu](https://github.com/mason-org/mason-registry/releases/tag/2026-03-21-bored-walu), 1 day ago) - Core registry for mason.nvim.
+- [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) ([26.3.21](https://github.com/ivuorinen/dotfiles/releases/tag/26.3.21), 1 day ago) - These are my dotfiles. There are many like &#39;em, but these are mine.
+- [ivuorinen/actions](https://github.com/ivuorinen/actions) ([v2026.03.20](https://github.com/ivuorinen/actions/releases/tag/v2026.03.20), 2 days ago) - ivuorinen&#39;s shared actions
+- [ivuorinen/hiha-arvio](https://github.com/ivuorinen/hiha-arvio) ([v0.0.4](https://github.com/ivuorinen/hiha-arvio/releases/tag/v0.0.4), 2 days ago) - A playful Finnish take on agile estimation through shake gestures.
+- [ivuorinen/base-configs-eslint](https://github.com/ivuorinen/base-configs-eslint) ([v1.0.12](https://github.com/ivuorinen/base-configs-eslint/releases/tag/v1.0.12), 2 days ago) - ivuorinen&#39;s shareable configuration for ESLint.
 
 #### ⭐ Recent Stars
 
-- [omerxx/dotfiles](https://github.com/omerxx/dotfiles) - My dotfiles synced from localhost and remote machines (1 day ago)
-- [mpalmer/action-validator](https://github.com/mpalmer/action-validator) - Tool to validate GitHub Action and Workflow YAML files (3 days ago)
-- [mksglu/context-mode](https://github.com/mksglu/context-mode) - Privacy-first. MCP is the protocol for tool access. We&#39;re the virtualization layer for context. (4 days ago)
-- [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O. (1 week ago)
-- [jorgerojas26/lazysql](https://github.com/jorgerojas26/lazysql) - A cross-platform TUI database management tool written in Go. (1 week ago)
+- [OWASP/Top10](https://github.com/OWASP/Top10) - Official OWASP Top 10 Document Repository (1 day ago)
+- [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust. (1 day ago)
+- [omerxx/dotfiles](https://github.com/omerxx/dotfiles) - My dotfiles synced from localhost and remote machines (2 days ago)
+- [mpalmer/action-validator](https://github.com/mpalmer/action-validator) - Tool to validate GitHub Action and Workflow YAML files (4 days ago)
+- [mksglu/context-mode](https://github.com/mksglu/context-mode) - Privacy-first. MCP is the protocol for tool access. We&#39;re the virtualization layer for context. (5 days ago)
 
 
 
