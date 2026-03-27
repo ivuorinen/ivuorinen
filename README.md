@@ -8,11 +8,11 @@ I'm also a huge fan of open-source, and I try to contribute back to the communit
 
 #### 👷 Check out what I'm currently working on
 
-- [ivuorinen/cheatsheet-tldr](https://github.com/ivuorinen/cheatsheet-tldr) - tldr-pages/tldr pages for cheat/cheat (today)
-- [ivuorinen/starred](https://github.com/ivuorinen/starred) - Automatically updated list of my starred repos. (today)
-- [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) - These are my dotfiles. There are many like &#39;em, but these are mine. (1 day ago)
-- [ivuorinen/monolog-gdpr-filter](https://github.com/ivuorinen/monolog-gdpr-filter) - Monolog processor for GDPR masking with regex and dot-notation path (2 days ago)
-- [ivuorinen/emoji](https://github.com/ivuorinen/emoji) - Emojis for Slack and other platforms (3 days ago)
+- [ivuorinen/stylelint-a11y](https://github.com/ivuorinen/stylelint-a11y) - Plugin for stylelint with a11y rules (today)
+- [ivuorinen/cheatsheet-tldr](https://github.com/ivuorinen/cheatsheet-tldr) - tldr-pages/tldr pages for cheat/cheat (1 day ago)
+- [ivuorinen/starred](https://github.com/ivuorinen/starred) - Automatically updated list of my starred repos. (1 day ago)
+- [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) - These are my dotfiles. There are many like &#39;em, but these are mine. (2 days ago)
+- [ivuorinen/monolog-gdpr-filter](https://github.com/ivuorinen/monolog-gdpr-filter) - Monolog processor for GDPR masking with regex and dot-notation path (3 days ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -24,19 +24,19 @@ I'm also a huge fan of open-source, and I try to contribute back to the communit
 
 #### 🚀 Latest releases I've contributed to
 
-- [ivuorinen/base-configs-browserslist](https://github.com/ivuorinen/base-configs-browserslist) ([v1.0.21](https://github.com/ivuorinen/base-configs-browserslist/releases/tag/v1.0.21), today) - ivuorinen&#39;s shareable configuration for Browserslist.
-- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2026-03-26-phobic-guilt](https://github.com/mason-org/mason-registry/releases/tag/2026-03-26-phobic-guilt), today) - Core registry for mason.nvim.
-- [ivuorinen/base-configs-markdownlint](https://github.com/ivuorinen/base-configs-markdownlint) ([v1.0.19](https://github.com/ivuorinen/base-configs-markdownlint/releases/tag/v1.0.19), today) - ivuorinen&#39;s shareable configuration for markdownlint.
-- [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) ([26.3.25](https://github.com/ivuorinen/dotfiles/releases/tag/26.3.25), 1 day ago) - These are my dotfiles. There are many like &#39;em, but these are mine.
-- [ville6000/toggl-cli](https://github.com/ville6000/toggl-cli) ([v0.18.0](https://github.com/ville6000/toggl-cli/releases/tag/v0.18.0), 1 day ago) - A simple CLI interface for toggl.com
+- [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) ([26.3.26](https://github.com/ivuorinen/dotfiles/releases/tag/26.3.26), 1 day ago) - These are my dotfiles. There are many like &#39;em, but these are mine.
+- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2026-03-26-total-helmet](https://github.com/mason-org/mason-registry/releases/tag/2026-03-26-total-helmet), 1 day ago) - Core registry for mason.nvim.
+- [ivuorinen/base-configs-stylelint](https://github.com/ivuorinen/base-configs-stylelint) ([v1.0.17](https://github.com/ivuorinen/base-configs-stylelint/releases/tag/v1.0.17), 1 day ago) - ivuorinen&#39;s shareable configuration for stylelint.
+- [ivuorinen/base-configs-commitlint](https://github.com/ivuorinen/base-configs-commitlint) ([v1.0.12](https://github.com/ivuorinen/base-configs-commitlint/releases/tag/v1.0.12), 1 day ago) - ivuorinen&#39;s shareable configuration for commitlint.
+- [ivuorinen/base-configs-prettier](https://github.com/ivuorinen/base-configs-prettier) ([v1.0.12](https://github.com/ivuorinen/base-configs-prettier/releases/tag/v1.0.12), 1 day ago) - ivuorinen&#39;s shareable configuration for Prettier.
 
 #### ⭐ Recent Stars
 
-- [Doist/todoist-cli](https://github.com/Doist/todoist-cli) - Command-line interface for Todoist (3 days ago)
-- [henriquesebastiao/badges](https://github.com/henriquesebastiao/badges) - 🎖️ A collection of badges for your projects README (3 days ago)
-- [RevylAI/greenlight](https://github.com/RevylAI/greenlight) - Pre-submission compliance scanner for the Apple App Store (3 days ago)
-- [patchorbit/domscribe](https://github.com/patchorbit/domscribe) - Domscribe is a pixel-to-code development tool that bridges the gap between running web applications and their source code. (3 days ago)
-- [timothystewart6/dashboard-icons](https://github.com/timothystewart6/dashboard-icons) - Your definitive source for dashboard icons. (4 days ago)
+- [Doist/todoist-cli](https://github.com/Doist/todoist-cli) - Command-line interface for Todoist (4 days ago)
+- [henriquesebastiao/badges](https://github.com/henriquesebastiao/badges) - 🎖️ A collection of badges for your projects README (4 days ago)
+- [RevylAI/greenlight](https://github.com/RevylAI/greenlight) - Pre-submission compliance scanner for the Apple App Store (4 days ago)
+- [patchorbit/domscribe](https://github.com/patchorbit/domscribe) - Domscribe is a pixel-to-code development tool that bridges the gap between running web applications and their source code. (4 days ago)
+- [timothystewart6/dashboard-icons](https://github.com/timothystewart6/dashboard-icons) - Your definitive source for dashboard icons. (5 days ago)
 
 
 
