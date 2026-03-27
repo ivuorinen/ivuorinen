@@ -24,19 +24,19 @@ I'm also a huge fan of open-source, and I try to contribute back to the communit
 
 #### 🚀 Latest releases I've contributed to
 
+- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2026-03-27-dreary-drop](https://github.com/mason-org/mason-registry/releases/tag/2026-03-27-dreary-drop), today) - Core registry for mason.nvim.
+- [ivuorinen/base-configs-eslint](https://github.com/ivuorinen/base-configs-eslint) ([v1.0.16](https://github.com/ivuorinen/base-configs-eslint/releases/tag/v1.0.16), today) - ivuorinen&#39;s shareable configuration for ESLint.
+- [ivuorinen/base-configs-markdownlint](https://github.com/ivuorinen/base-configs-markdownlint) ([v1.0.22](https://github.com/ivuorinen/base-configs-markdownlint/releases/tag/v1.0.22), today) - ivuorinen&#39;s shareable configuration for markdownlint.
+- [ivuorinen/base-configs-semantic-release](https://github.com/ivuorinen/base-configs-semantic-release) ([v1.1.18](https://github.com/ivuorinen/base-configs-semantic-release/releases/tag/v1.1.18), today) - ivuorinen&#39;s shareable configuration for semantic-release.
 - [ivuorinen/base-configs-commitlint](https://github.com/ivuorinen/base-configs-commitlint) ([v1.0.13](https://github.com/ivuorinen/base-configs-commitlint/releases/tag/v1.0.13), today) - ivuorinen&#39;s shareable configuration for commitlint.
-- [ivuorinen/base-configs-prettier](https://github.com/ivuorinen/base-configs-prettier) ([v1.0.13](https://github.com/ivuorinen/base-configs-prettier/releases/tag/v1.0.13), today) - ivuorinen&#39;s shareable configuration for Prettier.
-- [ivuorinen/base-configs-stylelint](https://github.com/ivuorinen/base-configs-stylelint) ([v1.0.18](https://github.com/ivuorinen/base-configs-stylelint/releases/tag/v1.0.18), today) - ivuorinen&#39;s shareable configuration for stylelint.
-- [ivuorinen/base-configs-browserslist](https://github.com/ivuorinen/base-configs-browserslist) ([v1.0.22](https://github.com/ivuorinen/base-configs-browserslist/releases/tag/v1.0.22), today) - ivuorinen&#39;s shareable configuration for Browserslist.
-- [ivuorinen/base-configs-semantic-release](https://github.com/ivuorinen/base-configs-semantic-release) ([v1.1.17](https://github.com/ivuorinen/base-configs-semantic-release/releases/tag/v1.1.17), today) - ivuorinen&#39;s shareable configuration for semantic-release.
 
 #### ⭐ Recent Stars
 
+- [PHPCSStandards/PHP_CodeSniffer](https://github.com/PHPCSStandards/PHP_CodeSniffer) - PHP_CodeSniffer tokenizes PHP files and detects violations of a defined set of coding standards. (today)
 - [Doist/todoist-cli](https://github.com/Doist/todoist-cli) - Command-line interface for Todoist (4 days ago)
 - [henriquesebastiao/badges](https://github.com/henriquesebastiao/badges) - 🎖️ A collection of badges for your projects README (4 days ago)
 - [RevylAI/greenlight](https://github.com/RevylAI/greenlight) - Pre-submission compliance scanner for the Apple App Store (4 days ago)
 - [patchorbit/domscribe](https://github.com/patchorbit/domscribe) - Domscribe is a pixel-to-code development tool that bridges the gap between running web applications and their source code. (4 days ago)
-- [timothystewart6/dashboard-icons](https://github.com/timothystewart6/dashboard-icons) - Your definitive source for dashboard icons. (5 days ago)
 
 
 
