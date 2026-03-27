@@ -8,8 +8,8 @@ I'm also a huge fan of open-source, and I try to contribute back to the communit
 
 #### 👷 Check out what I'm currently working on
 
+- [ivuorinen/cheatsheet-tldr](https://github.com/ivuorinen/cheatsheet-tldr) - tldr-pages/tldr pages for cheat/cheat (today)
 - [ivuorinen/stylelint-a11y](https://github.com/ivuorinen/stylelint-a11y) - Plugin for stylelint with a11y rules (today)
-- [ivuorinen/cheatsheet-tldr](https://github.com/ivuorinen/cheatsheet-tldr) - tldr-pages/tldr pages for cheat/cheat (1 day ago)
 - [ivuorinen/starred](https://github.com/ivuorinen/starred) - Automatically updated list of my starred repos. (1 day ago)
 - [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) - These are my dotfiles. There are many like &#39;em, but these are mine. (2 days ago)
 - [ivuorinen/monolog-gdpr-filter](https://github.com/ivuorinen/monolog-gdpr-filter) - Monolog processor for GDPR masking with regex and dot-notation path (3 days ago)
@@ -24,11 +24,11 @@ I'm also a huge fan of open-source, and I try to contribute back to the communit
 
 #### 🚀 Latest releases I've contributed to
 
-- [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) ([26.3.26](https://github.com/ivuorinen/dotfiles/releases/tag/26.3.26), 1 day ago) - These are my dotfiles. There are many like &#39;em, but these are mine.
-- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2026-03-26-total-helmet](https://github.com/mason-org/mason-registry/releases/tag/2026-03-26-total-helmet), 1 day ago) - Core registry for mason.nvim.
-- [ivuorinen/base-configs-stylelint](https://github.com/ivuorinen/base-configs-stylelint) ([v1.0.17](https://github.com/ivuorinen/base-configs-stylelint/releases/tag/v1.0.17), 1 day ago) - ivuorinen&#39;s shareable configuration for stylelint.
-- [ivuorinen/base-configs-commitlint](https://github.com/ivuorinen/base-configs-commitlint) ([v1.0.12](https://github.com/ivuorinen/base-configs-commitlint/releases/tag/v1.0.12), 1 day ago) - ivuorinen&#39;s shareable configuration for commitlint.
-- [ivuorinen/base-configs-prettier](https://github.com/ivuorinen/base-configs-prettier) ([v1.0.12](https://github.com/ivuorinen/base-configs-prettier/releases/tag/v1.0.12), 1 day ago) - ivuorinen&#39;s shareable configuration for Prettier.
+- [ivuorinen/base-configs-commitlint](https://github.com/ivuorinen/base-configs-commitlint) ([v1.0.13](https://github.com/ivuorinen/base-configs-commitlint/releases/tag/v1.0.13), today) - ivuorinen&#39;s shareable configuration for commitlint.
+- [ivuorinen/base-configs-prettier](https://github.com/ivuorinen/base-configs-prettier) ([v1.0.13](https://github.com/ivuorinen/base-configs-prettier/releases/tag/v1.0.13), today) - ivuorinen&#39;s shareable configuration for Prettier.
+- [ivuorinen/base-configs-stylelint](https://github.com/ivuorinen/base-configs-stylelint) ([v1.0.18](https://github.com/ivuorinen/base-configs-stylelint/releases/tag/v1.0.18), today) - ivuorinen&#39;s shareable configuration for stylelint.
+- [ivuorinen/base-configs-browserslist](https://github.com/ivuorinen/base-configs-browserslist) ([v1.0.22](https://github.com/ivuorinen/base-configs-browserslist/releases/tag/v1.0.22), today) - ivuorinen&#39;s shareable configuration for Browserslist.
+- [ivuorinen/base-configs-semantic-release](https://github.com/ivuorinen/base-configs-semantic-release) ([v1.1.17](https://github.com/ivuorinen/base-configs-semantic-release/releases/tag/v1.1.17), today) - ivuorinen&#39;s shareable configuration for semantic-release.
 
 #### ⭐ Recent Stars
 
