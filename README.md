@@ -24,7 +24,7 @@ I'm also a huge fan of open-source, and I try to contribute back to the communit
 
 #### 🚀 Latest releases I've contributed to
 
-- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2026-03-28-tacky-cart](https://github.com/mason-org/mason-registry/releases/tag/2026-03-28-tacky-cart), today) - Core registry for mason.nvim.
+- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2026-03-28-kooky-oyster](https://github.com/mason-org/mason-registry/releases/tag/2026-03-28-kooky-oyster), today) - Core registry for mason.nvim.
 - [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) ([26.3.27](https://github.com/ivuorinen/dotfiles/releases/tag/26.3.27), 1 day ago) - These are my dotfiles. There are many like &#39;em, but these are mine.
 - [ivuorinen/base-configs-eslint](https://github.com/ivuorinen/base-configs-eslint) ([v1.0.16](https://github.com/ivuorinen/base-configs-eslint/releases/tag/v1.0.16), 1 day ago) - ivuorinen&#39;s shareable configuration for ESLint.
 - [ivuorinen/base-configs-markdownlint](https://github.com/ivuorinen/base-configs-markdownlint) ([v1.0.22](https://github.com/ivuorinen/base-configs-markdownlint/releases/tag/v1.0.22), 1 day ago) - ivuorinen&#39;s shareable configuration for markdownlint.
