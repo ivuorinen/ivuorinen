@@ -8,11 +8,11 @@ I'm also a huge fan of open-source, and I try to contribute back to the communit
 
 #### 👷 Check out what I'm currently working on
 
-- [ivuorinen/cheatsheet-tldr](https://github.com/ivuorinen/cheatsheet-tldr) - tldr-pages/tldr pages for cheat/cheat (today)
-- [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) - These are my dotfiles. There are many like &#39;em, but these are mine. (today)
-- [ivuorinen/stylelint-a11y](https://github.com/ivuorinen/stylelint-a11y) - Plugin for stylelint with a11y rules (today)
-- [ivuorinen/starred](https://github.com/ivuorinen/starred) - Automatically updated list of my starred repos. (1 day ago)
-- [ivuorinen/monolog-gdpr-filter](https://github.com/ivuorinen/monolog-gdpr-filter) - Monolog processor for GDPR masking with regex and dot-notation path (3 days ago)
+- [ivuorinen/cheatsheet-tldr](https://github.com/ivuorinen/cheatsheet-tldr) - tldr-pages/tldr pages for cheat/cheat (1 day ago)
+- [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) - These are my dotfiles. There are many like &#39;em, but these are mine. (1 day ago)
+- [ivuorinen/stylelint-a11y](https://github.com/ivuorinen/stylelint-a11y) - Plugin for stylelint with a11y rules (1 day ago)
+- [ivuorinen/starred](https://github.com/ivuorinen/starred) - Automatically updated list of my starred repos. (2 days ago)
+- [ivuorinen/monolog-gdpr-filter](https://github.com/ivuorinen/monolog-gdpr-filter) - Monolog processor for GDPR masking with regex and dot-notation path (4 days ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -24,19 +24,19 @@ I'm also a huge fan of open-source, and I try to contribute back to the communit
 
 #### 🚀 Latest releases I've contributed to
 
-- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2026-03-27-worthy-yarn](https://github.com/mason-org/mason-registry/releases/tag/2026-03-27-worthy-yarn), today) - Core registry for mason.nvim.
-- [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) ([26.3.27](https://github.com/ivuorinen/dotfiles/releases/tag/26.3.27), today) - These are my dotfiles. There are many like &#39;em, but these are mine.
-- [ivuorinen/base-configs-eslint](https://github.com/ivuorinen/base-configs-eslint) ([v1.0.16](https://github.com/ivuorinen/base-configs-eslint/releases/tag/v1.0.16), today) - ivuorinen&#39;s shareable configuration for ESLint.
-- [ivuorinen/base-configs-markdownlint](https://github.com/ivuorinen/base-configs-markdownlint) ([v1.0.22](https://github.com/ivuorinen/base-configs-markdownlint/releases/tag/v1.0.22), today) - ivuorinen&#39;s shareable configuration for markdownlint.
-- [ivuorinen/base-configs-semantic-release](https://github.com/ivuorinen/base-configs-semantic-release) ([v1.1.18](https://github.com/ivuorinen/base-configs-semantic-release/releases/tag/v1.1.18), today) - ivuorinen&#39;s shareable configuration for semantic-release.
+- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2026-03-27-worthy-yarn](https://github.com/mason-org/mason-registry/releases/tag/2026-03-27-worthy-yarn), 1 day ago) - Core registry for mason.nvim.
+- [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) ([26.3.27](https://github.com/ivuorinen/dotfiles/releases/tag/26.3.27), 1 day ago) - These are my dotfiles. There are many like &#39;em, but these are mine.
+- [ivuorinen/base-configs-eslint](https://github.com/ivuorinen/base-configs-eslint) ([v1.0.16](https://github.com/ivuorinen/base-configs-eslint/releases/tag/v1.0.16), 1 day ago) - ivuorinen&#39;s shareable configuration for ESLint.
+- [ivuorinen/base-configs-markdownlint](https://github.com/ivuorinen/base-configs-markdownlint) ([v1.0.22](https://github.com/ivuorinen/base-configs-markdownlint/releases/tag/v1.0.22), 1 day ago) - ivuorinen&#39;s shareable configuration for markdownlint.
+- [ivuorinen/base-configs-semantic-release](https://github.com/ivuorinen/base-configs-semantic-release) ([v1.1.18](https://github.com/ivuorinen/base-configs-semantic-release/releases/tag/v1.1.18), 1 day ago) - ivuorinen&#39;s shareable configuration for semantic-release.
 
 #### ⭐ Recent Stars
 
-- [PHPCSStandards/PHP_CodeSniffer](https://github.com/PHPCSStandards/PHP_CodeSniffer) - PHP_CodeSniffer tokenizes PHP files and detects violations of a defined set of coding standards. (today)
-- [Doist/todoist-cli](https://github.com/Doist/todoist-cli) - Command-line interface for Todoist (4 days ago)
-- [henriquesebastiao/badges](https://github.com/henriquesebastiao/badges) - 🎖️ A collection of badges for your projects README (4 days ago)
-- [RevylAI/greenlight](https://github.com/RevylAI/greenlight) - Pre-submission compliance scanner for the Apple App Store (4 days ago)
-- [patchorbit/domscribe](https://github.com/patchorbit/domscribe) - Domscribe is a pixel-to-code development tool that bridges the gap between running web applications and their source code. (4 days ago)
+- [PHPCSStandards/PHP_CodeSniffer](https://github.com/PHPCSStandards/PHP_CodeSniffer) - PHP_CodeSniffer tokenizes PHP files and detects violations of a defined set of coding standards. (1 day ago)
+- [Doist/todoist-cli](https://github.com/Doist/todoist-cli) - Command-line interface for Todoist (5 days ago)
+- [henriquesebastiao/badges](https://github.com/henriquesebastiao/badges) - 🎖️ A collection of badges for your projects README (5 days ago)
+- [RevylAI/greenlight](https://github.com/RevylAI/greenlight) - Pre-submission compliance scanner for the Apple App Store (5 days ago)
+- [patchorbit/domscribe](https://github.com/patchorbit/domscribe) - Domscribe is a pixel-to-code development tool that bridges the gap between running web applications and their source code. (5 days ago)
 
 
 
