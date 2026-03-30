@@ -8,11 +8,11 @@ I'm also a huge fan of open-source, and I try to contribute back to the communit
 
 #### 👷 Check out what I'm currently working on
 
-- [ivuorinen/base-configs-markdownlint](https://github.com/ivuorinen/base-configs-markdownlint) - ivuorinen&#39;s shareable configuration for markdownlint. (today)
-- [ivuorinen/base-configs-semantic-release](https://github.com/ivuorinen/base-configs-semantic-release) - ivuorinen&#39;s shareable configuration for semantic-release. (today)
+- [ivuorinen/base-configs-semantic-release](https://github.com/ivuorinen/base-configs-semantic-release) - ivuorinen&#39;s shareable configuration for semantic-release. (1 day ago)
+- [ivuorinen/base-configs-commitlint](https://github.com/ivuorinen/base-configs-commitlint) - ivuorinen&#39;s shareable configuration for commitlint. (1 day ago)
 - [ivuorinen/cheatsheet-tldr](https://github.com/ivuorinen/cheatsheet-tldr) - tldr-pages/tldr pages for cheat/cheat (1 day ago)
-- [ivuorinen/starred](https://github.com/ivuorinen/starred) - Automatically updated list of my starred repos. (1 day ago)
-- [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) - These are my dotfiles. There are many like &#39;em, but these are mine. (2 days ago)
+- [ivuorinen/base-configs-markdownlint](https://github.com/ivuorinen/base-configs-markdownlint) - ivuorinen&#39;s shareable configuration for markdownlint. (1 day ago)
+- [ivuorinen/renovate-config](https://github.com/ivuorinen/renovate-config) -  (1 day ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -24,19 +24,19 @@ I'm also a huge fan of open-source, and I try to contribute back to the communit
 
 #### 🚀 Latest releases I've contributed to
 
-- [ivuorinen/base-configs-markdownlint](https://github.com/ivuorinen/base-configs-markdownlint) ([v1.0.23](https://github.com/ivuorinen/base-configs-markdownlint/releases/tag/v1.0.23), today) - ivuorinen&#39;s shareable configuration for markdownlint.
-- [ivuorinen/base-configs-semantic-release](https://github.com/ivuorinen/base-configs-semantic-release) ([v1.1.20](https://github.com/ivuorinen/base-configs-semantic-release/releases/tag/v1.1.20), 1 day ago) - ivuorinen&#39;s shareable configuration for semantic-release.
-- [ivuorinen/base-configs-prettier](https://github.com/ivuorinen/base-configs-prettier) ([v1.0.14](https://github.com/ivuorinen/base-configs-prettier/releases/tag/v1.0.14), 1 day ago) - ivuorinen&#39;s shareable configuration for Prettier.
-- [ivuorinen/base-configs-eslint](https://github.com/ivuorinen/base-configs-eslint) ([v1.0.17](https://github.com/ivuorinen/base-configs-eslint/releases/tag/v1.0.17), 1 day ago) - ivuorinen&#39;s shareable configuration for ESLint.
-- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2026-03-28-narrow-world](https://github.com/mason-org/mason-registry/releases/tag/2026-03-28-narrow-world), 1 day ago) - Core registry for mason.nvim.
+- [ivuorinen/actions](https://github.com/ivuorinen/actions) ([v2026.03.29](https://github.com/ivuorinen/actions/releases/tag/v2026.03.29), 1 day ago) - ivuorinen&#39;s shared actions
+- [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) ([26.3.29](https://github.com/ivuorinen/dotfiles/releases/tag/26.3.29), 1 day ago) - These are my dotfiles. There are many like &#39;em, but these are mine.
+- [ivuorinen/base-configs](https://github.com/ivuorinen/base-configs) ([v1.0.14](https://github.com/ivuorinen/base-configs/releases/tag/v1.0.14), 1 day ago) - meta package for my linting configurations
+- [ivuorinen/base-configs-browserslist](https://github.com/ivuorinen/base-configs-browserslist) ([v1.0.23](https://github.com/ivuorinen/base-configs-browserslist/releases/tag/v1.0.23), 1 day ago) - ivuorinen&#39;s shareable configuration for Browserslist.
+- [ivuorinen/base-configs-commitlint](https://github.com/ivuorinen/base-configs-commitlint) ([v1.0.14](https://github.com/ivuorinen/base-configs-commitlint/releases/tag/v1.0.14), 1 day ago) - ivuorinen&#39;s shareable configuration for commitlint.
 
 #### ⭐ Recent Stars
 
-- [PHPCSStandards/PHP_CodeSniffer](https://github.com/PHPCSStandards/PHP_CodeSniffer) - PHP_CodeSniffer tokenizes PHP files and detects violations of a defined set of coding standards. (2 days ago)
-- [Doist/todoist-cli](https://github.com/Doist/todoist-cli) - Command-line interface for Todoist (6 days ago)
-- [henriquesebastiao/badges](https://github.com/henriquesebastiao/badges) - 🎖️ A collection of badges for your projects README (6 days ago)
-- [RevylAI/greenlight](https://github.com/RevylAI/greenlight) - Pre-submission compliance scanner for the Apple App Store (6 days ago)
-- [patchorbit/domscribe](https://github.com/patchorbit/domscribe) - Domscribe is a pixel-to-code development tool that bridges the gap between running web applications and their source code. (6 days ago)
+- [scanopy/scanopy](https://github.com/scanopy/scanopy) - Network documentation that updates itself. (1 day ago)
+- [PHPCSStandards/PHP_CodeSniffer](https://github.com/PHPCSStandards/PHP_CodeSniffer) - PHP_CodeSniffer tokenizes PHP files and detects violations of a defined set of coding standards. (3 days ago)
+- [Doist/todoist-cli](https://github.com/Doist/todoist-cli) - Command-line interface for Todoist (1 week ago)
+- [henriquesebastiao/badges](https://github.com/henriquesebastiao/badges) - 🎖️ A collection of badges for your projects README (1 week ago)
+- [RevylAI/greenlight](https://github.com/RevylAI/greenlight) - Pre-submission compliance scanner for the Apple App Store (1 week ago)
 
 
 
