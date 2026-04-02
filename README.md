@@ -24,11 +24,11 @@ I'm also a huge fan of open-source, and I try to contribute back to the communit
 
 #### 🚀 Latest releases I've contributed to
 
+- [ivuorinen/base-configs-markdownlint](https://github.com/ivuorinen/base-configs-markdownlint) ([v1.0.25](https://github.com/ivuorinen/base-configs-markdownlint/releases/tag/v1.0.25), today) - ivuorinen&#39;s shareable configuration for markdownlint.
+- [ivuorinen/base-configs-eslint](https://github.com/ivuorinen/base-configs-eslint) ([v1.0.21](https://github.com/ivuorinen/base-configs-eslint/releases/tag/v1.0.21), today) - ivuorinen&#39;s shareable configuration for ESLint.
+- [ivuorinen/base-configs-stylelint](https://github.com/ivuorinen/base-configs-stylelint) ([v1.0.21](https://github.com/ivuorinen/base-configs-stylelint/releases/tag/v1.0.21), today) - ivuorinen&#39;s shareable configuration for stylelint.
+- [ivuorinen/base-configs-prettier](https://github.com/ivuorinen/base-configs-prettier) ([v1.0.17](https://github.com/ivuorinen/base-configs-prettier/releases/tag/v1.0.17), today) - ivuorinen&#39;s shareable configuration for Prettier.
 - [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2026-04-02-normal-rugby](https://github.com/mason-org/mason-registry/releases/tag/2026-04-02-normal-rugby), today) - Core registry for mason.nvim.
-- [ivuorinen/base-configs-prettier](https://github.com/ivuorinen/base-configs-prettier) ([v1.0.16](https://github.com/ivuorinen/base-configs-prettier/releases/tag/v1.0.16), today) - ivuorinen&#39;s shareable configuration for Prettier.
-- [ivuorinen/base-configs-semantic-release](https://github.com/ivuorinen/base-configs-semantic-release) ([v1.1.23](https://github.com/ivuorinen/base-configs-semantic-release/releases/tag/v1.1.23), today) - ivuorinen&#39;s shareable configuration for semantic-release.
-- [ivuorinen/base-configs-commitlint](https://github.com/ivuorinen/base-configs-commitlint) ([v1.0.17](https://github.com/ivuorinen/base-configs-commitlint/releases/tag/v1.0.17), today) - ivuorinen&#39;s shareable configuration for commitlint.
-- [ivuorinen/base-configs-browserslist](https://github.com/ivuorinen/base-configs-browserslist) ([v1.0.27](https://github.com/ivuorinen/base-configs-browserslist/releases/tag/v1.0.27), today) - ivuorinen&#39;s shareable configuration for Browserslist.
 
 #### ⭐ Recent Stars
 
