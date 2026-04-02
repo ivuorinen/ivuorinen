@@ -8,11 +8,11 @@ I'm also a huge fan of open-source, and I try to contribute back to the communit
 
 #### 👷 Check out what I'm currently working on
 
+- [ivuorinen/semver-ranger](https://github.com/ivuorinen/semver-ranger) - Parses your package-lock.json to find lower and upper range for requirements (today)
 - [ivuorinen/cheatsheet-tldr](https://github.com/ivuorinen/cheatsheet-tldr) - tldr-pages/tldr pages for cheat/cheat (1 day ago)
 - [ivuorinen/starred](https://github.com/ivuorinen/starred) - Automatically updated list of my starred repos. (1 day ago)
-- [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) - These are my dotfiles. There are many like &#39;em, but these are mine. (1 day ago)
-- [ivuorinen/generic-landing-page](https://github.com/ivuorinen/generic-landing-page) -  (1 day ago)
-- [ivuorinen/renovate-config](https://github.com/ivuorinen/renovate-config) -  (3 days ago)
+- [ivuorinen/base-configs-eslint](https://github.com/ivuorinen/base-configs-eslint) - ivuorinen&#39;s shareable configuration for ESLint. (1 day ago)
+- [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) - These are my dotfiles. There are many like &#39;em, but these are mine. (2 days ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -24,17 +24,17 @@ I'm also a huge fan of open-source, and I try to contribute back to the communit
 
 #### 🚀 Latest releases I've contributed to
 
-- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2026-03-31-minty-mango](https://github.com/mason-org/mason-registry/releases/tag/2026-03-31-minty-mango), 1 day ago) - Core registry for mason.nvim.
-- [ivuorinen/actions](https://github.com/ivuorinen/actions) ([v2026.03.31](https://github.com/ivuorinen/actions/releases/tag/v2026.03.31), 1 day ago) - ivuorinen&#39;s shared actions
-- [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) ([26.3.31](https://github.com/ivuorinen/dotfiles/releases/tag/26.3.31), 1 day ago) - These are my dotfiles. There are many like &#39;em, but these are mine.
-- [ivuorinen/base-configs](https://github.com/ivuorinen/base-configs) ([v1.0.14](https://github.com/ivuorinen/base-configs/releases/tag/v1.0.14), 3 days ago) - meta package for my linting configurations
-- [ivuorinen/base-configs-browserslist](https://github.com/ivuorinen/base-configs-browserslist) ([v1.0.23](https://github.com/ivuorinen/base-configs-browserslist/releases/tag/v1.0.23), 3 days ago) - ivuorinen&#39;s shareable configuration for Browserslist.
+- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2026-04-01-fast-addax](https://github.com/mason-org/mason-registry/releases/tag/2026-04-01-fast-addax), 1 day ago) - Core registry for mason.nvim.
+- [ivuorinen/base-configs-eslint](https://github.com/ivuorinen/base-configs-eslint) ([v1.0.19](https://github.com/ivuorinen/base-configs-eslint/releases/tag/v1.0.19), 1 day ago) - ivuorinen&#39;s shareable configuration for ESLint.
+- [ivuorinen/base-configs-browserslist](https://github.com/ivuorinen/base-configs-browserslist) ([v1.0.25](https://github.com/ivuorinen/base-configs-browserslist/releases/tag/v1.0.25), 1 day ago) - ivuorinen&#39;s shareable configuration for Browserslist.
+- [ivuorinen/base-configs-prettier](https://github.com/ivuorinen/base-configs-prettier) ([v1.0.15](https://github.com/ivuorinen/base-configs-prettier/releases/tag/v1.0.15), 1 day ago) - ivuorinen&#39;s shareable configuration for Prettier.
+- [ivuorinen/base-configs-commitlint](https://github.com/ivuorinen/base-configs-commitlint) ([v1.0.15](https://github.com/ivuorinen/base-configs-commitlint/releases/tag/v1.0.15), 1 day ago) - ivuorinen&#39;s shareable configuration for commitlint.
 
 #### ⭐ Recent Stars
 
-- [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Find secrets with Gitleaks 🔑 (2 days ago)
-- [scanopy/scanopy](https://github.com/scanopy/scanopy) - Network documentation that updates itself. (3 days ago)
-- [PHPCSStandards/PHP_CodeSniffer](https://github.com/PHPCSStandards/PHP_CodeSniffer) - PHP_CodeSniffer tokenizes PHP files and detects violations of a defined set of coding standards. (5 days ago)
+- [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Find secrets with Gitleaks 🔑 (3 days ago)
+- [scanopy/scanopy](https://github.com/scanopy/scanopy) - Network diagrams that update themselves (4 days ago)
+- [PHPCSStandards/PHP_CodeSniffer](https://github.com/PHPCSStandards/PHP_CodeSniffer) - PHP_CodeSniffer tokenizes PHP files and detects violations of a defined set of coding standards. (6 days ago)
 - [Doist/todoist-cli](https://github.com/Doist/todoist-cli) - Command-line interface for Todoist (1 week ago)
 - [henriquesebastiao/badges](https://github.com/henriquesebastiao/badges) - 🎖️ A collection of badges for your projects README (1 week ago)
 
