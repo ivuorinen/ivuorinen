@@ -10,9 +10,9 @@ I'm also a huge fan of open-source, and I try to contribute back to the communit
 
 - [ivuorinen/cheatsheet-tldr](https://github.com/ivuorinen/cheatsheet-tldr) - tldr-pages/tldr pages for cheat/cheat (1 day ago)
 - [ivuorinen/starred](https://github.com/ivuorinen/starred) - Automatically updated list of my starred repos. (1 day ago)
-- [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) - These are my dotfiles. There are many like &#39;em, but these are mine. (1 day ago)
-- [ivuorinen/semver-ranger](https://github.com/ivuorinen/semver-ranger) - Parses your package-lock.json to find lower and upper range for requirements (1 day ago)
-- [ivuorinen/base-configs-eslint](https://github.com/ivuorinen/base-configs-eslint) - ivuorinen&#39;s shareable configuration for ESLint. (2 days ago)
+- [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) - These are my dotfiles. There are many like &#39;em, but these are mine. (2 days ago)
+- [ivuorinen/semver-ranger](https://github.com/ivuorinen/semver-ranger) - Parses your package-lock.json to find lower and upper range for requirements (2 days ago)
+- [ivuorinen/base-configs-eslint](https://github.com/ivuorinen/base-configs-eslint) - ivuorinen&#39;s shareable configuration for ESLint. (3 days ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -24,17 +24,17 @@ I'm also a huge fan of open-source, and I try to contribute back to the communit
 
 #### 🚀 Latest releases I've contributed to
 
-- [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) ([26.4.2](https://github.com/ivuorinen/dotfiles/releases/tag/26.4.2), 1 day ago) - These are my dotfiles. There are many like &#39;em, but these are mine.
-- [ivuorinen/base-configs](https://github.com/ivuorinen/base-configs) ([v1.0.15](https://github.com/ivuorinen/base-configs/releases/tag/v1.0.15), 1 day ago) - meta package for my linting configurations
-- [ivuorinen/base-configs-markdownlint](https://github.com/ivuorinen/base-configs-markdownlint) ([v1.0.25](https://github.com/ivuorinen/base-configs-markdownlint/releases/tag/v1.0.25), 1 day ago) - ivuorinen&#39;s shareable configuration for markdownlint.
-- [ivuorinen/base-configs-eslint](https://github.com/ivuorinen/base-configs-eslint) ([v1.0.21](https://github.com/ivuorinen/base-configs-eslint/releases/tag/v1.0.21), 1 day ago) - ivuorinen&#39;s shareable configuration for ESLint.
-- [ivuorinen/base-configs-stylelint](https://github.com/ivuorinen/base-configs-stylelint) ([v1.0.21](https://github.com/ivuorinen/base-configs-stylelint/releases/tag/v1.0.21), 1 day ago) - ivuorinen&#39;s shareable configuration for stylelint.
+- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2026-04-03-gamy-space](https://github.com/mason-org/mason-registry/releases/tag/2026-04-03-gamy-space), 1 day ago) - Core registry for mason.nvim.
+- [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) ([26.4.2](https://github.com/ivuorinen/dotfiles/releases/tag/26.4.2), 2 days ago) - These are my dotfiles. There are many like &#39;em, but these are mine.
+- [ivuorinen/base-configs](https://github.com/ivuorinen/base-configs) ([v1.0.15](https://github.com/ivuorinen/base-configs/releases/tag/v1.0.15), 2 days ago) - meta package for my linting configurations
+- [ivuorinen/base-configs-markdownlint](https://github.com/ivuorinen/base-configs-markdownlint) ([v1.0.25](https://github.com/ivuorinen/base-configs-markdownlint/releases/tag/v1.0.25), 2 days ago) - ivuorinen&#39;s shareable configuration for markdownlint.
+- [ivuorinen/base-configs-eslint](https://github.com/ivuorinen/base-configs-eslint) ([v1.0.21](https://github.com/ivuorinen/base-configs-eslint/releases/tag/v1.0.21), 2 days ago) - ivuorinen&#39;s shareable configuration for ESLint.
 
 #### ⭐ Recent Stars
 
-- [lirantal/npm-security-best-practices](https://github.com/lirantal/npm-security-best-practices) - Collection of npm package manager Security Best Practices (1 day ago)
-- [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Find secrets with Gitleaks 🔑 (4 days ago)
-- [scanopy/scanopy](https://github.com/scanopy/scanopy) - Network diagrams that update themselves (5 days ago)
+- [lirantal/npm-security-best-practices](https://github.com/lirantal/npm-security-best-practices) - Collection of npm package manager Security Best Practices (2 days ago)
+- [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Find secrets with Gitleaks 🔑 (5 days ago)
+- [scanopy/scanopy](https://github.com/scanopy/scanopy) - Network diagrams that update themselves (6 days ago)
 - [PHPCSStandards/PHP_CodeSniffer](https://github.com/PHPCSStandards/PHP_CodeSniffer) - PHP_CodeSniffer tokenizes PHP files and detects violations of a defined set of coding standards. (1 week ago)
 - [Doist/todoist-cli](https://github.com/Doist/todoist-cli) - Command-line interface for Todoist (1 week ago)
 
