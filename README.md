@@ -24,11 +24,11 @@ I'm also a huge fan of open-source, and I try to contribute back to the communit
 
 #### 🚀 Latest releases I've contributed to
 
-- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2026-04-08-abrupt-care](https://github.com/mason-org/mason-registry/releases/tag/2026-04-08-abrupt-care), today) - Core registry for mason.nvim.
+- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2026-04-08-random-city](https://github.com/mason-org/mason-registry/releases/tag/2026-04-08-random-city), today) - Core registry for mason.nvim.
+- [ivuorinen/config-checker](https://github.com/ivuorinen/config-checker) ([v2.2.3](https://github.com/ivuorinen/config-checker/releases/tag/v2.2.3), today) - Checks the commonly used configuration locations for configuration files
 - [ivuorinen/base-configs-eslint](https://github.com/ivuorinen/base-configs-eslint) ([v1.1.2](https://github.com/ivuorinen/base-configs-eslint/releases/tag/v1.1.2), today) - ivuorinen&#39;s shareable configuration for ESLint.
 - [ivuorinen/base-configs-browserslist](https://github.com/ivuorinen/base-configs-browserslist) ([v1.0.30](https://github.com/ivuorinen/base-configs-browserslist/releases/tag/v1.0.30), today) - ivuorinen&#39;s shareable configuration for Browserslist.
 - [ivuorinen/base-configs-prettier](https://github.com/ivuorinen/base-configs-prettier) ([v1.0.21](https://github.com/ivuorinen/base-configs-prettier/releases/tag/v1.0.21), today) - ivuorinen&#39;s shareable configuration for Prettier.
-- [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) ([26.4.7](https://github.com/ivuorinen/dotfiles/releases/tag/26.4.7), 1 day ago) - These are my dotfiles. There are many like &#39;em, but these are mine.
 
 #### ⭐ Recent Stars
 
