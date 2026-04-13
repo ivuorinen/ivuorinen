@@ -19,6 +19,6 @@ jobs:
 
     steps:
       - name: PR Lint
-        uses: ivuorinen/actions/pr-lint@459781a253d1c53960506b124ae3beaa1090e2a3 # v2026.03.22
+        uses: ivuorinen/actions/pr-lint@0795e029fb0083fe692fb10b4ed6132822b069e6 # v2026.04.06
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
