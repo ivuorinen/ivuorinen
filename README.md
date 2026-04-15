@@ -10,9 +10,9 @@ I'm also a huge fan of open-source, and I try to contribute back to the communit
 
 - [ivuorinen/cheatsheet-tldr](https://github.com/ivuorinen/cheatsheet-tldr) - tldr-pages/tldr pages for cheat/cheat (1 day ago)
 - [ivuorinen/starred](https://github.com/ivuorinen/starred) - Automatically updated list of my starred repos. (1 day ago)
-- [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) - These are my dotfiles. There are many like &#39;em, but these are mine. (1 day ago)
-- [ivuorinen/emoji](https://github.com/ivuorinen/emoji) - Emojis for Slack and other platforms (1 day ago)
-- [ivuorinen/obsidian-gh-projects](https://github.com/ivuorinen/obsidian-gh-projects) - [WIP] Obsidian.md plugin for GitHub projects listing. Optimized for Base listing. (5 days ago)
+- [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) - These are my dotfiles. There are many like &#39;em, but these are mine. (2 days ago)
+- [ivuorinen/emoji](https://github.com/ivuorinen/emoji) - Emojis for Slack and other platforms (2 days ago)
+- [ivuorinen/obsidian-gh-projects](https://github.com/ivuorinen/obsidian-gh-projects) - [WIP] Obsidian.md plugin for GitHub projects listing. Optimized for Base listing. (6 days ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -24,19 +24,19 @@ I'm also a huge fan of open-source, and I try to contribute back to the communit
 
 #### 🚀 Latest releases I've contributed to
 
-- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2026-04-13-ringed-case](https://github.com/mason-org/mason-registry/releases/tag/2026-04-13-ringed-case), 1 day ago) - Core registry for mason.nvim.
-- [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) ([26.4.13](https://github.com/ivuorinen/dotfiles/releases/tag/26.4.13), 1 day ago) - These are my dotfiles. There are many like &#39;em, but these are mine.
-- [ivuorinen/base-configs-prettier](https://github.com/ivuorinen/base-configs-prettier) ([v1.0.22](https://github.com/ivuorinen/base-configs-prettier/releases/tag/v1.0.22), 2 days ago) - ivuorinen&#39;s shareable configuration for Prettier.
-- [ivuorinen/base-configs-browserslist](https://github.com/ivuorinen/base-configs-browserslist) ([v1.0.31](https://github.com/ivuorinen/base-configs-browserslist/releases/tag/v1.0.31), 3 days ago) - ivuorinen&#39;s shareable configuration for Browserslist.
-- [ivuorinen/base-configs-eslint](https://github.com/ivuorinen/base-configs-eslint) ([v1.1.3](https://github.com/ivuorinen/base-configs-eslint/releases/tag/v1.1.3), 3 days ago) - ivuorinen&#39;s shareable configuration for ESLint.
+- [ivuorinen/base-configs-prettier](https://github.com/ivuorinen/base-configs-prettier) ([v1.0.23](https://github.com/ivuorinen/base-configs-prettier/releases/tag/v1.0.23), 1 day ago) - ivuorinen&#39;s shareable configuration for Prettier.
+- [ivuorinen/actions](https://github.com/ivuorinen/actions) ([v2026.04.14](https://github.com/ivuorinen/actions/releases/tag/v2026.04.14), 1 day ago) - ivuorinen&#39;s shared actions
+- [ivuorinen/base-configs-eslint](https://github.com/ivuorinen/base-configs-eslint) ([v1.1.4](https://github.com/ivuorinen/base-configs-eslint/releases/tag/v1.1.4), 1 day ago) - ivuorinen&#39;s shareable configuration for ESLint.
+- [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) ([26.4.14](https://github.com/ivuorinen/dotfiles/releases/tag/26.4.14), 1 day ago) - These are my dotfiles. There are many like &#39;em, but these are mine.
+- [ivuorinen/base-configs-browserslist](https://github.com/ivuorinen/base-configs-browserslist) ([v1.0.32](https://github.com/ivuorinen/base-configs-browserslist/releases/tag/v1.0.32), 1 day ago) - ivuorinen&#39;s shareable configuration for Browserslist.
 
 #### ⭐ Recent Stars
 
-- [samwho/spacer](https://github.com/samwho/spacer) - CLI tool to insert spacers when command output stops (1 day ago)
-- [abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus) - GitNexus: The Zero-Server Code Intelligence Engine -       GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration (1 day ago)
-- [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills) - A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy&#39;s observations on LLM coding pitfalls. (1 day ago)
-- [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman (1 day ago)
-- [Jeffallan/claude-skills](https://github.com/Jeffallan/claude-skills) - 66 Specialized Skills for Full-Stack Developers. Transform Claude Code into your expert pair programmer. (1 day ago)
+- [netbirdio/netbird](https://github.com/netbirdio/netbird) - Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls. (1 day ago)
+- [samwho/spacer](https://github.com/samwho/spacer) - CLI tool to insert spacers when command output stops (2 days ago)
+- [abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus) - GitNexus: The Zero-Server Code Intelligence Engine -       GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration (2 days ago)
+- [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills) - A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy&#39;s observations on LLM coding pitfalls. (2 days ago)
+- [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman (2 days ago)
 
 
 
