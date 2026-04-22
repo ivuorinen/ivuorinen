@@ -8,11 +8,11 @@ I'm also a huge fan of open-source, and I try to contribute back to the communit
 
 #### 👷 Check out what I'm currently working on
 
-- [ivuorinen/cheatsheet-tldr](https://github.com/ivuorinen/cheatsheet-tldr) - tldr-pages/tldr pages for cheat/cheat (1 day ago)
+- [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) - These are my dotfiles. There are many like &#39;em, but these are mine. (1 day ago)
 - [ivuorinen/starred](https://github.com/ivuorinen/starred) - Automatically updated list of my starred repos. (1 day ago)
-- [ivuorinen/emoji](https://github.com/ivuorinen/emoji) - Emojis for Slack and other platforms (1 day ago)
-- [ivuorinen/github-actions-runner-setup](https://github.com/ivuorinen/github-actions-runner-setup) - This repository provides ephemeral self-hosted GitHub Actions runners using a GitHub App for registration. (1 day ago)
-- [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) - These are my dotfiles. There are many like &#39;em, but these are mine. (4 days ago)
+- [ivuorinen/cheatsheet-tldr](https://github.com/ivuorinen/cheatsheet-tldr) - tldr-pages/tldr pages for cheat/cheat (1 day ago)
+- [ivuorinen/emoji](https://github.com/ivuorinen/emoji) - Emojis for Slack and other platforms (2 days ago)
+- [ivuorinen/github-actions-runner-setup](https://github.com/ivuorinen/github-actions-runner-setup) - This repository provides ephemeral self-hosted GitHub Actions runners using a GitHub App for registration. (2 days ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -24,19 +24,19 @@ I'm also a huge fan of open-source, and I try to contribute back to the communit
 
 #### 🚀 Latest releases I've contributed to
 
-- [ivuorinen/actions](https://github.com/ivuorinen/actions) ([v2026.04.20](https://github.com/ivuorinen/actions/releases/tag/v2026.04.20), 1 day ago) - ivuorinen&#39;s shared actions
-- [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) ([26.4.20](https://github.com/ivuorinen/dotfiles/releases/tag/26.4.20), 1 day ago) - These are my dotfiles. There are many like &#39;em, but these are mine.
-- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2026-04-20-abrupt-shop](https://github.com/mason-org/mason-registry/releases/tag/2026-04-20-abrupt-shop), 1 day ago) - Core registry for mason.nvim.
-- [ivuorinen/base-configs-commitlint](https://github.com/ivuorinen/base-configs-commitlint) ([v1.0.19](https://github.com/ivuorinen/base-configs-commitlint/releases/tag/v1.0.19), 3 days ago) - ivuorinen&#39;s shareable configuration for commitlint.
-- [ivuorinen/base-configs-markdownlint](https://github.com/ivuorinen/base-configs-markdownlint) ([v1.0.28](https://github.com/ivuorinen/base-configs-markdownlint/releases/tag/v1.0.28), 3 days ago) - ivuorinen&#39;s shareable configuration for markdownlint.
+- [mason-org/mason-registry](https://github.com/mason-org/mason-registry) ([2026-04-21-joint-sheet](https://github.com/mason-org/mason-registry/releases/tag/2026-04-21-joint-sheet), 1 day ago) - Core registry for mason.nvim.
+- [ivuorinen/actions](https://github.com/ivuorinen/actions) ([v2026.04.21](https://github.com/ivuorinen/actions/releases/tag/v2026.04.21), 1 day ago) - ivuorinen&#39;s shared actions
+- [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) ([26.4.21](https://github.com/ivuorinen/dotfiles/releases/tag/26.4.21), 1 day ago) - These are my dotfiles. There are many like &#39;em, but these are mine.
+- [ivuorinen/base-configs](https://github.com/ivuorinen/base-configs) ([v1.0.17](https://github.com/ivuorinen/base-configs/releases/tag/v1.0.17), 1 day ago) - meta package for my linting configurations
+- [ivuorinen/config-checker](https://github.com/ivuorinen/config-checker) ([v2.2.6](https://github.com/ivuorinen/config-checker/releases/tag/v2.2.6), 1 day ago) - Checks the commonly used configuration locations for configuration files
 
 #### ⭐ Recent Stars
 
-- [trailofbits/skills](https://github.com/trailofbits/skills) - Trail of Bits Claude Code skills for security research, vulnerability detection, and audit workflows (1 day ago)
-- [dralgorhythm/claude-agentic-framework](https://github.com/dralgorhythm/claude-agentic-framework) - A More Effective Agent Harness for Claude (1 day ago)
-- [agamm/claude-code-owasp](https://github.com/agamm/claude-code-owasp) - Claude Code skill for OWASP security best practices (2025-2026). Includes Top 10:2025, ASVS 5.0, Agentic AI security, and 20&#43; language-specific security quirks. (1 day ago)
-- [Eyadkelleh/awesome-claude-skills-security](https://github.com/Eyadkelleh/awesome-claude-skills-security) - Security testing toolkit for Claude Code: curated SecLists wordlists, injection payloads, and expert agents for authorized pentesting, CTFs, and bug bounties (1 day ago)
-- [Dilaz/security-review-skill](https://github.com/Dilaz/security-review-skill) - Claude Code skill for systematic security reviews with exploit-driven vulnerability assessment (2 days ago)
+- [poulainpi/ddd-toolbox](https://github.com/poulainpi/ddd-toolbox) - Strategic design tools for Domain-Driven Design featuring collaborative modeling and visual communication (1 day ago)
+- [trailofbits/skills](https://github.com/trailofbits/skills) - Trail of Bits Claude Code skills for security research, vulnerability detection, and audit workflows (2 days ago)
+- [dralgorhythm/claude-agentic-framework](https://github.com/dralgorhythm/claude-agentic-framework) - A More Effective Agent Harness for Claude (2 days ago)
+- [agamm/claude-code-owasp](https://github.com/agamm/claude-code-owasp) - Claude Code skill for OWASP security best practices (2025-2026). Includes Top 10:2025, ASVS 5.0, Agentic AI security, and 20&#43; language-specific security quirks. (2 days ago)
+- [Eyadkelleh/awesome-claude-skills-security](https://github.com/Eyadkelleh/awesome-claude-skills-security) - Security testing toolkit for Claude Code: curated SecLists wordlists, injection payloads, and expert agents for authorized pentesting, CTFs, and bug bounties (2 days ago)
 
 
 
