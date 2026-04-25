@@ -8,35 +8,35 @@ I'm also a huge fan of open-source, and I try to contribute back to the communit
 
 #### 👷 Check out what I'm currently working on
 
-- [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) - These are my dotfiles. There are many like &#39;em, but these are mine. (1 day ago)
+- [ivuorinen/skills](https://github.com/ivuorinen/skills) - My assortment of Claude Code skills (today)
 - [ivuorinen/starred](https://github.com/ivuorinen/starred) - Automatically updated list of my starred repos. (1 day ago)
-- [ivuorinen/gh-action-readme](https://github.com/ivuorinen/gh-action-readme) - Transform your GitHub Actions into professional documentation with multiple themes, output formats, and enterprise-grade features. (1 day ago)
-- [ivuorinen/cheatsheet-tldr](https://github.com/ivuorinen/cheatsheet-tldr) - tldr-pages/tldr pages for cheat/cheat (1 day ago)
-- [ivuorinen/emoji](https://github.com/ivuorinen/emoji) - Emojis for Slack and other platforms (4 days ago)
+- [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) - These are my dotfiles. There are many like &#39;em, but these are mine. (2 days ago)
+- [ivuorinen/gh-action-readme](https://github.com/ivuorinen/gh-action-readme) - Transform your GitHub Actions into professional documentation with multiple themes, output formats, and enterprise-grade features. (2 days ago)
+- [ivuorinen/cheatsheet-tldr](https://github.com/ivuorinen/cheatsheet-tldr) - tldr-pages/tldr pages for cheat/cheat (2 days ago)
 
 #### 👨‍💻 Repositories I created recently
 
+- [ivuorinen/skills](https://github.com/ivuorinen/skills) - My assortment of Claude Code skills
 - [ivuorinen/github-actions-runner-setup](https://github.com/ivuorinen/github-actions-runner-setup) - This repository provides ephemeral self-hosted GitHub Actions runners using a GitHub App for registration.
 - [ivuorinen/obsidian-gh-projects](https://github.com/ivuorinen/obsidian-gh-projects) - [WIP] Obsidian.md plugin for GitHub projects listing. Optimized for Base listing.
 - [ivuorinen/gh-history](https://github.com/ivuorinen/gh-history) - GitHub CLI history command
 - [ivuorinen/gh-calver](https://github.com/ivuorinen/gh-calver) - GitHub CLI calver command
-- [ivuorinen/hiha-arvio](https://github.com/ivuorinen/hiha-arvio) - A playful Finnish take on agile estimation through shake gestures.
 
 #### 🚀 Latest releases I've contributed to
 
-- [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) ([26.4.23](https://github.com/ivuorinen/dotfiles/releases/tag/26.4.23), 1 day ago) - These are my dotfiles. There are many like &#39;em, but these are mine.
-- [ivuorinen/base-configs-eslint](https://github.com/ivuorinen/base-configs-eslint) ([v1.1.6](https://github.com/ivuorinen/base-configs-eslint/releases/tag/v1.1.6), 2 days ago) - ivuorinen&#39;s shareable configuration for ESLint.
-- [ivuorinen/actions](https://github.com/ivuorinen/actions) ([v2026.04.21](https://github.com/ivuorinen/actions/releases/tag/v2026.04.21), 3 days ago) - ivuorinen&#39;s shared actions
-- [ivuorinen/base-configs](https://github.com/ivuorinen/base-configs) ([v1.0.17](https://github.com/ivuorinen/base-configs/releases/tag/v1.0.17), 3 days ago) - meta package for my linting configurations
-- [ivuorinen/config-checker](https://github.com/ivuorinen/config-checker) ([v2.2.6](https://github.com/ivuorinen/config-checker/releases/tag/v2.2.6), 3 days ago) - Checks the commonly used configuration locations for configuration files
+- [ivuorinen/skills](https://github.com/ivuorinen/skills) ([ivuorinen-skills-v1.1.0](https://github.com/ivuorinen/skills/releases/tag/ivuorinen-skills-v1.1.0), 1 day ago) - My assortment of Claude Code skills
+- [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) ([26.4.23](https://github.com/ivuorinen/dotfiles/releases/tag/26.4.23), 2 days ago) - These are my dotfiles. There are many like &#39;em, but these are mine.
+- [ivuorinen/base-configs-eslint](https://github.com/ivuorinen/base-configs-eslint) ([v1.1.6](https://github.com/ivuorinen/base-configs-eslint/releases/tag/v1.1.6), 3 days ago) - ivuorinen&#39;s shareable configuration for ESLint.
+- [ivuorinen/actions](https://github.com/ivuorinen/actions) ([v2026.04.21](https://github.com/ivuorinen/actions/releases/tag/v2026.04.21), 4 days ago) - ivuorinen&#39;s shared actions
+- [ivuorinen/base-configs](https://github.com/ivuorinen/base-configs) ([v1.0.17](https://github.com/ivuorinen/base-configs/releases/tag/v1.0.17), 4 days ago) - meta package for my linting configurations
 
 #### ⭐ Recent Stars
 
-- [poulainpi/ddd-toolbox](https://github.com/poulainpi/ddd-toolbox) - Strategic design tools for Domain-Driven Design featuring collaborative modeling and visual communication (3 days ago)
-- [trailofbits/skills](https://github.com/trailofbits/skills) - Trail of Bits Claude Code skills for security research, vulnerability detection, and audit workflows (4 days ago)
-- [dralgorhythm/claude-agentic-framework](https://github.com/dralgorhythm/claude-agentic-framework) - A More Effective Agent Harness for Claude (4 days ago)
-- [agamm/claude-code-owasp](https://github.com/agamm/claude-code-owasp) - Claude Code skill for OWASP security best practices (2025-2026). Includes Top 10:2025, ASVS 5.0, Agentic AI security, and 20&#43; language-specific security quirks. (4 days ago)
-- [Eyadkelleh/awesome-claude-skills-security](https://github.com/Eyadkelleh/awesome-claude-skills-security) - Security testing toolkit for Claude Code: curated SecLists wordlists, injection payloads, and expert agents for authorized pentesting, CTFs, and bug bounties (4 days ago)
+- [google/osv-scanner](https://github.com/google/osv-scanner) - Vulnerability scanner written in Go which uses the data provided by https://osv.dev (1 day ago)
+- [ville6000/tfs-cli](https://github.com/ville6000/tfs-cli) -  (1 day ago)
+- [poulainpi/ddd-toolbox](https://github.com/poulainpi/ddd-toolbox) - Strategic design tools for Domain-Driven Design featuring collaborative modeling and visual communication (4 days ago)
+- [trailofbits/skills](https://github.com/trailofbits/skills) - Trail of Bits Claude Code skills for security research, vulnerability detection, and audit workflows (5 days ago)
+- [dralgorhythm/claude-agentic-framework](https://github.com/dralgorhythm/claude-agentic-framework) - A More Effective Agent Harness for Claude (5 days ago)
 
 
 
