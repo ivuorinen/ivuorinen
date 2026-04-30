@@ -8,11 +8,11 @@ I'm also a huge fan of open-source, and I try to contribute back to the communit
 
 #### 👷 Check out what I'm currently working on
 
-- [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) - These are my dotfiles. There are many like &#39;em, but these are mine. (today)
+- [ivuorinen/skills](https://github.com/ivuorinen/skills) - My assortment of Claude Code skills (today)
 - [ivuorinen/cheatsheet-tldr](https://github.com/ivuorinen/cheatsheet-tldr) - tldr-pages/tldr pages for cheat/cheat (1 day ago)
-- [ivuorinen/starred](https://github.com/ivuorinen/starred) - Automatically updated list of my starred repos. (2 days ago)
-- [ivuorinen/skills](https://github.com/ivuorinen/skills) - My assortment of Claude Code skills (4 days ago)
-- [ivuorinen/gh-action-readme](https://github.com/ivuorinen/gh-action-readme) - Transform your GitHub Actions into professional documentation with multiple themes, output formats, and enterprise-grade features. (6 days ago)
+- [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) - These are my dotfiles. There are many like &#39;em, but these are mine. (1 day ago)
+- [ivuorinen/starred](https://github.com/ivuorinen/starred) - Automatically updated list of my starred repos. (1 day ago)
+- [ivuorinen/gh-action-readme](https://github.com/ivuorinen/gh-action-readme) - Transform your GitHub Actions into professional documentation with multiple themes, output formats, and enterprise-grade features. (1 week ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -24,19 +24,19 @@ I'm also a huge fan of open-source, and I try to contribute back to the communit
 
 #### 🚀 Latest releases I've contributed to
 
-- [ivuorinen/actions](https://github.com/ivuorinen/actions) ([v2026.04.28](https://github.com/ivuorinen/actions/releases/tag/v2026.04.28), 1 day ago) - ivuorinen&#39;s shared actions
-- [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) ([26.4.28](https://github.com/ivuorinen/dotfiles/releases/tag/26.4.28), 1 day ago) - These are my dotfiles. There are many like &#39;em, but these are mine.
-- [ivuorinen/base-configs-prettier](https://github.com/ivuorinen/base-configs-prettier) ([v1.0.26](https://github.com/ivuorinen/base-configs-prettier/releases/tag/v1.0.26), 1 day ago) - ivuorinen&#39;s shareable configuration for Prettier.
-- [ivuorinen/base-configs-browserslist](https://github.com/ivuorinen/base-configs-browserslist) ([v1.0.37](https://github.com/ivuorinen/base-configs-browserslist/releases/tag/v1.0.37), 2 days ago) - ivuorinen&#39;s shareable configuration for Browserslist.
-- [ivuorinen/skills](https://github.com/ivuorinen/skills) ([ivuorinen-skills-v1.3.0](https://github.com/ivuorinen/skills/releases/tag/ivuorinen-skills-v1.3.0), 3 days ago) - My assortment of Claude Code skills
+- [ivuorinen/skills](https://github.com/ivuorinen/skills) ([ivuorinen-skills-v1.3.1](https://github.com/ivuorinen/skills/releases/tag/ivuorinen-skills-v1.3.1), 1 day ago) - My assortment of Claude Code skills
+- [ivuorinen/actions](https://github.com/ivuorinen/actions) ([v2026.04.29](https://github.com/ivuorinen/actions/releases/tag/v2026.04.29), 1 day ago) - ivuorinen&#39;s shared actions
+- [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) ([26.4.29](https://github.com/ivuorinen/dotfiles/releases/tag/26.4.29), 1 day ago) - These are my dotfiles. There are many like &#39;em, but these are mine.
+- [ivuorinen/base-configs-prettier](https://github.com/ivuorinen/base-configs-prettier) ([v1.0.26](https://github.com/ivuorinen/base-configs-prettier/releases/tag/v1.0.26), 2 days ago) - ivuorinen&#39;s shareable configuration for Prettier.
+- [ivuorinen/base-configs-browserslist](https://github.com/ivuorinen/base-configs-browserslist) ([v1.0.37](https://github.com/ivuorinen/base-configs-browserslist/releases/tag/v1.0.37), 3 days ago) - ivuorinen&#39;s shareable configuration for Browserslist.
 
 #### ⭐ Recent Stars
 
-- [pixelspark/sushitrain](https://github.com/pixelspark/sushitrain) - Securely synchronize files with your devices on iOS using Syncthing (3 days ago)
-- [google/osv-scanner](https://github.com/google/osv-scanner) - Vulnerability scanner written in Go which uses the data provided by https://osv.dev (5 days ago)
-- [ville6000/tfs-cli](https://github.com/ville6000/tfs-cli) -  (5 days ago)
+- [terryyin/lizard](https://github.com/terryyin/lizard) - A simple code complexity analyser without caring about the C/C&#43;&#43; header files or Java imports, supports most of the popular languages. (1 day ago)
+- [pixelspark/sushitrain](https://github.com/pixelspark/sushitrain) - Securely synchronize files with your devices on iOS using Syncthing (4 days ago)
+- [google/osv-scanner](https://github.com/google/osv-scanner) - Vulnerability scanner written in Go which uses the data provided by https://osv.dev (6 days ago)
+- [ville6000/tfs-cli](https://github.com/ville6000/tfs-cli) -  (6 days ago)
 - [poulainpi/ddd-toolbox](https://github.com/poulainpi/ddd-toolbox) - Strategic design tools for Domain-Driven Design featuring collaborative modeling and visual communication (1 week ago)
-- [trailofbits/skills](https://github.com/trailofbits/skills) - Trail of Bits Claude Code skills for security research, vulnerability detection, and audit workflows (1 week ago)
 
 
 
