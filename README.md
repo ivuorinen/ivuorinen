@@ -24,11 +24,11 @@ I'm also a huge fan of open-source, and I try to contribute back to the communit
 
 #### 🚀 Latest releases I've contributed to
 
+- [ivuorinen/base-configs-commitlint](https://github.com/ivuorinen/base-configs-commitlint) ([v1.0.22](https://github.com/ivuorinen/base-configs-commitlint/releases/tag/v1.0.22), today) - ivuorinen&#39;s shareable configuration for commitlint.
+- [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) ([26.5.9](https://github.com/ivuorinen/dotfiles/releases/tag/26.5.9), today) - These are my dotfiles. There are many like &#39;em, but these are mine.
+- [ivuorinen/base-configs-stylelint](https://github.com/ivuorinen/base-configs-stylelint) ([v1.0.28](https://github.com/ivuorinen/base-configs-stylelint/releases/tag/v1.0.28), today) - ivuorinen&#39;s shareable configuration for stylelint.
 - [ivuorinen/config-checker](https://github.com/ivuorinen/config-checker) ([v2.2.9](https://github.com/ivuorinen/config-checker/releases/tag/v2.2.9), today) - Checks the commonly used configuration locations for configuration files
 - [ivuorinen/base-configs-eslint](https://github.com/ivuorinen/base-configs-eslint) ([v1.1.12](https://github.com/ivuorinen/base-configs-eslint/releases/tag/v1.1.12), today) - ivuorinen&#39;s shareable configuration for ESLint.
-- [ivuorinen/base-configs-prettier](https://github.com/ivuorinen/base-configs-prettier) ([v1.0.30](https://github.com/ivuorinen/base-configs-prettier/releases/tag/v1.0.30), today) - ivuorinen&#39;s shareable configuration for Prettier.
-- [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) ([26.5.8](https://github.com/ivuorinen/dotfiles/releases/tag/26.5.8), 1 day ago) - These are my dotfiles. There are many like &#39;em, but these are mine.
-- [ivuorinen/base-configs-stylelint](https://github.com/ivuorinen/base-configs-stylelint) ([v1.0.27](https://github.com/ivuorinen/base-configs-stylelint/releases/tag/v1.0.27), 2 days ago) - ivuorinen&#39;s shareable configuration for stylelint.
 
 #### ⭐ Recent Stars
 
