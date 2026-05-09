@@ -8,11 +8,11 @@ I'm also a huge fan of open-source, and I try to contribute back to the communit
 
 #### 👷 Check out what I'm currently working on
 
-- [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) - These are my dotfiles. There are many like &#39;em, but these are mine. (today)
-- [ivuorinen/gibidify](https://github.com/ivuorinen/gibidify) - gibidify is a CLI application written in Go that scans a source directory recursively and aggregates code files into a single text file for LLMs. (1 day ago)
+- [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) - These are my dotfiles. There are many like &#39;em, but these are mine. (1 day ago)
 - [ivuorinen/starred](https://github.com/ivuorinen/starred) - Automatically updated list of my starred repos. (1 day ago)
 - [ivuorinen/cheatsheet-tldr](https://github.com/ivuorinen/cheatsheet-tldr) - tldr-pages/tldr pages for cheat/cheat (1 day ago)
-- [ivuorinen/gh-action-readme](https://github.com/ivuorinen/gh-action-readme) - Transform your GitHub Actions into professional documentation with multiple themes, output formats, and enterprise-grade features. (2 days ago)
+- [ivuorinen/gibidify](https://github.com/ivuorinen/gibidify) - gibidify is a CLI application written in Go that scans a source directory recursively and aggregates code files into a single text file for LLMs. (2 days ago)
+- [ivuorinen/gh-action-readme](https://github.com/ivuorinen/gh-action-readme) - Transform your GitHub Actions into professional documentation with multiple themes, output formats, and enterprise-grade features. (3 days ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -24,11 +24,11 @@ I'm also a huge fan of open-source, and I try to contribute back to the communit
 
 #### 🚀 Latest releases I've contributed to
 
-- [ivuorinen/base-configs-stylelint](https://github.com/ivuorinen/base-configs-stylelint) ([v1.0.27](https://github.com/ivuorinen/base-configs-stylelint/releases/tag/v1.0.27), 1 day ago) - ivuorinen&#39;s shareable configuration for stylelint.
-- [ivuorinen/base-configs-eslint](https://github.com/ivuorinen/base-configs-eslint) ([v1.1.11](https://github.com/ivuorinen/base-configs-eslint/releases/tag/v1.1.11), 1 day ago) - ivuorinen&#39;s shareable configuration for ESLint.
-- [ivuorinen/base-configs-markdownlint](https://github.com/ivuorinen/base-configs-markdownlint) ([v1.0.30](https://github.com/ivuorinen/base-configs-markdownlint/releases/tag/v1.0.30), 1 day ago) - ivuorinen&#39;s shareable configuration for markdownlint.
-- [ivuorinen/base-configs-prettier](https://github.com/ivuorinen/base-configs-prettier) ([v1.0.29](https://github.com/ivuorinen/base-configs-prettier/releases/tag/v1.0.29), 1 day ago) - ivuorinen&#39;s shareable configuration for Prettier.
-- [ivuorinen/base-configs-browserslist](https://github.com/ivuorinen/base-configs-browserslist) ([v1.0.41](https://github.com/ivuorinen/base-configs-browserslist/releases/tag/v1.0.41), 1 day ago) - ivuorinen&#39;s shareable configuration for Browserslist.
+- [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) ([26.5.8](https://github.com/ivuorinen/dotfiles/releases/tag/26.5.8), 1 day ago) - These are my dotfiles. There are many like &#39;em, but these are mine.
+- [ivuorinen/base-configs-stylelint](https://github.com/ivuorinen/base-configs-stylelint) ([v1.0.27](https://github.com/ivuorinen/base-configs-stylelint/releases/tag/v1.0.27), 2 days ago) - ivuorinen&#39;s shareable configuration for stylelint.
+- [ivuorinen/base-configs-eslint](https://github.com/ivuorinen/base-configs-eslint) ([v1.1.11](https://github.com/ivuorinen/base-configs-eslint/releases/tag/v1.1.11), 2 days ago) - ivuorinen&#39;s shareable configuration for ESLint.
+- [ivuorinen/base-configs-markdownlint](https://github.com/ivuorinen/base-configs-markdownlint) ([v1.0.30](https://github.com/ivuorinen/base-configs-markdownlint/releases/tag/v1.0.30), 2 days ago) - ivuorinen&#39;s shareable configuration for markdownlint.
+- [ivuorinen/base-configs-prettier](https://github.com/ivuorinen/base-configs-prettier) ([v1.0.29](https://github.com/ivuorinen/base-configs-prettier/releases/tag/v1.0.29), 2 days ago) - ivuorinen&#39;s shareable configuration for Prettier.
 
 #### ⭐ Recent Stars
 
