@@ -8,11 +8,11 @@ I'm also a huge fan of open-source, and I try to contribute back to the communit
 
 #### 👷 Check out what I'm currently working on
 
-- [ivuorinen/cheatsheet-tldr](https://github.com/ivuorinen/cheatsheet-tldr) - tldr-pages/tldr pages for cheat/cheat (today)
-- [ivuorinen/starred](https://github.com/ivuorinen/starred) - Automatically updated list of my starred repos. (today)
-- [ivuorinen/gh-action-readme](https://github.com/ivuorinen/gh-action-readme) - Transform your GitHub Actions into professional documentation with multiple themes, output formats, and enterprise-grade features. (2 days ago)
-- [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) - These are my dotfiles. There are many like &#39;em, but these are mine. (2 days ago)
-- [ivuorinen/gibidify](https://github.com/ivuorinen/gibidify) - gibidify is a CLI application written in Go that scans a source directory recursively and aggregates code files into a single text file for LLMs. (5 days ago)
+- [ivuorinen/cheatsheet-tldr](https://github.com/ivuorinen/cheatsheet-tldr) - tldr-pages/tldr pages for cheat/cheat (1 day ago)
+- [ivuorinen/starred](https://github.com/ivuorinen/starred) - Automatically updated list of my starred repos. (1 day ago)
+- [ivuorinen/gh-action-readme](https://github.com/ivuorinen/gh-action-readme) - Transform your GitHub Actions into professional documentation with multiple themes, output formats, and enterprise-grade features. (3 days ago)
+- [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) - These are my dotfiles. There are many like &#39;em, but these are mine. (3 days ago)
+- [ivuorinen/gibidify](https://github.com/ivuorinen/gibidify) - gibidify is a CLI application written in Go that scans a source directory recursively and aggregates code files into a single text file for LLMs. (6 days ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -24,16 +24,16 @@ I'm also a huge fan of open-source, and I try to contribute back to the communit
 
 #### 🚀 Latest releases I've contributed to
 
-- [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) ([26.5.12](https://github.com/ivuorinen/dotfiles/releases/tag/26.5.12), today) - These are my dotfiles. There are many like &#39;em, but these are mine.
-- [ivuorinen/base-configs-prettier](https://github.com/ivuorinen/base-configs-prettier) ([v1.0.31](https://github.com/ivuorinen/base-configs-prettier/releases/tag/v1.0.31), 1 day ago) - ivuorinen&#39;s shareable configuration for Prettier.
-- [ivuorinen/actions](https://github.com/ivuorinen/actions) ([v2026.05.11](https://github.com/ivuorinen/actions/releases/tag/v2026.05.11), 1 day ago) - ivuorinen&#39;s shared actions
-- [ivuorinen/base-configs-eslint](https://github.com/ivuorinen/base-configs-eslint) ([v1.1.13](https://github.com/ivuorinen/base-configs-eslint/releases/tag/v1.1.13), 1 day ago) - ivuorinen&#39;s shareable configuration for ESLint.
-- [ivuorinen/config-checker](https://github.com/ivuorinen/config-checker) ([v2.2.10](https://github.com/ivuorinen/config-checker/releases/tag/v2.2.10), 1 day ago) - Checks the commonly used configuration locations for configuration files
+- [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) ([26.5.12](https://github.com/ivuorinen/dotfiles/releases/tag/26.5.12), 1 day ago) - These are my dotfiles. There are many like &#39;em, but these are mine.
+- [ivuorinen/base-configs-prettier](https://github.com/ivuorinen/base-configs-prettier) ([v1.0.31](https://github.com/ivuorinen/base-configs-prettier/releases/tag/v1.0.31), 2 days ago) - ivuorinen&#39;s shareable configuration for Prettier.
+- [ivuorinen/actions](https://github.com/ivuorinen/actions) ([v2026.05.11](https://github.com/ivuorinen/actions/releases/tag/v2026.05.11), 2 days ago) - ivuorinen&#39;s shared actions
+- [ivuorinen/base-configs-eslint](https://github.com/ivuorinen/base-configs-eslint) ([v1.1.13](https://github.com/ivuorinen/base-configs-eslint/releases/tag/v1.1.13), 2 days ago) - ivuorinen&#39;s shareable configuration for ESLint.
+- [ivuorinen/config-checker](https://github.com/ivuorinen/config-checker) ([v2.2.10](https://github.com/ivuorinen/config-checker/releases/tag/v2.2.10), 2 days ago) - Checks the commonly used configuration locations for configuration files
 
 #### ⭐ Recent Stars
 
-- [zhichaoh/catppuccin-wallpapers](https://github.com/zhichaoh/catppuccin-wallpapers) - 🖼️ Wallpapers to match your Catppuccin setups! (2 days ago)
-- [terryyin/lizard](https://github.com/terryyin/lizard) - A simple code complexity analyser without caring about the C/C&#43;&#43; header files or Java imports, supports most of the popular languages. (1 week ago)
+- [zhichaoh/catppuccin-wallpapers](https://github.com/zhichaoh/catppuccin-wallpapers) - 🖼️ Wallpapers to match your Catppuccin setups! (3 days ago)
+- [terryyin/lizard](https://github.com/terryyin/lizard) - A simple code complexity analyser without caring about the C/C&#43;&#43; header files or Java imports, supports most of the popular languages. (2 weeks ago)
 - [pixelspark/sushitrain](https://github.com/pixelspark/sushitrain) - Securely synchronize files with your devices on iOS using Syncthing (2 weeks ago)
 - [google/osv-scanner](https://github.com/google/osv-scanner) - Vulnerability scanner written in Go which uses the data provided by https://osv.dev (2 weeks ago)
 - [ville6000/tfs-cli](https://github.com/ville6000/tfs-cli) -  (2 weeks ago)
