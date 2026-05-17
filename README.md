@@ -8,11 +8,11 @@ I'm also a huge fan of open-source, and I try to contribute back to the communit
 
 #### 👷 Check out what I'm currently working on
 
-- [ivuorinen/nvm-auto-use.fish](https://github.com/ivuorinen/nvm-auto-use.fish) - Work in progress implementation for nvm-auto-use for fish shell (1 day ago)
 - [ivuorinen/cheatsheet-tldr](https://github.com/ivuorinen/cheatsheet-tldr) - tldr-pages/tldr pages for cheat/cheat (1 day ago)
 - [ivuorinen/starred](https://github.com/ivuorinen/starred) - Automatically updated list of my starred repos. (1 day ago)
-- [ivuorinen/gh-action-readme](https://github.com/ivuorinen/gh-action-readme) - Transform your GitHub Actions into professional documentation with multiple themes, output formats, and enterprise-grade features. (3 days ago)
-- [ivuorinen/nvm-auto-use](https://github.com/ivuorinen/nvm-auto-use) - Automatically install node version based on .nvmrc, and use it (3 days ago)
+- [ivuorinen/nvm-auto-use.fish](https://github.com/ivuorinen/nvm-auto-use.fish) - Work in progress implementation for nvm-auto-use for fish shell (2 days ago)
+- [ivuorinen/gh-action-readme](https://github.com/ivuorinen/gh-action-readme) - Transform your GitHub Actions into professional documentation with multiple themes, output formats, and enterprise-grade features. (4 days ago)
+- [ivuorinen/nvm-auto-use](https://github.com/ivuorinen/nvm-auto-use) - Automatically install node version based on .nvmrc, and use it (4 days ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -24,18 +24,18 @@ I'm also a huge fan of open-source, and I try to contribute back to the communit
 
 #### 🚀 Latest releases I've contributed to
 
-- [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) ([26.5.15](https://github.com/ivuorinen/dotfiles/releases/tag/26.5.15), 1 day ago) - These are my dotfiles. There are many like &#39;em, but these are mine.
-- [ivuorinen/base-configs-browserslist](https://github.com/ivuorinen/base-configs-browserslist) ([v1.0.44](https://github.com/ivuorinen/base-configs-browserslist/releases/tag/v1.0.44), 1 day ago) - ivuorinen&#39;s shareable configuration for Browserslist.
-- [ivuorinen/base-configs-prettier](https://github.com/ivuorinen/base-configs-prettier) ([v1.0.31](https://github.com/ivuorinen/base-configs-prettier/releases/tag/v1.0.31), 5 days ago) - ivuorinen&#39;s shareable configuration for Prettier.
-- [ivuorinen/actions](https://github.com/ivuorinen/actions) ([v2026.05.11](https://github.com/ivuorinen/actions/releases/tag/v2026.05.11), 5 days ago) - ivuorinen&#39;s shared actions
-- [ivuorinen/base-configs-eslint](https://github.com/ivuorinen/base-configs-eslint) ([v1.1.13](https://github.com/ivuorinen/base-configs-eslint/releases/tag/v1.1.13), 5 days ago) - ivuorinen&#39;s shareable configuration for ESLint.
+- [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) ([26.5.16](https://github.com/ivuorinen/dotfiles/releases/tag/26.5.16), 1 day ago) - These are my dotfiles. There are many like &#39;em, but these are mine.
+- [ivuorinen/base-configs-browserslist](https://github.com/ivuorinen/base-configs-browserslist) ([v1.0.45](https://github.com/ivuorinen/base-configs-browserslist/releases/tag/v1.0.45), 1 day ago) - ivuorinen&#39;s shareable configuration for Browserslist.
+- [ivuorinen/base-configs-eslint](https://github.com/ivuorinen/base-configs-eslint) ([v1.1.14](https://github.com/ivuorinen/base-configs-eslint/releases/tag/v1.1.14), 1 day ago) - ivuorinen&#39;s shareable configuration for ESLint.
+- [ivuorinen/config-checker](https://github.com/ivuorinen/config-checker) ([v2.2.11](https://github.com/ivuorinen/config-checker/releases/tag/v2.2.11), 1 day ago) - Checks the commonly used configuration locations for configuration files
+- [ivuorinen/base-configs-prettier](https://github.com/ivuorinen/base-configs-prettier) ([v1.0.32](https://github.com/ivuorinen/base-configs-prettier/releases/tag/v1.0.32), 1 day ago) - ivuorinen&#39;s shareable configuration for Prettier.
 
 #### ⭐ Recent Stars
 
-- [omerxx/tmux-floax](https://github.com/omerxx/tmux-floax) - The missing floating pane for Tmux (1 day ago)
-- [gildasio/h2t](https://github.com/gildasio/h2t) - h2t (HTTP Hardening Tool) scans a website and suggests security headers to apply (1 day ago)
-- [uber-go/goleak](https://github.com/uber-go/goleak) - Goroutine leak detector (3 days ago)
-- [zhichaoh/catppuccin-wallpapers](https://github.com/zhichaoh/catppuccin-wallpapers) - 🖼️ Wallpapers to match your Catppuccin setups! (6 days ago)
+- [omerxx/tmux-floax](https://github.com/omerxx/tmux-floax) - The missing floating pane for Tmux (2 days ago)
+- [gildasio/h2t](https://github.com/gildasio/h2t) - h2t (HTTP Hardening Tool) scans a website and suggests security headers to apply (2 days ago)
+- [uber-go/goleak](https://github.com/uber-go/goleak) - Goroutine leak detector (4 days ago)
+- [zhichaoh/catppuccin-wallpapers](https://github.com/zhichaoh/catppuccin-wallpapers) - 🖼️ Wallpapers to match your Catppuccin setups! (1 week ago)
 - [terryyin/lizard](https://github.com/terryyin/lizard) - A simple code complexity analyser without caring about the C/C&#43;&#43; header files or Java imports, supports most of the popular languages. (2 weeks ago)
 
 
