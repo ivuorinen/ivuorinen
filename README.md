@@ -10,9 +10,9 @@ I'm also a huge fan of open-source, and I try to contribute back to the communit
 
 - [ivuorinen/cheatsheet-tldr](https://github.com/ivuorinen/cheatsheet-tldr) - tldr-pages/tldr pages for cheat/cheat (1 day ago)
 - [ivuorinen/starred](https://github.com/ivuorinen/starred) - Automatically updated list of my starred repos. (1 day ago)
-- [ivuorinen/skills](https://github.com/ivuorinen/skills) - My assortment of Claude Code skills (2 days ago)
-- [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) - These are my dotfiles. There are many like &#39;em, but these are mine. (3 days ago)
-- [ivuorinen/actions](https://github.com/ivuorinen/actions) - ivuorinen&#39;s shared actions (5 days ago)
+- [ivuorinen/skills](https://github.com/ivuorinen/skills) - My assortment of Claude Code skills (3 days ago)
+- [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) - These are my dotfiles. There are many like &#39;em, but these are mine. (4 days ago)
+- [ivuorinen/actions](https://github.com/ivuorinen/actions) - ivuorinen&#39;s shared actions (6 days ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -24,19 +24,19 @@ I'm also a huge fan of open-source, and I try to contribute back to the communit
 
 #### 🚀 Latest releases I've contributed to
 
-- [ivuorinen/skills](https://github.com/ivuorinen/skills) ([ivuorinen-skills-v1.5.0](https://github.com/ivuorinen/skills/releases/tag/ivuorinen-skills-v1.5.0), 1 day ago) - My assortment of Claude Code skills
-- [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) ([26.5.27](https://github.com/ivuorinen/dotfiles/releases/tag/26.5.27), 3 days ago) - These are my dotfiles. There are many like &#39;em, but these are mine.
-- [ivuorinen/actions](https://github.com/ivuorinen/actions) ([v2026.05.26](https://github.com/ivuorinen/actions/releases/tag/v2026.05.26), 4 days ago) - ivuorinen&#39;s shared actions
-- [ivuorinen/base-configs-commitlint](https://github.com/ivuorinen/base-configs-commitlint) ([v1.0.25](https://github.com/ivuorinen/base-configs-commitlint/releases/tag/v1.0.25), 5 days ago) - ivuorinen&#39;s shareable configuration for commitlint.
-- [ivuorinen/base-configs-prettier](https://github.com/ivuorinen/base-configs-prettier) ([v1.0.34](https://github.com/ivuorinen/base-configs-prettier/releases/tag/v1.0.34), 5 days ago) - ivuorinen&#39;s shareable configuration for Prettier.
+- [ivuorinen/skills](https://github.com/ivuorinen/skills) ([ivuorinen-skills-v1.5.0](https://github.com/ivuorinen/skills/releases/tag/ivuorinen-skills-v1.5.0), 2 days ago) - My assortment of Claude Code skills
+- [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) ([26.5.27](https://github.com/ivuorinen/dotfiles/releases/tag/26.5.27), 4 days ago) - These are my dotfiles. There are many like &#39;em, but these are mine.
+- [ivuorinen/actions](https://github.com/ivuorinen/actions) ([v2026.05.26](https://github.com/ivuorinen/actions/releases/tag/v2026.05.26), 5 days ago) - ivuorinen&#39;s shared actions
+- [ivuorinen/base-configs-commitlint](https://github.com/ivuorinen/base-configs-commitlint) ([v1.0.25](https://github.com/ivuorinen/base-configs-commitlint/releases/tag/v1.0.25), 6 days ago) - ivuorinen&#39;s shareable configuration for commitlint.
+- [ivuorinen/base-configs-prettier](https://github.com/ivuorinen/base-configs-prettier) ([v1.0.34](https://github.com/ivuorinen/base-configs-prettier/releases/tag/v1.0.34), 6 days ago) - ivuorinen&#39;s shareable configuration for Prettier.
 
 #### ⭐ Recent Stars
 
-- [shhac/git-hunk](https://github.com/shhac/git-hunk) - Non-interactive, deterministic hunk staging for git (2 days ago)
-- [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is the industry standard workshop for building, documenting, and testing UI components in isolation (3 days ago)
-- [davmlaw/they_live_adblocker](https://github.com/davmlaw/they_live_adblocker) - Replace Ads with They Live style slogans (3 days ago)
-- [russellromney/honker](https://github.com/russellromney/honker) - SQLite extension &#43; bindings for Postgres NOTIFY/LISTEN semantics with durable queues, streams, pub/sub, and scheduler (3 days ago)
-- [perplexityai/bumblebee](https://github.com/perplexityai/bumblebee) - Read-only developer endpoint scanner for on-disk package, extension, and developer-tool metadata, built to check exposure to known software supply-chain compromises. (3 days ago)
+- [shhac/git-hunk](https://github.com/shhac/git-hunk) - Non-interactive, deterministic hunk staging for git (3 days ago)
+- [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is the industry standard workshop for building, documenting, and testing UI components in isolation (4 days ago)
+- [davmlaw/they_live_adblocker](https://github.com/davmlaw/they_live_adblocker) - Replace Ads with They Live style slogans (4 days ago)
+- [russellromney/honker](https://github.com/russellromney/honker) - SQLite extension &#43; bindings for Postgres NOTIFY/LISTEN semantics with durable queues, streams, pub/sub, and scheduler (4 days ago)
+- [perplexityai/bumblebee](https://github.com/perplexityai/bumblebee) - Read-only developer endpoint scanner for on-disk package, extension, and developer-tool metadata, built to check exposure to known software supply-chain compromises. (4 days ago)
 
 
 
