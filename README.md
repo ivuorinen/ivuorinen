@@ -10,9 +10,9 @@ I'm also a huge fan of open-source, and I try to contribute back to the communit
 
 - [ivuorinen/actions](https://github.com/ivuorinen/actions) - ivuorinen&#39;s shared actions (today)
 - [ivuorinen/renovate-config](https://github.com/ivuorinen/renovate-config) -  (today)
-- [ivuorinen/skills](https://github.com/ivuorinen/skills) - My assortment of Claude Code skills (today)
-- [ivuorinen/cheatsheet-tldr](https://github.com/ivuorinen/cheatsheet-tldr) - tldr-pages/tldr pages for cheat/cheat (today)
-- [ivuorinen/starred](https://github.com/ivuorinen/starred) - Automatically updated list of my starred repos. (today)
+- [ivuorinen/skills](https://github.com/ivuorinen/skills) - My assortment of Claude Code skills (1 day ago)
+- [ivuorinen/cheatsheet-tldr](https://github.com/ivuorinen/cheatsheet-tldr) - tldr-pages/tldr pages for cheat/cheat (1 day ago)
+- [ivuorinen/starred](https://github.com/ivuorinen/starred) - Automatically updated list of my starred repos. (1 day ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -24,15 +24,15 @@ I'm also a huge fan of open-source, and I try to contribute back to the communit
 
 #### 🚀 Latest releases I've contributed to
 
-- [ivuorinen/actions](https://github.com/ivuorinen/actions) ([v2026.06.06](https://github.com/ivuorinen/actions/releases/tag/v2026.06.06), today) - ivuorinen&#39;s shared actions
-- [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) ([26.6.6](https://github.com/ivuorinen/dotfiles/releases/tag/26.6.6), today) - These are my dotfiles. There are many like &#39;em, but these are mine.
-- [ivuorinen/base-configs-browserslist](https://github.com/ivuorinen/base-configs-browserslist) ([v1.0.50](https://github.com/ivuorinen/base-configs-browserslist/releases/tag/v1.0.50), 5 days ago) - ivuorinen&#39;s shareable configuration for Browserslist.
-- [ivuorinen/ivuorinen](https://github.com/ivuorinen/ivuorinen) ([2026.6.0](https://github.com/ivuorinen/ivuorinen/releases/tag/2026.6.0), 5 days ago) - My special github profile header
-- [ivuorinen/config-checker](https://github.com/ivuorinen/config-checker) ([v2.2.15](https://github.com/ivuorinen/config-checker/releases/tag/v2.2.15), 6 days ago) - Checks the commonly used configuration locations for configuration files
+- [ivuorinen/actions](https://github.com/ivuorinen/actions) ([v2026.06.06](https://github.com/ivuorinen/actions/releases/tag/v2026.06.06), 1 day ago) - ivuorinen&#39;s shared actions
+- [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) ([26.6.6](https://github.com/ivuorinen/dotfiles/releases/tag/26.6.6), 1 day ago) - These are my dotfiles. There are many like &#39;em, but these are mine.
+- [ivuorinen/base-configs-browserslist](https://github.com/ivuorinen/base-configs-browserslist) ([v1.0.50](https://github.com/ivuorinen/base-configs-browserslist/releases/tag/v1.0.50), 6 days ago) - ivuorinen&#39;s shareable configuration for Browserslist.
+- [ivuorinen/ivuorinen](https://github.com/ivuorinen/ivuorinen) ([2026.6.0](https://github.com/ivuorinen/ivuorinen/releases/tag/2026.6.0), 6 days ago) - My special github profile header
+- [ivuorinen/config-checker](https://github.com/ivuorinen/config-checker) ([v2.2.15](https://github.com/ivuorinen/config-checker/releases/tag/v2.2.15), 1 week ago) - Checks the commonly used configuration locations for configuration files
 
 #### ⭐ Recent Stars
 
-- [fallow-rs/fallow](https://github.com/fallow-rs/fallow) - Codebase intelligence for TypeScript and JavaScript. Free static layer: unused code, duplication, circular deps, complexity hotspots, architecture boundaries. Optional paid runtime layer: hot-path review and cold-path deletion evidence from real production traffic. Rust-native, sub-second, zero-config framework support. (today)
+- [fallow-rs/fallow](https://github.com/fallow-rs/fallow) - Codebase intelligence for TypeScript and JavaScript. Free static layer: unused code, duplication, circular deps, complexity hotspots, architecture boundaries. Optional paid runtime layer: hot-path review and cold-path deletion evidence from real production traffic. Rust-native, sub-second, zero-config framework support. (1 day ago)
 - [shhac/git-hunk](https://github.com/shhac/git-hunk) - Non-interactive, deterministic hunk staging for git (1 week ago)
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is the industry standard workshop for building, documenting, and testing UI components in isolation (1 week ago)
 - [davmlaw/they_live_adblocker](https://github.com/davmlaw/they_live_adblocker) - Replace Ads with They Live style slogans (1 week ago)
