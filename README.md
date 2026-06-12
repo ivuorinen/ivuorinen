@@ -8,11 +8,11 @@ I'm also a huge fan of open-source, and I try to contribute back to the communit
 
 #### 👷 Check out what I'm currently working on
 
-- [ivuorinen/cheatsheet-tldr](https://github.com/ivuorinen/cheatsheet-tldr) - tldr-pages/tldr pages for cheat/cheat (1 day ago)
-- [ivuorinen/gibidify](https://github.com/ivuorinen/gibidify) - gibidify is a CLI application written in Go that scans a source directory recursively and aggregates code files into a single text file for LLMs. (1 day ago)
+- [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) - These are my dotfiles. There are many like &#39;em, but these are mine. (1 day ago)
 - [ivuorinen/starred](https://github.com/ivuorinen/starred) - Automatically updated list of my starred repos. (1 day ago)
-- [ivuorinen/aeonview](https://github.com/ivuorinen/aeonview) - aeonview is a tool for automagical timelapse-video generation. it works as a glue between different linux programs to produce videos of elapsing time. works best with webcam-images from the net. (1 day ago)
-- [ivuorinen/actions](https://github.com/ivuorinen/actions) - ivuorinen&#39;s shared actions (3 days ago)
+- [ivuorinen/cheatsheet-tldr](https://github.com/ivuorinen/cheatsheet-tldr) - tldr-pages/tldr pages for cheat/cheat (1 day ago)
+- [ivuorinen/aeonview](https://github.com/ivuorinen/aeonview) - aeonview is a tool for automagical timelapse-video generation. it works as a glue between different linux programs to produce videos of elapsing time. works best with webcam-images from the net. (2 days ago)
+- [ivuorinen/gibidify](https://github.com/ivuorinen/gibidify) - gibidify is a CLI application written in Go that scans a source directory recursively and aggregates code files into a single text file for LLMs. (2 days ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -24,19 +24,19 @@ I'm also a huge fan of open-source, and I try to contribute back to the communit
 
 #### 🚀 Latest releases I've contributed to
 
-- [ivuorinen/actions](https://github.com/ivuorinen/actions) ([v2026.06.10](https://github.com/ivuorinen/actions/releases/tag/v2026.06.10), 1 day ago) - ivuorinen&#39;s shared actions
-- [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) ([26.6.10](https://github.com/ivuorinen/dotfiles/releases/tag/26.6.10), 1 day ago) - These are my dotfiles. There are many like &#39;em, but these are mine.
-- [ivuorinen/base-configs-browserslist](https://github.com/ivuorinen/base-configs-browserslist) ([v1.0.50](https://github.com/ivuorinen/base-configs-browserslist/releases/tag/v1.0.50), 1 week ago) - ivuorinen&#39;s shareable configuration for Browserslist.
-- [ivuorinen/ivuorinen](https://github.com/ivuorinen/ivuorinen) ([2026.6.0](https://github.com/ivuorinen/ivuorinen/releases/tag/2026.6.0), 1 week ago) - My special github profile header
-- [ivuorinen/config-checker](https://github.com/ivuorinen/config-checker) ([v2.2.15](https://github.com/ivuorinen/config-checker/releases/tag/v2.2.15), 1 week ago) - Checks the commonly used configuration locations for configuration files
+- [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) ([26.6.11](https://github.com/ivuorinen/dotfiles/releases/tag/26.6.11), 1 day ago) - These are my dotfiles. There are many like &#39;em, but these are mine.
+- [ivuorinen/config-checker](https://github.com/ivuorinen/config-checker) ([v2.2.16](https://github.com/ivuorinen/config-checker/releases/tag/v2.2.16), 1 day ago) - Checks the commonly used configuration locations for configuration files
+- [ivuorinen/base-configs](https://github.com/ivuorinen/base-configs) ([v1.0.22](https://github.com/ivuorinen/base-configs/releases/tag/v1.0.22), 1 day ago) - meta package for my linting configurations
+- [ivuorinen/skills](https://github.com/ivuorinen/skills) ([ivuorinen-skills-v1.6.0](https://github.com/ivuorinen/skills/releases/tag/ivuorinen-skills-v1.6.0), 1 day ago) - My assortment of Claude Code skills
+- [ivuorinen/actions](https://github.com/ivuorinen/actions) ([v2026.06.10](https://github.com/ivuorinen/actions/releases/tag/v2026.06.10), 2 days ago) - ivuorinen&#39;s shared actions
 
 #### ⭐ Recent Stars
 
-- [HexmosTech/git-lrc](https://github.com/HexmosTech/git-lrc) - Free, Micro AI Code Reviews That Run on Commit (1 day ago)
-- [fallow-rs/fallow](https://github.com/fallow-rs/fallow) - Codebase intelligence for TypeScript and JavaScript. Free static layer: unused code, duplication, circular deps, complexity hotspots, architecture boundaries. Optional paid runtime layer: hot-path review and cold-path deletion evidence from real production traffic. Rust-native, sub-second, zero-config framework support. (5 days ago)
+- [ZenNotes/zennotes](https://github.com/ZenNotes/zennotes) - Keyboard-first local Markdown notes with Vim motions, diagrams, and MCP integration. (1 day ago)
+- [HexmosTech/git-lrc](https://github.com/HexmosTech/git-lrc) - Free, Micro AI Code Reviews That Run on Commit (2 days ago)
+- [fallow-rs/fallow](https://github.com/fallow-rs/fallow) - Codebase intelligence for TypeScript and JavaScript. Free static layer: unused code, duplication, circular deps, complexity hotspots, architecture boundaries. Optional paid runtime layer: hot-path review and cold-path deletion evidence from real production traffic. Rust-native, sub-second, zero-config framework support. (6 days ago)
 - [shhac/git-hunk](https://github.com/shhac/git-hunk) - Non-interactive, deterministic hunk staging for git (2 weeks ago)
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is the industry standard workshop for building, documenting, and testing UI components in isolation (2 weeks ago)
-- [davmlaw/they_live_adblocker](https://github.com/davmlaw/they_live_adblocker) - Replace Ads with They Live style slogans (2 weeks ago)
 
 
 
