@@ -8,11 +8,11 @@ I'm also a huge fan of open-source, and I try to contribute back to the communit
 
 #### 👷 Check out what I'm currently working on
 
-- [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) - These are my dotfiles. There are many like &#39;em, but these are mine. (today)
-- [ivuorinen/base-configs-prettier](https://github.com/ivuorinen/base-configs-prettier) - ivuorinen&#39;s shareable configuration for Prettier. (1 day ago)
-- [ivuorinen/starred](https://github.com/ivuorinen/starred) - Automatically updated list of my starred repos. (1 day ago)
+- [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) - These are my dotfiles. There are many like &#39;em, but these are mine. (1 day ago)
 - [ivuorinen/actions](https://github.com/ivuorinen/actions) - ivuorinen&#39;s shared actions (1 day ago)
-- [ivuorinen/gh-action-readme](https://github.com/ivuorinen/gh-action-readme) - Transform your GitHub Actions into professional documentation with multiple themes, output formats, and enterprise-grade features. (1 day ago)
+- [ivuorinen/cheatsheet-tldr](https://github.com/ivuorinen/cheatsheet-tldr) - tldr-pages/tldr pages for cheat/cheat (1 day ago)
+- [ivuorinen/base-configs-eslint](https://github.com/ivuorinen/base-configs-eslint) - ivuorinen&#39;s shareable configuration for ESLint. (2 days ago)
+- [ivuorinen/starred](https://github.com/ivuorinen/starred) - Automatically updated list of my starred repos. (2 days ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -24,18 +24,18 @@ I'm also a huge fan of open-source, and I try to contribute back to the communit
 
 #### 🚀 Latest releases I've contributed to
 
-- [ivuorinen/base-configs-eslint](https://github.com/ivuorinen/base-configs-eslint) ([v1.1.19](https://github.com/ivuorinen/base-configs-eslint/releases/tag/v1.1.19), 1 day ago) - ivuorinen&#39;s shareable configuration for ESLint.
-- [ivuorinen/base-configs-browserslist](https://github.com/ivuorinen/base-configs-browserslist) ([v1.0.54](https://github.com/ivuorinen/base-configs-browserslist/releases/tag/v1.0.54), 1 day ago) - ivuorinen&#39;s shareable configuration for Browserslist.
-- [ivuorinen/base-configs-markdownlint](https://github.com/ivuorinen/base-configs-markdownlint) ([v1.0.34](https://github.com/ivuorinen/base-configs-markdownlint/releases/tag/v1.0.34), 1 day ago) - ivuorinen&#39;s shareable configuration for markdownlint.
-- [ivuorinen/base-configs-prettier](https://github.com/ivuorinen/base-configs-prettier) ([v1.0.37](https://github.com/ivuorinen/base-configs-prettier/releases/tag/v1.0.37), 1 day ago) - ivuorinen&#39;s shareable configuration for Prettier.
-- [ivuorinen/base-configs-commitlint](https://github.com/ivuorinen/base-configs-commitlint) ([v1.0.26](https://github.com/ivuorinen/base-configs-commitlint/releases/tag/v1.0.26), 1 day ago) - ivuorinen&#39;s shareable configuration for commitlint.
+- [ivuorinen/actions](https://github.com/ivuorinen/actions) ([v2026.06.16](https://github.com/ivuorinen/actions/releases/tag/v2026.06.16), 1 day ago) - ivuorinen&#39;s shared actions
+- [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) ([26.6.16](https://github.com/ivuorinen/dotfiles/releases/tag/26.6.16), 1 day ago) - These are my dotfiles. There are many like &#39;em, but these are mine.
+- [ivuorinen/base-configs-stylelint](https://github.com/ivuorinen/base-configs-stylelint) ([v1.0.32](https://github.com/ivuorinen/base-configs-stylelint/releases/tag/v1.0.32), 1 day ago) - ivuorinen&#39;s shareable configuration for stylelint.
+- [ivuorinen/base-configs-semantic-release](https://github.com/ivuorinen/base-configs-semantic-release) ([v1.2.7](https://github.com/ivuorinen/base-configs-semantic-release/releases/tag/v1.2.7), 1 day ago) - ivuorinen&#39;s shareable configuration for semantic-release.
+- [ivuorinen/base-configs-eslint](https://github.com/ivuorinen/base-configs-eslint) ([v1.1.19](https://github.com/ivuorinen/base-configs-eslint/releases/tag/v1.1.19), 2 days ago) - ivuorinen&#39;s shareable configuration for ESLint.
 
 #### ⭐ Recent Stars
 
-- [BraveOPotato/FckSignups](https://github.com/BraveOPotato/FckSignups) - A list of tools that are open-source, in-browser, and require no-signups! (1 day ago)
-- [Makisuo/maple](https://github.com/Makisuo/maple) - OpenTelemetry observability platform (1 day ago)
-- [ZenNotes/zennotes](https://github.com/ZenNotes/zennotes) - Keyboard-first local Markdown notes with Vim motions, diagrams, and MCP integration. (5 days ago)
-- [HexmosTech/git-lrc](https://github.com/HexmosTech/git-lrc) - Free, Micro AI Code Reviews That Run on Commit (6 days ago)
+- [BraveOPotato/FckSignups](https://github.com/BraveOPotato/FckSignups) - A list of tools that are open-source, in-browser, and require no-signups! (2 days ago)
+- [Makisuo/maple](https://github.com/Makisuo/maple) - OpenTelemetry observability platform (2 days ago)
+- [ZenNotes/zennotes](https://github.com/ZenNotes/zennotes) - Keyboard-first local Markdown notes with Vim motions, diagrams, and MCP integration. (6 days ago)
+- [HexmosTech/git-lrc](https://github.com/HexmosTech/git-lrc) - Free, Micro AI Code Reviews That Run on Git Commit (1 week ago)
 - [fallow-rs/fallow](https://github.com/fallow-rs/fallow) - Codebase intelligence for TypeScript and JavaScript. Free static layer: unused code, duplication, circular deps, complexity hotspots, architecture boundaries. Optional paid runtime layer: hot-path review and cold-path deletion evidence from real production traffic. Rust-native, sub-second, zero-config framework support. (1 week ago)
 
 
