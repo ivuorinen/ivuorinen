@@ -8,10 +8,10 @@ I'm also a huge fan of open-source, and I try to contribute back to the communit
 
 #### 👷 Check out what I'm currently working on
 
-- [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) - These are my dotfiles. There are many like &#39;em, but these are mine. (1 day ago)
-- [ivuorinen/starred](https://github.com/ivuorinen/starred) - Automatically updated list of my starred repos. (1 day ago)
+- [ivuorinen/starred](https://github.com/ivuorinen/starred) - Automatically updated list of my starred repos. (today)
+- [ivuorinen/cheatsheet-tldr](https://github.com/ivuorinen/cheatsheet-tldr) - tldr-pages/tldr pages for cheat/cheat (today)
 - [ivuorinen/renovate-config](https://github.com/ivuorinen/renovate-config) -  (1 day ago)
-- [ivuorinen/cheatsheet-tldr](https://github.com/ivuorinen/cheatsheet-tldr) - tldr-pages/tldr pages for cheat/cheat (2 days ago)
+- [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) - These are my dotfiles. There are many like &#39;em, but these are mine. (1 day ago)
 - [ivuorinen/actions](https://github.com/ivuorinen/actions) - ivuorinen&#39;s shared actions (3 days ago)
 
 #### 👨‍💻 Repositories I created recently
@@ -24,11 +24,11 @@ I'm also a huge fan of open-source, and I try to contribute back to the communit
 
 #### 🚀 Latest releases I've contributed to
 
-- [ivuorinen/actions](https://github.com/ivuorinen/actions) ([v2026.06.18](https://github.com/ivuorinen/actions/releases/tag/v2026.06.18), 1 day ago) - ivuorinen&#39;s shared actions
-- [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) ([26.6.18](https://github.com/ivuorinen/dotfiles/releases/tag/26.6.18), 1 day ago) - These are my dotfiles. There are many like &#39;em, but these are mine.
-- [ivuorinen/base-configs-eslint](https://github.com/ivuorinen/base-configs-eslint) ([v1.1.21](https://github.com/ivuorinen/base-configs-eslint/releases/tag/v1.1.21), 1 day ago) - ivuorinen&#39;s shareable configuration for ESLint.
-- [ivuorinen/base-configs-browserslist](https://github.com/ivuorinen/base-configs-browserslist) ([v1.0.55](https://github.com/ivuorinen/base-configs-browserslist/releases/tag/v1.0.55), 1 day ago) - ivuorinen&#39;s shareable configuration for Browserslist.
-- [ivuorinen/base-configs-prettier](https://github.com/ivuorinen/base-configs-prettier) ([v1.0.38](https://github.com/ivuorinen/base-configs-prettier/releases/tag/v1.0.38), 1 day ago) - ivuorinen&#39;s shareable configuration for Prettier.
+- [ivuorinen/config-checker](https://github.com/ivuorinen/config-checker) ([v2.2.18](https://github.com/ivuorinen/config-checker/releases/tag/v2.2.18), today) - Checks the commonly used configuration locations for configuration files
+- [ivuorinen/base-configs-commitlint](https://github.com/ivuorinen/base-configs-commitlint) ([v1.0.28](https://github.com/ivuorinen/base-configs-commitlint/releases/tag/v1.0.28), today) - ivuorinen&#39;s shareable configuration for commitlint.
+- [ivuorinen/base-configs-browserslist](https://github.com/ivuorinen/base-configs-browserslist) ([v1.0.56](https://github.com/ivuorinen/base-configs-browserslist/releases/tag/v1.0.56), today) - ivuorinen&#39;s shareable configuration for Browserslist.
+- [ivuorinen/base-configs-eslint](https://github.com/ivuorinen/base-configs-eslint) ([v1.1.22](https://github.com/ivuorinen/base-configs-eslint/releases/tag/v1.1.22), today) - ivuorinen&#39;s shareable configuration for ESLint.
+- [ivuorinen/base-configs-prettier](https://github.com/ivuorinen/base-configs-prettier) ([v1.0.39](https://github.com/ivuorinen/base-configs-prettier/releases/tag/v1.0.39), today) - ivuorinen&#39;s shareable configuration for Prettier.
 
 #### ⭐ Recent Stars
 
