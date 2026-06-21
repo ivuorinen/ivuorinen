@@ -8,11 +8,11 @@ I'm also a huge fan of open-source, and I try to contribute back to the communit
 
 #### 👷 Check out what I'm currently working on
 
-- [ivuorinen/starred](https://github.com/ivuorinen/starred) - Automatically updated list of my starred repos. (1 day ago)
-- [ivuorinen/cheatsheet-tldr](https://github.com/ivuorinen/cheatsheet-tldr) - tldr-pages/tldr pages for cheat/cheat (1 day ago)
-- [ivuorinen/renovate-config](https://github.com/ivuorinen/renovate-config) -  (2 days ago)
-- [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) - These are my dotfiles. There are many like &#39;em, but these are mine. (2 days ago)
-- [ivuorinen/actions](https://github.com/ivuorinen/actions) - ivuorinen&#39;s shared actions (4 days ago)
+- [ivuorinen/base-configs-markdownlint](https://github.com/ivuorinen/base-configs-markdownlint) - ivuorinen&#39;s shareable configuration for markdownlint. (1 day ago)
+- [ivuorinen/config-checker](https://github.com/ivuorinen/config-checker) - Checks the commonly used configuration locations for configuration files (1 day ago)
+- [ivuorinen/base-configs-semantic-release](https://github.com/ivuorinen/base-configs-semantic-release) - ivuorinen&#39;s shareable configuration for semantic-release. (1 day ago)
+- [ivuorinen/starred](https://github.com/ivuorinen/starred) - Automatically updated list of my starred repos. (2 days ago)
+- [ivuorinen/cheatsheet-tldr](https://github.com/ivuorinen/cheatsheet-tldr) - tldr-pages/tldr pages for cheat/cheat (2 days ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -24,19 +24,19 @@ I'm also a huge fan of open-source, and I try to contribute back to the communit
 
 #### 🚀 Latest releases I've contributed to
 
-- [ivuorinen/base-configs-eslint](https://github.com/ivuorinen/base-configs-eslint) ([v1.2.1](https://github.com/ivuorinen/base-configs-eslint/releases/tag/v1.2.1), 1 day ago) - ivuorinen&#39;s shareable configuration for ESLint.
-- [ivuorinen/config-checker](https://github.com/ivuorinen/config-checker) ([v2.3.1](https://github.com/ivuorinen/config-checker/releases/tag/v2.3.1), 1 day ago) - Checks the commonly used configuration locations for configuration files
-- [ivuorinen/base-configs-browserslist](https://github.com/ivuorinen/base-configs-browserslist) ([v1.1.1](https://github.com/ivuorinen/base-configs-browserslist/releases/tag/v1.1.1), 1 day ago) - ivuorinen&#39;s shareable configuration for Browserslist.
-- [ivuorinen/base-configs-markdownlint](https://github.com/ivuorinen/base-configs-markdownlint) ([v1.1.0](https://github.com/ivuorinen/base-configs-markdownlint/releases/tag/v1.1.0), 1 day ago) - ivuorinen&#39;s shareable configuration for markdownlint.
-- [ivuorinen/base-configs-prettier](https://github.com/ivuorinen/base-configs-prettier) ([v1.1.0](https://github.com/ivuorinen/base-configs-prettier/releases/tag/v1.1.0), 1 day ago) - ivuorinen&#39;s shareable configuration for Prettier.
+- [ivuorinen/semver-ranger](https://github.com/ivuorinen/semver-ranger) ([v1.0.4](https://github.com/ivuorinen/semver-ranger/releases/tag/v1.0.4), 1 day ago) - Parses your lockfiles to find lower and upper range for requirements
+- [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) ([26.6.20](https://github.com/ivuorinen/dotfiles/releases/tag/26.6.20), 1 day ago) - These are my dotfiles. There are many like &#39;em, but these are mine.
+- [ivuorinen/base-configs-prettier](https://github.com/ivuorinen/base-configs-prettier) ([v1.1.2](https://github.com/ivuorinen/base-configs-prettier/releases/tag/v1.1.2), 1 day ago) - ivuorinen&#39;s shareable configuration for Prettier.
+- [ivuorinen/base-configs-markdownlint](https://github.com/ivuorinen/base-configs-markdownlint) ([v1.1.2](https://github.com/ivuorinen/base-configs-markdownlint/releases/tag/v1.1.2), 1 day ago) - ivuorinen&#39;s shareable configuration for markdownlint.
+- [ivuorinen/base-configs-semantic-release](https://github.com/ivuorinen/base-configs-semantic-release) ([v1.3.2](https://github.com/ivuorinen/base-configs-semantic-release/releases/tag/v1.3.2), 1 day ago) - ivuorinen&#39;s shareable configuration for semantic-release.
 
 #### ⭐ Recent Stars
 
-- [BraveOPotato/FckSignups](https://github.com/BraveOPotato/FckSignups) - A list of tools that are open-source, in-browser, and require no-signups! (5 days ago)
-- [Makisuo/maple](https://github.com/Makisuo/maple) - OpenTelemetry observability platform (5 days ago)
+- [modem-dev/hunk](https://github.com/modem-dev/hunk) - Review-first terminal diff viewer for agentic coders (1 day ago)
+- [BraveOPotato/FckSignups](https://github.com/BraveOPotato/FckSignups) - A list of tools that are open-source, in-browser, and require no-signups! (6 days ago)
+- [Makisuo/maple](https://github.com/Makisuo/maple) - OpenTelemetry observability platform (6 days ago)
 - [ZenNotes/zennotes](https://github.com/ZenNotes/zennotes) - Keyboard-first local Markdown notes with Vim motions, diagrams, and MCP integration. (1 week ago)
 - [HexmosTech/git-lrc](https://github.com/HexmosTech/git-lrc) - Free, Micro AI Code Reviews That Run on Git Commit (1 week ago)
-- [fallow-rs/fallow](https://github.com/fallow-rs/fallow) - Codebase intelligence for TypeScript and JavaScript. Free static layer: unused code, duplication, circular deps, complexity hotspots, architecture boundaries. Optional paid runtime layer: hot-path review and cold-path deletion evidence from real production traffic. Rust-native, sub-second, zero-config framework support. (2 weeks ago)
 
 
 
