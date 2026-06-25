@@ -8,11 +8,11 @@ I'm also a huge fan of open-source, and I try to contribute back to the communit
 
 #### 👷 Check out what I'm currently working on
 
-- [ivuorinen/cheatsheet-tldr](https://github.com/ivuorinen/cheatsheet-tldr) - tldr-pages/tldr pages for cheat/cheat (1 day ago)
-- [ivuorinen/homebrew-tap](https://github.com/ivuorinen/homebrew-tap) - brew tap ivuorinen/tap (1 day ago)
-- [ivuorinen/starred](https://github.com/ivuorinen/starred) - Automatically updated list of my starred repos. (2 days ago)
-- [ivuorinen/base-configs-markdownlint](https://github.com/ivuorinen/base-configs-markdownlint) - ivuorinen&#39;s shareable configuration for markdownlint. (4 days ago)
-- [ivuorinen/config-checker](https://github.com/ivuorinen/config-checker) - Checks the commonly used configuration locations for configuration files (4 days ago)
+- [ivuorinen/shellspec-zed](https://github.com/ivuorinen/shellspec-zed) - Language support for ShellSpec BDD testing framework (today)
+- [ivuorinen/tree-sitter-shellspec](https://github.com/ivuorinen/tree-sitter-shellspec) - Tree-Sitter Definitions for ShellSpec BDD testing framework (today)
+- [ivuorinen/base-configs-commitlint](https://github.com/ivuorinen/base-configs-commitlint) - ivuorinen&#39;s shareable configuration for commitlint. (today)
+- [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) - These are my dotfiles. There are many like &#39;em, but these are mine. (1 day ago)
+- [ivuorinen/starred](https://github.com/ivuorinen/starred) - Automatically updated list of my starred repos. (1 day ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -24,18 +24,18 @@ I'm also a huge fan of open-source, and I try to contribute back to the communit
 
 #### 🚀 Latest releases I've contributed to
 
-- [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) ([26.6.23](https://github.com/ivuorinen/dotfiles/releases/tag/26.6.23), 1 day ago) - These are my dotfiles. There are many like &#39;em, but these are mine.
-- [ivuorinen/base-configs-prettier](https://github.com/ivuorinen/base-configs-prettier) ([v1.1.4](https://github.com/ivuorinen/base-configs-prettier/releases/tag/v1.1.4), 2 days ago) - ivuorinen&#39;s shareable configuration for Prettier.
-- [ivuorinen/semver-ranger](https://github.com/ivuorinen/semver-ranger) ([v1.0.5](https://github.com/ivuorinen/semver-ranger/releases/tag/v1.0.5), 3 days ago) - Parses your lockfiles to find lower and upper range for requirements
-- [ivuorinen/base-configs-markdownlint](https://github.com/ivuorinen/base-configs-markdownlint) ([v1.1.3](https://github.com/ivuorinen/base-configs-markdownlint/releases/tag/v1.1.3), 3 days ago) - ivuorinen&#39;s shareable configuration for markdownlint.
-- [ivuorinen/base-configs-semantic-release](https://github.com/ivuorinen/base-configs-semantic-release) ([v1.3.3](https://github.com/ivuorinen/base-configs-semantic-release/releases/tag/v1.3.3), 3 days ago) - ivuorinen&#39;s shareable configuration for semantic-release.
+- [ivuorinen/base-configs-commitlint](https://github.com/ivuorinen/base-configs-commitlint) ([v1.0.32](https://github.com/ivuorinen/base-configs-commitlint/releases/tag/v1.0.32), today) - ivuorinen&#39;s shareable configuration for commitlint.
+- [ivuorinen/base-configs-prettier](https://github.com/ivuorinen/base-configs-prettier) ([v1.2.0](https://github.com/ivuorinen/base-configs-prettier/releases/tag/v1.2.0), 1 day ago) - ivuorinen&#39;s shareable configuration for Prettier.
+- [ivuorinen/base-configs-eslint](https://github.com/ivuorinen/base-configs-eslint) ([v1.3.0](https://github.com/ivuorinen/base-configs-eslint/releases/tag/v1.3.0), 1 day ago) - ivuorinen&#39;s shareable configuration for ESLint.
+- [ivuorinen/base-configs-stylelint](https://github.com/ivuorinen/base-configs-stylelint) ([v1.2.0](https://github.com/ivuorinen/base-configs-stylelint/releases/tag/v1.2.0), 1 day ago) - ivuorinen&#39;s shareable configuration for stylelint.
+- [ivuorinen/base-configs-browserslist](https://github.com/ivuorinen/base-configs-browserslist) ([v1.2.0](https://github.com/ivuorinen/base-configs-browserslist/releases/tag/v1.2.0), 1 day ago) - ivuorinen&#39;s shareable configuration for Browserslist.
 
 #### ⭐ Recent Stars
 
-- [modem-dev/hunk](https://github.com/modem-dev/hunk) - Review-first terminal diff viewer for agentic coders (4 days ago)
+- [modem-dev/hunk](https://github.com/modem-dev/hunk) - Review-first terminal diff viewer for agentic coders (5 days ago)
 - [BraveOPotato/FckSignups](https://github.com/BraveOPotato/FckSignups) - A list of tools that are open-source, in-browser, and require no-signups! (1 week ago)
 - [Makisuo/maple](https://github.com/Makisuo/maple) - OpenTelemetry observability platform (1 week ago)
-- [ZenNotes/zennotes](https://github.com/ZenNotes/zennotes) - Keyboard-first local Markdown notes with Vim motions, diagrams, and MCP integration. (1 week ago)
+- [ZenNotes/zennotes](https://github.com/ZenNotes/zennotes) - Keyboard-first local Markdown notes with Vim motions, diagrams, and MCP integration. (2 weeks ago)
 - [HexmosTech/git-lrc](https://github.com/HexmosTech/git-lrc) - Free, Micro AI Code Reviews That Run on Git Commit (2 weeks ago)
 
 
