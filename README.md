@@ -8,11 +8,11 @@ I'm also a huge fan of open-source, and I try to contribute back to the communit
 
 #### 👷 Check out what I'm currently working on
 
-- [ivuorinen/cheatsheet-tldr](https://github.com/ivuorinen/cheatsheet-tldr) - tldr-pages/tldr pages for cheat/cheat (today)
-- [ivuorinen/github-actions-runner-setup](https://github.com/ivuorinen/github-actions-runner-setup) - This repository provides ephemeral self-hosted GitHub Actions runners using a GitHub App for registration. (today)
-- [ivuorinen/starred](https://github.com/ivuorinen/starred) - Automatically updated list of my starred repos. (today)
-- [ivuorinen/actions](https://github.com/ivuorinen/actions) - ivuorinen&#39;s shared actions (today)
-- [ivuorinen/a](https://github.com/ivuorinen/a) - A small CLI that encrypts and decrypts files with your SSH keys using the age format (today)
+- [ivuorinen/skills](https://github.com/ivuorinen/skills) - My assortment of Claude Code skills (today)
+- [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) - These are my dotfiles. There are many like &#39;em, but these are mine. (today)
+- [ivuorinen/starred](https://github.com/ivuorinen/starred) - Automatically updated list of my starred repos. (1 day ago)
+- [ivuorinen/actions](https://github.com/ivuorinen/actions) - ivuorinen&#39;s shared actions (1 day ago)
+- [ivuorinen/a](https://github.com/ivuorinen/a) - A small CLI that encrypts and decrypts files with your SSH keys using the age format (1 day ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -24,11 +24,11 @@ I'm also a huge fan of open-source, and I try to contribute back to the communit
 
 #### 🚀 Latest releases I've contributed to
 
-- [ivuorinen/base-configs-browserslist](https://github.com/ivuorinen/base-configs-browserslist) ([v1.2.6](https://github.com/ivuorinen/base-configs-browserslist/releases/tag/v1.2.6), today) - ivuorinen&#39;s shareable configuration for Browserslist.
-- [ivuorinen/actions](https://github.com/ivuorinen/actions) ([v2026.07.03](https://github.com/ivuorinen/actions/releases/tag/v2026.07.03), 1 day ago) - ivuorinen&#39;s shared actions
-- [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) ([26.7.3](https://github.com/ivuorinen/dotfiles/releases/tag/26.7.3), 1 day ago) - These are my dotfiles. There are many like &#39;em, but these are mine.
-- [ivuorinen/semver-ranger](https://github.com/ivuorinen/semver-ranger) ([v1.0.6](https://github.com/ivuorinen/semver-ranger/releases/tag/v1.0.6), 1 day ago) - Parses your lockfiles to find lower and upper range for requirements
-- [ivuorinen/base-configs-semantic-release](https://github.com/ivuorinen/base-configs-semantic-release) ([v1.5.1](https://github.com/ivuorinen/base-configs-semantic-release/releases/tag/v1.5.1), 2 days ago) - ivuorinen&#39;s shareable configuration for semantic-release.
+- [ivuorinen/base-configs-eslint](https://github.com/ivuorinen/base-configs-eslint) ([v1.3.5](https://github.com/ivuorinen/base-configs-eslint/releases/tag/v1.3.5), 1 day ago) - ivuorinen&#39;s shareable configuration for ESLint.
+- [ivuorinen/actions](https://github.com/ivuorinen/actions) ([v2026.07.04](https://github.com/ivuorinen/actions/releases/tag/v2026.07.04), 1 day ago) - ivuorinen&#39;s shared actions
+- [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) ([26.7.4](https://github.com/ivuorinen/dotfiles/releases/tag/26.7.4), 1 day ago) - These are my dotfiles. There are many like &#39;em, but these are mine.
+- [ivuorinen/base-configs-prettier](https://github.com/ivuorinen/base-configs-prettier) ([v1.2.5](https://github.com/ivuorinen/base-configs-prettier/releases/tag/v1.2.5), 1 day ago) - ivuorinen&#39;s shareable configuration for Prettier.
+- [ivuorinen/base-configs-browserslist](https://github.com/ivuorinen/base-configs-browserslist) ([v1.2.6](https://github.com/ivuorinen/base-configs-browserslist/releases/tag/v1.2.6), 1 day ago) - ivuorinen&#39;s shareable configuration for Browserslist.
 
 #### ⭐ Recent Stars
 
