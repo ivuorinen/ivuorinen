@@ -10,7 +10,7 @@ I'm also a huge fan of open-source, and I try to contribute back to the communit
 
 - [ivuorinen/skills](https://github.com/ivuorinen/skills) - My assortment of Claude Code skills (today)
 - [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) - These are my dotfiles. There are many like &#39;em, but these are mine. (today)
-- [ivuorinen/starred](https://github.com/ivuorinen/starred) - Automatically updated list of my starred repos. (1 day ago)
+- [ivuorinen/starred](https://github.com/ivuorinen/starred) - Automatically updated list of my starred repos. (today)
 - [ivuorinen/actions](https://github.com/ivuorinen/actions) - ivuorinen&#39;s shared actions (1 day ago)
 - [ivuorinen/a](https://github.com/ivuorinen/a) - A small CLI that encrypts and decrypts files with your SSH keys using the age format (1 day ago)
 
