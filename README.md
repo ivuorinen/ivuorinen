@@ -11,7 +11,7 @@ I'm also a huge fan of open-source, and I try to contribute back to the communit
 - [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) - These are my dotfiles. There are many like &#39;em, but these are mine. (today)
 - [ivuorinen/starred](https://github.com/ivuorinen/starred) - Automatically updated list of my starred repos. (today)
 - [ivuorinen/skills](https://github.com/ivuorinen/skills) - My assortment of Claude Code skills (today)
-- [ivuorinen/business-data-fetcher](https://github.com/ivuorinen/business-data-fetcher) - PHP composer package API client to Finnish Patent and Registration Office&#39;s (PRH) Business Information System (BIS). (1 day ago)
+- [ivuorinen/github-actions-runner-setup](https://github.com/ivuorinen/github-actions-runner-setup) - This repository provides ephemeral self-hosted GitHub Actions runners using a GitHub App for registration. (1 day ago)
 - [ivuorinen/actions](https://github.com/ivuorinen/actions) - ivuorinen&#39;s shared actions (1 day ago)
 
 #### 👨‍💻 Repositories I created recently
@@ -24,11 +24,11 @@ I'm also a huge fan of open-source, and I try to contribute back to the communit
 
 #### 🚀 Latest releases I've contributed to
 
+- [ivuorinen/skills](https://github.com/ivuorinen/skills) ([ivuorinen-skills-v1.7.0](https://github.com/ivuorinen/skills/releases/tag/ivuorinen-skills-v1.7.0), today) - My assortment of Claude Code skills
 - [ivuorinen/base-configs-eslint](https://github.com/ivuorinen/base-configs-eslint) ([v1.3.5](https://github.com/ivuorinen/base-configs-eslint/releases/tag/v1.3.5), 1 day ago) - ivuorinen&#39;s shareable configuration for ESLint.
 - [ivuorinen/actions](https://github.com/ivuorinen/actions) ([v2026.07.04](https://github.com/ivuorinen/actions/releases/tag/v2026.07.04), 1 day ago) - ivuorinen&#39;s shared actions
 - [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) ([26.7.4](https://github.com/ivuorinen/dotfiles/releases/tag/26.7.4), 1 day ago) - These are my dotfiles. There are many like &#39;em, but these are mine.
 - [ivuorinen/base-configs-prettier](https://github.com/ivuorinen/base-configs-prettier) ([v1.2.5](https://github.com/ivuorinen/base-configs-prettier/releases/tag/v1.2.5), 1 day ago) - ivuorinen&#39;s shareable configuration for Prettier.
-- [ivuorinen/base-configs-browserslist](https://github.com/ivuorinen/base-configs-browserslist) ([v1.2.6](https://github.com/ivuorinen/base-configs-browserslist/releases/tag/v1.2.6), 1 day ago) - ivuorinen&#39;s shareable configuration for Browserslist.
 
 #### ⭐ Recent Stars
 
