@@ -8,11 +8,11 @@ I'm also a huge fan of open-source, and I try to contribute back to the communit
 
 #### 👷 Check out what I'm currently working on
 
-- [ivuorinen/skills](https://github.com/ivuorinen/skills) - My assortment of Claude Code skills (today)
-- [ivuorinen/starred](https://github.com/ivuorinen/starred) - Automatically updated list of my starred repos. (1 day ago)
 - [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) - These are my dotfiles. There are many like &#39;em, but these are mine. (1 day ago)
-- [ivuorinen/github-actions-runner-setup](https://github.com/ivuorinen/github-actions-runner-setup) - This repository provides ephemeral self-hosted GitHub Actions runners using a GitHub App for registration. (2 days ago)
-- [ivuorinen/actions](https://github.com/ivuorinen/actions) - ivuorinen&#39;s shared actions (2 days ago)
+- [ivuorinen/shellspec-zed](https://github.com/ivuorinen/shellspec-zed) - Language support for ShellSpec BDD testing framework (1 day ago)
+- [ivuorinen/base-configs](https://github.com/ivuorinen/base-configs) - meta package for my linting configurations (1 day ago)
+- [ivuorinen/base-configs-commitlint](https://github.com/ivuorinen/base-configs-commitlint) - ivuorinen&#39;s shareable configuration for commitlint. (1 day ago)
+- [ivuorinen/skills](https://github.com/ivuorinen/skills) - My assortment of Claude Code skills (1 day ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -24,19 +24,19 @@ I'm also a huge fan of open-source, and I try to contribute back to the communit
 
 #### 🚀 Latest releases I've contributed to
 
-- [ivuorinen/skills](https://github.com/ivuorinen/skills) ([ivuorinen-skills-v1.7.2](https://github.com/ivuorinen/skills/releases/tag/ivuorinen-skills-v1.7.2), today) - My assortment of Claude Code skills
-- [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) ([26.7.5](https://github.com/ivuorinen/dotfiles/releases/tag/26.7.5), 1 day ago) - These are my dotfiles. There are many like &#39;em, but these are mine.
-- [ivuorinen/base-configs-eslint](https://github.com/ivuorinen/base-configs-eslint) ([v1.3.5](https://github.com/ivuorinen/base-configs-eslint/releases/tag/v1.3.5), 2 days ago) - ivuorinen&#39;s shareable configuration for ESLint.
-- [ivuorinen/actions](https://github.com/ivuorinen/actions) ([v2026.07.04](https://github.com/ivuorinen/actions/releases/tag/v2026.07.04), 2 days ago) - ivuorinen&#39;s shared actions
-- [ivuorinen/base-configs-prettier](https://github.com/ivuorinen/base-configs-prettier) ([v1.2.5](https://github.com/ivuorinen/base-configs-prettier/releases/tag/v1.2.5), 2 days ago) - ivuorinen&#39;s shareable configuration for Prettier.
+- [ivuorinen/actions](https://github.com/ivuorinen/actions) ([v2026.07.06](https://github.com/ivuorinen/actions/releases/tag/v2026.07.06), 1 day ago) - ivuorinen&#39;s shared actions
+- [ivuorinen/base-configs](https://github.com/ivuorinen/base-configs) ([v1.2.2](https://github.com/ivuorinen/base-configs/releases/tag/v1.2.2), 1 day ago) - meta package for my linting configurations
+- [ivuorinen/base-configs-commitlint](https://github.com/ivuorinen/base-configs-commitlint) ([v1.0.37](https://github.com/ivuorinen/base-configs-commitlint/releases/tag/v1.0.37), 1 day ago) - ivuorinen&#39;s shareable configuration for commitlint.
+- [ivuorinen/base-configs-markdownlint](https://github.com/ivuorinen/base-configs-markdownlint) ([v1.2.3](https://github.com/ivuorinen/base-configs-markdownlint/releases/tag/v1.2.3), 1 day ago) - ivuorinen&#39;s shareable configuration for markdownlint.
+- [ivuorinen/base-configs-browserslist](https://github.com/ivuorinen/base-configs-browserslist) ([v1.2.7](https://github.com/ivuorinen/base-configs-browserslist/releases/tag/v1.2.7), 1 day ago) - ivuorinen&#39;s shareable configuration for Browserslist.
 
 #### ⭐ Recent Stars
 
+- [intellectronica/mdbasequery](https://github.com/intellectronica/mdbasequery) - CLI and library for querying Markdown-Frontmatter bases (Obsidian-compatible). (1 day ago)
 - [modem-dev/hunk](https://github.com/modem-dev/hunk) - Review-first terminal diff viewer for agentic coders (2 weeks ago)
 - [BraveOPotato/FckSignups](https://github.com/BraveOPotato/FckSignups) - A list of tools that are open-source, in-browser, and require no-signups! (3 weeks ago)
 - [MapleTechLabs/maple](https://github.com/MapleTechLabs/maple) - OpenTelemetry observability platform (3 weeks ago)
 - [ZenNotes/zennotes](https://github.com/ZenNotes/zennotes) - Keyboard-first local Markdown notes with Vim motions, diagrams, and MCP integration. (3 weeks ago)
-- [HexmosTech/git-lrc](https://github.com/HexmosTech/git-lrc) - Free, Micro AI Code Reviews That Run on Git Commit (3 weeks ago)
 
 
 
