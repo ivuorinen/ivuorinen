@@ -8,11 +8,11 @@ I'm also a huge fan of open-source, and I try to contribute back to the communit
 
 #### 👷 Check out what I'm currently working on
 
-- [ivuorinen/base-configs-stylelint](https://github.com/ivuorinen/base-configs-stylelint) - ivuorinen&#39;s shareable configuration for stylelint. (today)
-- [ivuorinen/base-configs-prettier](https://github.com/ivuorinen/base-configs-prettier) - ivuorinen&#39;s shareable configuration for Prettier. (today)
-- [ivuorinen/phpenv.fish](https://github.com/ivuorinen/phpenv.fish) - A fast, feature-rich PHP version manager for Fish Shell using brew that acts like goenv or nvm. (1 day ago)
-- [ivuorinen/cheatsheet-tldr](https://github.com/ivuorinen/cheatsheet-tldr) - tldr-pages/tldr pages for cheat/cheat (2 days ago)
-- [ivuorinen/starred](https://github.com/ivuorinen/starred) - Automatically updated list of my starred repos. (2 days ago)
+- [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) - These are my dotfiles. There are many like &#39;em, but these are mine. (1 day ago)
+- [ivuorinen/cheatsheet-tldr](https://github.com/ivuorinen/cheatsheet-tldr) - tldr-pages/tldr pages for cheat/cheat (1 day ago)
+- [ivuorinen/starred](https://github.com/ivuorinen/starred) - Automatically updated list of my starred repos. (1 day ago)
+- [ivuorinen/base-configs-stylelint](https://github.com/ivuorinen/base-configs-stylelint) - ivuorinen&#39;s shareable configuration for stylelint. (1 day ago)
+- [ivuorinen/base-configs-prettier](https://github.com/ivuorinen/base-configs-prettier) - ivuorinen&#39;s shareable configuration for Prettier. (1 day ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -24,18 +24,18 @@ I'm also a huge fan of open-source, and I try to contribute back to the communit
 
 #### 🚀 Latest releases I've contributed to
 
-- [ivuorinen/base-configs-stylelint](https://github.com/ivuorinen/base-configs-stylelint) ([v1.2.3](https://github.com/ivuorinen/base-configs-stylelint/releases/tag/v1.2.3), today) - ivuorinen&#39;s shareable configuration for stylelint.
-- [ivuorinen/base-configs-prettier](https://github.com/ivuorinen/base-configs-prettier) ([v1.2.6](https://github.com/ivuorinen/base-configs-prettier/releases/tag/v1.2.6), today) - ivuorinen&#39;s shareable configuration for Prettier.
-- [ivuorinen/base-configs-eslint](https://github.com/ivuorinen/base-configs-eslint) ([v1.3.6](https://github.com/ivuorinen/base-configs-eslint/releases/tag/v1.3.6), today) - ivuorinen&#39;s shareable configuration for ESLint.
-- [ivuorinen/skills](https://github.com/ivuorinen/skills) ([ivuorinen-skills-v1.8.0](https://github.com/ivuorinen/skills/releases/tag/ivuorinen-skills-v1.8.0), 1 day ago) - My assortment of Claude Code skills
-- [ivuorinen/semver-ranger](https://github.com/ivuorinen/semver-ranger) ([v1.0.8](https://github.com/ivuorinen/semver-ranger/releases/tag/v1.0.8), 1 day ago) - Parses your lockfiles to find lower and upper range for requirements
+- [ivuorinen/base-configs-eslint](https://github.com/ivuorinen/base-configs-eslint) ([v1.3.7](https://github.com/ivuorinen/base-configs-eslint/releases/tag/v1.3.7), 1 day ago) - ivuorinen&#39;s shareable configuration for ESLint.
+- [ivuorinen/base-configs-semantic-release](https://github.com/ivuorinen/base-configs-semantic-release) ([v1.5.2](https://github.com/ivuorinen/base-configs-semantic-release/releases/tag/v1.5.2), 1 day ago) - ivuorinen&#39;s shareable configuration for semantic-release.
+- [ivuorinen/config-checker](https://github.com/ivuorinen/config-checker) ([v2.5.1](https://github.com/ivuorinen/config-checker/releases/tag/v2.5.1), 1 day ago) - Checks the commonly used configuration locations for configuration files
+- [ivuorinen/base-configs-browserslist](https://github.com/ivuorinen/base-configs-browserslist) ([v1.2.8](https://github.com/ivuorinen/base-configs-browserslist/releases/tag/v1.2.8), 1 day ago) - ivuorinen&#39;s shareable configuration for Browserslist.
+- [ivuorinen/base-configs-stylelint](https://github.com/ivuorinen/base-configs-stylelint) ([v1.2.3](https://github.com/ivuorinen/base-configs-stylelint/releases/tag/v1.2.3), 1 day ago) - ivuorinen&#39;s shareable configuration for stylelint.
 
 #### ⭐ Recent Stars
 
-- [ivuorinen/sonarqube](https://github.com/ivuorinen/sonarqube) -  (1 day ago)
-- [kopia/kopia](https://github.com/kopia/kopia) - Cross-platform backup tool for Windows, macOS &amp; Linux with fast, incremental backups, client-side end-to-end encryption, compression and data deduplication. CLI and GUI included. (1 day ago)
-- [wouterdebie/davit](https://github.com/wouterdebie/davit) - A native macOS UI for Apple&#39;s platform (1 day ago)
-- [intellectronica/mdbasequery](https://github.com/intellectronica/mdbasequery) - CLI and library for querying Markdown-Frontmatter bases (Obsidian-compatible). (3 days ago)
+- [ivuorinen/sonarqube](https://github.com/ivuorinen/sonarqube) -  (2 days ago)
+- [kopia/kopia](https://github.com/kopia/kopia) - Cross-platform backup tool for Windows, macOS &amp; Linux with fast, incremental backups, client-side end-to-end encryption, compression and data deduplication. CLI and GUI included. (2 days ago)
+- [wouterdebie/davit](https://github.com/wouterdebie/davit) - A native macOS UI for Apple&#39;s platform (2 days ago)
+- [intellectronica/mdbasequery](https://github.com/intellectronica/mdbasequery) - CLI and library for querying Markdown-Frontmatter bases (Obsidian-compatible). (4 days ago)
 - [modem-dev/hunk](https://github.com/modem-dev/hunk) - Review-first terminal diff viewer for agentic coders (2 weeks ago)
 
 
