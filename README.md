@@ -8,11 +8,11 @@ I'm also a huge fan of open-source, and I try to contribute back to the communit
 
 #### 👷 Check out what I'm currently working on
 
-- [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) - These are my dotfiles. There are many like &#39;em, but these are mine. (1 day ago)
+- [ivuorinen/skills](https://github.com/ivuorinen/skills) - My assortment of Claude Code skills (1 day ago)
 - [ivuorinen/cheatsheet-tldr](https://github.com/ivuorinen/cheatsheet-tldr) - tldr-pages/tldr pages for cheat/cheat (1 day ago)
 - [ivuorinen/starred](https://github.com/ivuorinen/starred) - Automatically updated list of my starred repos. (1 day ago)
-- [ivuorinen/base-configs-stylelint](https://github.com/ivuorinen/base-configs-stylelint) - ivuorinen&#39;s shareable configuration for stylelint. (1 day ago)
-- [ivuorinen/base-configs-prettier](https://github.com/ivuorinen/base-configs-prettier) - ivuorinen&#39;s shareable configuration for Prettier. (1 day ago)
+- [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) - These are my dotfiles. There are many like &#39;em, but these are mine. (1 day ago)
+- [ivuorinen/base-configs-stylelint](https://github.com/ivuorinen/base-configs-stylelint) - ivuorinen&#39;s shareable configuration for stylelint. (2 days ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -24,19 +24,19 @@ I'm also a huge fan of open-source, and I try to contribute back to the communit
 
 #### 🚀 Latest releases I've contributed to
 
-- [ivuorinen/base-configs-eslint](https://github.com/ivuorinen/base-configs-eslint) ([v1.3.7](https://github.com/ivuorinen/base-configs-eslint/releases/tag/v1.3.7), 1 day ago) - ivuorinen&#39;s shareable configuration for ESLint.
-- [ivuorinen/base-configs-semantic-release](https://github.com/ivuorinen/base-configs-semantic-release) ([v1.5.2](https://github.com/ivuorinen/base-configs-semantic-release/releases/tag/v1.5.2), 1 day ago) - ivuorinen&#39;s shareable configuration for semantic-release.
-- [ivuorinen/config-checker](https://github.com/ivuorinen/config-checker) ([v2.5.1](https://github.com/ivuorinen/config-checker/releases/tag/v2.5.1), 1 day ago) - Checks the commonly used configuration locations for configuration files
-- [ivuorinen/base-configs-browserslist](https://github.com/ivuorinen/base-configs-browserslist) ([v1.2.8](https://github.com/ivuorinen/base-configs-browserslist/releases/tag/v1.2.8), 1 day ago) - ivuorinen&#39;s shareable configuration for Browserslist.
-- [ivuorinen/base-configs-stylelint](https://github.com/ivuorinen/base-configs-stylelint) ([v1.2.3](https://github.com/ivuorinen/base-configs-stylelint/releases/tag/v1.2.3), 1 day ago) - ivuorinen&#39;s shareable configuration for stylelint.
+- [ivuorinen/skills](https://github.com/ivuorinen/skills) ([ivuorinen-skills-v2.0.0](https://github.com/ivuorinen/skills/releases/tag/ivuorinen-skills-v2.0.0), 1 day ago) - My assortment of Claude Code skills
+- [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) ([26.7.10](https://github.com/ivuorinen/dotfiles/releases/tag/26.7.10), 1 day ago) - These are my dotfiles. There are many like &#39;em, but these are mine.
+- [ivuorinen/base-configs-commitlint](https://github.com/ivuorinen/base-configs-commitlint) ([v1.0.38](https://github.com/ivuorinen/base-configs-commitlint/releases/tag/v1.0.38), 1 day ago) - ivuorinen&#39;s shareable configuration for commitlint.
+- [ivuorinen/base-configs](https://github.com/ivuorinen/base-configs) ([v1.2.3](https://github.com/ivuorinen/base-configs/releases/tag/v1.2.3), 1 day ago) - meta package for my linting configurations
+- [ivuorinen/base-configs-eslint](https://github.com/ivuorinen/base-configs-eslint) ([v1.3.7](https://github.com/ivuorinen/base-configs-eslint/releases/tag/v1.3.7), 2 days ago) - ivuorinen&#39;s shareable configuration for ESLint.
 
 #### ⭐ Recent Stars
 
-- [ivuorinen/sonarqube](https://github.com/ivuorinen/sonarqube) -  (2 days ago)
-- [kopia/kopia](https://github.com/kopia/kopia) - Cross-platform backup tool for Windows, macOS &amp; Linux with fast, incremental backups, client-side end-to-end encryption, compression and data deduplication. CLI and GUI included. (2 days ago)
-- [wouterdebie/davit](https://github.com/wouterdebie/davit) - A native macOS UI for Apple&#39;s platform (2 days ago)
-- [intellectronica/mdbasequery](https://github.com/intellectronica/mdbasequery) - CLI and library for querying Markdown-Frontmatter bases (Obsidian-compatible). (4 days ago)
-- [modem-dev/hunk](https://github.com/modem-dev/hunk) - Review-first terminal diff viewer for agentic coders (2 weeks ago)
+- [ivuorinen/sonarqube](https://github.com/ivuorinen/sonarqube) -  (3 days ago)
+- [kopia/kopia](https://github.com/kopia/kopia) - Cross-platform backup tool for Windows, macOS &amp; Linux with fast, incremental backups, client-side end-to-end encryption, compression and data deduplication. CLI and GUI included. (3 days ago)
+- [wouterdebie/davit](https://github.com/wouterdebie/davit) - A native macOS UI for Apple&#39;s platform (3 days ago)
+- [intellectronica/mdbasequery](https://github.com/intellectronica/mdbasequery) - CLI and library for querying Markdown-Frontmatter bases (Obsidian-compatible). (5 days ago)
+- [modem-dev/hunk](https://github.com/modem-dev/hunk) - Review-first terminal diff viewer for agentic coders (3 weeks ago)
 
 
 
