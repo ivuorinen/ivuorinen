@@ -10,9 +10,9 @@ I'm also a huge fan of open-source, and I try to contribute back to the communit
 
 - [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) - These are my dotfiles. There are many like &#39;em, but these are mine. (1 day ago)
 - [ivuorinen/cheatsheet-tldr](https://github.com/ivuorinen/cheatsheet-tldr) - tldr-pages/tldr pages for cheat/cheat (1 day ago)
-- [ivuorinen/starred](https://github.com/ivuorinen/starred) - Automatically updated list of my starred repos. (1 day ago)
-- [ivuorinen/skills](https://github.com/ivuorinen/skills) - My assortment of Claude Code skills (2 days ago)
-- [ivuorinen/base-configs-stylelint](https://github.com/ivuorinen/base-configs-stylelint) - ivuorinen&#39;s shareable configuration for stylelint. (4 days ago)
+- [ivuorinen/renovate-config](https://github.com/ivuorinen/renovate-config) -  (1 day ago)
+- [ivuorinen/gh-action-readme](https://github.com/ivuorinen/gh-action-readme) - Transform your GitHub Actions into professional documentation with multiple themes, output formats, and enterprise-grade features. (1 day ago)
+- [ivuorinen/skills](https://github.com/ivuorinen/skills) - My assortment of Claude Code skills (1 day ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -24,19 +24,19 @@ I'm also a huge fan of open-source, and I try to contribute back to the communit
 
 #### 🚀 Latest releases I've contributed to
 
-- [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) ([26.7.12](https://github.com/ivuorinen/dotfiles/releases/tag/26.7.12), 1 day ago) - These are my dotfiles. There are many like &#39;em, but these are mine.
-- [ivuorinen/actions](https://github.com/ivuorinen/actions) ([v2026.07.11](https://github.com/ivuorinen/actions/releases/tag/v2026.07.11), 2 days ago) - ivuorinen&#39;s shared actions
-- [ivuorinen/base-configs-browserslist](https://github.com/ivuorinen/base-configs-browserslist) ([v1.2.9](https://github.com/ivuorinen/base-configs-browserslist/releases/tag/v1.2.9), 2 days ago) - ivuorinen&#39;s shareable configuration for Browserslist.
-- [ivuorinen/config-checker](https://github.com/ivuorinen/config-checker) ([v2.5.2](https://github.com/ivuorinen/config-checker/releases/tag/v2.5.2), 2 days ago) - Checks the commonly used configuration locations for configuration files
-- [ivuorinen/base-configs-prettier](https://github.com/ivuorinen/base-configs-prettier) ([v1.2.7](https://github.com/ivuorinen/base-configs-prettier/releases/tag/v1.2.7), 2 days ago) - ivuorinen&#39;s shareable configuration for Prettier.
+- [ivuorinen/actions](https://github.com/ivuorinen/actions) ([v2026.07.13](https://github.com/ivuorinen/actions/releases/tag/v2026.07.13), 1 day ago) - ivuorinen&#39;s shared actions
+- [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) ([26.7.13](https://github.com/ivuorinen/dotfiles/releases/tag/26.7.13), 1 day ago) - These are my dotfiles. There are many like &#39;em, but these are mine.
+- [ivuorinen/base-configs-markdownlint](https://github.com/ivuorinen/base-configs-markdownlint) ([v1.2.4](https://github.com/ivuorinen/base-configs-markdownlint/releases/tag/v1.2.4), 1 day ago) - ivuorinen&#39;s shareable configuration for markdownlint.
+- [ivuorinen/base-configs-eslint](https://github.com/ivuorinen/base-configs-eslint) ([v1.3.9](https://github.com/ivuorinen/base-configs-eslint/releases/tag/v1.3.9), 1 day ago) - ivuorinen&#39;s shareable configuration for ESLint.
+- [ivuorinen/base-configs](https://github.com/ivuorinen/base-configs) ([v1.2.4](https://github.com/ivuorinen/base-configs/releases/tag/v1.2.4), 1 day ago) - meta package for my linting configurations
 
 #### ⭐ Recent Stars
 
-- [ivuorinen/sonarqube](https://github.com/ivuorinen/sonarqube) -  (5 days ago)
-- [kopia/kopia](https://github.com/kopia/kopia) - Cross-platform backup tool for Windows, macOS &amp; Linux with fast, incremental backups, client-side end-to-end encryption, compression and data deduplication. CLI and GUI included. (5 days ago)
-- [wouterdebie/davit](https://github.com/wouterdebie/davit) - A native macOS UI for Apple&#39;s platform (5 days ago)
-- [intellectronica/mdbasequery](https://github.com/intellectronica/mdbasequery) - CLI and library for querying Markdown-Frontmatter bases (Obsidian-compatible). (1 week ago)
-- [modem-dev/hunk](https://github.com/modem-dev/hunk) - Review-first terminal diff viewer for agentic coders (3 weeks ago)
+- [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) - AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable knowledge graph. App code &#43; database schema &#43; infrastructure in one graph. (1 day ago)
+- [pbakaus/impeccable](https://github.com/pbakaus/impeccable) - The design language that makes your AI harness better at design. (1 day ago)
+- [Fission-AI/OpenSpec](https://github.com/Fission-AI/OpenSpec) - Spec-driven development (SDD) for AI coding assistants. (1 day ago)
+- [updatecli/updatecli](https://github.com/updatecli/updatecli) - A Declarative Update Policy Engine (1 day ago)
+- [ivuorinen/sonarqube](https://github.com/ivuorinen/sonarqube) -  (6 days ago)
 
 
 
