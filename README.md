@@ -24,11 +24,11 @@ I'm also a huge fan of open-source, and I try to contribute back to the communit
 
 #### 🚀 Latest releases I've contributed to
 
-- [ivuorinen/base-configs-markdownlint](https://github.com/ivuorinen/base-configs-markdownlint) ([v1.3.4](https://github.com/ivuorinen/base-configs-markdownlint/releases/tag/v1.3.4), today) - ivuorinen&#39;s shareable configuration for markdownlint.
-- [ivuorinen/config-checker](https://github.com/ivuorinen/config-checker) ([v2.5.7](https://github.com/ivuorinen/config-checker/releases/tag/v2.5.7), today) - Checks the commonly used configuration locations for configuration files
-- [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) ([26.7.21](https://github.com/ivuorinen/dotfiles/releases/tag/26.7.21), today) - These are my dotfiles. There are many like &#39;em, but these are mine.
-- [ivuorinen/base-configs-semantic-release](https://github.com/ivuorinen/base-configs-semantic-release) ([v1.6.1](https://github.com/ivuorinen/base-configs-semantic-release/releases/tag/v1.6.1), 1 day ago) - ivuorinen&#39;s shareable configuration for semantic-release.
-- [ivuorinen/base-configs-commitlint](https://github.com/ivuorinen/base-configs-commitlint) ([v1.0.40](https://github.com/ivuorinen/base-configs-commitlint/releases/tag/v1.0.40), 1 day ago) - ivuorinen&#39;s shareable configuration for commitlint.
+- [ivuorinen/base-configs-prettier](https://github.com/ivuorinen/base-configs-prettier) ([v1.3.2](https://github.com/ivuorinen/base-configs-prettier/releases/tag/v1.3.2), today) - ivuorinen&#39;s shareable configuration for Prettier.
+- [ivuorinen/base-configs-stylelint](https://github.com/ivuorinen/base-configs-stylelint) ([v1.3.3](https://github.com/ivuorinen/base-configs-stylelint/releases/tag/v1.3.3), today) - ivuorinen&#39;s shareable configuration for stylelint.
+- [ivuorinen/base-configs-commitlint](https://github.com/ivuorinen/base-configs-commitlint) ([v1.0.41](https://github.com/ivuorinen/base-configs-commitlint/releases/tag/v1.0.41), today) - ivuorinen&#39;s shareable configuration for commitlint.
+- [ivuorinen/base-configs-semantic-release](https://github.com/ivuorinen/base-configs-semantic-release) ([v1.6.2](https://github.com/ivuorinen/base-configs-semantic-release/releases/tag/v1.6.2), today) - ivuorinen&#39;s shareable configuration for semantic-release.
+- [ivuorinen/base-configs-browserslist](https://github.com/ivuorinen/base-configs-browserslist) ([v1.2.14](https://github.com/ivuorinen/base-configs-browserslist/releases/tag/v1.2.14), today) - ivuorinen&#39;s shareable configuration for Browserslist.
 
 #### ⭐ Recent Stars
 
