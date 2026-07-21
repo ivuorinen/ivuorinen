@@ -24,11 +24,11 @@ I'm also a huge fan of open-source, and I try to contribute back to the communit
 
 #### 🚀 Latest releases I've contributed to
 
+- [ivuorinen/base-configs-commitlint](https://github.com/ivuorinen/base-configs-commitlint) ([v1.0.42](https://github.com/ivuorinen/base-configs-commitlint/releases/tag/v1.0.42), today) - ivuorinen&#39;s shareable configuration for commitlint.
 - [ivuorinen/base-configs-browserslist](https://github.com/ivuorinen/base-configs-browserslist) ([v1.2.16](https://github.com/ivuorinen/base-configs-browserslist/releases/tag/v1.2.16), today) - ivuorinen&#39;s shareable configuration for Browserslist.
 - [ivuorinen/base-configs-semantic-release](https://github.com/ivuorinen/base-configs-semantic-release) ([v1.6.3](https://github.com/ivuorinen/base-configs-semantic-release/releases/tag/v1.6.3), today) - ivuorinen&#39;s shareable configuration for semantic-release.
 - [ivuorinen/base-configs-stylelint](https://github.com/ivuorinen/base-configs-stylelint) ([v1.3.4](https://github.com/ivuorinen/base-configs-stylelint/releases/tag/v1.3.4), today) - ivuorinen&#39;s shareable configuration for stylelint.
 - [ivuorinen/base-configs-prettier](https://github.com/ivuorinen/base-configs-prettier) ([v1.3.2](https://github.com/ivuorinen/base-configs-prettier/releases/tag/v1.3.2), today) - ivuorinen&#39;s shareable configuration for Prettier.
-- [ivuorinen/base-configs-commitlint](https://github.com/ivuorinen/base-configs-commitlint) ([v1.0.41](https://github.com/ivuorinen/base-configs-commitlint/releases/tag/v1.0.41), today) - ivuorinen&#39;s shareable configuration for commitlint.
 
 #### ⭐ Recent Stars
 
