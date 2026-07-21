@@ -8,11 +8,11 @@ I'm also a huge fan of open-source, and I try to contribute back to the communit
 
 #### 👷 Check out what I'm currently working on
 
-- [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) - These are my dotfiles. There are many like &#39;em, but these are mine. (1 day ago)
-- [ivuorinen/cheatsheet-tldr](https://github.com/ivuorinen/cheatsheet-tldr) - tldr-pages/tldr pages for cheat/cheat (1 day ago)
-- [ivuorinen/starred](https://github.com/ivuorinen/starred) - Automatically updated list of my starred repos. (1 day ago)
-- [ivuorinen/gh-history](https://github.com/ivuorinen/gh-history) - GitHub CLI history command (1 day ago)
-- [ivuorinen/gh-calver](https://github.com/ivuorinen/gh-calver) - GitHub CLI calver command (1 day ago)
+- [ivuorinen/homebrew-tap](https://github.com/ivuorinen/homebrew-tap) - brew tap ivuorinen/tap (today)
+- [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) - These are my dotfiles. There are many like &#39;em, but these are mine. (today)
+- [ivuorinen/gh-action-readme](https://github.com/ivuorinen/gh-action-readme) - Transform your GitHub Actions into professional documentation with multiple themes, output formats, and enterprise-grade features. (today)
+- [ivuorinen/skills](https://github.com/ivuorinen/skills) - My assortment of Claude Code skills (today)
+- [ivuorinen/f2b](https://github.com/ivuorinen/f2b) - A modern, secure, and extensible Go CLI tool for managing Fail2Ban jails and bans (today)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -24,19 +24,19 @@ I'm also a huge fan of open-source, and I try to contribute back to the communit
 
 #### 🚀 Latest releases I've contributed to
 
-- [ivuorinen/actions](https://github.com/ivuorinen/actions) ([v2026.07.15](https://github.com/ivuorinen/actions/releases/tag/v2026.07.15), 1 day ago) - ivuorinen&#39;s shared actions
-- [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) ([26.7.15](https://github.com/ivuorinen/dotfiles/releases/tag/26.7.15), 1 day ago) - These are my dotfiles. There are many like &#39;em, but these are mine.
-- [ivuorinen/base-configs-browserslist](https://github.com/ivuorinen/base-configs-browserslist) ([v1.2.11](https://github.com/ivuorinen/base-configs-browserslist/releases/tag/v1.2.11), 1 day ago) - ivuorinen&#39;s shareable configuration for Browserslist.
-- [ivuorinen/base-configs-markdownlint](https://github.com/ivuorinen/base-configs-markdownlint) ([v1.2.4](https://github.com/ivuorinen/base-configs-markdownlint/releases/tag/v1.2.4), 3 days ago) - ivuorinen&#39;s shareable configuration for markdownlint.
-- [ivuorinen/base-configs-eslint](https://github.com/ivuorinen/base-configs-eslint) ([v1.3.9](https://github.com/ivuorinen/base-configs-eslint/releases/tag/v1.3.9), 3 days ago) - ivuorinen&#39;s shareable configuration for ESLint.
+- [ivuorinen/base-configs-markdownlint](https://github.com/ivuorinen/base-configs-markdownlint) ([v1.3.4](https://github.com/ivuorinen/base-configs-markdownlint/releases/tag/v1.3.4), today) - ivuorinen&#39;s shareable configuration for markdownlint.
+- [ivuorinen/config-checker](https://github.com/ivuorinen/config-checker) ([v2.5.7](https://github.com/ivuorinen/config-checker/releases/tag/v2.5.7), today) - Checks the commonly used configuration locations for configuration files
+- [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) ([26.7.21](https://github.com/ivuorinen/dotfiles/releases/tag/26.7.21), today) - These are my dotfiles. There are many like &#39;em, but these are mine.
+- [ivuorinen/base-configs-semantic-release](https://github.com/ivuorinen/base-configs-semantic-release) ([v1.6.1](https://github.com/ivuorinen/base-configs-semantic-release/releases/tag/v1.6.1), 1 day ago) - ivuorinen&#39;s shareable configuration for semantic-release.
+- [ivuorinen/base-configs-commitlint](https://github.com/ivuorinen/base-configs-commitlint) ([v1.0.40](https://github.com/ivuorinen/base-configs-commitlint/releases/tag/v1.0.40), 1 day ago) - ivuorinen&#39;s shareable configuration for commitlint.
 
 #### ⭐ Recent Stars
 
-- [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) - AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable knowledge graph. App code &#43; database schema &#43; infrastructure in one graph. (3 days ago)
-- [pbakaus/impeccable](https://github.com/pbakaus/impeccable) - The design language that makes your AI harness better at design. (3 days ago)
-- [Fission-AI/OpenSpec](https://github.com/Fission-AI/OpenSpec) - Spec-driven development (SDD) for AI coding assistants. (3 days ago)
-- [updatecli/updatecli](https://github.com/updatecli/updatecli) - A Declarative Update Policy Engine (3 days ago)
-- [ivuorinen/sonarqube](https://github.com/ivuorinen/sonarqube) -  (1 week ago)
+- [google/go-licenses](https://github.com/google/go-licenses) - A lightweight tool to report on the licenses used by a Go package and its dependencies. Highlight! Versioned external URL to licenses can be found at the same time. (4 days ago)
+- [jdx/hk](https://github.com/jdx/hk) - git hooks and project lints (5 days ago)
+- [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) - Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store. (1 week ago)
+- [pbakaus/impeccable](https://github.com/pbakaus/impeccable) - The design language that makes your AI harness better at design. (1 week ago)
+- [Fission-AI/OpenSpec](https://github.com/Fission-AI/OpenSpec) - Spec-driven development (SDD) for AI coding assistants. (1 week ago)
 
 
 
