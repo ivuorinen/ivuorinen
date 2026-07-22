@@ -24,16 +24,16 @@ I'm also a huge fan of open-source, and I try to contribute back to the communit
 
 #### 🚀 Latest releases I've contributed to
 
-- [ivuorinen/base-configs-commitlint](https://github.com/ivuorinen/base-configs-commitlint) ([v1.0.42](https://github.com/ivuorinen/base-configs-commitlint/releases/tag/v1.0.42), today) - ivuorinen&#39;s shareable configuration for commitlint.
-- [ivuorinen/base-configs-browserslist](https://github.com/ivuorinen/base-configs-browserslist) ([v1.2.16](https://github.com/ivuorinen/base-configs-browserslist/releases/tag/v1.2.16), today) - ivuorinen&#39;s shareable configuration for Browserslist.
-- [ivuorinen/base-configs-semantic-release](https://github.com/ivuorinen/base-configs-semantic-release) ([v1.6.3](https://github.com/ivuorinen/base-configs-semantic-release/releases/tag/v1.6.3), today) - ivuorinen&#39;s shareable configuration for semantic-release.
-- [ivuorinen/base-configs-stylelint](https://github.com/ivuorinen/base-configs-stylelint) ([v1.3.4](https://github.com/ivuorinen/base-configs-stylelint/releases/tag/v1.3.4), today) - ivuorinen&#39;s shareable configuration for stylelint.
-- [ivuorinen/base-configs-prettier](https://github.com/ivuorinen/base-configs-prettier) ([v1.3.2](https://github.com/ivuorinen/base-configs-prettier/releases/tag/v1.3.2), today) - ivuorinen&#39;s shareable configuration for Prettier.
+- [ivuorinen/base-configs-commitlint](https://github.com/ivuorinen/base-configs-commitlint) ([v1.0.42](https://github.com/ivuorinen/base-configs-commitlint/releases/tag/v1.0.42), 1 day ago) - ivuorinen&#39;s shareable configuration for commitlint.
+- [ivuorinen/base-configs-browserslist](https://github.com/ivuorinen/base-configs-browserslist) ([v1.2.16](https://github.com/ivuorinen/base-configs-browserslist/releases/tag/v1.2.16), 1 day ago) - ivuorinen&#39;s shareable configuration for Browserslist.
+- [ivuorinen/base-configs-semantic-release](https://github.com/ivuorinen/base-configs-semantic-release) ([v1.6.3](https://github.com/ivuorinen/base-configs-semantic-release/releases/tag/v1.6.3), 1 day ago) - ivuorinen&#39;s shareable configuration for semantic-release.
+- [ivuorinen/base-configs-stylelint](https://github.com/ivuorinen/base-configs-stylelint) ([v1.3.4](https://github.com/ivuorinen/base-configs-stylelint/releases/tag/v1.3.4), 1 day ago) - ivuorinen&#39;s shareable configuration for stylelint.
+- [ivuorinen/base-configs-prettier](https://github.com/ivuorinen/base-configs-prettier) ([v1.3.2](https://github.com/ivuorinen/base-configs-prettier/releases/tag/v1.3.2), 1 day ago) - ivuorinen&#39;s shareable configuration for Prettier.
 
 #### ⭐ Recent Stars
 
-- [google/go-licenses](https://github.com/google/go-licenses) - A lightweight tool to report on the licenses used by a Go package and its dependencies. Highlight! Versioned external URL to licenses can be found at the same time. (4 days ago)
-- [jdx/hk](https://github.com/jdx/hk) - git hooks and project lints (5 days ago)
+- [google/go-licenses](https://github.com/google/go-licenses) - A lightweight tool to report on the licenses used by a Go package and its dependencies. Highlight! Versioned external URL to licenses can be found at the same time. (5 days ago)
+- [jdx/hk](https://github.com/jdx/hk) - git hooks and project lints (6 days ago)
 - [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) - Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store. (1 week ago)
 - [pbakaus/impeccable](https://github.com/pbakaus/impeccable) - The design language that makes your AI harness better at design. (1 week ago)
 - [Fission-AI/OpenSpec](https://github.com/Fission-AI/OpenSpec) - Spec-driven development (SDD) for AI coding assistants. (1 week ago)
