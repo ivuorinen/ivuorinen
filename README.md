@@ -8,11 +8,11 @@ I'm also a huge fan of open-source, and I try to contribute back to the communit
 
 #### 👷 Check out what I'm currently working on
 
-- [ivuorinen/homebrew-tap](https://github.com/ivuorinen/homebrew-tap) - brew tap ivuorinen/tap (today)
+- [ivuorinen/skills](https://github.com/ivuorinen/skills) - My assortment of Claude Code skills (today)
 - [ivuorinen/cheatsheet-tldr](https://github.com/ivuorinen/cheatsheet-tldr) - tldr-pages/tldr pages for cheat/cheat (1 day ago)
 - [ivuorinen/starred](https://github.com/ivuorinen/starred) - Automatically updated list of my starred repos. (1 day ago)
-- [ivuorinen/f2b](https://github.com/ivuorinen/f2b) - A modern, secure, and extensible Go CLI tool for managing Fail2Ban jails and bans (2 days ago)
-- [ivuorinen/gh-action-readme](https://github.com/ivuorinen/gh-action-readme) - Transform your GitHub Actions into professional documentation with multiple themes, output formats, and enterprise-grade features. (2 days ago)
+- [ivuorinen/homebrew-tap](https://github.com/ivuorinen/homebrew-tap) - brew tap ivuorinen/tap (1 day ago)
+- [ivuorinen/config-checker](https://github.com/ivuorinen/config-checker) - Checks the commonly used configuration locations for configuration files (1 day ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -24,11 +24,11 @@ I'm also a huge fan of open-source, and I try to contribute back to the communit
 
 #### 🚀 Latest releases I've contributed to
 
-- [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) ([26.7.23](https://github.com/ivuorinen/dotfiles/releases/tag/26.7.23), 1 day ago) - These are my dotfiles. There are many like &#39;em, but these are mine.
-- [ivuorinen/actions](https://github.com/ivuorinen/actions) ([v2026.07.22](https://github.com/ivuorinen/actions/releases/tag/v2026.07.22), 2 days ago) - ivuorinen&#39;s shared actions
-- [ivuorinen/base-configs-stylelint](https://github.com/ivuorinen/base-configs-stylelint) ([v1.3.5](https://github.com/ivuorinen/base-configs-stylelint/releases/tag/v1.3.5), 2 days ago) - ivuorinen&#39;s shareable configuration for stylelint.
-- [ivuorinen/base-configs-prettier](https://github.com/ivuorinen/base-configs-prettier) ([v1.3.3](https://github.com/ivuorinen/base-configs-prettier/releases/tag/v1.3.3), 2 days ago) - ivuorinen&#39;s shareable configuration for Prettier.
-- [ivuorinen/base-configs-commitlint](https://github.com/ivuorinen/base-configs-commitlint) ([v1.0.42](https://github.com/ivuorinen/base-configs-commitlint/releases/tag/v1.0.42), 3 days ago) - ivuorinen&#39;s shareable configuration for commitlint.
+- [ivuorinen/actions](https://github.com/ivuorinen/actions) ([v2026.07.24](https://github.com/ivuorinen/actions/releases/tag/v2026.07.24), 1 day ago) - ivuorinen&#39;s shared actions
+- [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) ([26.7.24](https://github.com/ivuorinen/dotfiles/releases/tag/26.7.24), 1 day ago) - These are my dotfiles. There are many like &#39;em, but these are mine.
+- [ivuorinen/config-checker](https://github.com/ivuorinen/config-checker) ([v2.6.0](https://github.com/ivuorinen/config-checker/releases/tag/v2.6.0), 1 day ago) - Checks the commonly used configuration locations for configuration files
+- [ivuorinen/base-configs-stylelint](https://github.com/ivuorinen/base-configs-stylelint) ([v1.3.5](https://github.com/ivuorinen/base-configs-stylelint/releases/tag/v1.3.5), 3 days ago) - ivuorinen&#39;s shareable configuration for stylelint.
+- [ivuorinen/base-configs-prettier](https://github.com/ivuorinen/base-configs-prettier) ([v1.3.3](https://github.com/ivuorinen/base-configs-prettier/releases/tag/v1.3.3), 3 days ago) - ivuorinen&#39;s shareable configuration for Prettier.
 
 #### ⭐ Recent Stars
 
