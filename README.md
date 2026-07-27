@@ -8,11 +8,11 @@ I'm also a huge fan of open-source, and I try to contribute back to the communit
 
 #### 👷 Check out what I'm currently working on
 
-- [ivuorinen/skills](https://github.com/ivuorinen/skills) - My assortment of Claude Code skills (today)
+- [ivuorinen/semver-ranger](https://github.com/ivuorinen/semver-ranger) - Parses your lockfiles to find lower and upper range for requirements (1 day ago)
 - [ivuorinen/cheatsheet-tldr](https://github.com/ivuorinen/cheatsheet-tldr) - tldr-pages/tldr pages for cheat/cheat (1 day ago)
-- [ivuorinen/config-checker](https://github.com/ivuorinen/config-checker) - Checks the commonly used configuration locations for configuration files (2 days ago)
-- [ivuorinen/starred](https://github.com/ivuorinen/starred) - Automatically updated list of my starred repos. (2 days ago)
-- [ivuorinen/homebrew-tap](https://github.com/ivuorinen/homebrew-tap) - brew tap ivuorinen/tap (2 days ago)
+- [ivuorinen/gh-history](https://github.com/ivuorinen/gh-history) - GitHub CLI history command (1 day ago)
+- [ivuorinen/sysvinit-service-generator](https://github.com/ivuorinen/sysvinit-service-generator) - Vue 3 app for creating sysvinit service scripts (1 day ago)
+- [ivuorinen/skills](https://github.com/ivuorinen/skills) - My assortment of Claude Code skills (1 day ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -24,19 +24,19 @@ I'm also a huge fan of open-source, and I try to contribute back to the communit
 
 #### 🚀 Latest releases I've contributed to
 
-- [ivuorinen/actions](https://github.com/ivuorinen/actions) ([v2026.07.24](https://github.com/ivuorinen/actions/releases/tag/v2026.07.24), 2 days ago) - ivuorinen&#39;s shared actions
-- [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) ([26.7.24](https://github.com/ivuorinen/dotfiles/releases/tag/26.7.24), 2 days ago) - These are my dotfiles. There are many like &#39;em, but these are mine.
-- [ivuorinen/config-checker](https://github.com/ivuorinen/config-checker) ([v2.6.0](https://github.com/ivuorinen/config-checker/releases/tag/v2.6.0), 2 days ago) - Checks the commonly used configuration locations for configuration files
-- [ivuorinen/base-configs-stylelint](https://github.com/ivuorinen/base-configs-stylelint) ([v1.3.5](https://github.com/ivuorinen/base-configs-stylelint/releases/tag/v1.3.5), 4 days ago) - ivuorinen&#39;s shareable configuration for stylelint.
-- [ivuorinen/base-configs-prettier](https://github.com/ivuorinen/base-configs-prettier) ([v1.3.3](https://github.com/ivuorinen/base-configs-prettier/releases/tag/v1.3.3), 4 days ago) - ivuorinen&#39;s shareable configuration for Prettier.
+- [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) ([26.7.26](https://github.com/ivuorinen/dotfiles/releases/tag/26.7.26), 1 day ago) - These are my dotfiles. There are many like &#39;em, but these are mine.
+- [ivuorinen/base-configs](https://github.com/ivuorinen/base-configs) ([v1.3.0](https://github.com/ivuorinen/base-configs/releases/tag/v1.3.0), 1 day ago) - meta package for my linting configurations
+- [ivuorinen/semver-ranger](https://github.com/ivuorinen/semver-ranger) ([v1.0.9](https://github.com/ivuorinen/semver-ranger/releases/tag/v1.0.9), 1 day ago) - Parses your lockfiles to find lower and upper range for requirements
+- [ivuorinen/base-configs-stylelint](https://github.com/ivuorinen/base-configs-stylelint) ([v1.3.7](https://github.com/ivuorinen/base-configs-stylelint/releases/tag/v1.3.7), 1 day ago) - ivuorinen&#39;s shareable configuration for stylelint.
+- [ivuorinen/base-configs-browserslist](https://github.com/ivuorinen/base-configs-browserslist) ([v1.2.17](https://github.com/ivuorinen/base-configs-browserslist/releases/tag/v1.2.17), 1 day ago) - ivuorinen&#39;s shareable configuration for Browserslist.
 
 #### ⭐ Recent Stars
 
 - [google/go-licenses](https://github.com/google/go-licenses) - A lightweight tool to report on the licenses used by a Go package and its dependencies. Highlight! Versioned external URL to licenses can be found at the same time. (1 week ago)
 - [jdx/hk](https://github.com/jdx/hk) - git hooks and project lints (1 week ago)
-- [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) - Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store. (1 week ago)
-- [pbakaus/impeccable](https://github.com/pbakaus/impeccable) - The design language that makes your AI harness better at design. (1 week ago)
-- [Fission-AI/OpenSpec](https://github.com/Fission-AI/OpenSpec) - Spec-driven development (SDD) for AI coding assistants. (1 week ago)
+- [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) - Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store. (2 weeks ago)
+- [pbakaus/impeccable](https://github.com/pbakaus/impeccable) - The design language that makes your AI harness better at design. (2 weeks ago)
+- [Fission-AI/OpenSpec](https://github.com/Fission-AI/OpenSpec) - Spec-driven development (SDD) for AI coding assistants. (2 weeks ago)
 
 
 
