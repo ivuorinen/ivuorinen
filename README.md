@@ -8,11 +8,11 @@ I'm also a huge fan of open-source, and I try to contribute back to the communit
 
 #### 👷 Check out what I'm currently working on
 
-- [ivuorinen/renovate-config](https://github.com/ivuorinen/renovate-config) -  (1 day ago)
+- [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) - These are my dotfiles. There are many like &#39;em, but these are mine. (1 day ago)
 - [ivuorinen/cheatsheet-tldr](https://github.com/ivuorinen/cheatsheet-tldr) - tldr-pages/tldr pages for cheat/cheat (1 day ago)
 - [ivuorinen/starred](https://github.com/ivuorinen/starred) - Automatically updated list of my starred repos. (1 day ago)
-- [ivuorinen/sysvinit-service-generator](https://github.com/ivuorinen/sysvinit-service-generator) - Vue 3 app for creating sysvinit service scripts (1 day ago)
-- [ivuorinen/skills](https://github.com/ivuorinen/skills) - My assortment of Claude Code skills (1 day ago)
+- [ivuorinen/base-configs-stylelint](https://github.com/ivuorinen/base-configs-stylelint) - ivuorinen&#39;s shareable configuration for stylelint. (1 day ago)
+- [ivuorinen/sysvinit-service-generator](https://github.com/ivuorinen/sysvinit-service-generator) - Vue 3 app for creating sysvinit service scripts (2 days ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -24,11 +24,11 @@ I'm also a huge fan of open-source, and I try to contribute back to the communit
 
 #### 🚀 Latest releases I've contributed to
 
-- [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) ([26.7.27](https://github.com/ivuorinen/dotfiles/releases/tag/26.7.27), 1 day ago) - These are my dotfiles. There are many like &#39;em, but these are mine.
-- [ivuorinen/base-configs-eslint](https://github.com/ivuorinen/base-configs-eslint) ([v1.4.2](https://github.com/ivuorinen/base-configs-eslint/releases/tag/v1.4.2), 1 day ago) - ivuorinen&#39;s shareable configuration for ESLint.
-- [ivuorinen/config-checker](https://github.com/ivuorinen/config-checker) ([v2.6.2](https://github.com/ivuorinen/config-checker/releases/tag/v2.6.2), 1 day ago) - Checks the commonly used configuration locations for configuration files
-- [ivuorinen/base-configs](https://github.com/ivuorinen/base-configs) ([v1.3.0](https://github.com/ivuorinen/base-configs/releases/tag/v1.3.0), 2 days ago) - meta package for my linting configurations
-- [ivuorinen/semver-ranger](https://github.com/ivuorinen/semver-ranger) ([v1.0.9](https://github.com/ivuorinen/semver-ranger/releases/tag/v1.0.9), 2 days ago) - Parses your lockfiles to find lower and upper range for requirements
+- [ivuorinen/semver-ranger](https://github.com/ivuorinen/semver-ranger) ([v2.0.0](https://github.com/ivuorinen/semver-ranger/releases/tag/v2.0.0), 1 day ago) - Parses your lockfiles to find lower and upper range for requirements
+- [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) ([26.7.28](https://github.com/ivuorinen/dotfiles/releases/tag/26.7.28), 1 day ago) - These are my dotfiles. There are many like &#39;em, but these are mine.
+- [ivuorinen/base-configs-semantic-release](https://github.com/ivuorinen/base-configs-semantic-release) ([v2.0.0](https://github.com/ivuorinen/base-configs-semantic-release/releases/tag/v2.0.0), 1 day ago) - ivuorinen&#39;s shareable configuration for semantic-release.
+- [ivuorinen/base-configs-eslint](https://github.com/ivuorinen/base-configs-eslint) ([v1.4.2](https://github.com/ivuorinen/base-configs-eslint/releases/tag/v1.4.2), 2 days ago) - ivuorinen&#39;s shareable configuration for ESLint.
+- [ivuorinen/config-checker](https://github.com/ivuorinen/config-checker) ([v2.6.2](https://github.com/ivuorinen/config-checker/releases/tag/v2.6.2), 2 days ago) - Checks the commonly used configuration locations for configuration files
 
 #### ⭐ Recent Stars
 
