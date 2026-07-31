@@ -8,11 +8,11 @@ I'm also a huge fan of open-source, and I try to contribute back to the communit
 
 #### 👷 Check out what I'm currently working on
 
-- [eslefi/gs](https://github.com/eslefi/gs) - linux game server manager system for certain lans (today)
-- [ivuorinen/base-configs-semantic-release](https://github.com/ivuorinen/base-configs-semantic-release) - ivuorinen&#39;s shareable configuration for semantic-release. (today)
-- [ivuorinen/base-configs-stylelint](https://github.com/ivuorinen/base-configs-stylelint) - ivuorinen&#39;s shareable configuration for stylelint. (today)
-- [ivuorinen/homebrew-tap](https://github.com/ivuorinen/homebrew-tap) - brew tap ivuorinen/tap (today)
-- [ivuorinen/gh-pr-api](https://github.com/ivuorinen/gh-pr-api) -  (today)
+- [ivuorinen/monolog-gdpr-filter](https://github.com/ivuorinen/monolog-gdpr-filter) - Monolog processor for GDPR masking with regex and dot-notation path (1 day ago)
+- [ivuorinen/cheatsheet-tldr](https://github.com/ivuorinen/cheatsheet-tldr) - tldr-pages/tldr pages for cheat/cheat (1 day ago)
+- [ivuorinen/starred](https://github.com/ivuorinen/starred) - Automatically updated list of my starred repos. (1 day ago)
+- [ivuorinen/base-configs-semantic-release](https://github.com/ivuorinen/base-configs-semantic-release) - ivuorinen&#39;s shareable configuration for semantic-release. (1 day ago)
+- [ivuorinen/skills](https://github.com/ivuorinen/skills) - My assortment of Claude Code skills (1 day ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -24,15 +24,15 @@ I'm also a huge fan of open-source, and I try to contribute back to the communit
 
 #### 🚀 Latest releases I've contributed to
 
-- [ivuorinen/base-configs-stylelint](https://github.com/ivuorinen/base-configs-stylelint) ([v1.4.1](https://github.com/ivuorinen/base-configs-stylelint/releases/tag/v1.4.1), today) - ivuorinen&#39;s shareable configuration for stylelint.
-- [ivuorinen/actions](https://github.com/ivuorinen/actions) ([v2026.07.29](https://github.com/ivuorinen/actions/releases/tag/v2026.07.29), 1 day ago) - ivuorinen&#39;s shared actions
-- [ivuorinen/base-configs-eslint](https://github.com/ivuorinen/base-configs-eslint) ([v1.5.0](https://github.com/ivuorinen/base-configs-eslint/releases/tag/v1.5.0), 1 day ago) - ivuorinen&#39;s shareable configuration for ESLint.
-- [ivuorinen/base-configs-browserslist](https://github.com/ivuorinen/base-configs-browserslist) ([v1.3.0](https://github.com/ivuorinen/base-configs-browserslist/releases/tag/v1.3.0), 1 day ago) - ivuorinen&#39;s shareable configuration for Browserslist.
-- [ivuorinen/semver-ranger](https://github.com/ivuorinen/semver-ranger) ([v2.0.0](https://github.com/ivuorinen/semver-ranger/releases/tag/v2.0.0), 2 days ago) - Parses your lockfiles to find lower and upper range for requirements
+- [ivuorinen/actions](https://github.com/ivuorinen/actions) ([v2026.07.30](https://github.com/ivuorinen/actions/releases/tag/v2026.07.30), 1 day ago) - ivuorinen&#39;s shared actions
+- [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) ([26.7.30](https://github.com/ivuorinen/dotfiles/releases/tag/26.7.30), 1 day ago) - These are my dotfiles. There are many like &#39;em, but these are mine.
+- [ivuorinen/base-configs-semantic-release](https://github.com/ivuorinen/base-configs-semantic-release) ([v2.0.2](https://github.com/ivuorinen/base-configs-semantic-release/releases/tag/v2.0.2), 1 day ago) - ivuorinen&#39;s shareable configuration for semantic-release.
+- [ivuorinen/base-configs-stylelint](https://github.com/ivuorinen/base-configs-stylelint) ([v1.4.1](https://github.com/ivuorinen/base-configs-stylelint/releases/tag/v1.4.1), 1 day ago) - ivuorinen&#39;s shareable configuration for stylelint.
+- [ivuorinen/base-configs-eslint](https://github.com/ivuorinen/base-configs-eslint) ([v1.5.0](https://github.com/ivuorinen/base-configs-eslint/releases/tag/v1.5.0), 2 days ago) - ivuorinen&#39;s shareable configuration for ESLint.
 
 #### ⭐ Recent Stars
 
-- [google/go-licenses](https://github.com/google/go-licenses) - A lightweight tool to report on the licenses used by a Go package and its dependencies. Highlight! Versioned external URL to licenses can be found at the same time. (1 week ago)
+- [google/go-licenses](https://github.com/google/go-licenses) - A lightweight tool to report on the licenses used by a Go package and its dependencies. Highlight! Versioned external URL to licenses can be found at the same time. (2 weeks ago)
 - [jdx/hk](https://github.com/jdx/hk) - git hooks and project lints (2 weeks ago)
 - [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) - Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store. (2 weeks ago)
 - [pbakaus/impeccable](https://github.com/pbakaus/impeccable) - The design language that makes your AI harness better at design. (2 weeks ago)
