@@ -8,15 +8,15 @@ I'm also a huge fan of open-source, and I try to contribute back to the communit
 
 #### 👷 Check out what I'm currently working on
 
-- [ivuorinen/monolog-gdpr-filter](https://github.com/ivuorinen/monolog-gdpr-filter) - Monolog processor for GDPR masking with regex and dot-notation path (1 day ago)
+- [eslefi/gs](https://github.com/eslefi/gs) - linux game server manager system for certain lans (1 day ago)
 - [ivuorinen/cheatsheet-tldr](https://github.com/ivuorinen/cheatsheet-tldr) - tldr-pages/tldr pages for cheat/cheat (1 day ago)
 - [ivuorinen/starred](https://github.com/ivuorinen/starred) - Automatically updated list of my starred repos. (1 day ago)
-- [ivuorinen/base-configs-semantic-release](https://github.com/ivuorinen/base-configs-semantic-release) - ivuorinen&#39;s shareable configuration for semantic-release. (1 day ago)
-- [ivuorinen/skills](https://github.com/ivuorinen/skills) - My assortment of Claude Code skills (1 day ago)
+- [ivuorinen/base-configs-stylelint](https://github.com/ivuorinen/base-configs-stylelint) - ivuorinen&#39;s shareable configuration for stylelint. (2 days ago)
+- [ivuorinen/skills](https://github.com/ivuorinen/skills) - My assortment of Claude Code skills (2 days ago)
 
 #### 👨‍💻 Repositories I created recently
 
-- [ivuorinen/gh-pr-api](https://github.com/ivuorinen/gh-pr-api)
+- [ivuorinen/gh-pr-api](https://github.com/ivuorinen/gh-pr-api) - Small JSON/Markdown API for listing currently open pull requests across public, non-archived GitHub repositories owned by a configured GitHub account.
 - [ivuorinen/skills](https://github.com/ivuorinen/skills) - My assortment of Claude Code skills
 - [ivuorinen/github-actions-runner-setup](https://github.com/ivuorinen/github-actions-runner-setup) - This repository provides ephemeral self-hosted GitHub Actions runners using a GitHub App for registration.
 - [ivuorinen/obsidian-gh-projects](https://github.com/ivuorinen/obsidian-gh-projects) - [WIP] Obsidian.md plugin for GitHub projects listing. Optimized for Base listing.
@@ -24,11 +24,11 @@ I'm also a huge fan of open-source, and I try to contribute back to the communit
 
 #### 🚀 Latest releases I've contributed to
 
-- [ivuorinen/actions](https://github.com/ivuorinen/actions) ([v2026.07.30](https://github.com/ivuorinen/actions/releases/tag/v2026.07.30), 1 day ago) - ivuorinen&#39;s shared actions
-- [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) ([26.7.30](https://github.com/ivuorinen/dotfiles/releases/tag/26.7.30), 1 day ago) - These are my dotfiles. There are many like &#39;em, but these are mine.
-- [ivuorinen/base-configs-semantic-release](https://github.com/ivuorinen/base-configs-semantic-release) ([v2.0.2](https://github.com/ivuorinen/base-configs-semantic-release/releases/tag/v2.0.2), 1 day ago) - ivuorinen&#39;s shareable configuration for semantic-release.
-- [ivuorinen/base-configs-stylelint](https://github.com/ivuorinen/base-configs-stylelint) ([v1.4.1](https://github.com/ivuorinen/base-configs-stylelint/releases/tag/v1.4.1), 1 day ago) - ivuorinen&#39;s shareable configuration for stylelint.
-- [ivuorinen/base-configs-eslint](https://github.com/ivuorinen/base-configs-eslint) ([v1.5.0](https://github.com/ivuorinen/base-configs-eslint/releases/tag/v1.5.0), 2 days ago) - ivuorinen&#39;s shareable configuration for ESLint.
+- [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) ([26.7.31](https://github.com/ivuorinen/dotfiles/releases/tag/26.7.31), 1 day ago) - These are my dotfiles. There are many like &#39;em, but these are mine.
+- [ivuorinen/actions](https://github.com/ivuorinen/actions) ([v2026.07.30](https://github.com/ivuorinen/actions/releases/tag/v2026.07.30), 2 days ago) - ivuorinen&#39;s shared actions
+- [ivuorinen/base-configs-semantic-release](https://github.com/ivuorinen/base-configs-semantic-release) ([v2.0.2](https://github.com/ivuorinen/base-configs-semantic-release/releases/tag/v2.0.2), 2 days ago) - ivuorinen&#39;s shareable configuration for semantic-release.
+- [ivuorinen/base-configs-stylelint](https://github.com/ivuorinen/base-configs-stylelint) ([v1.4.1](https://github.com/ivuorinen/base-configs-stylelint/releases/tag/v1.4.1), 2 days ago) - ivuorinen&#39;s shareable configuration for stylelint.
+- [ivuorinen/base-configs-eslint](https://github.com/ivuorinen/base-configs-eslint) ([v1.5.0](https://github.com/ivuorinen/base-configs-eslint/releases/tag/v1.5.0), 3 days ago) - ivuorinen&#39;s shareable configuration for ESLint.
 
 #### ⭐ Recent Stars
 
