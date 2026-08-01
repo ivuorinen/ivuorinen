@@ -24,11 +24,11 @@ I'm also a huge fan of open-source, and I try to contribute back to the communit
 
 #### 🚀 Latest releases I've contributed to
 
+- [ivuorinen/base-configs-commitlint](https://github.com/ivuorinen/base-configs-commitlint) ([v1.0.44](https://github.com/ivuorinen/base-configs-commitlint/releases/tag/v1.0.44), today) - ivuorinen&#39;s shareable configuration for commitlint.
+- [ivuorinen/semver-ranger](https://github.com/ivuorinen/semver-ranger) ([v3.0.0](https://github.com/ivuorinen/semver-ranger/releases/tag/v3.0.0), today) - Parses your lockfiles to find lower and upper range for requirements
+- [ivuorinen/base-configs-prettier](https://github.com/ivuorinen/base-configs-prettier) ([v2.0.0](https://github.com/ivuorinen/base-configs-prettier/releases/tag/v2.0.0), today) - ivuorinen&#39;s shareable configuration for Prettier.
 - [ivuorinen/ivuorinen](https://github.com/ivuorinen/ivuorinen) ([2026.8.0](https://github.com/ivuorinen/ivuorinen/releases/tag/2026.8.0), today) - My special github profile header
 - [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) ([26.7.31](https://github.com/ivuorinen/dotfiles/releases/tag/26.7.31), 1 day ago) - These are my dotfiles. There are many like &#39;em, but these are mine.
-- [ivuorinen/actions](https://github.com/ivuorinen/actions) ([v2026.07.30](https://github.com/ivuorinen/actions/releases/tag/v2026.07.30), 2 days ago) - ivuorinen&#39;s shared actions
-- [ivuorinen/base-configs-semantic-release](https://github.com/ivuorinen/base-configs-semantic-release) ([v2.0.2](https://github.com/ivuorinen/base-configs-semantic-release/releases/tag/v2.0.2), 2 days ago) - ivuorinen&#39;s shareable configuration for semantic-release.
-- [ivuorinen/base-configs-stylelint](https://github.com/ivuorinen/base-configs-stylelint) ([v1.4.1](https://github.com/ivuorinen/base-configs-stylelint/releases/tag/v1.4.1), 2 days ago) - ivuorinen&#39;s shareable configuration for stylelint.
 
 #### ⭐ Recent Stars
 
