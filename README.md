@@ -8,8 +8,8 @@ I'm also a huge fan of open-source, and I try to contribute back to the communit
 
 #### 👷 Check out what I'm currently working on
 
-- [ivuorinen/cheatsheet-tldr](https://github.com/ivuorinen/cheatsheet-tldr) - tldr-pages/tldr pages for cheat/cheat (1 day ago)
-- [ivuorinen/starred](https://github.com/ivuorinen/starred) - Automatically updated list of my starred repos. (1 day ago)
+- [ivuorinen/cheatsheet-tldr](https://github.com/ivuorinen/cheatsheet-tldr) - tldr-pages/tldr pages for cheat/cheat (today)
+- [ivuorinen/starred](https://github.com/ivuorinen/starred) - Automatically updated list of my starred repos. (today)
 - [ivuorinen/docker-xmrig](https://github.com/ivuorinen/docker-xmrig) - This is a simple miner that uses the xmrig miner to mine Monero. (2 days ago)
 - [ivuorinen/stylelint-a11y](https://github.com/ivuorinen/stylelint-a11y) - Plugin for stylelint with a11y rules (2 days ago)
 - [ivuorinen/skills](https://github.com/ivuorinen/skills) - My assortment of Claude Code skills (3 days ago)
@@ -24,11 +24,11 @@ I'm also a huge fan of open-source, and I try to contribute back to the communit
 
 #### 🚀 Latest releases I've contributed to
 
+- [ivuorinen/base-configs-commitlint](https://github.com/ivuorinen/base-configs-commitlint) ([v1.0.48](https://github.com/ivuorinen/base-configs-commitlint/releases/tag/v1.0.48), today) - ivuorinen&#39;s shareable configuration for commitlint.
+- [ivuorinen/base-configs-browserslist](https://github.com/ivuorinen/base-configs-browserslist) ([v1.3.5](https://github.com/ivuorinen/base-configs-browserslist/releases/tag/v1.3.5), today) - ivuorinen&#39;s shareable configuration for Browserslist.
+- [ivuorinen/base-configs-semantic-release](https://github.com/ivuorinen/base-configs-semantic-release) ([v2.0.6](https://github.com/ivuorinen/base-configs-semantic-release/releases/tag/v2.0.6), today) - ivuorinen&#39;s shareable configuration for semantic-release.
+- [ivuorinen/base-configs-eslint](https://github.com/ivuorinen/base-configs-eslint) ([v1.5.4](https://github.com/ivuorinen/base-configs-eslint/releases/tag/v1.5.4), today) - ivuorinen&#39;s shareable configuration for ESLint.
 - [ivuorinen/base-configs-markdownlint](https://github.com/ivuorinen/base-configs-markdownlint) ([v1.3.8](https://github.com/ivuorinen/base-configs-markdownlint/releases/tag/v1.3.8), 1 day ago) - ivuorinen&#39;s shareable configuration for markdownlint.
-- [ivuorinen/base-configs-eslint](https://github.com/ivuorinen/base-configs-eslint) ([v1.5.3](https://github.com/ivuorinen/base-configs-eslint/releases/tag/v1.5.3), 1 day ago) - ivuorinen&#39;s shareable configuration for ESLint.
-- [ivuorinen/config-checker](https://github.com/ivuorinen/config-checker) ([v2.6.5](https://github.com/ivuorinen/config-checker/releases/tag/v2.6.5), 1 day ago) - Checks the commonly used configuration locations for configuration files
-- [ivuorinen/base-configs-prettier](https://github.com/ivuorinen/base-configs-prettier) ([v2.0.3](https://github.com/ivuorinen/base-configs-prettier/releases/tag/v2.0.3), 1 day ago) - ivuorinen&#39;s shareable configuration for Prettier.
-- [ivuorinen/base-configs-commitlint](https://github.com/ivuorinen/base-configs-commitlint) ([v1.0.47](https://github.com/ivuorinen/base-configs-commitlint/releases/tag/v1.0.47), 1 day ago) - ivuorinen&#39;s shareable configuration for commitlint.
 
 #### ⭐ Recent Stars
 
