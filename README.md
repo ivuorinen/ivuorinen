@@ -8,11 +8,11 @@ I'm also a huge fan of open-source, and I try to contribute back to the communit
 
 #### 👷 Check out what I'm currently working on
 
+- [ivuorinen/skills](https://github.com/ivuorinen/skills) - My assortment of Claude Code skills (today)
+- [ivuorinen/gh-action-readme](https://github.com/ivuorinen/gh-action-readme) - Transform your GitHub Actions into professional documentation with multiple themes, output formats, and enterprise-grade features. (today)
 - [ivuorinen/cheatsheet-tldr](https://github.com/ivuorinen/cheatsheet-tldr) - tldr-pages/tldr pages for cheat/cheat (1 day ago)
 - [ivuorinen/starred](https://github.com/ivuorinen/starred) - Automatically updated list of my starred repos. (1 day ago)
-- [ivuorinen/skills](https://github.com/ivuorinen/skills) - My assortment of Claude Code skills (1 day ago)
-- [ivuorinen/stylelint-a11y](https://github.com/ivuorinen/stylelint-a11y) - Plugin for stylelint with a11y rules (1 day ago)
-- [ivuorinen/docker-xmrig](https://github.com/ivuorinen/docker-xmrig) - This is a simple miner that uses the xmrig miner to mine Monero. (3 days ago)
+- [ivuorinen/actions](https://github.com/ivuorinen/actions) - ivuorinen&#39;s shared actions (1 day ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -24,11 +24,11 @@ I'm also a huge fan of open-source, and I try to contribute back to the communit
 
 #### 🚀 Latest releases I've contributed to
 
-- [ivuorinen/actions](https://github.com/ivuorinen/actions) ([v2026.08.06](https://github.com/ivuorinen/actions/releases/tag/v2026.08.06), 1 day ago) - ivuorinen&#39;s shared actions
-- [ivuorinen/config-checker](https://github.com/ivuorinen/config-checker) ([v2.6.6](https://github.com/ivuorinen/config-checker/releases/tag/v2.6.6), 1 day ago) - Checks the commonly used configuration locations for configuration files
-- [ivuorinen/base-configs-prettier](https://github.com/ivuorinen/base-configs-prettier) ([v2.0.4](https://github.com/ivuorinen/base-configs-prettier/releases/tag/v2.0.4), 1 day ago) - ivuorinen&#39;s shareable configuration for Prettier.
-- [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) ([26.8.6](https://github.com/ivuorinen/dotfiles/releases/tag/26.8.6), 1 day ago) - These are my dotfiles. There are many like &#39;em, but these are mine.
-- [ivuorinen/base-configs-commitlint](https://github.com/ivuorinen/base-configs-commitlint) ([v1.0.49](https://github.com/ivuorinen/base-configs-commitlint/releases/tag/v1.0.49), 1 day ago) - ivuorinen&#39;s shareable configuration for commitlint.
+- [ivuorinen/actions](https://github.com/ivuorinen/actions) ([v2026.08.07](https://github.com/ivuorinen/actions/releases/tag/v2026.08.07), 1 day ago) - ivuorinen&#39;s shared actions
+- [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) ([26.8.7](https://github.com/ivuorinen/dotfiles/releases/tag/26.8.7), 1 day ago) - These are my dotfiles. There are many like &#39;em, but these are mine.
+- [ivuorinen/base-configs-eslint](https://github.com/ivuorinen/base-configs-eslint) ([v1.5.5](https://github.com/ivuorinen/base-configs-eslint/releases/tag/v1.5.5), 1 day ago) - ivuorinen&#39;s shareable configuration for ESLint.
+- [ivuorinen/config-checker](https://github.com/ivuorinen/config-checker) ([v2.6.6](https://github.com/ivuorinen/config-checker/releases/tag/v2.6.6), 2 days ago) - Checks the commonly used configuration locations for configuration files
+- [ivuorinen/base-configs-prettier](https://github.com/ivuorinen/base-configs-prettier) ([v2.0.4](https://github.com/ivuorinen/base-configs-prettier/releases/tag/v2.0.4), 2 days ago) - ivuorinen&#39;s shareable configuration for Prettier.
 
 #### ⭐ Recent Stars
 
