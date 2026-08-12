@@ -24,11 +24,11 @@ I'm also a huge fan of open-source, and I try to contribute back to the communit
 
 #### 🚀 Latest releases I've contributed to
 
+- [ivuorinen/actions](https://github.com/ivuorinen/actions) ([v2026.08.12](https://github.com/ivuorinen/actions/releases/tag/v2026.08.12), today) - ivuorinen&#39;s shared actions
+- [ivuorinen/base-configs](https://github.com/ivuorinen/base-configs) ([v3.0.4](https://github.com/ivuorinen/base-configs/releases/tag/v3.0.4), today) - meta package for my linting configurations
 - [ivuorinen/base-configs-browserslist](https://github.com/ivuorinen/base-configs-browserslist) ([v1.3.8](https://github.com/ivuorinen/base-configs-browserslist/releases/tag/v1.3.8), today) - ivuorinen&#39;s shareable configuration for Browserslist.
 - [ivuorinen/base-configs-semantic-release](https://github.com/ivuorinen/base-configs-semantic-release) ([v2.0.7](https://github.com/ivuorinen/base-configs-semantic-release/releases/tag/v2.0.7), today) - ivuorinen&#39;s shareable configuration for semantic-release.
 - [ivuorinen/semver-ranger](https://github.com/ivuorinen/semver-ranger) ([v4.0.0](https://github.com/ivuorinen/semver-ranger/releases/tag/v4.0.0), today) - Parses your lockfiles to find lower and upper range for requirements
-- [ivuorinen/base-configs-commitlint](https://github.com/ivuorinen/base-configs-commitlint) ([v1.0.51](https://github.com/ivuorinen/base-configs-commitlint/releases/tag/v1.0.51), 1 day ago) - ivuorinen&#39;s shareable configuration for commitlint.
-- [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) ([26.8.11](https://github.com/ivuorinen/dotfiles/releases/tag/26.8.11), 1 day ago) - These are my dotfiles. There are many like &#39;em, but these are mine.
 
 #### ⭐ Recent Stars
 
