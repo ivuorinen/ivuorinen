@@ -8,10 +8,10 @@ I'm also a huge fan of open-source, and I try to contribute back to the communit
 
 #### 👷 Check out what I'm currently working on
 
-- [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) - These are my dotfiles. There are many like &#39;em, but these are mine. (1 day ago)
-- [ivuorinen/starred](https://github.com/ivuorinen/starred) - Automatically updated list of my starred repos. (1 day ago)
-- [ivuorinen/ghaw-auditor](https://github.com/ivuorinen/ghaw-auditor) - GitHub Actions &amp; Workflows Auditor - analyze and audit GitHub Actions ecosystem (1 day ago)
-- [ivuorinen/semver-ranger](https://github.com/ivuorinen/semver-ranger) - Parses your lockfiles to find lower and upper range for requirements (1 day ago)
+- [ivuorinen/cheatsheet-tldr](https://github.com/ivuorinen/cheatsheet-tldr) - tldr-pages/tldr pages for cheat/cheat (today)
+- [ivuorinen/starred](https://github.com/ivuorinen/starred) - Automatically updated list of my starred repos. (today)
+- [ivuorinen/skills](https://github.com/ivuorinen/skills) - My assortment of Claude Code skills (today)
+- [ivuorinen/nvm-auto-use.fish](https://github.com/ivuorinen/nvm-auto-use.fish) - Work in progress implementation for nvm-auto-use for fish shell (today)
 - [ivuorinen/homebrew-tap](https://github.com/ivuorinen/homebrew-tap) - brew tap ivuorinen/tap (1 day ago)
 
 #### 👨‍💻 Repositories I created recently
@@ -24,11 +24,11 @@ I'm also a huge fan of open-source, and I try to contribute back to the communit
 
 #### 🚀 Latest releases I've contributed to
 
-- [ivuorinen/semver-ranger](https://github.com/ivuorinen/semver-ranger) ([v3.0.4](https://github.com/ivuorinen/semver-ranger/releases/tag/v3.0.4), 1 day ago) - Parses your lockfiles to find lower and upper range for requirements
+- [ivuorinen/base-configs-browserslist](https://github.com/ivuorinen/base-configs-browserslist) ([v1.3.8](https://github.com/ivuorinen/base-configs-browserslist/releases/tag/v1.3.8), today) - ivuorinen&#39;s shareable configuration for Browserslist.
+- [ivuorinen/base-configs-semantic-release](https://github.com/ivuorinen/base-configs-semantic-release) ([v2.0.7](https://github.com/ivuorinen/base-configs-semantic-release/releases/tag/v2.0.7), today) - ivuorinen&#39;s shareable configuration for semantic-release.
+- [ivuorinen/semver-ranger](https://github.com/ivuorinen/semver-ranger) ([v4.0.0](https://github.com/ivuorinen/semver-ranger/releases/tag/v4.0.0), today) - Parses your lockfiles to find lower and upper range for requirements
 - [ivuorinen/base-configs-commitlint](https://github.com/ivuorinen/base-configs-commitlint) ([v1.0.51](https://github.com/ivuorinen/base-configs-commitlint/releases/tag/v1.0.51), 1 day ago) - ivuorinen&#39;s shareable configuration for commitlint.
 - [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) ([26.8.11](https://github.com/ivuorinen/dotfiles/releases/tag/26.8.11), 1 day ago) - These are my dotfiles. There are many like &#39;em, but these are mine.
-- [ivuorinen/base-configs-eslint](https://github.com/ivuorinen/base-configs-eslint) ([v1.5.6](https://github.com/ivuorinen/base-configs-eslint/releases/tag/v1.5.6), 1 day ago) - ivuorinen&#39;s shareable configuration for ESLint.
-- [ivuorinen/base-configs-stylelint](https://github.com/ivuorinen/base-configs-stylelint) ([v1.4.5](https://github.com/ivuorinen/base-configs-stylelint/releases/tag/v1.4.5), 2 days ago) - ivuorinen&#39;s shareable configuration for stylelint.
 
 #### ⭐ Recent Stars
 
