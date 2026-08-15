@@ -8,11 +8,11 @@ I'm also a huge fan of open-source, and I try to contribute back to the communit
 
 #### 👷 Check out what I'm currently working on
 
-- [ivuorinen/cheatsheet-tldr](https://github.com/ivuorinen/cheatsheet-tldr) - tldr-pages/tldr pages for cheat/cheat (1 day ago)
 - [ivuorinen/starred](https://github.com/ivuorinen/starred) - Automatically updated list of my starred repos. (1 day ago)
-- [ivuorinen/skills](https://github.com/ivuorinen/skills) - My assortment of Claude Code skills (1 day ago)
-- [ivuorinen/docker-xmrig](https://github.com/ivuorinen/docker-xmrig) - This is a simple miner that uses the xmrig miner to mine Monero. (1 day ago)
-- [ivuorinen/nvm-auto-use.fish](https://github.com/ivuorinen/nvm-auto-use.fish) - Work in progress implementation for nvm-auto-use for fish shell (2 days ago)
+- [ivuorinen/cheatsheet-tldr](https://github.com/ivuorinen/cheatsheet-tldr) - tldr-pages/tldr pages for cheat/cheat (2 days ago)
+- [ivuorinen/skills](https://github.com/ivuorinen/skills) - My assortment of Claude Code skills (2 days ago)
+- [ivuorinen/docker-xmrig](https://github.com/ivuorinen/docker-xmrig) - This is a simple miner that uses the xmrig miner to mine Monero. (2 days ago)
+- [ivuorinen/nvm-auto-use.fish](https://github.com/ivuorinen/nvm-auto-use.fish) - Work in progress implementation for nvm-auto-use for fish shell (3 days ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -24,19 +24,19 @@ I'm also a huge fan of open-source, and I try to contribute back to the communit
 
 #### 🚀 Latest releases I've contributed to
 
-- [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) ([26.8.13](https://github.com/ivuorinen/dotfiles/releases/tag/26.8.13), 1 day ago) - These are my dotfiles. There are many like &#39;em, but these are mine.
-- [ivuorinen/obsidian-gh-projects](https://github.com/ivuorinen/obsidian-gh-projects) ([2026.08.4](https://github.com/ivuorinen/obsidian-gh-projects/releases/tag/2026.08.4), 1 day ago) - [WIP] Obsidian.md plugin for GitHub projects listing. Optimized for Base listing.
-- [ivuorinen/skills](https://github.com/ivuorinen/skills) ([ivuorinen-skills-v3.0.0](https://github.com/ivuorinen/skills/releases/tag/ivuorinen-skills-v3.0.0), 1 day ago) - My assortment of Claude Code skills
-- [ivuorinen/actions](https://github.com/ivuorinen/actions) ([v2026.08.12](https://github.com/ivuorinen/actions/releases/tag/v2026.08.12), 2 days ago) - ivuorinen&#39;s shared actions
-- [ivuorinen/base-configs](https://github.com/ivuorinen/base-configs) ([v3.0.4](https://github.com/ivuorinen/base-configs/releases/tag/v3.0.4), 2 days ago) - meta package for my linting configurations
+- [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) ([26.8.14](https://github.com/ivuorinen/dotfiles/releases/tag/26.8.14), 1 day ago) - These are my dotfiles. There are many like &#39;em, but these are mine.
+- [ivuorinen/obsidian-gh-projects](https://github.com/ivuorinen/obsidian-gh-projects) ([2026.08.4](https://github.com/ivuorinen/obsidian-gh-projects/releases/tag/2026.08.4), 2 days ago) - [WIP] Obsidian.md plugin for GitHub projects listing. Optimized for Base listing.
+- [ivuorinen/skills](https://github.com/ivuorinen/skills) ([ivuorinen-skills-v3.0.0](https://github.com/ivuorinen/skills/releases/tag/ivuorinen-skills-v3.0.0), 2 days ago) - My assortment of Claude Code skills
+- [ivuorinen/actions](https://github.com/ivuorinen/actions) ([v2026.08.12](https://github.com/ivuorinen/actions/releases/tag/v2026.08.12), 3 days ago) - ivuorinen&#39;s shared actions
+- [ivuorinen/base-configs](https://github.com/ivuorinen/base-configs) ([v3.0.4](https://github.com/ivuorinen/base-configs/releases/tag/v3.0.4), 3 days ago) - meta package for my linting configurations
 
 #### ⭐ Recent Stars
 
-- [ivuorinen/skills](https://github.com/ivuorinen/skills) - My assortment of Claude Code skills (1 day ago)
+- [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd) - A skill to stop your coding agent from burying the answer. ADHD-friendly output. (1 day ago)
+- [ivuorinen/skills](https://github.com/ivuorinen/skills) - My assortment of Claude Code skills (2 days ago)
 - [google/go-licenses](https://github.com/google/go-licenses) - A lightweight tool to report on the licenses used by a Go package and its dependencies. Highlight! Versioned external URL to licenses can be found at the same time. (4 weeks ago)
-- [jdx/hk](https://github.com/jdx/hk) - git hooks and project lints (4 weeks ago)
+- [jdx/hk](https://github.com/jdx/hk) - git hooks and project lints (1 month ago)
 - [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) - Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store. (1 month ago)
-- [pbakaus/impeccable](https://github.com/pbakaus/impeccable) - The design language that makes your AI harness better at design. (1 month ago)
 
 
 
