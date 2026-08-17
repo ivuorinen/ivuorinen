@@ -15,7 +15,7 @@
     "lint:fix": "eslint . --fix"
   },
   "devDependencies": {
-    "@ivuorinen/base-configs": "^3.0.0",
+    "@ivuorinen/base-configs": "^4.0.0",
     "@ivuorinen/commitlint-config": "^2.0.0",
     "@ivuorinen/prettier-config": "^2.0.0",
     "eslint-plugin-prettier": "^5.2.1",
