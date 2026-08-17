@@ -8,11 +8,11 @@ I'm also a huge fan of open-source, and I try to contribute back to the communit
 
 #### 👷 Check out what I'm currently working on
 
-- [ivuorinen/gibidify](https://github.com/ivuorinen/gibidify) - gibidify is a CLI application written in Go that scans a source directory recursively and aggregates code files into a single text file for LLMs. (1 day ago)
-- [ivuorinen/starred](https://github.com/ivuorinen/starred) - Automatically updated list of my starred repos. (1 day ago)
-- [ivuorinen/base-configs-markdownlint](https://github.com/ivuorinen/base-configs-markdownlint) - ivuorinen&#39;s shareable configuration for markdownlint. (1 day ago)
-- [ivuorinen/gh-action-readme](https://github.com/ivuorinen/gh-action-readme) - Transform your GitHub Actions into professional documentation with multiple themes, output formats, and enterprise-grade features. (1 day ago)
-- [ivuorinen/cheatsheet-tldr](https://github.com/ivuorinen/cheatsheet-tldr) - tldr-pages/tldr pages for cheat/cheat (3 days ago)
+- [ivuorinen/base-configs-commitlint](https://github.com/ivuorinen/base-configs-commitlint) - ivuorinen&#39;s shareable configuration for commitlint. (today)
+- [ivuorinen/base-configs-semantic-release](https://github.com/ivuorinen/base-configs-semantic-release) - ivuorinen&#39;s shareable configuration for semantic-release. (today)
+- [ivuorinen/renovate-config](https://github.com/ivuorinen/renovate-config) -  (today)
+- [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) - These are my dotfiles. There are many like &#39;em, but these are mine. (1 day ago)
+- [ivuorinen/cheatsheet-tldr](https://github.com/ivuorinen/cheatsheet-tldr) - tldr-pages/tldr pages for cheat/cheat (1 day ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -24,19 +24,19 @@ I'm also a huge fan of open-source, and I try to contribute back to the communit
 
 #### 🚀 Latest releases I've contributed to
 
-- [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) ([26.8.15](https://github.com/ivuorinen/dotfiles/releases/tag/26.8.15), 1 day ago) - These are my dotfiles. There are many like &#39;em, but these are mine.
-- [ivuorinen/base-configs-markdownlint](https://github.com/ivuorinen/base-configs-markdownlint) ([v1.3.9](https://github.com/ivuorinen/base-configs-markdownlint/releases/tag/v1.3.9), 1 day ago) - ivuorinen&#39;s shareable configuration for markdownlint.
-- [ivuorinen/base-configs-browserslist](https://github.com/ivuorinen/base-configs-browserslist) ([v1.3.9](https://github.com/ivuorinen/base-configs-browserslist/releases/tag/v1.3.9), 1 day ago) - ivuorinen&#39;s shareable configuration for Browserslist.
-- [ivuorinen/obsidian-gh-projects](https://github.com/ivuorinen/obsidian-gh-projects) ([2026.08.4](https://github.com/ivuorinen/obsidian-gh-projects/releases/tag/2026.08.4), 3 days ago) - [WIP] Obsidian.md plugin for GitHub projects listing. Optimized for Base listing.
-- [ivuorinen/skills](https://github.com/ivuorinen/skills) ([ivuorinen-skills-v3.0.0](https://github.com/ivuorinen/skills/releases/tag/ivuorinen-skills-v3.0.0), 3 days ago) - My assortment of Claude Code skills
+- [ivuorinen/base-configs-commitlint](https://github.com/ivuorinen/base-configs-commitlint) ([v2.0.0](https://github.com/ivuorinen/base-configs-commitlint/releases/tag/v2.0.0), 1 day ago) - ivuorinen&#39;s shareable configuration for commitlint.
+- [ivuorinen/base-configs-semantic-release](https://github.com/ivuorinen/base-configs-semantic-release) ([v2.1.0](https://github.com/ivuorinen/base-configs-semantic-release/releases/tag/v2.1.0), 1 day ago) - ivuorinen&#39;s shareable configuration for semantic-release.
+- [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) ([26.8.16](https://github.com/ivuorinen/dotfiles/releases/tag/26.8.16), 1 day ago) - These are my dotfiles. There are many like &#39;em, but these are mine.
+- [ivuorinen/base-configs-browserslist](https://github.com/ivuorinen/base-configs-browserslist) ([v1.3.10](https://github.com/ivuorinen/base-configs-browserslist/releases/tag/v1.3.10), 1 day ago) - ivuorinen&#39;s shareable configuration for Browserslist.
+- [ivuorinen/base-configs-eslint](https://github.com/ivuorinen/base-configs-eslint) ([v1.5.7](https://github.com/ivuorinen/base-configs-eslint/releases/tag/v1.5.7), 1 day ago) - ivuorinen&#39;s shareable configuration for ESLint.
 
 #### ⭐ Recent Stars
 
-- [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd) - A skill to stop your coding agent from burying the answer. ADHD-friendly output. (2 days ago)
-- [ivuorinen/skills](https://github.com/ivuorinen/skills) - My assortment of Claude Code skills (3 days ago)
+- [heathcliff26/minecraft-exporter](https://github.com/heathcliff26/minecraft-exporter) - A prometheus exporter for minecraft server (1 day ago)
+- [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd) - A skill to stop your coding agent from burying the answer. ADHD-friendly output. (3 days ago)
+- [ivuorinen/skills](https://github.com/ivuorinen/skills) - My assortment of Claude Code skills (4 days ago)
 - [google/go-licenses](https://github.com/google/go-licenses) - A lightweight tool to report on the licenses used by a Go package and its dependencies. Highlight! Versioned external URL to licenses can be found at the same time. (1 month ago)
 - [jdx/hk](https://github.com/jdx/hk) - git hooks and project lints (1 month ago)
-- [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) - Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store. (1 month ago)
 
 
 
