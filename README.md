@@ -9,10 +9,10 @@ I'm also a huge fan of open-source, and I try to contribute back to the communit
 #### 👷 Check out what I'm currently working on
 
 - [ivuorinen/base-configs-commitlint](https://github.com/ivuorinen/base-configs-commitlint) - ivuorinen&#39;s shareable configuration for commitlint. (today)
-- [ivuorinen/base-configs-semantic-release](https://github.com/ivuorinen/base-configs-semantic-release) - ivuorinen&#39;s shareable configuration for semantic-release. (today)
+- [ivuorinen/cheatsheet-tldr](https://github.com/ivuorinen/cheatsheet-tldr) - tldr-pages/tldr pages for cheat/cheat (today)
+- [ivuorinen/starred](https://github.com/ivuorinen/starred) - Automatically updated list of my starred repos. (today)
 - [ivuorinen/renovate-config](https://github.com/ivuorinen/renovate-config) -  (today)
-- [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) - These are my dotfiles. There are many like &#39;em, but these are mine. (1 day ago)
-- [ivuorinen/cheatsheet-tldr](https://github.com/ivuorinen/cheatsheet-tldr) - tldr-pages/tldr pages for cheat/cheat (1 day ago)
+- [ivuorinen/base-configs-semantic-release](https://github.com/ivuorinen/base-configs-semantic-release) - ivuorinen&#39;s shareable configuration for semantic-release. (today)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -32,11 +32,11 @@ I'm also a huge fan of open-source, and I try to contribute back to the communit
 
 #### ⭐ Recent Stars
 
+- [ivuorinen/data-experiments](https://github.com/ivuorinen/data-experiments) -  (today)
 - [heathcliff26/minecraft-exporter](https://github.com/heathcliff26/minecraft-exporter) - A prometheus exporter for minecraft server (1 day ago)
 - [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd) - A skill to stop your coding agent from burying the answer. ADHD-friendly output. (3 days ago)
 - [ivuorinen/skills](https://github.com/ivuorinen/skills) - My assortment of Claude Code skills (4 days ago)
 - [google/go-licenses](https://github.com/google/go-licenses) - A lightweight tool to report on the licenses used by a Go package and its dependencies. Highlight! Versioned external URL to licenses can be found at the same time. (1 month ago)
-- [jdx/hk](https://github.com/jdx/hk) - git hooks and project lints (1 month ago)
 
 
 
