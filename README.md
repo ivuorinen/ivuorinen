@@ -8,11 +8,11 @@ I'm also a huge fan of open-source, and I try to contribute back to the communit
 
 #### 👷 Check out what I'm currently working on
 
-- [ivuorinen/base-configs-commitlint](https://github.com/ivuorinen/base-configs-commitlint) - ivuorinen&#39;s shareable configuration for commitlint. (today)
-- [ivuorinen/cheatsheet-tldr](https://github.com/ivuorinen/cheatsheet-tldr) - tldr-pages/tldr pages for cheat/cheat (today)
-- [ivuorinen/starred](https://github.com/ivuorinen/starred) - Automatically updated list of my starred repos. (today)
-- [ivuorinen/renovate-config](https://github.com/ivuorinen/renovate-config) -  (today)
-- [ivuorinen/base-configs-semantic-release](https://github.com/ivuorinen/base-configs-semantic-release) - ivuorinen&#39;s shareable configuration for semantic-release. (today)
+- [ivuorinen/base-configs-commitlint](https://github.com/ivuorinen/base-configs-commitlint) - ivuorinen&#39;s shareable configuration for commitlint. (1 day ago)
+- [ivuorinen/cheatsheet-tldr](https://github.com/ivuorinen/cheatsheet-tldr) - tldr-pages/tldr pages for cheat/cheat (1 day ago)
+- [ivuorinen/starred](https://github.com/ivuorinen/starred) - Automatically updated list of my starred repos. (1 day ago)
+- [ivuorinen/skills](https://github.com/ivuorinen/skills) - My assortment of Claude Code skills (1 day ago)
+- [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) - These are my dotfiles. There are many like &#39;em, but these are mine. (1 day ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -24,18 +24,18 @@ I'm also a huge fan of open-source, and I try to contribute back to the communit
 
 #### 🚀 Latest releases I've contributed to
 
-- [ivuorinen/base-configs-commitlint](https://github.com/ivuorinen/base-configs-commitlint) ([v2.0.0](https://github.com/ivuorinen/base-configs-commitlint/releases/tag/v2.0.0), 1 day ago) - ivuorinen&#39;s shareable configuration for commitlint.
-- [ivuorinen/base-configs-semantic-release](https://github.com/ivuorinen/base-configs-semantic-release) ([v2.1.0](https://github.com/ivuorinen/base-configs-semantic-release/releases/tag/v2.1.0), 1 day ago) - ivuorinen&#39;s shareable configuration for semantic-release.
-- [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) ([26.8.16](https://github.com/ivuorinen/dotfiles/releases/tag/26.8.16), 1 day ago) - These are my dotfiles. There are many like &#39;em, but these are mine.
-- [ivuorinen/base-configs-browserslist](https://github.com/ivuorinen/base-configs-browserslist) ([v1.3.10](https://github.com/ivuorinen/base-configs-browserslist/releases/tag/v1.3.10), 1 day ago) - ivuorinen&#39;s shareable configuration for Browserslist.
-- [ivuorinen/base-configs-eslint](https://github.com/ivuorinen/base-configs-eslint) ([v1.5.7](https://github.com/ivuorinen/base-configs-eslint/releases/tag/v1.5.7), 1 day ago) - ivuorinen&#39;s shareable configuration for ESLint.
+- [ivuorinen/actions](https://github.com/ivuorinen/actions) ([v2026.08.17](https://github.com/ivuorinen/actions/releases/tag/v2026.08.17), 1 day ago) - ivuorinen&#39;s shared actions
+- [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) ([26.8.17](https://github.com/ivuorinen/dotfiles/releases/tag/26.8.17), 1 day ago) - These are my dotfiles. There are many like &#39;em, but these are mine.
+- [ivuorinen/base-configs](https://github.com/ivuorinen/base-configs) ([v4.0.0](https://github.com/ivuorinen/base-configs/releases/tag/v4.0.0), 1 day ago) - meta package for my linting configurations
+- [ivuorinen/semver-ranger](https://github.com/ivuorinen/semver-ranger) ([v5.0.0](https://github.com/ivuorinen/semver-ranger/releases/tag/v5.0.0), 1 day ago) - Parses your lockfiles to find lower and upper range for requirements
+- [ivuorinen/base-configs-commitlint](https://github.com/ivuorinen/base-configs-commitlint) ([v2.0.0](https://github.com/ivuorinen/base-configs-commitlint/releases/tag/v2.0.0), 2 days ago) - ivuorinen&#39;s shareable configuration for commitlint.
 
 #### ⭐ Recent Stars
 
-- [ivuorinen/data-experiments](https://github.com/ivuorinen/data-experiments) -  (today)
-- [heathcliff26/minecraft-exporter](https://github.com/heathcliff26/minecraft-exporter) - A prometheus exporter for minecraft server (1 day ago)
-- [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd) - A skill to stop your coding agent from burying the answer. ADHD-friendly output. (3 days ago)
-- [ivuorinen/skills](https://github.com/ivuorinen/skills) - My assortment of Claude Code skills (4 days ago)
+- [ivuorinen/data-experiments](https://github.com/ivuorinen/data-experiments) -  (1 day ago)
+- [heathcliff26/minecraft-exporter](https://github.com/heathcliff26/minecraft-exporter) - A prometheus exporter for minecraft server (2 days ago)
+- [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd) - A skill to stop your coding agent from burying the answer. ADHD-friendly output. (4 days ago)
+- [ivuorinen/skills](https://github.com/ivuorinen/skills) - My assortment of Claude Code skills (5 days ago)
 - [google/go-licenses](https://github.com/google/go-licenses) - A lightweight tool to report on the licenses used by a Go package and its dependencies. Highlight! Versioned external URL to licenses can be found at the same time. (1 month ago)
 
 
