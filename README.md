@@ -8,11 +8,11 @@ I'm also a huge fan of open-source, and I try to contribute back to the communit
 
 #### 👷 Check out what I'm currently working on
 
-- [ivuorinen/cheatsheet-tldr](https://github.com/ivuorinen/cheatsheet-tldr) - tldr-pages/tldr pages for cheat/cheat (today)
-- [ivuorinen/starred](https://github.com/ivuorinen/starred) - Automatically updated list of my starred repos. (today)
-- [ivuorinen/obsidian-livesync-coolify](https://github.com/ivuorinen/obsidian-livesync-coolify) - Production-oriented CouchDB deployment for Obsidian Self-hosted LiveSync on Coolify. One vault database per person, provisioned automatically and isolated by CouchDB access control. (1 day ago)
-- [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) - These are my dotfiles. There are many like &#39;em, but these are mine. (2 days ago)
-- [ivuorinen/a](https://github.com/ivuorinen/a) - A small CLI that encrypts and decrypts files with your SSH keys using the age format (2 days ago)
+- [ivuorinen/f2b](https://github.com/ivuorinen/f2b) - A modern, secure, and extensible Go CLI tool for managing Fail2Ban jails and bans (today)
+- [ivuorinen/gibidify](https://github.com/ivuorinen/gibidify) - gibidify is a CLI application written in Go that scans a source directory recursively and aggregates code files into a single text file for LLMs. (1 day ago)
+- [ivuorinen/starred](https://github.com/ivuorinen/starred) - Automatically updated list of my starred repos. (1 day ago)
+- [ivuorinen/skills](https://github.com/ivuorinen/skills) - My assortment of Claude Code skills (1 day ago)
+- [ivuorinen/go-test-sarif](https://github.com/ivuorinen/go-test-sarif) - Convert `go test -json` output to SARIF (1 day ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -24,19 +24,19 @@ I'm also a huge fan of open-source, and I try to contribute back to the communit
 
 #### 🚀 Latest releases I've contributed to
 
-- [ivuorinen/actions](https://github.com/ivuorinen/actions) ([v2026.08.28](https://github.com/ivuorinen/actions/releases/tag/v2026.08.28), today) - a collection of reusable GitHub Actions designed to streamline CI/CD processes and ensure code quality
-- [ivuorinen/base-configs-markdownlint](https://github.com/ivuorinen/base-configs-markdownlint) ([v1.3.10](https://github.com/ivuorinen/base-configs-markdownlint/releases/tag/v1.3.10), 1 day ago) - ivuorinen&#39;s shareable configuration for markdownlint.
-- [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) ([26.8.26](https://github.com/ivuorinen/dotfiles/releases/tag/26.8.26), 2 days ago) - These are my dotfiles. There are many like &#39;em, but these are mine.
-- [ivuorinen/base-configs-prettier](https://github.com/ivuorinen/base-configs-prettier) ([v2.0.7](https://github.com/ivuorinen/base-configs-prettier/releases/tag/v2.0.7), 3 days ago) - ivuorinen&#39;s shareable configuration for Prettier.
-- [ivuorinen/base-configs-browserslist](https://github.com/ivuorinen/base-configs-browserslist) ([v1.3.12](https://github.com/ivuorinen/base-configs-browserslist/releases/tag/v1.3.12), 3 days ago) - ivuorinen&#39;s shareable configuration for Browserslist.
+- [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) ([26.8.28](https://github.com/ivuorinen/dotfiles/releases/tag/26.8.28), 1 day ago) - These are my dotfiles. There are many like &#39;em, but these are mine.
+- [ivuorinen/base-configs](https://github.com/ivuorinen/base-configs) ([v4.0.1](https://github.com/ivuorinen/base-configs/releases/tag/v4.0.1), 1 day ago) - meta package for my linting configurations
+- [ivuorinen/actions](https://github.com/ivuorinen/actions) ([v2026.08.28](https://github.com/ivuorinen/actions/releases/tag/v2026.08.28), 1 day ago) - a collection of reusable GitHub Actions designed to streamline CI/CD processes and ensure code quality
+- [ivuorinen/base-configs-markdownlint](https://github.com/ivuorinen/base-configs-markdownlint) ([v1.3.10](https://github.com/ivuorinen/base-configs-markdownlint/releases/tag/v1.3.10), 2 days ago) - ivuorinen&#39;s shareable configuration for markdownlint.
+- [ivuorinen/base-configs-prettier](https://github.com/ivuorinen/base-configs-prettier) ([v2.0.7](https://github.com/ivuorinen/base-configs-prettier/releases/tag/v2.0.7), 4 days ago) - ivuorinen&#39;s shareable configuration for Prettier.
 
 #### ⭐ Recent Stars
 
-- [ivuorinen/obsidian-livesync-coolify](https://github.com/ivuorinen/obsidian-livesync-coolify) - Production-oriented CouchDB deployment for Obsidian Self-hosted LiveSync on Coolify. One vault database per person, provisioned automatically and isolated by CouchDB access control. (1 day ago)
-- [ashhart/Cortheon](https://github.com/ashhart/Cortheon) - A lightweight runtime that helps a small local model reason, discover, and complete work like a frontier model. (3 days ago)
+- [ivuorinen/a](https://github.com/ivuorinen/a) - A small CLI that encrypts and decrypts files with your SSH keys using the age format (1 day ago)
+- [ivuorinen/obsidian-livesync-coolify](https://github.com/ivuorinen/obsidian-livesync-coolify) - Production-oriented CouchDB deployment for Obsidian Self-hosted LiveSync on Coolify. One vault database per person, provisioned automatically and isolated by CouchDB access control. (2 days ago)
+- [ashhart/Cortheon](https://github.com/ashhart/Cortheon) - A lightweight runtime that helps a small local model reason, discover, and complete work like a frontier model. (4 days ago)
 - [steipete/CodexBar](https://github.com/steipete/CodexBar) - Show usage stats for OpenAI Codex and Claude Code, without having to login. (1 week ago)
 - [CtrlSpice/otel-desktop-viewer](https://github.com/CtrlSpice/otel-desktop-viewer) - otel-desktop-viewer is a CLI tool for receiving OpenTelemetry traces while working on your local machine. (1 week ago)
-- [agentskills/agentskills](https://github.com/agentskills/agentskills) - Specification and documentation for Agent Skills (1 week ago)
 
 
 
