@@ -9,9 +9,9 @@ I'm also a huge fan of open-source, and I try to contribute back to the communit
 #### 👷 Check out what I'm currently working on
 
 - [ivuorinen/cheatsheet-tldr](https://github.com/ivuorinen/cheatsheet-tldr) - tldr-pages/tldr pages for cheat/cheat (1 day ago)
-- [ivuorinen/starred](https://github.com/ivuorinen/starred) - Automatically updated list of my starred repos. (2 days ago)
-- [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) - These are my dotfiles. There are many like &#39;em, but these are mine. (3 days ago)
-- [ivuorinen/skills](https://github.com/ivuorinen/skills) - Nitpicker — a hostile audit toolkit for coding agents. One skill, one entry point, a full deck of audit command: Assumes the code is incorrect until proven otherwise. Every command files findings with evidence and a concrete fix — no compliments, no hedging. (6 days ago)
+- [ivuorinen/starred](https://github.com/ivuorinen/starred) - Automatically updated list of my starred repos. (1 day ago)
+- [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) - These are my dotfiles. There are many like &#39;em, but these are mine. (4 days ago)
+- [ivuorinen/skills](https://github.com/ivuorinen/skills) - Nitpicker — a hostile audit toolkit for coding agents. One skill, one entry point, a full deck of audit command: Assumes the code is incorrect until proven otherwise. Every command files findings with evidence and a concrete fix — no compliments, no hedging. (1 week ago)
 - [ivuorinen/gh-history](https://github.com/ivuorinen/gh-history) - GitHub CLI history command (1 week ago)
 
 #### 👨‍💻 Repositories I created recently
@@ -24,16 +24,16 @@ I'm also a huge fan of open-source, and I try to contribute back to the communit
 
 #### 🚀 Latest releases I've contributed to
 
-- [ivuorinen/base-configs-browserslist](https://github.com/ivuorinen/base-configs-browserslist) ([v1.3.17](https://github.com/ivuorinen/base-configs-browserslist/releases/tag/v1.3.17), 1 day ago) - ivuorinen&#39;s shareable configuration for Browserslist.
-- [ivuorinen/base-configs-eslint](https://github.com/ivuorinen/base-configs-eslint) ([v1.5.13](https://github.com/ivuorinen/base-configs-eslint/releases/tag/v1.5.13), 1 day ago) - ivuorinen&#39;s shareable configuration for ESLint.
-- [ivuorinen/base-configs-prettier](https://github.com/ivuorinen/base-configs-prettier) ([v2.0.9](https://github.com/ivuorinen/base-configs-prettier/releases/tag/v2.0.9), 1 day ago) - ivuorinen&#39;s shareable configuration for Prettier.
-- [ivuorinen/actions](https://github.com/ivuorinen/actions) ([v2026.09.04](https://github.com/ivuorinen/actions/releases/tag/v2026.09.04), 2 days ago) - a collection of reusable GitHub Actions designed to streamline CI/CD processes and ensure code quality
-- [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) ([26.9.4](https://github.com/ivuorinen/dotfiles/releases/tag/26.9.4), 2 days ago) - These are my dotfiles. There are many like &#39;em, but these are mine.
+- [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) ([26.9.6](https://github.com/ivuorinen/dotfiles/releases/tag/26.9.6), 1 day ago) - These are my dotfiles. There are many like &#39;em, but these are mine.
+- [ivuorinen/base-configs-browserslist](https://github.com/ivuorinen/base-configs-browserslist) ([v1.3.17](https://github.com/ivuorinen/base-configs-browserslist/releases/tag/v1.3.17), 2 days ago) - ivuorinen&#39;s shareable configuration for Browserslist.
+- [ivuorinen/base-configs-eslint](https://github.com/ivuorinen/base-configs-eslint) ([v1.5.13](https://github.com/ivuorinen/base-configs-eslint/releases/tag/v1.5.13), 2 days ago) - ivuorinen&#39;s shareable configuration for ESLint.
+- [ivuorinen/base-configs-prettier](https://github.com/ivuorinen/base-configs-prettier) ([v2.0.9](https://github.com/ivuorinen/base-configs-prettier/releases/tag/v2.0.9), 2 days ago) - ivuorinen&#39;s shareable configuration for Prettier.
+- [ivuorinen/actions](https://github.com/ivuorinen/actions) ([v2026.09.04](https://github.com/ivuorinen/actions/releases/tag/v2026.09.04), 3 days ago) - a collection of reusable GitHub Actions designed to streamline CI/CD processes and ensure code quality
 
 #### ⭐ Recent Stars
 
-- [PanXProject/awesome-certificates](https://github.com/PanXProject/awesome-certificates) - Curated list of 20,000&#43; hours and 200&#43; free courses with certificates in IT, CS, Design and Business. (4 days ago)
-- [airano-ir/skillhub](https://github.com/airano-ir/skillhub) - Open-source marketplace for AI Agent skills (5 days ago)
+- [PanXProject/awesome-certificates](https://github.com/PanXProject/awesome-certificates) - Curated list of 20,000&#43; hours and 200&#43; free courses with certificates in IT, CS, Design and Business. (5 days ago)
+- [airano-ir/skillhub](https://github.com/airano-ir/skillhub) - Open-source marketplace for AI Agent skills (6 days ago)
 - [JustVugg/colibri](https://github.com/JustVugg/colibri) - Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦 (1 week ago)
 - [ivuorinen/a](https://github.com/ivuorinen/a) - A small CLI that encrypts and decrypts files with your SSH keys using the age format (1 week ago)
 - [ivuorinen/obsidian-livesync-coolify](https://github.com/ivuorinen/obsidian-livesync-coolify) - Production-oriented CouchDB deployment for Obsidian Self-hosted LiveSync on Coolify. One vault database per person, provisioned automatically and isolated by CouchDB access control. (1 week ago)
