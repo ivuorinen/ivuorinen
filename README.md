@@ -11,8 +11,8 @@ I'm also a huge fan of open-source, and I try to contribute back to the communit
 - [ivuorinen/cheatsheet-tldr](https://github.com/ivuorinen/cheatsheet-tldr) - tldr-pages/tldr pages for cheat/cheat (today)
 - [ivuorinen/homebrew-tap](https://github.com/ivuorinen/homebrew-tap) - brew tap ivuorinen/tap (today)
 - [ivuorinen/phpenv.fish](https://github.com/ivuorinen/phpenv.fish) - A fast, feature-rich PHP version manager for Fish Shell using brew that acts like goenv or nvm. (today)
+- [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) - These are my dotfiles. There are many like &#39;em, but these are mine. (today)
 - [ivuorinen/github-base-template](https://github.com/ivuorinen/github-base-template) - This is my base GitHub repository template with actions, and other stuff pre configured. (1 day ago)
-- [ivuorinen/actions](https://github.com/ivuorinen/actions) - a collection of reusable GitHub Actions designed to streamline CI/CD processes and ensure code quality (1 day ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -24,9 +24,9 @@ I'm also a huge fan of open-source, and I try to contribute back to the communit
 
 #### 🚀 Latest releases I've contributed to
 
+- [ivuorinen/base-configs-eslint](https://github.com/ivuorinen/base-configs-eslint) ([v1.5.16](https://github.com/ivuorinen/base-configs-eslint/releases/tag/v1.5.16), today) - ivuorinen&#39;s shareable configuration for ESLint.
 - [ivuorinen/actions](https://github.com/ivuorinen/actions) ([v2026.09.09](https://github.com/ivuorinen/actions/releases/tag/v2026.09.09), 1 day ago) - a collection of reusable GitHub Actions designed to streamline CI/CD processes and ensure code quality
 - [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) ([26.9.9](https://github.com/ivuorinen/dotfiles/releases/tag/26.9.9), 1 day ago) - These are my dotfiles. There are many like &#39;em, but these are mine.
-- [ivuorinen/base-configs-eslint](https://github.com/ivuorinen/base-configs-eslint) ([v1.5.14](https://github.com/ivuorinen/base-configs-eslint/releases/tag/v1.5.14), 2 days ago) - ivuorinen&#39;s shareable configuration for ESLint.
 - [ivuorinen/base-configs-browserslist](https://github.com/ivuorinen/base-configs-browserslist) ([v1.3.17](https://github.com/ivuorinen/base-configs-browserslist/releases/tag/v1.3.17), 5 days ago) - ivuorinen&#39;s shareable configuration for Browserslist.
 - [ivuorinen/base-configs-prettier](https://github.com/ivuorinen/base-configs-prettier) ([v2.0.9](https://github.com/ivuorinen/base-configs-prettier/releases/tag/v2.0.9), 5 days ago) - ivuorinen&#39;s shareable configuration for Prettier.
 
