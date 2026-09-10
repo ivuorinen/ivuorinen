@@ -8,11 +8,11 @@ I'm also a huge fan of open-source, and I try to contribute back to the communit
 
 #### 👷 Check out what I'm currently working on
 
-- [ivuorinen/sysvinit-service-generator](https://github.com/ivuorinen/sysvinit-service-generator) - Vue 3 app for creating sysvinit service scripts (1 day ago)
+- [ivuorinen/homebrew-tap](https://github.com/ivuorinen/homebrew-tap) - brew tap ivuorinen/tap (today)
+- [ivuorinen/github-base-template](https://github.com/ivuorinen/github-base-template) - This is my base GitHub repository template with actions, and other stuff pre configured. (1 day ago)
 - [ivuorinen/cheatsheet-tldr](https://github.com/ivuorinen/cheatsheet-tldr) - tldr-pages/tldr pages for cheat/cheat (1 day ago)
-- [ivuorinen/skills](https://github.com/ivuorinen/skills) - Nitpicker — a hostile audit toolkit for coding agents. One skill, one entry point, a full deck of audit command: Assumes the code is incorrect until proven otherwise. Every command files findings with evidence and a concrete fix — no compliments, no hedging. (2 days ago)
-- [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) - These are my dotfiles. There are many like &#39;em, but these are mine. (2 days ago)
-- [ivuorinen/starred](https://github.com/ivuorinen/starred) - Automatically updated list of my starred repos. (3 days ago)
+- [ivuorinen/actions](https://github.com/ivuorinen/actions) - a collection of reusable GitHub Actions designed to streamline CI/CD processes and ensure code quality (1 day ago)
+- [ivuorinen/starred](https://github.com/ivuorinen/starred) - Automatically updated list of my starred repos. (1 day ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -24,11 +24,11 @@ I'm also a huge fan of open-source, and I try to contribute back to the communit
 
 #### 🚀 Latest releases I've contributed to
 
-- [ivuorinen/actions](https://github.com/ivuorinen/actions) ([v2026.09.08](https://github.com/ivuorinen/actions/releases/tag/v2026.09.08), 1 day ago) - a collection of reusable GitHub Actions designed to streamline CI/CD processes and ensure code quality
-- [ivuorinen/base-configs-eslint](https://github.com/ivuorinen/base-configs-eslint) ([v1.5.14](https://github.com/ivuorinen/base-configs-eslint/releases/tag/v1.5.14), 1 day ago) - ivuorinen&#39;s shareable configuration for ESLint.
-- [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) ([26.9.7](https://github.com/ivuorinen/dotfiles/releases/tag/26.9.7), 2 days ago) - These are my dotfiles. There are many like &#39;em, but these are mine.
-- [ivuorinen/base-configs-browserslist](https://github.com/ivuorinen/base-configs-browserslist) ([v1.3.17](https://github.com/ivuorinen/base-configs-browserslist/releases/tag/v1.3.17), 4 days ago) - ivuorinen&#39;s shareable configuration for Browserslist.
-- [ivuorinen/base-configs-prettier](https://github.com/ivuorinen/base-configs-prettier) ([v2.0.9](https://github.com/ivuorinen/base-configs-prettier/releases/tag/v2.0.9), 4 days ago) - ivuorinen&#39;s shareable configuration for Prettier.
+- [ivuorinen/actions](https://github.com/ivuorinen/actions) ([v2026.09.09](https://github.com/ivuorinen/actions/releases/tag/v2026.09.09), 1 day ago) - a collection of reusable GitHub Actions designed to streamline CI/CD processes and ensure code quality
+- [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) ([26.9.9](https://github.com/ivuorinen/dotfiles/releases/tag/26.9.9), 1 day ago) - These are my dotfiles. There are many like &#39;em, but these are mine.
+- [ivuorinen/base-configs-eslint](https://github.com/ivuorinen/base-configs-eslint) ([v1.5.14](https://github.com/ivuorinen/base-configs-eslint/releases/tag/v1.5.14), 2 days ago) - ivuorinen&#39;s shareable configuration for ESLint.
+- [ivuorinen/base-configs-browserslist](https://github.com/ivuorinen/base-configs-browserslist) ([v1.3.17](https://github.com/ivuorinen/base-configs-browserslist/releases/tag/v1.3.17), 5 days ago) - ivuorinen&#39;s shareable configuration for Browserslist.
+- [ivuorinen/base-configs-prettier](https://github.com/ivuorinen/base-configs-prettier) ([v2.0.9](https://github.com/ivuorinen/base-configs-prettier/releases/tag/v2.0.9), 5 days ago) - ivuorinen&#39;s shareable configuration for Prettier.
 
 #### ⭐ Recent Stars
 
@@ -36,7 +36,7 @@ I'm also a huge fan of open-source, and I try to contribute back to the communit
 - [airano-ir/skillhub](https://github.com/airano-ir/skillhub) - Open-source marketplace for AI Agent skills (1 week ago)
 - [JustVugg/colibri](https://github.com/JustVugg/colibri) - Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦 (1 week ago)
 - [ivuorinen/a](https://github.com/ivuorinen/a) - A small CLI that encrypts and decrypts files with your SSH keys using the age format (1 week ago)
-- [ivuorinen/obsidian-livesync-coolify](https://github.com/ivuorinen/obsidian-livesync-coolify) - Production-oriented CouchDB deployment for Obsidian Self-hosted LiveSync on Coolify. One vault database per person, provisioned automatically and isolated by CouchDB access control. (1 week ago)
+- [ivuorinen/obsidian-livesync-coolify](https://github.com/ivuorinen/obsidian-livesync-coolify) - Production-oriented CouchDB deployment for Obsidian Self-hosted LiveSync on Coolify. One vault database per person, provisioned automatically and isolated by CouchDB access control. (2 weeks ago)
 
 
 
