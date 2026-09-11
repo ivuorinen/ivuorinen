@@ -8,11 +8,11 @@ I'm also a huge fan of open-source, and I try to contribute back to the communit
 
 #### 👷 Check out what I'm currently working on
 
-- [ivuorinen/cheatsheet-tldr](https://github.com/ivuorinen/cheatsheet-tldr) - tldr-pages/tldr pages for cheat/cheat (1 day ago)
-- [ivuorinen/homebrew-tap](https://github.com/ivuorinen/homebrew-tap) - brew tap ivuorinen/tap (1 day ago)
+- [ivuorinen/cheatsheet-tldr](https://github.com/ivuorinen/cheatsheet-tldr) - tldr-pages/tldr pages for cheat/cheat (today)
+- [ivuorinen/starred](https://github.com/ivuorinen/starred) - Automatically updated list of my starred repos. (today)
 - [ivuorinen/phpenv.fish](https://github.com/ivuorinen/phpenv.fish) - A fast, feature-rich PHP version manager for Fish Shell using brew that acts like goenv or nvm. (1 day ago)
+- [ivuorinen/homebrew-tap](https://github.com/ivuorinen/homebrew-tap) - brew tap ivuorinen/tap (1 day ago)
 - [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) - These are my dotfiles. There are many like &#39;em, but these are mine. (1 day ago)
-- [ivuorinen/github-base-template](https://github.com/ivuorinen/github-base-template) - This is my base GitHub repository template with actions, and other stuff pre configured. (2 days ago)
 
 #### 👨‍💻 Repositories I created recently
 
