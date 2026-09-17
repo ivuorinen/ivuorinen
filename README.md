@@ -8,11 +8,11 @@ I'm also a huge fan of open-source, and I try to contribute back to the communit
 
 #### 👷 Check out what I'm currently working on
 
+- [ivuorinen/semver-ranger](https://github.com/ivuorinen/semver-ranger) - Parses your lockfiles to find lower and upper range for requirements (1 day ago)
 - [ivuorinen/cheatsheet-tldr](https://github.com/ivuorinen/cheatsheet-tldr) - tldr-pages/tldr pages for cheat/cheat (1 day ago)
 - [ivuorinen/starred](https://github.com/ivuorinen/starred) - Automatically updated list of my starred repos. (1 day ago)
-- [ivuorinen/skills](https://github.com/ivuorinen/skills) - Nitpicker — a hostile audit toolkit for coding agents. One skill, one entry point, a full deck of audit command: Assumes the code is incorrect until proven otherwise. Every command files findings with evidence and a concrete fix — no compliments, no hedging. (1 day ago)
-- [ivuorinen/tree-sitter-shellspec](https://github.com/ivuorinen/tree-sitter-shellspec) - Tree-Sitter Definitions for ShellSpec BDD testing framework (1 day ago)
-- [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) - These are my dotfiles. There are many like &#39;em, but these are mine. (2 days ago)
+- [ivuorinen/skills](https://github.com/ivuorinen/skills) - Nitpicker — a hostile audit toolkit for coding agents. One skill, one entry point, a full deck of audit command: Assumes the code is incorrect until proven otherwise. Every command files findings with evidence and a concrete fix — no compliments, no hedging. (2 days ago)
+- [ivuorinen/tree-sitter-shellspec](https://github.com/ivuorinen/tree-sitter-shellspec) - Tree-Sitter Definitions for ShellSpec BDD testing framework (2 days ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -24,19 +24,19 @@ I'm also a huge fan of open-source, and I try to contribute back to the communit
 
 #### 🚀 Latest releases I've contributed to
 
-- [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) ([26.9.15](https://github.com/ivuorinen/dotfiles/releases/tag/26.9.15), 1 day ago) - These are my dotfiles. There are many like &#39;em, but these are mine.
-- [ivuorinen/base-configs-browserslist](https://github.com/ivuorinen/base-configs-browserslist) ([v1.3.21](https://github.com/ivuorinen/base-configs-browserslist/releases/tag/v1.3.21), 1 day ago) - ivuorinen&#39;s shareable configuration for Browserslist.
-- [ivuorinen/base-configs-eslint](https://github.com/ivuorinen/base-configs-eslint) ([v1.5.17](https://github.com/ivuorinen/base-configs-eslint/releases/tag/v1.5.17), 1 day ago) - ivuorinen&#39;s shareable configuration for ESLint.
-- [ivuorinen/config-checker](https://github.com/ivuorinen/config-checker) ([v2.6.16](https://github.com/ivuorinen/config-checker/releases/tag/v2.6.16), 1 day ago) - Checks the commonly used configuration locations for configuration files
-- [ivuorinen/base-configs-prettier](https://github.com/ivuorinen/base-configs-prettier) ([v2.0.11](https://github.com/ivuorinen/base-configs-prettier/releases/tag/v2.0.11), 5 days ago) - ivuorinen&#39;s shareable configuration for Prettier.
+- [ivuorinen/base-configs-browserslist](https://github.com/ivuorinen/base-configs-browserslist) ([v1.3.22](https://github.com/ivuorinen/base-configs-browserslist/releases/tag/v1.3.22), 1 day ago) - ivuorinen&#39;s shareable configuration for Browserslist.
+- [ivuorinen/base-configs-prettier](https://github.com/ivuorinen/base-configs-prettier) ([v2.0.12](https://github.com/ivuorinen/base-configs-prettier/releases/tag/v2.0.12), 1 day ago) - ivuorinen&#39;s shareable configuration for Prettier.
+- [ivuorinen/semver-ranger](https://github.com/ivuorinen/semver-ranger) ([v5.0.3](https://github.com/ivuorinen/semver-ranger/releases/tag/v5.0.3), 1 day ago) - Parses your lockfiles to find lower and upper range for requirements
+- [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) ([26.9.15](https://github.com/ivuorinen/dotfiles/releases/tag/26.9.15), 2 days ago) - These are my dotfiles. There are many like &#39;em, but these are mine.
+- [ivuorinen/base-configs-eslint](https://github.com/ivuorinen/base-configs-eslint) ([v1.5.17](https://github.com/ivuorinen/base-configs-eslint/releases/tag/v1.5.17), 2 days ago) - ivuorinen&#39;s shareable configuration for ESLint.
 
 #### ⭐ Recent Stars
 
-- [fredrikaverpil/dotfiles](https://github.com/fredrikaverpil/dotfiles) -  (2 days ago)
-- [herdrdev/herdr](https://github.com/herdrdev/herdr) - the runtime your coding agents live on (2 days ago)
-- [sobolevn/dotfiles](https://github.com/sobolevn/dotfiles) - dotfiles for the developer happiness: macos, zsh, brew, vscode, python, minimalism (3 days ago)
-- [9001/copyparty](https://github.com/9001/copyparty) - Portable file server with accelerated resumable uploads, dedup, WebDAV, SFTP, FTP, TFTP, zeroconf, media indexer, thumbnails&#43;&#43; all in one file (3 days ago)
-- [freed-dev-llc/exo-rkllama](https://github.com/freed-dev-llc/exo-rkllama) - A fork of exo-explore/exo that adds RKLLM inference engine support for Rockchip RK3588/RK3576 NPU devices.📱💻 🖥️⌚ (3 days ago)
+- [smarzban/herdr-tsk](https://github.com/smarzban/herdr-tsk) - tsk, a Linear alternative that stays in the terminal: a shared task board for you and your agents. TUI for you, CLI for them. (1 day ago)
+- [fredrikaverpil/dotfiles](https://github.com/fredrikaverpil/dotfiles) -  (3 days ago)
+- [herdrdev/herdr](https://github.com/herdrdev/herdr) - the runtime your coding agents live on (3 days ago)
+- [sobolevn/dotfiles](https://github.com/sobolevn/dotfiles) - dotfiles for the developer happiness: macos, zsh, brew, vscode, python, minimalism (4 days ago)
+- [9001/copyparty](https://github.com/9001/copyparty) - Portable file server with accelerated resumable uploads, dedup, WebDAV, SFTP, FTP, TFTP, zeroconf, media indexer, thumbnails&#43;&#43; all in one file (4 days ago)
 
 
 
