@@ -10,9 +10,9 @@ I'm also a huge fan of open-source, and I try to contribute back to the communit
 
 - [ivuorinen/cheatsheet-tldr](https://github.com/ivuorinen/cheatsheet-tldr) - tldr-pages/tldr pages for cheat/cheat (1 day ago)
 - [ivuorinen/starred](https://github.com/ivuorinen/starred) - Automatically updated list of my starred repos. (1 day ago)
-- [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) - These are my dotfiles. There are many like &#39;em, but these are mine. (1 day ago)
-- [ivuorinen/semver-ranger](https://github.com/ivuorinen/semver-ranger) - Parses your lockfiles to find lower and upper range for requirements (6 days ago)
-- [ivuorinen/tree-sitter-shellspec](https://github.com/ivuorinen/tree-sitter-shellspec) - Tree-Sitter Definitions for ShellSpec BDD testing framework (1 week ago)
+- [ivuorinen/tree-sitter-shellspec](https://github.com/ivuorinen/tree-sitter-shellspec) - Tree-Sitter Definitions for ShellSpec BDD testing framework (1 day ago)
+- [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) - These are my dotfiles. There are many like &#39;em, but these are mine. (2 days ago)
+- [ivuorinen/semver-ranger](https://github.com/ivuorinen/semver-ranger) - Parses your lockfiles to find lower and upper range for requirements (1 week ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -24,15 +24,15 @@ I'm also a huge fan of open-source, and I try to contribute back to the communit
 
 #### 🚀 Latest releases I've contributed to
 
-- [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) ([26.9.21](https://github.com/ivuorinen/dotfiles/releases/tag/26.9.21), 1 day ago) - These are my dotfiles. There are many like &#39;em, but these are mine.
-- [ivuorinen/semver-ranger](https://github.com/ivuorinen/semver-ranger) ([v5.0.4](https://github.com/ivuorinen/semver-ranger/releases/tag/v5.0.4), 2 days ago) - Parses your lockfiles to find lower and upper range for requirements
-- [ivuorinen/actions](https://github.com/ivuorinen/actions) ([v2026.09.17](https://github.com/ivuorinen/actions/releases/tag/v2026.09.17), 5 days ago) - a collection of reusable GitHub Actions designed to streamline CI/CD processes and ensure code quality
-- [ivuorinen/base-configs-browserslist](https://github.com/ivuorinen/base-configs-browserslist) ([v1.3.22](https://github.com/ivuorinen/base-configs-browserslist/releases/tag/v1.3.22), 6 days ago) - ivuorinen&#39;s shareable configuration for Browserslist.
-- [ivuorinen/base-configs-prettier](https://github.com/ivuorinen/base-configs-prettier) ([v2.0.12](https://github.com/ivuorinen/base-configs-prettier/releases/tag/v2.0.12), 6 days ago) - ivuorinen&#39;s shareable configuration for Prettier.
+- [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) ([26.9.22](https://github.com/ivuorinen/dotfiles/releases/tag/26.9.22), 1 day ago) - These are my dotfiles. There are many like &#39;em, but these are mine.
+- [ivuorinen/config-checker](https://github.com/ivuorinen/config-checker) ([v2.6.17](https://github.com/ivuorinen/config-checker/releases/tag/v2.6.17), 1 day ago) - Checks the commonly used configuration locations for configuration files
+- [ivuorinen/semver-ranger](https://github.com/ivuorinen/semver-ranger) ([v5.0.4](https://github.com/ivuorinen/semver-ranger/releases/tag/v5.0.4), 3 days ago) - Parses your lockfiles to find lower and upper range for requirements
+- [ivuorinen/actions](https://github.com/ivuorinen/actions) ([v2026.09.17](https://github.com/ivuorinen/actions/releases/tag/v2026.09.17), 6 days ago) - a collection of reusable GitHub Actions designed to streamline CI/CD processes and ensure code quality
+- [ivuorinen/base-configs-browserslist](https://github.com/ivuorinen/base-configs-browserslist) ([v1.3.22](https://github.com/ivuorinen/base-configs-browserslist/releases/tag/v1.3.22), 1 week ago) - ivuorinen&#39;s shareable configuration for Browserslist.
 
 #### ⭐ Recent Stars
 
-- [smarzban/tsk](https://github.com/smarzban/tsk) - tsk, a Linear alternative that stays in the terminal: a shared task board for you and your agents. TUI for you, CLI for them. (6 days ago)
+- [smarzban/tsk](https://github.com/smarzban/tsk) - tsk, a Linear alternative that stays in the terminal: a shared task board for you and your agents. TUI for you, CLI for them. (1 week ago)
 - [fredrikaverpil/dotfiles](https://github.com/fredrikaverpil/dotfiles) -  (1 week ago)
 - [herdrdev/herdr](https://github.com/herdrdev/herdr) - the runtime your coding agents live on (1 week ago)
 - [sobolevn/dotfiles](https://github.com/sobolevn/dotfiles) - dotfiles for the developer happiness: macos, zsh, brew, vscode, python, minimalism (1 week ago)
