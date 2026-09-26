@@ -8,11 +8,11 @@ I'm also a huge fan of open-source, and I try to contribute back to the communit
 
 #### 👷 Check out what I'm currently working on
 
-- [ivuorinen/semver-ranger](https://github.com/ivuorinen/semver-ranger) - Parses your lockfiles to find lower and upper range for requirements (1 day ago)
-- [ivuorinen/cheatsheet-tldr](https://github.com/ivuorinen/cheatsheet-tldr) - tldr-pages/tldr pages for cheat/cheat (1 day ago)
-- [ivuorinen/starred](https://github.com/ivuorinen/starred) - Automatically updated list of my starred repos. (1 day ago)
-- [ivuorinen/skills](https://github.com/ivuorinen/skills) - Nitpicker — a hostile audit toolkit for coding agents. One skill, one entry point, a full deck of audit command: Assumes the code is incorrect until proven otherwise. Every command files findings with evidence and a concrete fix — no compliments, no hedging. (1 day ago)
-- [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) - These are my dotfiles. There are many like &#39;em, but these are mine. (1 day ago)
+- [ivuorinen/base-configs-browserslist](https://github.com/ivuorinen/base-configs-browserslist) - ivuorinen&#39;s shareable configuration for Browserslist. (today)
+- [ivuorinen/base-configs-stylelint](https://github.com/ivuorinen/base-configs-stylelint) - ivuorinen&#39;s shareable configuration for stylelint. (today)
+- [ivuorinen/base-configs-eslint](https://github.com/ivuorinen/base-configs-eslint) - ivuorinen&#39;s shareable configuration for ESLint. (today)
+- [ivuorinen/skills](https://github.com/ivuorinen/skills) - Nitpicker — a hostile audit toolkit for coding agents. One skill, one entry point, a full deck of audit command: Assumes the code is incorrect until proven otherwise. Every command files findings with evidence and a concrete fix — no compliments, no hedging. (today)
+- [ivuorinen/base-configs-prettier](https://github.com/ivuorinen/base-configs-prettier) - ivuorinen&#39;s shareable configuration for Prettier. (today)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -24,11 +24,11 @@ I'm also a huge fan of open-source, and I try to contribute back to the communit
 
 #### 🚀 Latest releases I've contributed to
 
-- [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) ([26.9.24](https://github.com/ivuorinen/dotfiles/releases/tag/26.9.24), 1 day ago) - These are my dotfiles. There are many like &#39;em, but these are mine.
-- [ivuorinen/semver-ranger](https://github.com/ivuorinen/semver-ranger) ([v5.0.5](https://github.com/ivuorinen/semver-ranger/releases/tag/v5.0.5), 1 day ago) - Parses your lockfiles to find lower and upper range for requirements
-- [ivuorinen/config-checker](https://github.com/ivuorinen/config-checker) ([v2.6.17](https://github.com/ivuorinen/config-checker/releases/tag/v2.6.17), 3 days ago) - Checks the commonly used configuration locations for configuration files
-- [ivuorinen/actions](https://github.com/ivuorinen/actions) ([v2026.09.17](https://github.com/ivuorinen/actions/releases/tag/v2026.09.17), 1 week ago) - a collection of reusable GitHub Actions designed to streamline CI/CD processes and ensure code quality
-- [ivuorinen/base-configs-browserslist](https://github.com/ivuorinen/base-configs-browserslist) ([v1.3.22](https://github.com/ivuorinen/base-configs-browserslist/releases/tag/v1.3.22), 1 week ago) - ivuorinen&#39;s shareable configuration for Browserslist.
+- [ivuorinen/base-configs](https://github.com/ivuorinen/base-configs) ([v5.0.0](https://github.com/ivuorinen/base-configs/releases/tag/v5.0.0), today) - meta package for my linting configurations
+- [ivuorinen/base-configs-prettier](https://github.com/ivuorinen/base-configs-prettier) ([v2.0.13](https://github.com/ivuorinen/base-configs-prettier/releases/tag/v2.0.13), today) - ivuorinen&#39;s shareable configuration for Prettier.
+- [ivuorinen/base-configs-stylelint](https://github.com/ivuorinen/base-configs-stylelint) ([v1.4.8](https://github.com/ivuorinen/base-configs-stylelint/releases/tag/v1.4.8), today) - ivuorinen&#39;s shareable configuration for stylelint.
+- [ivuorinen/base-configs-browserslist](https://github.com/ivuorinen/base-configs-browserslist) ([v1.3.23](https://github.com/ivuorinen/base-configs-browserslist/releases/tag/v1.3.23), today) - ivuorinen&#39;s shareable configuration for Browserslist.
+- [ivuorinen/base-configs-markdownlint](https://github.com/ivuorinen/base-configs-markdownlint) ([v2.0.0](https://github.com/ivuorinen/base-configs-markdownlint/releases/tag/v2.0.0), today) - ivuorinen&#39;s shareable configuration for markdownlint.
 
 #### ⭐ Recent Stars
 
