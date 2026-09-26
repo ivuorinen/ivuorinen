@@ -24,7 +24,7 @@ jobs:
           reporter: github-pr-review
 
       - name: detect-secrets
-        uses: reviewdog/action-detect-secrets@964728f040a48396239d7fbe5e2746f7209df406 # v0.29.8
+        uses: reviewdog/action-detect-secrets@3bc07a8ce36864e49536f7dba77f7c69ff5219a3 # v0.31.0
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           reporter: github-pr-review
