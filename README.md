@@ -11,8 +11,8 @@ I'm also a huge fan of open-source, and I try to contribute back to the communit
 - [ivuorinen/branch-usage-checker](https://github.com/ivuorinen/branch-usage-checker) - Cross-check project public GitHub Branches and Packagist branch download statistics to determine are branches safe to delete (1 day ago)
 - [ivuorinen/cheatsheet-tldr](https://github.com/ivuorinen/cheatsheet-tldr) - tldr-pages/tldr pages for cheat/cheat (1 day ago)
 - [ivuorinen/starred](https://github.com/ivuorinen/starred) - Automatically updated list of my starred repos. (1 day ago)
-- [ivuorinen/skills](https://github.com/ivuorinen/skills) - Nitpicker — a hostile audit toolkit for coding agents. One skill, one entry point, a full deck of audit command: Assumes the code is incorrect until proven otherwise. Every command files findings with evidence and a concrete fix — no compliments, no hedging. (1 day ago)
-- [ivuorinen/base-configs-eslint](https://github.com/ivuorinen/base-configs-eslint) - ivuorinen&#39;s shareable configuration for ESLint. (1 day ago)
+- [ivuorinen/base-configs-browserslist](https://github.com/ivuorinen/base-configs-browserslist) - ivuorinen&#39;s shareable configuration for Browserslist. (2 days ago)
+- [ivuorinen/base-configs-eslint](https://github.com/ivuorinen/base-configs-eslint) - ivuorinen&#39;s shareable configuration for ESLint. (2 days ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -24,17 +24,17 @@ I'm also a huge fan of open-source, and I try to contribute back to the communit
 
 #### 🚀 Latest releases I've contributed to
 
-- [ivuorinen/actions](https://github.com/ivuorinen/actions) ([v2026.09.26](https://github.com/ivuorinen/actions/releases/tag/v2026.09.26), 1 day ago) - a collection of reusable GitHub Actions designed to streamline CI/CD processes and ensure code quality
-- [ivuorinen/semver-ranger](https://github.com/ivuorinen/semver-ranger) ([v5.0.6](https://github.com/ivuorinen/semver-ranger/releases/tag/v5.0.6), 1 day ago) - Parses your lockfiles to find lower and upper range for requirements
-- [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) ([26.9.26](https://github.com/ivuorinen/dotfiles/releases/tag/26.9.26), 1 day ago) - These are my dotfiles. There are many like &#39;em, but these are mine.
-- [ivuorinen/base-configs](https://github.com/ivuorinen/base-configs) ([v5.0.0](https://github.com/ivuorinen/base-configs/releases/tag/v5.0.0), 1 day ago) - meta package for my linting configurations
-- [ivuorinen/base-configs-prettier](https://github.com/ivuorinen/base-configs-prettier) ([v2.0.13](https://github.com/ivuorinen/base-configs-prettier/releases/tag/v2.0.13), 1 day ago) - ivuorinen&#39;s shareable configuration for Prettier.
+- [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) ([26.9.27](https://github.com/ivuorinen/dotfiles/releases/tag/26.9.27), 1 day ago) - These are my dotfiles. There are many like &#39;em, but these are mine.
+- [ivuorinen/branch-usage-checker](https://github.com/ivuorinen/branch-usage-checker) ([0.2.0](https://github.com/ivuorinen/branch-usage-checker/releases/tag/0.2.0), 1 day ago) - Cross-check project public GitHub Branches and Packagist branch download statistics to determine are branches safe to delete
+- [ivuorinen/skills](https://github.com/ivuorinen/skills) ([ivuorinen-skills-v3.1.0](https://github.com/ivuorinen/skills/releases/tag/ivuorinen-skills-v3.1.0), 1 day ago) - Nitpicker — a hostile audit toolkit for coding agents. One skill, one entry point, a full deck of audit command: Assumes the code is incorrect until proven otherwise. Every command files findings with evidence and a concrete fix — no compliments, no hedging.
+- [ivuorinen/actions](https://github.com/ivuorinen/actions) ([v2026.09.26](https://github.com/ivuorinen/actions/releases/tag/v2026.09.26), 2 days ago) - a collection of reusable GitHub Actions designed to streamline CI/CD processes and ensure code quality
+- [ivuorinen/semver-ranger](https://github.com/ivuorinen/semver-ranger) ([v5.0.6](https://github.com/ivuorinen/semver-ranger/releases/tag/v5.0.6), 2 days ago) - Parses your lockfiles to find lower and upper range for requirements
 
 #### ⭐ Recent Stars
 
 - [smarzban/tsk](https://github.com/smarzban/tsk) - tsk, a Linear alternative that stays in the terminal: a shared task board for you and your agents. TUI for you, CLI for them. (1 week ago)
-- [fredrikaverpil/dotfiles](https://github.com/fredrikaverpil/dotfiles) -  (1 week ago)
-- [herdrdev/herdr](https://github.com/herdrdev/herdr) - the runtime your coding agents live on (1 week ago)
+- [fredrikaverpil/dotfiles](https://github.com/fredrikaverpil/dotfiles) -  (2 weeks ago)
+- [herdrdev/herdr](https://github.com/herdrdev/herdr) - the runtime your coding agents live on (2 weeks ago)
 - [sobolevn/dotfiles](https://github.com/sobolevn/dotfiles) - dotfiles for the developer happiness: macos, zsh, brew, vscode, python, minimalism (2 weeks ago)
 - [9001/copyparty](https://github.com/9001/copyparty) - Portable file server with accelerated resumable uploads, dedup, WebDAV, SFTP, FTP, TFTP, zeroconf, media indexer, thumbnails&#43;&#43; all in one file (2 weeks ago)
 
