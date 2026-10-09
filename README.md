@@ -11,8 +11,8 @@ I'm also a huge fan of open-source, and I try to contribute back to the communit
 - [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) - These are my dotfiles. There are many like &#39;em, but these are mine. (1 day ago)
 - [ivuorinen/cheatsheet-tldr](https://github.com/ivuorinen/cheatsheet-tldr) - tldr-pages/tldr pages for cheat/cheat (1 day ago)
 - [ivuorinen/starred](https://github.com/ivuorinen/starred) - Automatically updated list of my starred repos. (1 day ago)
-- [ivuorinen/gh-codeql-report](https://github.com/ivuorinen/gh-codeql-report) - Collect repository CodeQL findings as a LLM-friendly report for easier fixing. (1 day ago)
-- [ivuorinen/skills](https://github.com/ivuorinen/skills) - Nitpicker — a hostile audit toolkit for coding agents. One skill, one entry point, a full deck of audit command: Assumes the code is incorrect until proven otherwise. Every command files findings with evidence and a concrete fix — no compliments, no hedging. (3 days ago)
+- [ivuorinen/gh-codeql-report](https://github.com/ivuorinen/gh-codeql-report) - Collect repository CodeQL findings as a LLM-friendly report for easier fixing. (2 days ago)
+- [ivuorinen/skills](https://github.com/ivuorinen/skills) - Nitpicker — a hostile audit toolkit for coding agents. One skill, one entry point, a full deck of audit command: Assumes the code is incorrect until proven otherwise. Every command files findings with evidence and a concrete fix — no compliments, no hedging. (4 days ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -24,19 +24,19 @@ I'm also a huge fan of open-source, and I try to contribute back to the communit
 
 #### 🚀 Latest releases I've contributed to
 
-- [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) ([26.10.7](https://github.com/ivuorinen/dotfiles/releases/tag/26.10.7), 1 day ago) - These are my dotfiles. There are many like &#39;em, but these are mine.
-- [ivuorinen/base-configs-browserslist](https://github.com/ivuorinen/base-configs-browserslist) ([v1.3.26](https://github.com/ivuorinen/base-configs-browserslist/releases/tag/v1.3.26), 6 days ago) - ivuorinen&#39;s shareable configuration for Browserslist.
-- [ivuorinen/base-configs-prettier](https://github.com/ivuorinen/base-configs-prettier) ([v2.0.16](https://github.com/ivuorinen/base-configs-prettier/releases/tag/v2.0.16), 6 days ago) - ivuorinen&#39;s shareable configuration for Prettier.
+- [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) ([26.10.8](https://github.com/ivuorinen/dotfiles/releases/tag/26.10.8), 1 day ago) - These are my dotfiles. There are many like &#39;em, but these are mine.
+- [ivuorinen/base-configs-browserslist](https://github.com/ivuorinen/base-configs-browserslist) ([v1.3.26](https://github.com/ivuorinen/base-configs-browserslist/releases/tag/v1.3.26), 1 week ago) - ivuorinen&#39;s shareable configuration for Browserslist.
+- [ivuorinen/base-configs-prettier](https://github.com/ivuorinen/base-configs-prettier) ([v2.0.16](https://github.com/ivuorinen/base-configs-prettier/releases/tag/v2.0.16), 1 week ago) - ivuorinen&#39;s shareable configuration for Prettier.
 - [ivuorinen/actions](https://github.com/ivuorinen/actions) ([v2026.10.01](https://github.com/ivuorinen/actions/releases/tag/v2026.10.01), 1 week ago) - a collection of reusable GitHub Actions designed to streamline CI/CD processes and ensure code quality
 - [ivuorinen/config-checker](https://github.com/ivuorinen/config-checker) ([v2.6.21](https://github.com/ivuorinen/config-checker/releases/tag/v2.6.21), 1 week ago) - Checks the commonly used configuration locations for configuration files
 
 #### ⭐ Recent Stars
 
-- [splunk/token-meter](https://github.com/splunk/token-meter) - Open-source, local-first AI coding agent usage and cost dashboard for Claude Code, Codex, Cursor, OpenCode, Kiro, and Pi. (1 day ago)
-- [odysseus-dev/odysseus](https://github.com/odysseus-dev/odysseus) - Self-hosted AI workspace.  (2 days ago)
-- [Blaizzy/nativ](https://github.com/Blaizzy/nativ) - Local AI, native to your Mac. Chat, serve, monitor, and connect MLX models from one macOS app. (2 days ago)
-- [200ok-ch/organice](https://github.com/200ok-ch/organice) - An implementation of Org mode without the dependency of Emacs - built for mobile and desktop browsers (2 days ago)
-- [romus204/referencer.nvim](https://github.com/romus204/referencer.nvim) - Lightweight, asynchronous Neovim plugin that uses the LSP to show references to functions, methods, types and other (3 days ago)
+- [RyanLamansky/dotnet-webassembly](https://github.com/RyanLamansky/dotnet-webassembly) - Create, read, modify, write and execute WebAssembly (WASM) files from .NET-based applications. (1 day ago)
+- [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) - A hand-picked collection of the finest of resources for the most awesome of agents, Claude Code, the undisputed champion of coding companions, from the unstoppable team at Anthropic PBC. A delectable showcase of top tier skills, ambidextrous agents, scintillating status lines, top notch developer tooling, and also we have plugins (1 day ago)
+- [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) - A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows (1 day ago)
+- [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote. (1 day ago)
+- [splunk/token-meter](https://github.com/splunk/token-meter) - Open-source, local-first AI coding agent usage and cost dashboard for Claude Code, Codex, Cursor, OpenCode, Kiro, and Pi. (2 days ago)
 
 
 
