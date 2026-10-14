@@ -8,11 +8,11 @@ I'm also a huge fan of open-source, and I try to contribute back to the communit
 
 #### 👷 Check out what I'm currently working on
 
-- [ivuorinen/cheatsheet-tldr](https://github.com/ivuorinen/cheatsheet-tldr) - tldr-pages/tldr pages for cheat/cheat (2 days ago)
-- [ivuorinen/starred](https://github.com/ivuorinen/starred) - Automatically updated list of my starred repos. (2 days ago)
-- [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) - These are my dotfiles. There are many like &#39;em, but these are mine. (2 days ago)
-- [ivuorinen/gh-codeql-report](https://github.com/ivuorinen/gh-codeql-report) - Collect repository CodeQL findings as a LLM-friendly report for easier fixing. (6 days ago)
-- [ivuorinen/skills](https://github.com/ivuorinen/skills) - Nitpicker — a hostile audit toolkit for coding agents. One skill, one entry point, a full deck of audit command: Assumes the code is incorrect until proven otherwise. Every command files findings with evidence and a concrete fix — no compliments, no hedging. (1 week ago)
+- [ivuorinen/cheatsheet-tldr](https://github.com/ivuorinen/cheatsheet-tldr) - tldr-pages/tldr pages for cheat/cheat (1 day ago)
+- [ivuorinen/starred](https://github.com/ivuorinen/starred) - Automatically updated list of my starred repos. (1 day ago)
+- [ivuorinen/gibidify](https://github.com/ivuorinen/gibidify) - gibidify is a CLI application written in Go that scans a source directory recursively and aggregates code files into a single text file for LLMs. (1 day ago)
+- [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) - These are my dotfiles. There are many like &#39;em, but these are mine. (3 days ago)
+- [ivuorinen/gh-codeql-report](https://github.com/ivuorinen/gh-codeql-report) - Collect repository CodeQL findings as a LLM-friendly report for easier fixing. (1 week ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -24,19 +24,19 @@ I'm also a huge fan of open-source, and I try to contribute back to the communit
 
 #### 🚀 Latest releases I've contributed to
 
-- [ivuorinen/base-configs-browserslist](https://github.com/ivuorinen/base-configs-browserslist) ([v1.3.27](https://github.com/ivuorinen/base-configs-browserslist/releases/tag/v1.3.27), 1 day ago) - ivuorinen&#39;s shareable configuration for Browserslist.
-- [ivuorinen/base-configs-stylelint](https://github.com/ivuorinen/base-configs-stylelint) ([v1.4.13](https://github.com/ivuorinen/base-configs-stylelint/releases/tag/v1.4.13), 1 day ago) - ivuorinen&#39;s shareable configuration for stylelint.
-- [ivuorinen/base-configs-eslint](https://github.com/ivuorinen/base-configs-eslint) ([v2.0.4](https://github.com/ivuorinen/base-configs-eslint/releases/tag/v2.0.4), 1 day ago) - ivuorinen&#39;s shareable configuration for ESLint.
-- [ivuorinen/base-configs-semantic-release](https://github.com/ivuorinen/base-configs-semantic-release) ([v3.0.6](https://github.com/ivuorinen/base-configs-semantic-release/releases/tag/v3.0.6), 1 day ago) - ivuorinen&#39;s shareable configuration for semantic-release.
-- [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) ([26.10.11](https://github.com/ivuorinen/dotfiles/releases/tag/26.10.11), 2 days ago) - These are my dotfiles. There are many like &#39;em, but these are mine.
+- [ivuorinen/actions](https://github.com/ivuorinen/actions) ([v2026.10.13](https://github.com/ivuorinen/actions/releases/tag/v2026.10.13), 1 day ago) - a collection of reusable GitHub Actions designed to streamline CI/CD processes and ensure code quality
+- [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) ([26.10.13](https://github.com/ivuorinen/dotfiles/releases/tag/26.10.13), 1 day ago) - These are my dotfiles. There are many like &#39;em, but these are mine.
+- [ivuorinen/base-configs-markdownlint](https://github.com/ivuorinen/base-configs-markdownlint) ([v2.0.4](https://github.com/ivuorinen/base-configs-markdownlint/releases/tag/v2.0.4), 1 day ago) - ivuorinen&#39;s shareable configuration for markdownlint.
+- [ivuorinen/config-checker](https://github.com/ivuorinen/config-checker) ([v2.6.22](https://github.com/ivuorinen/config-checker/releases/tag/v2.6.22), 1 day ago) - Checks the commonly used configuration locations for configuration files
+- [ivuorinen/base-configs-browserslist](https://github.com/ivuorinen/base-configs-browserslist) ([v1.3.27](https://github.com/ivuorinen/base-configs-browserslist/releases/tag/v1.3.27), 2 days ago) - ivuorinen&#39;s shareable configuration for Browserslist.
 
 #### ⭐ Recent Stars
 
-- [vxcontrol/pentagi](https://github.com/vxcontrol/pentagi) - Fully autonomous AI Agents system capable of performing complex penetration testing tasks (1 day ago)
-- [julesvbertolino/todoist-enhanced](https://github.com/julesvbertolino/todoist-enhanced) - Enhanced for Todoist: an independent project, not created by, affiliated with, or supported by Todoist. A different front end built around planning a week. Runs in the browser, no backend, your token stays on your device. (1 day ago)
-- [osaurus-ai/osaurus](https://github.com/osaurus-ai/osaurus) - Own your AI. The native macOS harness for AI agents -- any model, persistent memory, autonomous execution, cryptographic identity. Built in Swift. Fully offline. Open source. (4 days ago)
-- [RyanLamansky/dotnet-webassembly](https://github.com/RyanLamansky/dotnet-webassembly) - Create, read, modify, write and execute WebAssembly (WASM) files from .NET-based applications. (5 days ago)
-- [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) - A hand-picked collection of the finest of resources for the most awesome of agents, Claude Code, the undisputed champion of coding companions, from the unstoppable team at Anthropic PBC (no affiliation). A delectable showcase of top tier skills, ambidextrous agents, scintillating status lines, top notch developer tooling, and also we have plugins (5 days ago)
+- [rebelot/kanagawa.nvim](https://github.com/rebelot/kanagawa.nvim) - NeoVim dark colorscheme inspired by the colors of the famous painting by Katsushika Hokusai. (1 day ago)
+- [uhs-robert/oasis.nvim](https://github.com/uhs-robert/oasis.nvim) - 🌵 A collection of 16 desert-inspired high contrast Neovim colorschemes. Let there be light in the desert and dark in the oasis. (1 day ago)
+- [ville6000/tfs](https://github.com/ville6000/tfs) - Terminal client for on-prem Azure DevOps Server (TFS): browse work items, the backlog tree and pull requests in an interactive TUI, and spin up git worktrees from work items. (1 day ago)
+- [vxcontrol/pentagi](https://github.com/vxcontrol/pentagi) - Fully autonomous AI Agents system capable of performing complex penetration testing tasks (2 days ago)
+- [julesvbertolino/todoist-enhanced](https://github.com/julesvbertolino/todoist-enhanced) - Enhanced for Todoist: an independent project, not created by, affiliated with, or supported by Todoist. A different front end built around planning a week. Runs in the browser, no backend, your token stays on your device. (2 days ago)
 
 
 
