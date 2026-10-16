@@ -8,11 +8,11 @@ I'm also a huge fan of open-source, and I try to contribute back to the communit
 
 #### 👷 Check out what I'm currently working on
 
-- [ivuorinen/homebrew-tap](https://github.com/ivuorinen/homebrew-tap) - brew tap ivuorinen/tap (1 day ago)
-- [ivuorinen/cheatsheet-tldr](https://github.com/ivuorinen/cheatsheet-tldr) - tldr-pages/tldr pages for cheat/cheat (1 day ago)
 - [ivuorinen/starred](https://github.com/ivuorinen/starred) - Automatically updated list of my starred repos. (1 day ago)
-- [ivuorinen/gh-history](https://github.com/ivuorinen/gh-history) - GitHub CLI history command (1 day ago)
-- [ivuorinen/gibidify](https://github.com/ivuorinen/gibidify) - gibidify is a CLI application written in Go that scans a source directory recursively and aggregates code files into a single text file for LLMs. (2 days ago)
+- [ivuorinen/homebrew-tap](https://github.com/ivuorinen/homebrew-tap) - brew tap ivuorinen/tap (2 days ago)
+- [ivuorinen/cheatsheet-tldr](https://github.com/ivuorinen/cheatsheet-tldr) - tldr-pages/tldr pages for cheat/cheat (2 days ago)
+- [ivuorinen/gh-history](https://github.com/ivuorinen/gh-history) - GitHub CLI history command (2 days ago)
+- [ivuorinen/gibidify](https://github.com/ivuorinen/gibidify) - gibidify is a CLI application written in Go that scans a source directory recursively and aggregates code files into a single text file for LLMs. (3 days ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -24,19 +24,19 @@ I'm also a huge fan of open-source, and I try to contribute back to the communit
 
 #### 🚀 Latest releases I've contributed to
 
-- [ivuorinen/actions](https://github.com/ivuorinen/actions) ([v2026.10.14](https://github.com/ivuorinen/actions/releases/tag/v2026.10.14), 1 day ago) - a collection of reusable GitHub Actions designed to streamline CI/CD processes and ensure code quality
-- [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) ([26.10.14](https://github.com/ivuorinen/dotfiles/releases/tag/26.10.14), 1 day ago) - These are my dotfiles. There are many like &#39;em, but these are mine.
-- [ivuorinen/base-configs-markdownlint](https://github.com/ivuorinen/base-configs-markdownlint) ([v2.0.4](https://github.com/ivuorinen/base-configs-markdownlint/releases/tag/v2.0.4), 2 days ago) - ivuorinen&#39;s shareable configuration for markdownlint.
-- [ivuorinen/config-checker](https://github.com/ivuorinen/config-checker) ([v2.6.22](https://github.com/ivuorinen/config-checker/releases/tag/v2.6.22), 2 days ago) - Checks the commonly used configuration locations for configuration files
-- [ivuorinen/base-configs-browserslist](https://github.com/ivuorinen/base-configs-browserslist) ([v1.3.27](https://github.com/ivuorinen/base-configs-browserslist/releases/tag/v1.3.27), 3 days ago) - ivuorinen&#39;s shareable configuration for Browserslist.
+- [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) ([26.10.15](https://github.com/ivuorinen/dotfiles/releases/tag/26.10.15), 1 day ago) - These are my dotfiles. There are many like &#39;em, but these are mine.
+- [ivuorinen/actions](https://github.com/ivuorinen/actions) ([v2026.10.14](https://github.com/ivuorinen/actions/releases/tag/v2026.10.14), 2 days ago) - a collection of reusable GitHub Actions designed to streamline CI/CD processes and ensure code quality
+- [ivuorinen/base-configs-markdownlint](https://github.com/ivuorinen/base-configs-markdownlint) ([v2.0.4](https://github.com/ivuorinen/base-configs-markdownlint/releases/tag/v2.0.4), 3 days ago) - ivuorinen&#39;s shareable configuration for markdownlint.
+- [ivuorinen/config-checker](https://github.com/ivuorinen/config-checker) ([v2.6.22](https://github.com/ivuorinen/config-checker/releases/tag/v2.6.22), 3 days ago) - Checks the commonly used configuration locations for configuration files
+- [ivuorinen/base-configs-browserslist](https://github.com/ivuorinen/base-configs-browserslist) ([v1.3.27](https://github.com/ivuorinen/base-configs-browserslist/releases/tag/v1.3.27), 4 days ago) - ivuorinen&#39;s shareable configuration for Browserslist.
 
 #### ⭐ Recent Stars
 
-- [rebelot/kanagawa.nvim](https://github.com/rebelot/kanagawa.nvim) - NeoVim dark colorscheme inspired by the colors of the famous painting by Katsushika Hokusai. (2 days ago)
-- [uhs-robert/oasis.nvim](https://github.com/uhs-robert/oasis.nvim) - 🌵 A collection of 16 desert-inspired high contrast Neovim colorschemes. Let there be light in the desert and dark in the oasis. (2 days ago)
-- [ville6000/tfs](https://github.com/ville6000/tfs) - Terminal client for on-prem Azure DevOps Server (TFS): browse work items, the backlog tree and pull requests in an interactive TUI, and spin up git worktrees from work items. (2 days ago)
-- [vxcontrol/pentagi](https://github.com/vxcontrol/pentagi) - Fully autonomous AI Agents system capable of performing complex penetration testing tasks (3 days ago)
-- [julesvbertolino/todoist-enhanced](https://github.com/julesvbertolino/todoist-enhanced) - Enhanced for Todoist: an independent project, not created by, affiliated with, or supported by Todoist. A different front end built around planning a week. Runs in the browser, no backend, your token stays on your device. (3 days ago)
+- [shaftoe/awesome-pi-coding-agent](https://github.com/shaftoe/awesome-pi-coding-agent) - An auto-discovered, LLM curated directory of resources for the Pi Coding Agent ecosystem. Updated daily. (1 day ago)
+- [rebelot/kanagawa.nvim](https://github.com/rebelot/kanagawa.nvim) - NeoVim dark colorscheme inspired by the colors of the famous painting by Katsushika Hokusai. (3 days ago)
+- [uhs-robert/oasis.nvim](https://github.com/uhs-robert/oasis.nvim) - 🌵 A collection of 16 desert-inspired high contrast Neovim colorschemes. Let there be light in the desert and dark in the oasis. (3 days ago)
+- [ville6000/tfs](https://github.com/ville6000/tfs) - Terminal client for on-prem Azure DevOps Server (TFS): browse work items, the backlog tree and pull requests in an interactive TUI, and spin up git worktrees from work items. (3 days ago)
+- [vxcontrol/pentagi](https://github.com/vxcontrol/pentagi) - Fully autonomous AI Agents system capable of performing complex penetration testing tasks (4 days ago)
 
 
 
