@@ -8,11 +8,11 @@ I'm also a huge fan of open-source, and I try to contribute back to the communit
 
 #### 👷 Check out what I'm currently working on
 
-- [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) - These are my dotfiles. There are many like &#39;em, but these are mine. (today)
-- [ivuorinen/homebrew-tap](https://github.com/ivuorinen/homebrew-tap) - brew tap ivuorinen/tap (today)
-- [ivuorinen/renovate-config](https://github.com/ivuorinen/renovate-config) -  (1 day ago)
+- [ivuorinen/tree-sitter-shellspec](https://github.com/ivuorinen/tree-sitter-shellspec) - Tree-Sitter Definitions for ShellSpec BDD testing framework (1 day ago)
 - [ivuorinen/cheatsheet-tldr](https://github.com/ivuorinen/cheatsheet-tldr) - tldr-pages/tldr pages for cheat/cheat (1 day ago)
-- [ivuorinen/gh-history](https://github.com/ivuorinen/gh-history) - GitHub CLI history command (3 days ago)
+- [ivuorinen/starred](https://github.com/ivuorinen/starred) - Automatically updated list of my starred repos. (1 day ago)
+- [ivuorinen/homebrew-tap](https://github.com/ivuorinen/homebrew-tap) - brew tap ivuorinen/tap (1 day ago)
+- [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) - These are my dotfiles. There are many like &#39;em, but these are mine. (1 day ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -24,19 +24,19 @@ I'm also a huge fan of open-source, and I try to contribute back to the communit
 
 #### 🚀 Latest releases I've contributed to
 
-- [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) ([26.10.19](https://github.com/ivuorinen/dotfiles/releases/tag/26.10.19), 1 day ago) - These are my dotfiles. There are many like &#39;em, but these are mine.
-- [ivuorinen/actions](https://github.com/ivuorinen/actions) ([v2026.10.17](https://github.com/ivuorinen/actions/releases/tag/v2026.10.17), 3 days ago) - a collection of reusable GitHub Actions designed to streamline CI/CD processes and ensure code quality
-- [ivuorinen/base-configs-markdownlint](https://github.com/ivuorinen/base-configs-markdownlint) ([v2.0.4](https://github.com/ivuorinen/base-configs-markdownlint/releases/tag/v2.0.4), 1 week ago) - ivuorinen&#39;s shareable configuration for markdownlint.
+- [ivuorinen/actions](https://github.com/ivuorinen/actions) ([v2026.10.20](https://github.com/ivuorinen/actions/releases/tag/v2026.10.20), 1 day ago) - a collection of reusable GitHub Actions designed to streamline CI/CD processes and ensure code quality
+- [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) ([26.10.20](https://github.com/ivuorinen/dotfiles/releases/tag/26.10.20), 1 day ago) - These are my dotfiles. There are many like &#39;em, but these are mine.
+- [ivuorinen/base-configs-markdownlint](https://github.com/ivuorinen/base-configs-markdownlint) ([v2.0.5](https://github.com/ivuorinen/base-configs-markdownlint/releases/tag/v2.0.5), 1 day ago) - ivuorinen&#39;s shareable configuration for markdownlint.
 - [ivuorinen/config-checker](https://github.com/ivuorinen/config-checker) ([v2.6.22](https://github.com/ivuorinen/config-checker/releases/tag/v2.6.22), 1 week ago) - Checks the commonly used configuration locations for configuration files
 - [ivuorinen/base-configs-browserslist](https://github.com/ivuorinen/base-configs-browserslist) ([v1.3.27](https://github.com/ivuorinen/base-configs-browserslist/releases/tag/v1.3.27), 1 week ago) - ivuorinen&#39;s shareable configuration for Browserslist.
 
 #### ⭐ Recent Stars
 
-- [shaftoe/awesome-pi-coding-agent](https://github.com/shaftoe/awesome-pi-coding-agent) - An auto-discovered, LLM curated directory of resources for the Pi Coding Agent ecosystem. Updated daily. (5 days ago)
+- [prettier/pretty-quick](https://github.com/prettier/pretty-quick) - ⚡ Get Pretty Quick (1 day ago)
+- [shaftoe/awesome-pi-coding-agent](https://github.com/shaftoe/awesome-pi-coding-agent) - An auto-discovered, LLM curated directory of resources for the Pi Coding Agent ecosystem. Updated daily. (6 days ago)
 - [rebelot/kanagawa.nvim](https://github.com/rebelot/kanagawa.nvim) - NeoVim dark colorscheme inspired by the colors of the famous painting by Katsushika Hokusai. (1 week ago)
 - [uhs-robert/oasis.nvim](https://github.com/uhs-robert/oasis.nvim) - 🌵 A collection of 16 desert-inspired high contrast Neovim colorschemes. Let there be light in the desert and dark in the oasis. (1 week ago)
 - [ville6000/tfs](https://github.com/ville6000/tfs) - Terminal client for on-prem Azure DevOps Server (TFS): browse work items, the backlog tree and pull requests in an interactive TUI, and spin up git worktrees from work items. (1 week ago)
-- [vxcontrol/pentagi](https://github.com/vxcontrol/pentagi) - Fully autonomous AI Agents system capable of performing complex penetration testing tasks (1 week ago)
 
 
 
