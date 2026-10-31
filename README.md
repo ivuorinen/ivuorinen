@@ -8,11 +8,11 @@ I'm also a huge fan of open-source, and I try to contribute back to the communit
 
 #### 👷 Check out what I'm currently working on
 
-- [ivuorinen/cheatsheet-tldr](https://github.com/ivuorinen/cheatsheet-tldr) - tldr-pages/tldr pages for cheat/cheat (1 day ago)
 - [ivuorinen/starred](https://github.com/ivuorinen/starred) - Automatically updated list of my starred repos. (1 day ago)
-- [ivuorinen/git-dirty](https://github.com/ivuorinen/git-dirty) - CLI and TUI that recursively lists the git repositories under a directory as a tree, with each repository&#39;s branch, dirty state, and how far it is ahead of or behind its upstream. (1 day ago)
-- [ivuorinen/base-configs-stylelint](https://github.com/ivuorinen/base-configs-stylelint) - ivuorinen&#39;s shareable configuration for stylelint. (2 days ago)
-- [ivuorinen/base-configs-browserslist](https://github.com/ivuorinen/base-configs-browserslist) - ivuorinen&#39;s shareable configuration for Browserslist. (2 days ago)
+- [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) - These are my dotfiles. There are many like &#39;em, but these are mine. (1 day ago)
+- [ivuorinen/git-dirty](https://github.com/ivuorinen/git-dirty) - CLI and TUI that recursively lists the git repositories under a directory as a tree, with each repository&#39;s branch, dirty state, and how far it is ahead of or behind its upstream. (2 days ago)
+- [ivuorinen/cheatsheet-tldr](https://github.com/ivuorinen/cheatsheet-tldr) - tldr-pages/tldr pages for cheat/cheat (2 days ago)
+- [ivuorinen/base-configs-browserslist](https://github.com/ivuorinen/base-configs-browserslist) - ivuorinen&#39;s shareable configuration for Browserslist. (3 days ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -24,19 +24,19 @@ I'm also a huge fan of open-source, and I try to contribute back to the communit
 
 #### 🚀 Latest releases I've contributed to
 
-- [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) ([26.10.28](https://github.com/ivuorinen/dotfiles/releases/tag/26.10.28), 2 days ago) - These are my dotfiles. There are many like &#39;em, but these are mine.
-- [ivuorinen/base-configs-stylelint](https://github.com/ivuorinen/base-configs-stylelint) ([v1.4.15](https://github.com/ivuorinen/base-configs-stylelint/releases/tag/v1.4.15), 2 days ago) - ivuorinen&#39;s shareable configuration for stylelint.
-- [ivuorinen/base-configs-markdownlint](https://github.com/ivuorinen/base-configs-markdownlint) ([v2.0.8](https://github.com/ivuorinen/base-configs-markdownlint/releases/tag/v2.0.8), 2 days ago) - ivuorinen&#39;s shareable configuration for markdownlint.
-- [ivuorinen/base-configs-commitlint](https://github.com/ivuorinen/base-configs-commitlint) ([v2.0.5](https://github.com/ivuorinen/base-configs-commitlint/releases/tag/v2.0.5), 2 days ago) - ivuorinen&#39;s shareable configuration for commitlint.
-- [ivuorinen/base-configs-semantic-release](https://github.com/ivuorinen/base-configs-semantic-release) ([v3.0.11](https://github.com/ivuorinen/base-configs-semantic-release/releases/tag/v3.0.11), 2 days ago) - ivuorinen&#39;s shareable configuration for semantic-release.
+- [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) ([26.10.30](https://github.com/ivuorinen/dotfiles/releases/tag/26.10.30), 1 day ago) - These are my dotfiles. There are many like &#39;em, but these are mine.
+- [ivuorinen/base-configs-stylelint](https://github.com/ivuorinen/base-configs-stylelint) ([v1.4.15](https://github.com/ivuorinen/base-configs-stylelint/releases/tag/v1.4.15), 3 days ago) - ivuorinen&#39;s shareable configuration for stylelint.
+- [ivuorinen/base-configs-markdownlint](https://github.com/ivuorinen/base-configs-markdownlint) ([v2.0.8](https://github.com/ivuorinen/base-configs-markdownlint/releases/tag/v2.0.8), 3 days ago) - ivuorinen&#39;s shareable configuration for markdownlint.
+- [ivuorinen/base-configs-commitlint](https://github.com/ivuorinen/base-configs-commitlint) ([v2.0.5](https://github.com/ivuorinen/base-configs-commitlint/releases/tag/v2.0.5), 3 days ago) - ivuorinen&#39;s shareable configuration for commitlint.
+- [ivuorinen/base-configs-semantic-release](https://github.com/ivuorinen/base-configs-semantic-release) ([v3.0.11](https://github.com/ivuorinen/base-configs-semantic-release/releases/tag/v3.0.11), 3 days ago) - ivuorinen&#39;s shareable configuration for semantic-release.
 
 #### ⭐ Recent Stars
 
-- [nvim-neorg/neorg](https://github.com/nvim-neorg/neorg) - Modernity meets insane extensibility. The future of organizing your life in Neovim. (3 days ago)
+- [The-PR-Agent/pr-agent](https://github.com/The-PR-Agent/pr-agent) - 🚀 PR Agent: The Original Open-Source PR Reviewer. This project is not the Qodo free tier. (1 day ago)
+- [felipefdl/warm-burnout](https://github.com/felipefdl/warm-burnout) - Mostly warm, WCAG-audited color theme suite with one cool type accent. For developers who are already burned out but still have deadlines. (1 day ago)
+- [nvim-neorg/neorg](https://github.com/nvim-neorg/neorg) - Modernity meets insane extensibility. The future of organizing your life in Neovim. (4 days ago)
 - [ast-metrics/ast-metrics](https://github.com/ast-metrics/ast-metrics) - See the   invisible structure of your code. Multi-language code quality and architecture analyzer (Go,   PHP, Python, Rust...) (1 week ago)
 - [prettier/pretty-quick](https://github.com/prettier/pretty-quick) - ⚡ Get Pretty Quick (1 week ago)
-- [shaftoe/awesome-pi-coding-agent](https://github.com/shaftoe/awesome-pi-coding-agent) - An auto-discovered, LLM curated directory of resources for the Pi Coding Agent ecosystem. Updated daily. (2 weeks ago)
-- [rebelot/kanagawa.nvim](https://github.com/rebelot/kanagawa.nvim) - NeoVim dark colorscheme inspired by the colors of the famous painting by Katsushika Hokusai. (2 weeks ago)
 
 
 
