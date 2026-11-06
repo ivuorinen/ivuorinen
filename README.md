@@ -10,9 +10,9 @@ I'm also a huge fan of open-source, and I try to contribute back to the communit
 
 - [ivuorinen/cheatsheet-tldr](https://github.com/ivuorinen/cheatsheet-tldr) - tldr-pages/tldr pages for cheat/cheat (1 day ago)
 - [ivuorinen/starred](https://github.com/ivuorinen/starred) - Automatically updated list of my starred repos. (1 day ago)
-- [ivuorinen/git-dirty](https://github.com/ivuorinen/git-dirty) - CLI and TUI that recursively lists the git repositories under a directory as a tree, with each repository&#39;s branch, dirty state, and how far it is ahead of or behind its upstream. (2 days ago)
-- [ivuorinen/skills](https://github.com/ivuorinen/skills) - Nitpicker — a hostile audit toolkit for coding agents. One skill, one entry point, a full deck of audit command: Assumes the code is incorrect until proven otherwise. Every command files findings with evidence and a concrete fix — no compliments, no hedging. (2 days ago)
-- [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) - These are my dotfiles. There are many like &#39;em, but these are mine. (2 days ago)
+- [ivuorinen/homebrew-tap](https://github.com/ivuorinen/homebrew-tap) - brew tap ivuorinen/tap (1 day ago)
+- [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) - These are my dotfiles. There are many like &#39;em, but these are mine. (1 day ago)
+- [ivuorinen/git-dirty](https://github.com/ivuorinen/git-dirty) - CLI and TUI that recursively lists the git repositories under a directory as a tree, with each repository&#39;s branch, dirty state, and how far it is ahead of or behind its upstream. (3 days ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -24,19 +24,19 @@ I'm also a huge fan of open-source, and I try to contribute back to the communit
 
 #### 🚀 Latest releases I've contributed to
 
-- [ivuorinen/actions](https://github.com/ivuorinen/actions) ([v2026.11.04](https://github.com/ivuorinen/actions/releases/tag/v2026.11.04), 1 day ago) - a collection of reusable GitHub Actions designed to streamline CI/CD processes and ensure code quality
-- [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) ([26.11.4](https://github.com/ivuorinen/dotfiles/releases/tag/26.11.4), 1 day ago) - These are my dotfiles. There are many like &#39;em, but these are mine.
-- [ivuorinen/ivuorinen](https://github.com/ivuorinen/ivuorinen) ([2026.11.0](https://github.com/ivuorinen/ivuorinen/releases/tag/2026.11.0), 4 days ago) - My special github profile header
-- [ivuorinen/git-dirty](https://github.com/ivuorinen/git-dirty) ([v0.1.0](https://github.com/ivuorinen/git-dirty/releases/tag/v0.1.0), 5 days ago) - CLI and TUI that recursively lists the git repositories under a directory as a tree, with each repository&#39;s branch, dirty state, and how far it is ahead of or behind its upstream.
-- [ivuorinen/pinboard-checker](https://github.com/ivuorinen/pinboard-checker) ([v0.2.0](https://github.com/ivuorinen/pinboard-checker/releases/tag/v0.2.0), 5 days ago) - CLI app for checking alive bookmarks and unrolling shorturls.
+- [ivuorinen/actions](https://github.com/ivuorinen/actions) ([v2026.11.05](https://github.com/ivuorinen/actions/releases/tag/v2026.11.05), 1 day ago) - a collection of reusable GitHub Actions designed to streamline CI/CD processes and ensure code quality
+- [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) ([26.11.5](https://github.com/ivuorinen/dotfiles/releases/tag/26.11.5), 1 day ago) - These are my dotfiles. There are many like &#39;em, but these are mine.
+- [ivuorinen/git-dirty](https://github.com/ivuorinen/git-dirty) ([v0.2.0](https://github.com/ivuorinen/git-dirty/releases/tag/v0.2.0), 1 day ago) - CLI and TUI that recursively lists the git repositories under a directory as a tree, with each repository&#39;s branch, dirty state, and how far it is ahead of or behind its upstream.
+- [ivuorinen/ivuorinen](https://github.com/ivuorinen/ivuorinen) ([2026.11.0](https://github.com/ivuorinen/ivuorinen/releases/tag/2026.11.0), 5 days ago) - My special github profile header
+- [ivuorinen/pinboard-checker](https://github.com/ivuorinen/pinboard-checker) ([v0.2.0](https://github.com/ivuorinen/pinboard-checker/releases/tag/v0.2.0), 6 days ago) - CLI app for checking alive bookmarks and unrolling shorturls.
 
 #### ⭐ Recent Stars
 
-- [obsidianmd/pele](https://github.com/obsidianmd/pele) - Renders Mermaid diagrams faster than you&#39;d run from a volcano! 🌋  (1 day ago)
-- [ivuorinen/git-dirty](https://github.com/ivuorinen/git-dirty) - CLI and TUI that recursively lists the git repositories under a directory as a tree, with each repository&#39;s branch, dirty state, and how far it is ahead of or behind its upstream. (5 days ago)
-- [hamidi-dev/org-super-agenda.nvim](https://github.com/hamidi-dev/org-super-agenda.nvim) - Customizable agenda view for orgmode (5 days ago)
-- [nvim-orgmode/org-bullets.nvim](https://github.com/nvim-orgmode/org-bullets.nvim) -  (5 days ago)
-- [chipsenkbeil/org-roam.nvim](https://github.com/chipsenkbeil/org-roam.nvim) - Port of org-roam to neovim using orgmode (5 days ago)
+- [obsidianmd/pele](https://github.com/obsidianmd/pele) - Renders Mermaid diagrams faster than you&#39;d run from a volcano! 🌋  (2 days ago)
+- [ivuorinen/git-dirty](https://github.com/ivuorinen/git-dirty) - CLI and TUI that recursively lists the git repositories under a directory as a tree, with each repository&#39;s branch, dirty state, and how far it is ahead of or behind its upstream. (6 days ago)
+- [hamidi-dev/org-super-agenda.nvim](https://github.com/hamidi-dev/org-super-agenda.nvim) - Customizable agenda view for orgmode (6 days ago)
+- [nvim-orgmode/org-bullets.nvim](https://github.com/nvim-orgmode/org-bullets.nvim) -  (6 days ago)
+- [chipsenkbeil/org-roam.nvim](https://github.com/chipsenkbeil/org-roam.nvim) - Port of org-roam to neovim using orgmode (6 days ago)
 
 
 
