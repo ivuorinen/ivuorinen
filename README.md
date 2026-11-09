@@ -11,8 +11,8 @@ I'm also a huge fan of open-source, and I try to contribute back to the communit
 - [ivuorinen/cheatsheet-tldr](https://github.com/ivuorinen/cheatsheet-tldr) - tldr-pages/tldr pages for cheat/cheat (1 day ago)
 - [ivuorinen/starred](https://github.com/ivuorinen/starred) - Automatically updated list of my starred repos. (1 day ago)
 - [ivuorinen/actions](https://github.com/ivuorinen/actions) - a collection of reusable GitHub Actions designed to streamline CI/CD processes and ensure code quality (1 day ago)
-- [ivuorinen/a](https://github.com/ivuorinen/a) - A small CLI that encrypts and decrypts files with your SSH keys using the age format (2 days ago)
-- [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) - These are my dotfiles. There are many like &#39;em, but these are mine. (2 days ago)
+- [ivuorinen/a](https://github.com/ivuorinen/a) - A small CLI that encrypts and decrypts files with your SSH keys using the age format (3 days ago)
+- [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) - These are my dotfiles. There are many like &#39;em, but these are mine. (3 days ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -24,16 +24,16 @@ I'm also a huge fan of open-source, and I try to contribute back to the communit
 
 #### 🚀 Latest releases I've contributed to
 
-- [ivuorinen/actions](https://github.com/ivuorinen/actions) ([v2026.11.07](https://github.com/ivuorinen/actions/releases/tag/v2026.11.07), 1 day ago) - a collection of reusable GitHub Actions designed to streamline CI/CD processes and ensure code quality
-- [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) ([26.11.7](https://github.com/ivuorinen/dotfiles/releases/tag/26.11.7), 1 day ago) - These are my dotfiles. There are many like &#39;em, but these are mine.
-- [ivuorinen/obsidian-gh-projects](https://github.com/ivuorinen/obsidian-gh-projects) ([2026.11.2](https://github.com/ivuorinen/obsidian-gh-projects/releases/tag/2026.11.2), 2 days ago) - [WIP] Obsidian.md plugin for GitHub projects listing. Optimized for Base listing.
-- [ivuorinen/git-dirty](https://github.com/ivuorinen/git-dirty) ([v0.2.0](https://github.com/ivuorinen/git-dirty/releases/tag/v0.2.0), 3 days ago) - CLI and TUI that recursively lists the git repositories under a directory as a tree, with each repository&#39;s branch, dirty state, and how far it is ahead of or behind its upstream.
+- [ivuorinen/actions](https://github.com/ivuorinen/actions) ([v2026.11.08](https://github.com/ivuorinen/actions/releases/tag/v2026.11.08), 1 day ago) - a collection of reusable GitHub Actions designed to streamline CI/CD processes and ensure code quality
+- [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) ([26.11.8](https://github.com/ivuorinen/dotfiles/releases/tag/26.11.8), 1 day ago) - These are my dotfiles. There are many like &#39;em, but these are mine.
+- [ivuorinen/obsidian-gh-projects](https://github.com/ivuorinen/obsidian-gh-projects) ([2026.11.2](https://github.com/ivuorinen/obsidian-gh-projects/releases/tag/2026.11.2), 3 days ago) - [WIP] Obsidian.md plugin for GitHub projects listing. Optimized for Base listing.
+- [ivuorinen/git-dirty](https://github.com/ivuorinen/git-dirty) ([v0.2.0](https://github.com/ivuorinen/git-dirty/releases/tag/v0.2.0), 4 days ago) - CLI and TUI that recursively lists the git repositories under a directory as a tree, with each repository&#39;s branch, dirty state, and how far it is ahead of or behind its upstream.
 - [ivuorinen/ivuorinen](https://github.com/ivuorinen/ivuorinen) ([2026.11.0](https://github.com/ivuorinen/ivuorinen/releases/tag/2026.11.0), 1 week ago) - My special github profile header
 
 #### ⭐ Recent Stars
 
-- [ville6000/estorm](https://github.com/ville6000/estorm) - Event Storming boards as plain text. Write flows in a few readable lines, get an SVG board, and keep it in your repo next to the code. (2 days ago)
-- [obsidianmd/pele](https://github.com/obsidianmd/pele) - Renders Mermaid diagrams faster than you&#39;d run from a volcano! 🌋  (4 days ago)
+- [ville6000/estorm](https://github.com/ville6000/estorm) - Event Storming boards as plain text. Write flows in a few readable lines, get an SVG board, and keep it in your repo next to the code. (3 days ago)
+- [obsidianmd/pele](https://github.com/obsidianmd/pele) - Renders Mermaid diagrams faster than you&#39;d run from a volcano! 🌋  (5 days ago)
 - [ivuorinen/git-dirty](https://github.com/ivuorinen/git-dirty) - CLI and TUI that recursively lists the git repositories under a directory as a tree, with each repository&#39;s branch, dirty state, and how far it is ahead of or behind its upstream. (1 week ago)
 - [hamidi-dev/org-super-agenda.nvim](https://github.com/hamidi-dev/org-super-agenda.nvim) - Customizable agenda view for orgmode (1 week ago)
 - [nvim-orgmode/org-bullets.nvim](https://github.com/nvim-orgmode/org-bullets.nvim) -  (1 week ago)
