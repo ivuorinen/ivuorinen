@@ -8,11 +8,11 @@ I'm also a huge fan of open-source, and I try to contribute back to the communit
 
 #### 👷 Check out what I'm currently working on
 
-- [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) - These are my dotfiles. There are many like &#39;em, but these are mine. (1 day ago)
+- [ivuorinen/actions](https://github.com/ivuorinen/actions) - a collection of reusable GitHub Actions designed to streamline CI/CD processes and ensure code quality (today)
+- [ivuorinen/gh-history](https://github.com/ivuorinen/gh-history) - GitHub CLI history command (today)
 - [ivuorinen/cheatsheet-tldr](https://github.com/ivuorinen/cheatsheet-tldr) - tldr-pages/tldr pages for cheat/cheat (1 day ago)
 - [ivuorinen/starred](https://github.com/ivuorinen/starred) - Automatically updated list of my starred repos. (1 day ago)
-- [ivuorinen/actions](https://github.com/ivuorinen/actions) - a collection of reusable GitHub Actions designed to streamline CI/CD processes and ensure code quality (1 day ago)
-- [ivuorinen/gh-history](https://github.com/ivuorinen/gh-history) - GitHub CLI history command (1 day ago)
+- [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) - These are my dotfiles. There are many like &#39;em, but these are mine. (1 day ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -24,19 +24,19 @@ I'm also a huge fan of open-source, and I try to contribute back to the communit
 
 #### 🚀 Latest releases I've contributed to
 
-- [ivuorinen/actions](https://github.com/ivuorinen/actions) ([v2026.11.20](https://github.com/ivuorinen/actions/releases/tag/v2026.11.20), 1 day ago) - a collection of reusable GitHub Actions designed to streamline CI/CD processes and ensure code quality
-- [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) ([26.11.20](https://github.com/ivuorinen/dotfiles/releases/tag/26.11.20), 1 day ago) - These are my dotfiles. There are many like &#39;em, but these are mine.
-- [ivuorinen/f2b](https://github.com/ivuorinen/f2b) ([v0.1.0](https://github.com/ivuorinen/f2b/releases/tag/v0.1.0), 1 day ago) - A modern, secure, and extensible Go CLI tool for managing Fail2Ban jails and bans
-- [ivuorinen/gh-history](https://github.com/ivuorinen/gh-history) ([2026.11.0](https://github.com/ivuorinen/gh-history/releases/tag/2026.11.0), 2 days ago) - GitHub CLI history command
-- [ivuorinen/obsidian-gh-projects](https://github.com/ivuorinen/obsidian-gh-projects) ([2026.11.3](https://github.com/ivuorinen/obsidian-gh-projects/releases/tag/2026.11.3), 4 days ago) - [WIP] Obsidian.md plugin for GitHub projects listing. Optimized for Base listing.
+- [ivuorinen/gh-history](https://github.com/ivuorinen/gh-history) ([2026.11.2](https://github.com/ivuorinen/gh-history/releases/tag/2026.11.2), today) - GitHub CLI history command
+- [ivuorinen/actions](https://github.com/ivuorinen/actions) ([v2026.11.21](https://github.com/ivuorinen/actions/releases/tag/v2026.11.21), 1 day ago) - a collection of reusable GitHub Actions designed to streamline CI/CD processes and ensure code quality
+- [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) ([26.11.21](https://github.com/ivuorinen/dotfiles/releases/tag/26.11.21), 1 day ago) - These are my dotfiles. There are many like &#39;em, but these are mine.
+- [ivuorinen/f2b](https://github.com/ivuorinen/f2b) ([v0.1.0](https://github.com/ivuorinen/f2b/releases/tag/v0.1.0), 2 days ago) - A modern, secure, and extensible Go CLI tool for managing Fail2Ban jails and bans
+- [ivuorinen/obsidian-gh-projects](https://github.com/ivuorinen/obsidian-gh-projects) ([2026.11.3](https://github.com/ivuorinen/obsidian-gh-projects/releases/tag/2026.11.3), 5 days ago) - [WIP] Obsidian.md plugin for GitHub projects listing. Optimized for Base listing.
 
 #### ⭐ Recent Stars
 
-- [eikowagenknecht/lootscraper](https://github.com/eikowagenknecht/lootscraper) - RSS feeds, Discord and Telegram bot for free game and loot offers. Supports Steam, Epic, Amazon Games, GOG, Humble and more. (1 day ago)
-- [ivuorinen/sysvinit-service-generator](https://github.com/ivuorinen/sysvinit-service-generator) - Vue 3 app for creating sysvinit service scripts (4 days ago)
-- [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) - AI Observability &amp; Evaluation (6 days ago)
+- [anthonychaussin/DriveClient](https://github.com/anthonychaussin/DriveClient) - kDriveClient is a modern C# SDK to simplify file upload and download with Infomaniak kDrive API (1 day ago)
+- [eikowagenknecht/lootscraper](https://github.com/eikowagenknecht/lootscraper) - RSS feeds, Discord and Telegram bot for free game and loot offers. Supports Steam, Epic, Amazon Games, GOG, Humble and more. (2 days ago)
+- [ivuorinen/sysvinit-service-generator](https://github.com/ivuorinen/sysvinit-service-generator) - Vue 3 app for creating sysvinit service scripts (5 days ago)
+- [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) - AI Observability &amp; Evaluation (1 week ago)
 - [mogenson/PaperWM.spoon](https://github.com/mogenson/PaperWM.spoon) - Tiled scrollable window manager for MacOS (1 week ago)
-- [satococoa/git-worktreeinclude](https://github.com/satococoa/git-worktreeinclude) -  (1 week ago)
 
 
 
