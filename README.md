@@ -8,11 +8,11 @@ I'm also a huge fan of open-source, and I try to contribute back to the communit
 
 #### 👷 Check out what I'm currently working on
 
-- [ivuorinen/actions](https://github.com/ivuorinen/actions) - a collection of reusable GitHub Actions designed to streamline CI/CD processes and ensure code quality (today)
-- [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) - These are my dotfiles. There are many like &#39;em, but these are mine. (1 day ago)
 - [ivuorinen/cheatsheet-tldr](https://github.com/ivuorinen/cheatsheet-tldr) - tldr-pages/tldr pages for cheat/cheat (1 day ago)
 - [ivuorinen/starred](https://github.com/ivuorinen/starred) - Automatically updated list of my starred repos. (1 day ago)
-- [ivuorinen/gibidify](https://github.com/ivuorinen/gibidify) - gibidify is a CLI application written in Go that scans a source directory recursively and aggregates code files into a single text file for LLMs. (2 days ago)
+- [ivuorinen/actions](https://github.com/ivuorinen/actions) - a collection of reusable GitHub Actions designed to streamline CI/CD processes and ensure code quality (1 day ago)
+- [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) - These are my dotfiles. There are many like &#39;em, but these are mine. (1 day ago)
+- [ivuorinen/gh-history](https://github.com/ivuorinen/gh-history) - GitHub CLI history command (3 days ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -24,16 +24,16 @@ I'm also a huge fan of open-source, and I try to contribute back to the communit
 
 #### 🚀 Latest releases I've contributed to
 
-- [ivuorinen/actions](https://github.com/ivuorinen/actions) ([v2026.11.23](https://github.com/ivuorinen/actions/releases/tag/v2026.11.23), 1 day ago) - a collection of reusable GitHub Actions designed to streamline CI/CD processes and ensure code quality
-- [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) ([26.11.23](https://github.com/ivuorinen/dotfiles/releases/tag/26.11.23), 1 day ago) - These are my dotfiles. There are many like &#39;em, but these are mine.
-- [ivuorinen/gh-history](https://github.com/ivuorinen/gh-history) ([2026.11.2](https://github.com/ivuorinen/gh-history/releases/tag/2026.11.2), 2 days ago) - GitHub CLI history command
-- [ivuorinen/f2b](https://github.com/ivuorinen/f2b) ([v0.1.0](https://github.com/ivuorinen/f2b/releases/tag/v0.1.0), 4 days ago) - A modern, secure, and extensible Go CLI tool for managing Fail2Ban jails and bans
+- [ivuorinen/actions](https://github.com/ivuorinen/actions) ([v2026.11.24](https://github.com/ivuorinen/actions/releases/tag/v2026.11.24), 1 day ago) - a collection of reusable GitHub Actions designed to streamline CI/CD processes and ensure code quality
+- [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) ([26.11.24](https://github.com/ivuorinen/dotfiles/releases/tag/26.11.24), 1 day ago) - These are my dotfiles. There are many like &#39;em, but these are mine.
+- [ivuorinen/gh-history](https://github.com/ivuorinen/gh-history) ([2026.11.2](https://github.com/ivuorinen/gh-history/releases/tag/2026.11.2), 3 days ago) - GitHub CLI history command
+- [ivuorinen/f2b](https://github.com/ivuorinen/f2b) ([v0.1.0](https://github.com/ivuorinen/f2b/releases/tag/v0.1.0), 5 days ago) - A modern, secure, and extensible Go CLI tool for managing Fail2Ban jails and bans
 - [ivuorinen/obsidian-gh-projects](https://github.com/ivuorinen/obsidian-gh-projects) ([2026.11.3](https://github.com/ivuorinen/obsidian-gh-projects/releases/tag/2026.11.3), 1 week ago) - [WIP] Obsidian.md plugin for GitHub projects listing. Optimized for Base listing.
 
 #### ⭐ Recent Stars
 
-- [anthonychaussin/DriveClient](https://github.com/anthonychaussin/DriveClient) - kDriveClient is a modern C# SDK to simplify file upload and download with Infomaniak kDrive API (3 days ago)
-- [eikowagenknecht/lootscraper](https://github.com/eikowagenknecht/lootscraper) - RSS feeds, Discord and Telegram bot for free game and loot offers. Supports Steam, Epic, Amazon Games, GOG, Humble and more. (4 days ago)
+- [anthonychaussin/DriveClient](https://github.com/anthonychaussin/DriveClient) - kDriveClient is a modern C# SDK to simplify file upload and download with Infomaniak kDrive API (4 days ago)
+- [eikowagenknecht/lootscraper](https://github.com/eikowagenknecht/lootscraper) - RSS feeds, Discord and Telegram bot for free game and loot offers. Supports Steam, Epic, Amazon Games, GOG, Humble and more. (5 days ago)
 - [ivuorinen/sysvinit-service-generator](https://github.com/ivuorinen/sysvinit-service-generator) - Vue 3 app for creating sysvinit service scripts (1 week ago)
 - [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) - AI Observability &amp; Evaluation (1 week ago)
 - [mogenson/PaperWM.spoon](https://github.com/mogenson/PaperWM.spoon) - Tiled scrollable window manager for MacOS (1 week ago)
