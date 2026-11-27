@@ -8,11 +8,11 @@ I'm also a huge fan of open-source, and I try to contribute back to the communit
 
 #### 👷 Check out what I'm currently working on
 
-- [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) - These are my dotfiles. There are many like &#39;em, but these are mine. (today)
-- [ivuorinen/actions](https://github.com/ivuorinen/actions) - a collection of reusable GitHub Actions designed to streamline CI/CD processes and ensure code quality (today)
+- [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) - These are my dotfiles. There are many like &#39;em, but these are mine. (1 day ago)
 - [ivuorinen/cheatsheet-tldr](https://github.com/ivuorinen/cheatsheet-tldr) - tldr-pages/tldr pages for cheat/cheat (1 day ago)
-- [ivuorinen/davdrive](https://github.com/ivuorinen/davdrive) - `davdrive` serves the share as NFSv4 on 127.0.0.1 and mounts that with the operating system&#39;s own NFS client. (1 day ago)
 - [ivuorinen/starred](https://github.com/ivuorinen/starred) - Automatically updated list of my starred repos. (1 day ago)
+- [ivuorinen/actions](https://github.com/ivuorinen/actions) - a collection of reusable GitHub Actions designed to streamline CI/CD processes and ensure code quality (1 day ago)
+- [ivuorinen/docker-xmrig](https://github.com/ivuorinen/docker-xmrig) - This is a simple miner that uses the xmrig miner to mine Monero. (1 day ago)
 
 #### 👨‍💻 Repositories I created recently
 
@@ -24,19 +24,19 @@ I'm also a huge fan of open-source, and I try to contribute back to the communit
 
 #### 🚀 Latest releases I've contributed to
 
-- [ivuorinen/actions](https://github.com/ivuorinen/actions) ([v2026.11.25](https://github.com/ivuorinen/actions/releases/tag/v2026.11.25), 1 day ago) - a collection of reusable GitHub Actions designed to streamline CI/CD processes and ensure code quality
-- [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) ([26.11.25](https://github.com/ivuorinen/dotfiles/releases/tag/26.11.25), 1 day ago) - These are my dotfiles. There are many like &#39;em, but these are mine.
-- [ivuorinen/gh-history](https://github.com/ivuorinen/gh-history) ([2026.11.2](https://github.com/ivuorinen/gh-history/releases/tag/2026.11.2), 4 days ago) - GitHub CLI history command
-- [ivuorinen/f2b](https://github.com/ivuorinen/f2b) ([v0.1.0](https://github.com/ivuorinen/f2b/releases/tag/v0.1.0), 6 days ago) - A modern, secure, and extensible Go CLI tool for managing Fail2Ban jails and bans
-- [ivuorinen/obsidian-gh-projects](https://github.com/ivuorinen/obsidian-gh-projects) ([2026.11.3](https://github.com/ivuorinen/obsidian-gh-projects/releases/tag/2026.11.3), 1 week ago) - [WIP] Obsidian.md plugin for GitHub projects listing. Optimized for Base listing.
+- [ivuorinen/actions](https://github.com/ivuorinen/actions) ([v2026.11.26](https://github.com/ivuorinen/actions/releases/tag/v2026.11.26), 1 day ago) - a collection of reusable GitHub Actions designed to streamline CI/CD processes and ensure code quality
+- [ivuorinen/dotfiles](https://github.com/ivuorinen/dotfiles) ([26.11.26](https://github.com/ivuorinen/dotfiles/releases/tag/26.11.26), 1 day ago) - These are my dotfiles. There are many like &#39;em, but these are mine.
+- [ivuorinen/base-configs-semantic-release](https://github.com/ivuorinen/base-configs-semantic-release) ([v3.0.13](https://github.com/ivuorinen/base-configs-semantic-release/releases/tag/v3.0.13), 1 day ago) - ivuorinen&#39;s shareable configuration for semantic-release.
+- [ivuorinen/base-configs-eslint](https://github.com/ivuorinen/base-configs-eslint) ([v2.0.7](https://github.com/ivuorinen/base-configs-eslint/releases/tag/v2.0.7), 1 day ago) - ivuorinen&#39;s shareable configuration for ESLint.
+- [ivuorinen/base-configs-stylelint](https://github.com/ivuorinen/base-configs-stylelint) ([v1.4.16](https://github.com/ivuorinen/base-configs-stylelint/releases/tag/v1.4.16), 1 day ago) - ivuorinen&#39;s shareable configuration for stylelint.
 
 #### ⭐ Recent Stars
 
-- [ivuorinen/davdrive](https://github.com/ivuorinen/davdrive) - `davdrive` serves the share as NFSv4 on 127.0.0.1 and mounts that with the operating system&#39;s own NFS client. (1 day ago)
-- [anthonychaussin/DriveClient](https://github.com/anthonychaussin/DriveClient) - kDriveClient is a modern C# SDK to simplify file upload and download with Infomaniak kDrive API (5 days ago)
-- [eikowagenknecht/lootscraper](https://github.com/eikowagenknecht/lootscraper) - RSS feeds, Discord and Telegram bot for free game and loot offers. Supports Steam, Epic, Amazon Games, GOG, Humble and more. (6 days ago)
+- [anomalyco/spaceman](https://github.com/anomalyco/spaceman) - A macOS tiling window manager with stable logical windows (1 day ago)
+- [ivuorinen/davdrive](https://github.com/ivuorinen/davdrive) - `davdrive` serves the share as NFSv4 on 127.0.0.1 and mounts that with the operating system&#39;s own NFS client. (2 days ago)
+- [anthonychaussin/DriveClient](https://github.com/anthonychaussin/DriveClient) - kDriveClient is a modern C# SDK to simplify file upload and download with Infomaniak kDrive API (6 days ago)
+- [eikowagenknecht/lootscraper](https://github.com/eikowagenknecht/lootscraper) - RSS feeds, Discord and Telegram bot for free game and loot offers. Supports Steam, Epic, Amazon Games, GOG, Humble and more. (1 week ago)
 - [ivuorinen/sysvinit-service-generator](https://github.com/ivuorinen/sysvinit-service-generator) - Vue 3 app for creating sysvinit service scripts (1 week ago)
-- [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) - AI Observability &amp; Evaluation (1 week ago)
 
 
 
