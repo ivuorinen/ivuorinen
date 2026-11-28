@@ -30,7 +30,7 @@ jobs:
           reporter: github-pr-review
 
       - name: markdownlint
-        uses: reviewdog/action-markdownlint@35165bd1319a53e25f413032556f5f1fbfe6cb63 # v0.29.1
+        uses: reviewdog/action-markdownlint@16a84e29a125f2c98b1ce4bd8436ff8ffdd9da1c # v0.34.1
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           reporter: github-pr-review
